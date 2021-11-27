@@ -1,0 +1,81 @@
+{
+    "data": [
+        {
+            "firstData": {
+                "id": 1,
+                "name": "强力精灵",
+                "icon": "pveRewardMall_strengthPets",
+                "panelCls": ""
+            },
+            "childData": [
+                {
+                    "sid": 1,
+                    "name": "功勋精灵",
+                    "icon": "pveRewardMall_child_lab_gxPet",
+                    "panelCls": "GongxunPetView"
+                },
+                {
+                    "sid": 2,
+                    "name": "精灵王",
+                    "icon": "pveRewardMall_child_lab_KingPet",
+                    "panelCls": "ElevnKingPetView"
+                }
+            ]
+        },
+        {
+            "firstData": {
+                "id": 2,
+                "name": "全能刻印",
+                "icon": "pveRewardMall_marksBtn",
+                "panelCls": ""
+            },
+            "childData": [
+                {
+                    "sid": 1,
+                    "icon": "pveRewardMall_child_lab_gxMark",
+                    "name": "功勋刻印",
+                    "panelCls": "GongxunMarkView"
+                },
+                {
+                    "sid": 2,
+                    "icon": "pveRewardMall_child_lab_KingMark",
+                    "name": "精灵王刻印",
+                    "panelCls": "ElevnKingMarkView"
+                }
+            ]
+        },
+        {
+            "firstData": {
+                "id": 3,
+                "name": "珍贵道具",
+                "icon": "pveRewardMall_cultivationBtn",
+                "panelCls": ""
+            },
+            "childData": [
+                {
+                    "sid": 1,
+                    "icon": "pveRewardMall_cultivationBtn",
+                    "name": "功勋点数",
+                    "param": 11,
+                    "panelCls": "CultureItemsView"
+                },
+                {
+                    "sid": 2,
+                    "icon": "pveRewardMall_cultivationBtn",
+                    "param": 12,
+                    "name": "界神印记",
+                    "panelCls": "CultureItemsView"
+                }
+            ]
+        },
+        {
+            "firstData": {
+                "id": 4,
+                "name": "绝版成就",
+                "panelCls": "JuebanAchieveView",
+                "isLast": true
+            },
+            "childData": []
+        }
+    ]
+}

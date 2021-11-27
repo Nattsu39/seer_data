@@ -1,0 +1,2079 @@
+{
+    "root": {
+        "bitbufs": {},
+        "forevers": {
+            "id": 20050
+        },
+        "defaultMenu": {
+            "name": "热门",
+            "id": 0,
+            "subId": 0
+        },
+        "menu": [
+            {
+                "menu": [
+                    {
+                        "item": [
+                            {
+                                "name": "精灵满级特惠组合",
+                                "productID": 247297,
+                                "itemID": 1709057,
+                                "price": 128,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1,
+                                "excludeSearch": 1
+                            },
+                            {
+                                "name": "购买商城特性限时礼包",
+                                "productID": 251922,
+                                "itemID": 1714959,
+                                "price": 298,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1,
+                                "excludeSearch": 1
+                            },
+                            {
+                                "name": "速升极品礼包",
+                                "productID": 247680,
+                                "itemID": 1709505,
+                                "price": 328,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1,
+                                "excludeSearch": 1
+                            },
+                            {
+                                "name": "大富翁礼包",
+                                "productID": 247681,
+                                "itemID": 1709506,
+                                "price": 98,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1,
+                                "excludeSearch": 1
+                            },
+                            {
+                                "name": "购买每日抗性礼包",
+                                "productID": 258785,
+                                "itemID": 1723633,
+                                "price": 98,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1,
+                                "excludeSearch": 1
+                            },
+                            {
+                                "name": "购买每周抗性礼包",
+                                "productID": 247483,
+                                "itemID": 1709277,
+                                "price": 98,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1,
+                                "excludeSearch": 1
+                            }
+                        ],
+                        "name": "热门",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubAdHotView",
+                        "ad": "ad_hot"
+                    },
+                    {
+                        "name": "巅峰神宠",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubAdPetView",
+                        "ad": "ad_pet"
+                    },
+                    {
+                        "name": "新手道具",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopNewseeritemView",
+                        "ad": "ad_newseeritem"
+                    }
+                ],
+                "name": "最强推荐活动",
+                "id": 0,
+                "isContainBody": 0
+            },
+            {
+                "menu": {
+                    "item": [
+                        {
+                            "name": "索比斯",
+                            "productID": 250554,
+                            "itemID": 1713280,
+                            "price": 298,
+                            "vip": 1,
+                            "type": 24,
+                            "productType": -1,
+                            "exchangeId": 10215,
+                            "tip": 41,
+                            "MonsterID": 3118
+                        },
+                        {
+                            "name": "伶谣",
+                            "productID": 258786,
+                            "itemID": " 1723634 ",
+                            "price": 498,
+                            "vip": 1,
+                            "type": 24,
+                            "productType": -1,
+                            "exchangeId": 13353,
+                            "tip": 44,
+                            "MonsterID": 3461
+                        },
+                        {
+                            "name": "库贝萨隆",
+                            "productID": 258787,
+                            "itemID": " 1723635",
+                            "price": 398,
+                            "vip": 1,
+                            "type": 24,
+                            "productType": -1,
+                            "exchangeId": 13354,
+                            "tip": 45,
+                            "MonsterID": 3044
+                        },
+                        {
+                            "name": "六界神王",
+                            "productID": 250557,
+                            "itemID": 1713283,
+                            "price": 598,
+                            "vip": 1,
+                            "type": 24,
+                            "productType": -1,
+                            "exchangeId": 10218,
+                            "tip": 37,
+                            "MonsterID": 3045
+                        }
+                    ],
+                    "name": "热门推荐",
+                    "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                    "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_1",
+                    "pageSize": 4,
+                    "countID": "0x05212052"
+                },
+                "name": "热门精灵",
+                "id": 1,
+                "isContainBody": 0
+            },
+            {
+                "menu": [
+                    {
+                        "item": [
+                            {
+                                "name": "大型升级秘药S",
+                                "productID": 240149,
+                                "itemID": 300654,
+                                "price": 30,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1,
+                                "tip2": 1
+                            },
+                            {
+                                "name": "60级升级秘药",
+                                "productID": 240150,
+                                "itemID": 300655,
+                                "price": 20,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1,
+                                "tip2": 2
+                            },
+                            {
+                                "name": "购买100级升级秘药",
+                                "productID": 251038,
+                                "itemID": 1713886,
+                                "price": 60,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "精灵还原药剂",
+                                "productID": 240001,
+                                "itemID": 300024,
+                                "price": 5,
+                                "vip": 1,
+                                "type": 12,
+                                "productType": 0,
+                                "malldiscount": 1
+                            },
+                            {
+                                "name": "购买全能性格转化剂",
+                                "productID": 251039,
+                                "itemID": 1713887,
+                                "price": 65,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "全能学习力注入剂",
+                                "productID": 240145,
+                                "itemID": 300651,
+                                "price": 100,
+                                "vip": 1,
+                                "type": -1,
+                                "productType": 0,
+                                "malldiscount": 1
+                            },
+                            {
+                                "name": "特性开启晶片",
+                                "productID": 240037,
+                                "itemID": 300053,
+                                "price": 35,
+                                "vip": 1,
+                                "type": 12,
+                                "productType": 0,
+                                "malldiscount": 1
+                            },
+                            {
+                                "name": "特性重组剂",
+                                "productID": 240038,
+                                "itemID": 300054,
+                                "price": 25,
+                                "vip": 1,
+                                "type": 12,
+                                "productType": 0,
+                                "malldiscount": 1
+                            },
+                            {
+                                "name": "高级体力上限提升药剂",
+                                "productID": 240165,
+                                "itemID": 300667,
+                                "price": 40,
+                                "vip": 1,
+                                "type": -1,
+                                "productType": 0,
+                                "malldiscount": 1
+                            }
+                        ],
+                        "name": "人气推荐",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212051"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "泰坦神石",
+                                "productID": 247289,
+                                "itemID": 1706826,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "护佑神石",
+                                "productID": 247290,
+                                "itemID": 1706924,
+                                "price": 30,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "宽恕神石",
+                                "productID": 247291,
+                                "itemID": 1706925,
+                                "price": 30,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "轮回神石",
+                                "productID": 247292,
+                                "itemID": 1706926,
+                                "price": 60,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "红宝石",
+                                "productID": 247293,
+                                "itemID": 1706927,
+                                "price": 2,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "绿宝石",
+                                "productID": 247294,
+                                "itemID": 1706928,
+                                "price": 2,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            }
+                        ],
+                        "name": "抗性强化",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212051"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "60级升级秘药",
+                                "productID": 240150,
+                                "itemID": 300655,
+                                "price": 20,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "60级升级秘药折扣版",
+                                "productID": 240152,
+                                "itemID": 300657,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "购买100级升级秘药",
+                                "productID": 251038,
+                                "itemID": 1713886,
+                                "price": 60,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "中型升级秘药S",
+                                "productID": 240148,
+                                "itemID": 300653,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "小型升级秘药S",
+                                "productID": 240147,
+                                "itemID": 300652,
+                                "price": 3,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "自动战斗器S型",
+                                "productID": 240009,
+                                "itemID": 300028,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 13
+                            }
+                        ],
+                        "name": "快速升级",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212051"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "全能学习力注入剂",
+                                "productID": 240145,
+                                "itemID": 300651,
+                                "price": 150,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "购买全能学习力遗忘剂",
+                                "productID": 251040,
+                                "itemID": 1713888,
+                                "price": 60,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "学习力双倍仪",
+                                "productID": 240016,
+                                "itemID": 300035,
+                                "price": 10,
+                                "vip": 1,
+                                "type": 13,
+                                "productType": 0,
+                                "malldiscount": 1
+                            }
+                        ],
+                        "name": "学习力提升",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212052"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "特性开启晶片折扣版",
+                                "productID": 240156,
+                                "itemID": 300661,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "特性开启晶片",
+                                "productID": 240037,
+                                "itemID": 300053,
+                                "price": 35,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 12
+                            },
+                            {
+                                "name": "高级体力上限提升药剂",
+                                "productID": 240165,
+                                "itemID": 300667,
+                                "price": 40,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "特性重组剂折扣版",
+                                "productID": 240157,
+                                "itemID": 300662,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "特性重组剂",
+                                "productID": 240038,
+                                "itemID": 300054,
+                                "price": 25,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 2,
+                                "type": 12
+                            },
+                            {
+                                "name": "天赋改造药剂",
+                                "productID": 240166,
+                                "itemID": 300668,
+                                "price": 10,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "精灵还原药剂折扣版",
+                                "productID": 240154,
+                                "itemID": 300659,
+                                "price": 2,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "精灵还原药剂",
+                                "productID": 240001,
+                                "itemID": 300024,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 2,
+                                "type": 12
+                            },
+                            {
+                                "name": "性格重塑胶囊",
+                                "productID": 240002,
+                                "itemID": 300025,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 2,
+                                "type": 12
+                            },
+                            {
+                                "name": "初级体力上限提升药剂",
+                                "productID": 240163,
+                                "itemID": 300665,
+                                "price": 20,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "中级体力上限提升药剂",
+                                "productID": 240164,
+                                "itemID": 300666,
+                                "price": 30,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            }
+                        ],
+                        "name": "极品强化",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212052"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "减伤能量珠",
+                                "productID": 240045,
+                                "itemID": 300060,
+                                "price": 16,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "致命能量珠折扣版",
+                                "productID": 240158,
+                                "itemID": 300663,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "致命能量珠",
+                                "productID": 240032,
+                                "itemID": 300050,
+                                "price": 16,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "特效防御能量珠",
+                                "productID": 240040,
+                                "itemID": 300055,
+                                "price": 6,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "特效特防能量珠",
+                                "productID": 240041,
+                                "itemID": 300056,
+                                "price": 6,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "特效攻击能量珠",
+                                "productID": 240042,
+                                "itemID": 300057,
+                                "price": 9,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "特效特攻能量珠",
+                                "productID": 240043,
+                                "itemID": 300058,
+                                "price": 9,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "特效速度能量珠",
+                                "productID": 240044,
+                                "itemID": 300059,
+                                "price": 12,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "王牌体力药剂折扣版",
+                                "productID": 240159,
+                                "itemID": 300664,
+                                "price": 1,
+                                "vip": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "王牌体力药剂",
+                                "productID": 240151,
+                                "itemID": 300656,
+                                "price": 3,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "敌方体力探测器",
+                                "productID": 240056,
+                                "itemID": 300062,
+                                "price": 5,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": 13
+                            },
+                            {
+                                "name": "超级体力药剂",
+                                "productID": 0,
+                                "itemID": 300014,
+                                "price": 200,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "高级体力药剂",
+                                "productID": 0,
+                                "itemID": 300013,
+                                "price": 80,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "中级体力药剂",
+                                "productID": 0,
+                                "itemID": 300012,
+                                "price": 50,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "中级活力药剂",
+                                "productID": 0,
+                                "itemID": 300017,
+                                "price": 80,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "普通时空捕捉胶囊",
+                                "productID": 240178,
+                                "itemID": 300507,
+                                "price": 20,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "无敌精灵胶囊折扣版",
+                                "productID": 240153,
+                                "itemID": 300658,
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 4,
+                                "type": -1
+                            },
+                            {
+                                "name": "无敌精灵胶囊",
+                                "productID": 240000,
+                                "itemID": 300006,
+                                "price": 50,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "时空精灵胶囊",
+                                "productID": 240026,
+                                "itemID": 300009,
+                                "price": 80,
+                                "vip": 1,
+                                "gold": 1,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "高级精灵胶囊",
+                                "productID": 0,
+                                "itemID": 300003,
+                                "price": 80,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 11
+                            },
+                            {
+                                "name": "中级精灵胶囊",
+                                "productID": 0,
+                                "itemID": 300002,
+                                "price": 80,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 11
+                            }
+                        ],
+                        "name": "辅助道具",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212051"
+                    }
+                ],
+                "name": "精灵强化",
+                "id": 2,
+                "isContainBody": 0
+            },
+            {
+                "menu": [
+                    {
+                        "item": [
+                            {
+                                "name": "火之狂野",
+                                "productID": 257206,
+                                "itemID": 1721690,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "海之浩瀚",
+                                "productID": 257207,
+                                "itemID": 1721691,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "光之辉煌",
+                                "productID": 257208,
+                                "itemID": 1721692,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "风之轻灵",
+                                "productID": 257209,
+                                "itemID": 1721693,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "冰之严寒",
+                                "productID": 257210,
+                                "itemID": 1721694,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "龙之狂猛",
+                                "productID": 257211,
+                                "itemID": 1721695,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秘之无踪",
+                                "productID": 257212,
+                                "itemID": 1721696,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "空之轨迹",
+                                "productID": 257213,
+                                "itemID": 1721697,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "钢之狂威",
+                                "productID": 257214,
+                                "itemID": 1721698,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "钢之不摧",
+                                "productID": 257215,
+                                "itemID": 1721699,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "钢之云霄",
+                                "productID": 257216,
+                                "itemID": 1721700,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "凡之净明",
+                                "productID": 257217,
+                                "itemID": 1721701,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "邪之灰烬",
+                                "productID": 257218,
+                                "itemID": 1721702,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "茵之不息",
+                                "productID": 257219,
+                                "itemID": 1721703,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "芳之无瑕",
+                                "productID": 257220,
+                                "itemID": 1721704,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "古之磐礴",
+                                "productID": 257221,
+                                "itemID": 1721705,
+                                "price": 238,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            }
+                        ],
+                        "name": "精灵王刻印",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212051"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "秩序•阴谋序章",
+                                "productID": 255595,
+                                "itemID": 1719506,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•堕入黑暗",
+                                "productID": 255596,
+                                "itemID": 1719507,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•罪恶迷途",
+                                "productID": 255597,
+                                "itemID": 1719508,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•硝烟弥漫",
+                                "productID": 255598,
+                                "itemID": 1719509,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•兽穷则啮",
+                                "productID": 255599,
+                                "itemID": 1719510,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•背水一战",
+                                "productID": 255600,
+                                "itemID": 1719511,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•光明再续",
+                                "productID": 255601,
+                                "itemID": 1719512,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "秩序•希望永驻",
+                                "productID": 255602,
+                                "itemID": 1719513,
+                                "price": 168,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            }
+                        ],
+                        "name": "秩序刻印",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212051"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "S级技能石",
+                                "productID": 242408,
+                                "itemID": 300405,
+                                "price": 100,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "A级技能石",
+                                "productID": 242409,
+                                "itemID": 300404,
+                                "price": 50,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "B级技能石",
+                                "productID": 242410,
+                                "itemID": 300403,
+                                "price": 30,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "C级技能石",
+                                "productID": 242411,
+                                "itemID": 300402,
+                                "price": 20,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            },
+                            {
+                                "name": "D级技能石",
+                                "productID": 242412,
+                                "itemID": 300401,
+                                "price": 10,
+                                "vip": 1,
+                                "type": 0,
+                                "productType": -1
+                            }
+                        ],
+                        "name": "技能石",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                        "pageSize": 9,
+                        "countID": "0x05212052"
+                    }
+                ],
+                "name": "精灵刻印",
+                "id": 3,
+                "isContainBody": 0
+            },
+            {
+                "menu": {
+                    "item": [
+                        {
+                            "name": "精灵速成黄金组合",
+                            "productID": 247295,
+                            "itemID": 1709055,
+                            "price": 559,
+                            "vip": 1,
+                            "type": 0,
+                            "productType": -1
+                        },
+                        {
+                            "name": "精灵速成白银组合",
+                            "productID": 247296,
+                            "itemID": 1709056,
+                            "price": 299,
+                            "vip": 1,
+                            "type": 0,
+                            "productType": -1
+                        },
+                        {
+                            "name": "瞬间满级特惠组合",
+                            "productID": 247297,
+                            "itemID": 1709057,
+                            "price": 128,
+                            "vip": 1,
+                            "type": 0,
+                            "productType": -1
+                        },
+                        {
+                            "name": "极品改造组合",
+                            "productID": 247298,
+                            "itemID": 1709058,
+                            "price": 239,
+                            "vip": 1,
+                            "type": 0,
+                            "productType": -1,
+                            "checkBuy": "v:0:2"
+                        },
+                        {
+                            "name": "泰坦之灵套组",
+                            "productID": 242421,
+                            "itemID": 1703488,
+                            "price": 200,
+                            "vip": 1,
+                            "type": 0,
+                            "productType": -1
+                        },
+                        {
+                            "name": "赛尔大富翁礼包",
+                            "productID": 240142,
+                            "itemID": 1200686,
+                            "price": 60,
+                            "vip": 1,
+                            "type": -1,
+                            "productType": 0,
+                            "malldiscount": 1
+                        }
+                    ],
+                    "name": "没有二级",
+                    "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                    "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_2",
+                    "pageSize": 9,
+                    "countID": "0x05212051"
+                },
+                "name": "特价礼包",
+                "id": 4,
+                "isContainBody": 0
+            },
+            {
+                "menu": [
+                    {
+                        "item": [
+                            {
+                                "name": "浴火之翼套装",
+                                "productID": 256261,
+                                "itemID": "1300744|1300745|1300746|1300747",
+                                "price": 398,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 1,
+                                "type": 26,
+                                "tip3": 11,
+                                "usenew": 48,
+                                "checkown": "1300744|1300745|1300746|1300747"
+                            },
+                            {
+                                "name": "银翼骑士套装",
+                                "productID": 255603,
+                                "itemID": "1300670|1300671|1300672|1300673",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 3,
+                                "type": 26,
+                                "tip3": 10,
+                                "usenew": 47,
+                                "checkown": "1300670|1300671|1300672|1300673"
+                            },
+                            {
+                                "name": "天虎战将套装",
+                                "productID": 257410,
+                                "itemID": "1300109|1300110|1300111|1300112",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26,
+                                "tip3": 1
+                            },
+                            {
+                                "name": "天霄",
+                                "productID": 257447,
+                                "itemID": 1300458,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1,
+                                "tip3": 9
+                            },
+                            {
+                                "name": "麒麟赐福套装",
+                                "productID": 257419,
+                                "itemID": "1300250|1300251|1300252|1300253",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26,
+                                "tip3": 8
+                            }
+                        ],
+                        "name": "热门推荐",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_1",
+                        "pageSize": 4,
+                        "countID": "0x0521205B"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "白马王子套装",
+                                "productID": 201289,
+                                "itemID": "1300446|1300447|1300448|1300449",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26,
+                                "checkown": "1300446|1300447|1300448|1300449"
+                            },
+                            {
+                                "name": "麒麟赐福套装",
+                                "productID": 257419,
+                                "itemID": "1300250|1300251|1300252|1300253",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "银翼猎手",
+                                "productID": 257384,
+                                "itemID": "100338|100339|100340|100341",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "遗忘者",
+                                "productID": 257400,
+                                "itemID": "100554|100555|100556|100557|100558",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "雪雷",
+                                "productID": 257401,
+                                "itemID": "100570|100571|100572|100573|100574",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "不灭",
+                                "productID": 257393,
+                                "itemID": "100458|100459|100460|100461|100462",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "机械队长套装",
+                                "productID": 257405,
+                                "itemID": "1300063|1300064|1300065|1300066",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "闪电之怒套装",
+                                "productID": 257406,
+                                "itemID": "1300073|1300074|1300075|1300076",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "蝙蝠战侠套装",
+                                "productID": 257411,
+                                "itemID": "1300121|1300122|1300123|1300124",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "闪光冰蓝",
+                                "productID": 257402,
+                                "itemID": "100822|100823|100824|100825|100826",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "破晓套装",
+                                "productID": 257403,
+                                "itemID": "100866|100867|100868|100869",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "百变魔术师套装",
+                                "productID": 257420,
+                                "itemID": "1300263|1300264|1300265|1300266",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "卫兵装",
+                                "productID": 257379,
+                                "itemID": "100033|100034|100035",
+                                "price": 6.2,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "迁跃者",
+                                "productID": 257391,
+                                "itemID": "100435|100436|100437|100438",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "蜘蛛战侠套装",
+                                "productID": 257413,
+                                "itemID": "1300126|1300127|1300128|1300129",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "火拳战士套装",
+                                "productID": 257432,
+                                "itemID": "1300300|1300301|1300302|1300303",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "大帝",
+                                "productID": 257395,
+                                "itemID": "100489|100490|100491|100492|100493",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "龙炎",
+                                "productID": 257397,
+                                "itemID": "100448|100449|100450|100451|100452",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "超人战侠套装",
+                                "productID": 257414,
+                                "itemID": "1300134|1300135|1300136|1300137",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "团战之王套装",
+                                "productID": 257415,
+                                "itemID": "1300178|1300179|1300180|1300181",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "天命",
+                                "productID": 257392,
+                                "itemID": "100453|100454|100455|100456|100457",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "托鲁克套装",
+                                "productID": 257416,
+                                "itemID": "1300220|1300221|1300222|1300223",
+                                "price": 5,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "无双",
+                                "productID": 257394,
+                                "itemID": "100484|100485|100486|100487|100488",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "防寒装",
+                                "productID": 257378,
+                                "itemID": "100087|100088|100089|100090|100091",
+                                "price": 10,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "碧蓝怒火",
+                                "productID": 257388,
+                                "itemID": "100399|100400|100401|100402",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "灰隼",
+                                "productID": 257386,
+                                "itemID": "100382|100383|100384|100385",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "光束战轮",
+                                "productID": 257382,
+                                "itemID": "100329|100330|100331|100332",
+                                "price": 10,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "幻影剑客套装",
+                                "productID": 257441,
+                                "itemID": "1300372|1300373|1300374|1300375",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "利爪机甲",
+                                "productID": 257377,
+                                "itemID": "100261|100262|100263|100264|100265",
+                                "price": 10,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "钢铁炮手套装",
+                                "productID": 257442,
+                                "itemID": "1300376|1300377|1300378|1300379",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "机甲龙骑士套装",
+                                "productID": 257422,
+                                "itemID": "1300288|1300289|1300290|1300291",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "熊猫战将套装",
+                                "productID": 257421,
+                                "itemID": "1300284|1300285|1300286|1300287",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "锡蝶套装M",
+                                "productID": 200855,
+                                "itemID": "100350|100351|100352|100353",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": 26,
+                                "checkown": "100350|100351|100352|100353"
+                            },
+                            {
+                                "name": "爱丽丝套装M",
+                                "productID": 200853,
+                                "itemID": "100342|100343|100344|100345",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": 26,
+                                "checkown": "100342|100343|100344|100345"
+                            },
+                            {
+                                "name": "童年回忆套装",
+                                "productID": 257435,
+                                "itemID": "1300306|1300307|1300308|1300309",
+                                "price": 8,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "恶灵铠甲套装",
+                                "productID": 257423,
+                                "itemID": "1300296|1300297|1300298|1300299",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "白鹰铠甲",
+                                "productID": 257436,
+                                "itemID": "1300318|1300319|1300320|1300321",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "金狮圣甲套装",
+                                "productID": 257437,
+                                "itemID": "1300322|1300323|1300324|1300325",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "钢铁战侠套装",
+                                "productID": 257404,
+                                "itemID": "1300058|1300059|1300060|1300061",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "哪咤套装",
+                                "productID": 257407,
+                                "itemID": "1300077|1300078|1300079|1300080",
+                                "price": 8,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "赤鹰",
+                                "productID": 257385,
+                                "itemID": "100378|100379|100380|100381",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "金色托鲁克套装",
+                                "productID": 257417,
+                                "itemID": "1300224|1300225|1300226|1300227",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "黑焰使徒",
+                                "productID": 257376,
+                                "itemID": "100255|100256|100257|100258|100259",
+                                "price": 10,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "刺蜂套装M",
+                                "productID": 200854,
+                                "itemID": "100346|100347|100348|100349",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": 26,
+                                "checkown": "100346|100347|100348|100349"
+                            }
+                        ],
+                        "name": "炫酷套装",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_1",
+                        "pageSize": 4,
+                        "countID": "0x05212059"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "浴火之翼套装",
+                                "productID": 256261,
+                                "itemID": "1300744|1300745|1300746|1300747",
+                                "price": 398,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 1,
+                                "type": 26,
+                                "tip3": 11,
+                                "usenew": 48,
+                                "checkown": "1300744|1300745|1300746|1300747"
+                            },
+                            {
+                                "name": "银翼骑士套装",
+                                "productID": 255603,
+                                "itemID": "1300670|1300671|1300672|1300673",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 3,
+                                "type": 26,
+                                "tip3": 10,
+                                "usenew": 47,
+                                "checkown": "1300670|1300671|1300672|1300673"
+                            },
+                            {
+                                "name": "火云",
+                                "productID": 257446,
+                                "itemID": "1300454|1300455|1300456|1300457",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26,
+                                "tip3": 3
+                            },
+                            {
+                                "name": "魔神恐惧套装",
+                                "productID": 257444,
+                                "itemID": "1300425|1300426|1300427|1300428",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26,
+                                "tip3": 6
+                            },
+                            {
+                                "name": "御龙战甲",
+                                "productID": 257443,
+                                "itemID": "1300401|1300402|1300403|1300404",
+                                "price": 20,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "type": 26,
+                                "productType": 2,
+                                "tip3": 7
+                            },
+                            {
+                                "name": "天虎战将套装",
+                                "productID": 257410,
+                                "itemID": "1300109|1300110|1300111|1300112",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26,
+                                "tip3": 1
+                            },
+                            {
+                                "name": "伯爵战将套装",
+                                "productID": 257409,
+                                "itemID": "1300087|1300088|1300089|1300090",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26,
+                                "tip3": 4
+                            },
+                            {
+                                "name": "黄蜂套装",
+                                "productID": 257408,
+                                "itemID": "1300083|1300084|1300085|1300086",
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26,
+                                "tip3": 5
+                            },
+                            {
+                                "name": "后羿战甲套装",
+                                "productID": 257438,
+                                "itemID": "1300326|1300327|1300328|1300329",
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26,
+                                "tip3": 4
+                            }
+                        ],
+                        "name": "能力加成套装",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_1",
+                        "pageSize": 4,
+                        "countID": "0x05212059"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "创世纪",
+                                "productID": 257390,
+                                "itemID": "100431|100432|100433|100434",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "深雷",
+                                "productID": 257389,
+                                "itemID": "100403|100404|100405|100406",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "黑月",
+                                "productID": 257399,
+                                "itemID": "100549|100550|100551|100552|100553",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "钢特拉",
+                                "productID": 257380,
+                                "itemID": "100306|100307|100308|100309|100310",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "强袭战虎",
+                                "productID": 257398,
+                                "itemID": "100531|100532|100533|100534|100535",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "奥金之锤",
+                                "productID": 257381,
+                                "itemID": "100311|100312|100313|100314|100315",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 2,
+                                "type": 26
+                            },
+                            {
+                                "name": "疾电",
+                                "productID": 257383,
+                                "itemID": "100334|100335|100336|100337",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "诺曼底",
+                                "productID": 257387,
+                                "itemID": "100387|100388|100389|100390",
+                                "price": 12,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            },
+                            {
+                                "name": "毒刺",
+                                "productID": 257396,
+                                "itemID": "100494|100495|100496|100497|100498",
+                                "price": 15,
+                                "vip": 0.5,
+                                "gold": 0,
+                                "productType": 0,
+                                "type": 26
+                            }
+                        ],
+                        "name": "变形功能套装",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_1",
+                        "pageSize": 4,
+                        "countID": "0x05212059"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "强化体力腰带",
+                                "productID": 240052,
+                                "itemID": 100524,
+                                "price": 60,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "强化防御腰带",
+                                "productID": 240053,
+                                "itemID": 100525,
+                                "price": 60,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": 14
+                            },
+                            {
+                                "name": "强化特防腰带",
+                                "productID": 240054,
+                                "itemID": 100526,
+                                "price": 60,
+                                "vip": 1,
+                                "productType": 0,
+                                "type": 14
+                            }
+                        ],
+                        "name": "强化腰带",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_3",
+                        "pageSize": 9,
+                        "countID": "0x0521205A"
+                    },
+                    {
+                        "item": [
+                            {
+                                "name": "天霄",
+                                "productID": 257447,
+                                "itemID": 1300458,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "地球保卫者 流浪号",
+                                "productID": 257445,
+                                "itemID": 1300433,
+                                "price": 20,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1,
+                                "tip": "mount_new"
+                            },
+                            {
+                                "name": "黄金使者",
+                                "productID": 257412,
+                                "itemID": 1300125,
+                                "price": 20,
+                                "vip": 1,
+                                "productType": 1,
+                                "type": 27
+                            },
+                            {
+                                "name": "旋风天使",
+                                "productID": 201312091,
+                                "itemID": 1300082,
+                                "price": 5000000,
+                                "vip": 1,
+                                "coins": 2,
+                                "productType": 0,
+                                "type": 27
+                            },
+                            {
+                                "name": "战队荣耀机甲",
+                                "productID": 257426,
+                                "itemID": 1300068,
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "驯鹿雪橇车",
+                                "productID": 257418,
+                                "itemID": 1300229,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "红色闪电",
+                                "productID": 257424,
+                                "itemID": 1300067,
+                                "price": 0,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "普通型猎虎七号",
+                                "productID": 257428,
+                                "itemID": 1300106,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "机械战士大黄蜂",
+                                "productID": 257433,
+                                "itemID": 1300304,
+                                "price": 30,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1,
+                                "tip": "mount_new"
+                            },
+                            {
+                                "name": "闪光旋风天使",
+                                "productID": 257427,
+                                "itemID": 1300105,
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "豪华型猎虎七号B",
+                                "productID": 257430,
+                                "itemID": 1300108,
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "闪光红色闪电",
+                                "productID": 257425,
+                                "itemID": 1300081,
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "豪华型猎虎七号A",
+                                "productID": 257429,
+                                "itemID": 1300107,
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "正义军团战机",
+                                "productID": 257439,
+                                "itemID": 1300370,
+                                "price": 20,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1,
+                                "tip": "mount_new"
+                            },
+                            {
+                                "name": "梦幻南瓜车",
+                                "productID": 257431,
+                                "itemID": 1300174,
+                                "price": 10,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            },
+                            {
+                                "name": "恶魔傀儡战机",
+                                "productID": 257440,
+                                "itemID": 1300371,
+                                "price": 20,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1,
+                                "productType": 0
+                            },
+                            {
+                                "name": "蝙蝠战警座驾",
+                                "productID": 257434,
+                                "itemID": 1300305,
+                                "price": 15,
+                                "vip": 1,
+                                "gold": 0,
+                                "type": -1
+                            }
+                        ],
+                        "name": "赛尔座驾",
+                        "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                        "viewClass": "com.robot.module.app.newShop.view.ShopSubView3_1",
+                        "pageSize": 4,
+                        "countID": "0x0521205B"
+                    }
+                ],
+                "name": "赛尔套装",
+                "id": 5,
+                "isContainBody": 0
+            },
+            {
+                "menu": {
+                    "name": "商品搜索",
+                    "cls": "com.robot.module.app.newShop.vo.ShopSubMenuVo",
+                    "viewClass": "com.robot.module.app.newShop.view.ShopSearchView",
+                    "pageSize": 9
+                },
+                "name": "商品搜索"
+            }
+        ]
+    }
+}

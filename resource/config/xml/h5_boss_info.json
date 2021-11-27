@@ -1,0 +1,5676 @@
+{
+    "_declaration": {
+        "version": 1
+    },
+    "BossInfo": {
+        "Boss": [
+            {
+                "BossMon": {
+                    "MonID": 30,
+                    "Lv": 80,
+                    "Hp": 1500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "贝尔"
+                },
+                "Id": 300001,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 22,
+                    "Lv": 80,
+                    "Hp": 1500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "毛毛"
+                },
+                "Id": 300002,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 34,
+                    "Lv": 80,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "钢牙鲨",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300003,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 10,
+                    "Lv": 80,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "皮皮"
+                },
+                "Id": 300004,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 83,
+                    "Lv": 80,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "依依"
+                },
+                "Id": 300005,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 47,
+                    "Lv": 80,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "蘑菇怪",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300006,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 38,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "火炎贝",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300007,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 35,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "吉尔",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300008,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 42,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "里奥斯",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300009,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 23,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡洛",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300010,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 26,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈尔浮",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300011,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 69,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "提亚斯",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300012,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 13,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "比比鼠",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300013,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 286,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "闪光电击兔",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300014,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 70,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雷伊",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300015,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 91,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "悠悠",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300016,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1512,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "格利尔斯",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300017,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 88,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "纳多雷",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300018,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 119,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "莱尼",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300019,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 120,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "特鲁尼",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300020,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 113,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雷纳多",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300021,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 555,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "宾克",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300022,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 65,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "林克",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300023,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 50,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿克希亚",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300024,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 800,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "达普林",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300025,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1103,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卜卡",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300026,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 753,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克多尔",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300027,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 211,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "水草蛙",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300028,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 210,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "多鲁姆",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300029,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 855,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克莱芬",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300030,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1573,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "依兰特斯",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300031,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1297,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布鲁卡卡",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300032,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1061,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿加莎",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300033,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 240,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯内克",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300034,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 463,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "鲁格洛",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300035,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 132,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "尤纳斯",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300036,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3598,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "戈拉",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300037,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1578,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾迪斯诺",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300038,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 695,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "狄修斯",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300039,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 156,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "迪度",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300040,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 178,
+                    "Lv": 100,
+                    "Hp": 2000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "达比拉",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300041,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 187,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "魔狮迪露",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300042,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1821,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "米宝",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300043,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2663,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "玄小武",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300044,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3010,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "北冥·玄武",
+                    "NewSeIdxs": "2940 116 95"
+                },
+                "Id": 300045,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 34,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "钢牙鲨",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300046,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 47,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "蘑菇怪",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300047,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 42,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "里奥斯",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300048,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 69,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "提亚斯",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300049,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 70,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雷伊",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300050,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 88,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "纳多雷",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300051,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 113,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雷纳多",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300052,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 50,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿克希亚",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300053,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 753,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克多尔",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300054,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 855,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克莱芬",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300055,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1061,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿加莎",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300056,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 132,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "尤纳斯",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300057,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 695,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "狄修斯",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300058,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 187,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "魔狮迪露",
+                    "NewSeIdxs": "2934 2940 116 95"
+                },
+                "Id": 300059,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3010,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.500 1.500 1.500 1.500 1.000",
+                    "Name": "北冥·玄武",
+                    "NewSeIdxs": "2934 2940 116 113"
+                },
+                "Id": 300060,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3010,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "北冥·玄武",
+                    "NewSeIdxs": "2934 2320 3181 1832 1754 3099 1536"
+                },
+                "Id": 300061,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 69,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "提亚斯",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300062,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 69,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "提亚斯",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300063,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 753,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克多尔",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300064,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 753,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克多尔",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300065,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 695,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "狄修斯",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300066,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 695,
+                    "Lv": 100,
+                    "Hp": 2500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "狄修斯",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300067,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 235,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "米隆",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300068,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 228,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "查斯",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300069,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1521,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克鲁斯",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300070,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 232,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊娃",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300071,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 234,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊娅丝",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300072,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 421,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "厄尔塞拉",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300073,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 291,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "弗曼",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300074,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1381,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "托德",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300075,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2705,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "鲁比豪克",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300076,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1532,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "闪光迈瑞恩",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300077,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1379,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿曼尼",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300078,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1947,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "古德奈特",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300079,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1742,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "多科特",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300080,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1782,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "希普勒",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300081,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2094,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "普尔扎",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300082,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 96,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "尼斯克",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300083,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1564,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "玛斯卡",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300084,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1841,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾迪尔",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300085,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1586,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德罗西",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300086,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1003,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "戈登",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300087,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1045,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "瑞尔斯",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300088,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1635,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "泰古拉",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300089,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2628,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "泰灵",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300090,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1633,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "缪斯",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300091,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 399,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "萨拉",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300092,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1546,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布欧斯",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300093,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 216,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈莫雷特",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300094,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 266,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "帕格尼尼",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300095,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 646,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "佩希",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300096,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 264,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奈尼芬多",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300097,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1871,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德尔",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300098,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1538,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "吉尔加美",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300099,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1923,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雅库布",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300100,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2062,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "比森",
+                    "NewSeIdxs": 2934
+                },
+                "Id": 300101,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1679,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "短尾妖狐",
+                    "NewSeIdxs": "2934 116"
+                },
+                "Id": 300102,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 396,
+                    "Lv": 100,
+                    "Hp": 3000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "龙须蝴",
+                    "NewSeIdxs": "2934 116 95"
+                },
+                "Id": 300103,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 318,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡鲁克斯",
+                    "NewSeIdxs": "2940 116 113"
+                },
+                "Id": 300104,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2643,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "青小龙",
+                    "NewSeIdxs": "2940 116 113 1319"
+                },
+                "Id": 300105,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2545,
+                    "Lv": 100,
+                    "Hp": 3500,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.200",
+                    "Name": "苍魂·青龙",
+                    "NewSeIdxs": "2940 116 113 1319"
+                },
+                "Id": 300106,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1521,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克鲁斯",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300107,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 421,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "厄尔塞拉",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300108,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2705,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "鲁比豪克",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300109,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1947,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "古德奈特",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300110,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2094,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "普尔扎",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300111,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1841,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾迪尔",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300112,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1045,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "瑞尔斯",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300113,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1633,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "缪斯",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300114,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 216,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈莫雷特",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300115,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 264,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奈尼芬多",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300116,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1923,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雅库布",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300117,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 396,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "龙须蝴",
+                    "NewSeIdxs": "2965 2934 116 95"
+                },
+                "Id": 300118,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2545,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.500 1.500 1.500 1.500 1.500",
+                    "Name": "苍魂·青龙",
+                    "NewSeIdxs": "2965 2934 116 113 1319"
+                },
+                "Id": 300119,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2545,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "苍魂·青龙",
+                    "NewSeIdxs": "2934 2320  1832 1754 3099 1536 3271"
+                },
+                "Id": 300120,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1947,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "古德奈特",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300121,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1947,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "古德奈特",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300122,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1633,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "缪斯",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300123,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1633,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "缪斯",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300124,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 396,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "龙须蝴",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300125,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 396,
+                    "Lv": 100,
+                    "Hp": 4000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "龙须蝴",
+                    "NewSeIdxs": "2934 116 95 3197"
+                },
+                "Id": 300126,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20200828 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 874,
+                    "Lv": 80,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "吉娜斯",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300127,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 876,
+                    "Lv": 80,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "比巴卜",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300128,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 493,
+                    "Lv": 80,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克洛洛特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300129,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1679,
+                    "Lv": 80,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "短尾妖狐",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300130,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1832,
+                    "Lv": 80,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "佩尔",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300131,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 538,
+                    "Lv": 80,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克拉尼特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300132,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 553,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "丫丫",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300133,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 554,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "远古甲虫",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300134,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 587,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "墨杜萨",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300135,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 463,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "鲁格洛",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300136,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 941,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "维克",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300137,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1892,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿索卡",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300138,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1512,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "格利尔斯",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300139,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 574,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克里",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300140,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1964,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德拉蒙",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300141,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 494,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡丹",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300142,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1444,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "安科",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300143,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2263,
+                    "Lv": 100,
+                    "Hp": 4500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊森特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300144,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 692,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "扶来",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300145,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 690,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "泰达",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300146,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2602,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "暗黑球球",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300147,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 557,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "波伦",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300148,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1329,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "罗伊",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300149,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 559,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "波尼斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300150,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 987,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "肯迪尔",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300151,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1897,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "肯扎德",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300152,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 672,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "亚伦斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300153,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1251,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾诺",
+                    "AddNewSeIds": "2934 116"
+                },
+                "Id": 300154,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1433,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "约兰登",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300155,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 617,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "肯佩德",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300156,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2653,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "白小虎",
+                    "AddNewSeIds": "2934 116 95 2824"
+                },
+                "Id": 300157,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2029,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雪团",
+                    "AddNewSeIds": "2934 116 113 2824"
+                },
+                "Id": 300158,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2581,
+                    "Lv": 100,
+                    "Hp": 5000,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "天尊·白虎",
+                    "AddNewSeIds": "2934 102 113 2824"
+                },
+                "Id": 300159,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 493,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克洛洛特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300160,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 538,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克拉尼特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300161,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 587,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "墨杜萨",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300162,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1892,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿索卡",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300163,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1964,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德拉蒙",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300164,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2263,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊森特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300165,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2602,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "暗黑球球",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300166,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 559,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "波尼斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300167,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 672,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "亚伦斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300168,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 617,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "肯佩德",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300169,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2581,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "天尊·白虎",
+                    "AddNewSeIds": "2934 102 113 2824"
+                },
+                "Id": 300170,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2581,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "天尊·白虎",
+                    "AddNewSeIds": "2934 2320 1832 98 1754 2505 2433"
+                },
+                "Id": 300171,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1892,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿索卡",
+                    "AddNewSeIds": "2934 116 113 329"
+                },
+                "Id": 300172,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1892,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿索卡",
+                    "AddNewSeIds": "2934 116 113 329"
+                },
+                "Id": 300173,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 559,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "波尼斯",
+                    "AddNewSeIds": "2934 116 113 329"
+                },
+                "Id": 300174,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 559,
+                    "Lv": 100,
+                    "Hp": 5500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "波尼斯",
+                    "AddNewSeIds": "2934 116 113 329"
+                },
+                "Id": 300175,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210122 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 679,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "果然草莓多",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300176,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 685,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "果然葡萄多",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300177,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 804,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "迪符特",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300178,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 707,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "巧克利",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300179,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 768,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "多格雅",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300180,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 957,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "米诺斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300181,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 886,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡迪达克",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300182,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 894,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾斯特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300183,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 765,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "依洛克",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300184,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 733,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾里蒙特",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300185,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 728,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "马力",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300186,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1723,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "安奈美",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300187,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 549,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "妮洛娜",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300188,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1000,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥尔德",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300189,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2023,
+                    "Lv": 100,
+                    "Hp": 6000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "潘多斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300190,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 844,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伏地兽",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300191,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 806,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "大耳吉嘟",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300192,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2763,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "黑暗三角兽",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300193,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 815,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "达瑞丽",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300194,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 570,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克拉肯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300195,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 997,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "皮特萨罗",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300196,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 739,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈德萨",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300197,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 743,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "丽萨克",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300198,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1012,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "暗夜冰狐",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300199,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 858,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "佐洛",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300200,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 857,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布尔德",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300201,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 863,
+                    "Lv": 100,
+                    "Hp": 6500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "烈火雀",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300202,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 841,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斑点牛",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300203,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 853,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "蒙米克",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300204,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 892,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克米特",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300205,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 595,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡洛达斯",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300206,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1475,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "梅诺西",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300207,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1189,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉莫德斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300208,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 962,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奈哲尔",
+                    "AddNewSeIds": "2934 116 95"
+                },
+                "Id": 300209,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 965,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奈尼尔",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300210,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1029,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "马西莫斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300211,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2634,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "朱小雀",
+                    "AddNewSeIds": "2934 116 113 2629"
+                },
+                "Id": 300212,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 856,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "潘达",
+                    "AddNewSeIds": "2934 102 115 2629"
+                },
+                "Id": 300213,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2676,
+                    "Lv": 100,
+                    "Hp": 7000,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "炽凰·朱雀",
+                    "AddNewSeIds": "2934 102 104 2629"
+                },
+                "Id": 300214,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 804,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "迪符特",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300215,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 957,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "米诺斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300216,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 765,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "依洛克",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300217,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1723,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "安奈美",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300218,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2023,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "潘多斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300219,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2763,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "黑暗三角兽",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300220,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 997,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "皮特萨罗",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300221,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1012,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "暗夜冰狐",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300222,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 863,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "烈火雀",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300223,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 892,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克米特",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300224,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1189,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉莫德斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300225,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1029,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "马西莫斯",
+                    "AddNewSeIds": "2934 102 115"
+                },
+                "Id": 300226,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2676,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "炽凰·朱雀",
+                    "AddNewSeIds": "2934 102 104 2629"
+                },
+                "Id": 300227,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2676,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "炽凰·朱雀",
+                    "AddNewSeIds": "2934 2320 1832 98 1754 2433"
+                },
+                "Id": 300228,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1723,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "安奈美",
+                    "AddNewSeIds": "2934 102 115 2956"
+                },
+                "Id": 300229,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1723,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "安奈美",
+                    "AddNewSeIds": "2934 102 115 2956"
+                },
+                "Id": 300230,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1012,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "暗夜冰狐",
+                    "AddNewSeIds": "2934 102 115 2956"
+                },
+                "Id": 300231,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1012,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "暗夜冰狐",
+                    "AddNewSeIds": "2934 102 115 2956"
+                },
+                "Id": 300232,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1189,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉莫德斯",
+                    "AddNewSeIds": "2934 102 115 2956"
+                },
+                "Id": 300233,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1189,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉莫德斯",
+                    "AddNewSeIds": "2934 102 115 2956"
+                },
+                "Id": 300234,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210319 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1387,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "加里斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300235,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 808,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾蒂森",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300236,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1412,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉摩斯",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300237,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1272,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "荧光草",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300238,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1966,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "诺狄拉",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300239,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1569,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "达蒙特",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300240,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1270,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "霍吉斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300241,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1336,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "尤尼卡",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300242,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1598,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "里弗斯",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300243,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 751,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "珠儿鸟",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300244,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 936,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "罗亚",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300245,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2151,
+                    "Lv": 100,
+                    "Hp": 7500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "加尔鲁什",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300246,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1375,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "佐梅斯",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300247,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 765,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "依洛克",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300248,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1354,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯克鲁",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300249,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1113,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "森普特",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300250,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1663,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯拉达",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300251,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1131,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "凯洛亚",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300252,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1245,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "杰莫尔",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300253,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 668,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "普拉顿",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300254,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1240,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克伦曼尔",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300255,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1091,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "吉拉克",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300256,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1095,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉列尼",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300257,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1085,
+                    "Lv": 100,
+                    "Hp": 8000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "兰斯特",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300258,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 15,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "天雷鼠",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300259,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1057,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "怪怪岩",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300260,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1147,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡伦尼",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300261,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1177,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "芙兰希儿",
+                    "AddNewSeIds": "2934 116 113"
+                },
+                "Id": 300262,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1860,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "尤尼萨",
+                    "AddNewSeIds": "2934 116 115"
+                },
+                "Id": 300263,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1418,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "库里",
+                    "AddNewSeIds": "2934 102 104"
+                },
+                "Id": 300264,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3577,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "光之惩戒·英卡洛斯",
+                    "AddNewSeIds": "2934 116 115 2629"
+                },
+                "Id": 300265,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3580,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "诅咒之神·狄修",
+                    "AddNewSeIds": "2934 102 104 2629"
+                },
+                "Id": 300266,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3310,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "天火麒麟",
+                    "AddNewSeIds": "2934 2805 222 2629"
+                },
+                "Id": 300267,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1412,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉摩斯",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300268,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1569,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "达蒙特",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300269,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1598,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "里弗斯",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300270,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2151,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "加尔鲁什",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300271,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1354,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯克鲁",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300272,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1131,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "凯洛亚",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300273,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1240,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "克伦曼尔",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300274,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1085,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "兰斯特",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300275,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1147,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡伦尼",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300276,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1418,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "库里",
+                    "AddNewSeIds": "2934 102 104 3070"
+                },
+                "Id": 300277,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3310,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "天火麒麟",
+                    "AddNewSeIds": "2934 2805 222 2629"
+                },
+                "Id": 300278,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3310,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "天火麒麟",
+                    "AddNewSeIds": "2934 2320 1832 1599 1754 2433"
+                },
+                "Id": 300279,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2151,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "加尔鲁什",
+                    "AddNewSeIds": "2934 102 104 9"
+                },
+                "Id": 300280,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2151,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "加尔鲁什",
+                    "AddNewSeIds": "2934 102 104 9"
+                },
+                "Id": 300281,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1085,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "兰斯特",
+                    "AddNewSeIds": "2934 102 104 9"
+                },
+                "Id": 300282,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1085,
+                    "Lv": 100,
+                    "Hp": 8500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "兰斯特",
+                    "AddNewSeIds": "2934 102 104 9"
+                },
+                "Id": 300283,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210423 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1158,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "彩翼蝶",
+                    "AddNewSeIds": "2934 116 113 5"
+                },
+                "Id": 300284,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1210,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "道格",
+                    "AddNewSeIds": "2934 116 115 5"
+                },
+                "Id": 300285,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2228,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "史莱姆国王",
+                    "AddNewSeIds": "2934 102 104 5"
+                },
+                "Id": 300286,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1059,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "莫弗克",
+                    "AddNewSeIds": "2934 116 113 5"
+                },
+                "Id": 300287,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 525,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "咕咕果",
+                    "AddNewSeIds": "2934 116 115 5"
+                },
+                "Id": 300288,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2257,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "创世兵魂",
+                    "AddNewSeIds": "2934 102 104 5"
+                },
+                "Id": 300289,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2060,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "莫西尼",
+                    "AddNewSeIds": "2934 116 113 5"
+                },
+                "Id": 300290,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 728,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "马力",
+                    "AddNewSeIds": "2934 116 115 5"
+                },
+                "Id": 300291,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2325,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "地狱兽",
+                    "AddNewSeIds": "2934 102 104 5"
+                },
+                "Id": 300292,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2163,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "金斯特",
+                    "AddNewSeIds": "2934 116 113 5"
+                },
+                "Id": 300293,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2132,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "特兰西",
+                    "AddNewSeIds": "2934 116 115 5"
+                },
+                "Id": 300294,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2190,
+                    "Lv": 100,
+                    "Hp": 9000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉塞尔",
+                    "AddNewSeIds": "2934 102 104 5"
+                },
+                "Id": 300295,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 138,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "洛比特",
+                    "AddNewSeIds": "2934 116 113 5"
+                },
+                "Id": 300296,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 280,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "沙罗希瓦",
+                    "AddNewSeIds": "2934 116 115 5"
+                },
+                "Id": 300297,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2455,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布鲁克",
+                    "AddNewSeIds": "2934 102 104 5"
+                },
+                "Id": 300298,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2051,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "艾迪卡利",
+                    "AddNewSeIds": "2934 116 113 5"
+                },
+                "Id": 300299,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2346,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥罗纳尔",
+                    "AddNewSeIds": "2934 116 115 5"
+                },
+                "Id": 300300,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2399,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "瓦里恩",
+                    "AddNewSeIds": "2934 102 104 5"
+                },
+                "Id": 300301,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2118,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿瑞波斯",
+                    "AddNewSeIds": "2934 116 115 2629 5"
+                },
+                "Id": 300302,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2146,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "阿洛纳斯",
+                    "AddNewSeIds": "2934 102 104 2629 5"
+                },
+                "Id": 300303,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2933,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "泰坦",
+                    "AddNewSeIds": "2934 2805 98 2629 6"
+                },
+                "Id": 300304,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2228,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "史莱姆国王",
+                    "AddNewSeIds": "2934 102 104 2639 5"
+                },
+                "Id": 300305,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2257,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "创世兵魂",
+                    "AddNewSeIds": "2934 102 104 3070 5"
+                },
+                "Id": 300306,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2325,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "地狱兽",
+                    "AddNewSeIds": "2934 102 104 3070 5"
+                },
+                "Id": 300307,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2190,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "拉塞尔",
+                    "AddNewSeIds": "2934 102 104 3070 5"
+                },
+                "Id": 300308,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2455,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布鲁克",
+                    "AddNewSeIds": "2934 102 104 3070 5"
+                },
+                "Id": 300309,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2399,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "瓦里恩",
+                    "AddNewSeIds": "2934 102 104 3070 5"
+                },
+                "Id": 300310,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2933,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "泰坦",
+                    "AddNewSeIds": "2934 2805 98 2629 6"
+                },
+                "Id": 300311,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2933,
+                    "Lv": 100,
+                    "Hp": 13000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "泰坦",
+                    "AddNewSeIds": "2934 2320 1832 1599 1754 2433"
+                },
+                "Id": 300312,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2325,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "地狱兽",
+                    "AddNewSeIds": "2934 102 104 9 2292"
+                },
+                "Id": 300313,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2325,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "地狱兽",
+                    "AddNewSeIds": "2934 102 104 9 2292"
+                },
+                "Id": 300314,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2399,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "瓦里恩",
+                    "AddNewSeIds": "2934 102 104 9 2292"
+                },
+                "Id": 300315,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2399,
+                    "Lv": 100,
+                    "Hp": 9500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "瓦里恩",
+                    "AddNewSeIds": "2934 102 104 9 2292"
+                },
+                "Id": 300316,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210625 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3654,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奎因",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300317,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3651,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "图加索",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300318,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 274,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "塔克林",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300319,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2866,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "赛伯斯塔",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300320,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3652,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "异星装甲·赛伯斯特",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300321,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 391,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "塔西亚",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300322,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3596,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "泰图",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300323,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3600,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "纳纳",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300324,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 798,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡修斯",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300325,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3604,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "柯尼",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300326,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3603,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "柯莫尼",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300327,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 875,
+                    "Lv": 100,
+                    "Hp": 10000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布莱克",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300328,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1649,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "尼萨雷斯",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300329,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3633,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "华特",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300330,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 715,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德拉萨",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300331,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3597,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "托雷戴尔",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300332,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3602,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊提亚",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300333,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 755,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯普林特",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300334,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3608,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "安妮尔",
+                    "AddNewSeIds": "2934 116 115 7"
+                },
+                "Id": 300335,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3609,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德拉诺",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300336,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 261,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "盖亚",
+                    "AddNewSeIds": "2934 102 222 7"
+                },
+                "Id": 300337,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3620,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "琳",
+                    "AddNewSeIds": "2934 116 104 2629 7"
+                },
+                "Id": 300338,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3618,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "埃拉辛姆",
+                    "AddNewSeIds": "2934 102 222 2629 7"
+                },
+                "Id": 300339,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3292,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "极厄·玄武",
+                    "AddNewSeIds": "2934 2805 98 2629 9"
+                },
+                "Id": 300340,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 274,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "塔克林",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300341,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 391,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "塔西亚",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300342,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 798,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡修斯",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300343,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 875,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "布莱克",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300344,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 715,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "德拉萨",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300345,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 755,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯普林特",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300346,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 261,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "盖亚",
+                    "AddNewSeIds": "2934 102 98 2824 7 329"
+                },
+                "Id": 300347,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3292,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "极厄·玄武",
+                    "AddNewSeIds": "2934 2805 98 2433 9"
+                },
+                "Id": 300348,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3292,
+                    "Lv": 100,
+                    "Hp": 14000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "极厄·玄武",
+                    "AddNewSeIds": "2934 2320 1832 1599 1754 2433 329 1498"
+                },
+                "Id": 300349,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 798,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡修斯",
+                    "AddNewSeIds": "2934 102 104 9 2292 1754"
+                },
+                "Id": 300350,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 798,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡修斯",
+                    "AddNewSeIds": "2934 102 104 9 2292 1754"
+                },
+                "Id": 300351,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 755,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯普林特",
+                    "AddNewSeIds": "2934 102 104 9 2292 1754"
+                },
+                "Id": 300352,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 755,
+                    "Lv": 100,
+                    "Hp": 10500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斯普林特",
+                    "AddNewSeIds": "2934 102 104 9 2292 1754"
+                },
+                "Id": 300353,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20210813 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3490,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "雷焰斗皇",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300354,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3493,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "摩洛克",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300355,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2656,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "蚀日",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300356,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2491,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王断空",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300357,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3492,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王·断空烈",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300358,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2171,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥特克伯",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300359,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2338,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "战皇",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300360,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3497,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "破军战皇",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300361,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2507,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斗魔旺乔",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300362,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2487,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王夜刃",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300363,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3496,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王·夜刃绝",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300364,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2058,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡尔玛",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300365,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2379,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "圣皇",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300366,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3510,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "煊耀圣皇",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300367,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1853,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈耶克",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300368,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2505,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王·苍月",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300369,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3507,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王·苍月影",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300370,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1667,
+                    "Lv": 100,
+                    "Hp": 11000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥德斯",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300371,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2366,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "影皇",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300372,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3502,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "黯穹影皇",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300373,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1477,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "弗希斯",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300374,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2503,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王破天",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300375,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3504,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "冥王·破天殇",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300376,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1453,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊索里",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300377,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3484,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥兰",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300378,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3494,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥斯兰",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300379,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1431,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "洛拉斯克",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300380,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3515,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "玄冥魂者·奥斯兰",
+                    "AddNewSeIds": "2934 116 104 7"
+                },
+                "Id": 300381,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3514,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "弑神猎皇",
+                    "AddNewSeIds": "2934 102 222 7 3070"
+                },
+                "Id": 300382,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3513,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈恩特",
+                    "AddNewSeIds": "2934 102 98 7 3070"
+                },
+                "Id": 300383,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3174,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "莱茵哈特",
+                    "AddNewSeIds": "2934 102 222 2433 7"
+                },
+                "Id": 300384,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3516,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "混沌地王莱茵哈特",
+                    "AddNewSeIds": "2934 102 98 2433 7"
+                },
+                "Id": 300385,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3282,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.200 1.200 1.200 1.200 1.000",
+                    "Name": "弑魂·青龙",
+                    "AddNewSeIds": "2934 2805 1599 2433 9"
+                },
+                "Id": 300386,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2656,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "蚀日",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300387,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2171,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥特克伯",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300388,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2507,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斗魔旺乔",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300389,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2058,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "卡尔玛",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300390,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1853,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈耶克",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300391,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1667,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥德斯",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300392,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1477,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "弗希斯",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300393,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1453,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "伊索里",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300394,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1431,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "洛拉斯克",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300395,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3513,
+                    "Lv": 100,
+                    "Hp": 11500,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "哈恩特",
+                    "AddNewSeIds": "2934 2805 98 2629 7 2835"
+                },
+                "Id": 300396,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3282,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "弑魂·青龙",
+                    "AddNewSeIds": "2934 2805 1599 2433 9 3024"
+                },
+                "Id": 300397,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 3282,
+                    "Lv": 100,
+                    "Hp": 15000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "弑魂·青龙",
+                    "AddNewSeIds": "2934 2320 1832 1599 1754 2433 3109 1498"
+                },
+                "Id": 300398,
+                "PkFlag": 1,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2507,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斗魔旺乔",
+                    "AddNewSeIds": "2934 2805 104 9 2292 1754 3128"
+                },
+                "Id": 300399,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 2507,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "斗魔旺乔",
+                    "AddNewSeIds": "2934 2805 104 9 2292 1754 3128"
+                },
+                "Id": 300400,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1667,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥德斯",
+                    "AddNewSeIds": "2934 2805 104 9 2292 1754 3128"
+                },
+                "Id": 300401,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1667,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "奥德斯",
+                    "AddNewSeIds": "2934 2805 104 9 2292 1754 3128"
+                },
+                "Id": 300402,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1431,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "洛拉斯克",
+                    "AddNewSeIds": "2934 2805 104 9 2292 1754 3128"
+                },
+                "Id": 300403,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            },
+            {
+                "BossMon": {
+                    "MonID": 1431,
+                    "Lv": 100,
+                    "Hp": 12000,
+                    "SetArgs": "1.000 1.000 1.000 1.000 1.000",
+                    "Name": "洛拉斯克",
+                    "AddNewSeIds": "2934 2805 104 9 2292 1754 3128"
+                },
+                "Id": 300404,
+                "AppearTime": "0 23",
+                "BossVisible": 0,
+                "Name": "20211022 SPTboss"
+            }
+        ]
+    }
+}

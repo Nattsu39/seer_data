@@ -1,0 +1,988 @@
+{
+    "_declaration": {
+        "version": 1,
+        "encoding": "UTF-8",
+        "standalone": "yes"
+    },
+    "Root": {
+        "petseries": [
+            {
+                "id": 1,
+                "Des": "三主宠"
+            },
+            {
+                "id": 2,
+                "Des": "三主宠进化"
+            },
+            {
+                "id": 3,
+                "Des": "王之战联"
+            },
+            {
+                "id": 4,
+                "Des": "圣·战神联盟"
+            },
+            {
+                "id": 5,
+                "Des": "精灵王"
+            },
+            {
+                "id": 6,
+                "Des": "精灵王进阶"
+            },
+            {
+                "id": 7,
+                "Des": "大暗黑天"
+            },
+            {
+                "id": 8,
+                "Des": "六大界神"
+            },
+            {
+                "id": 9,
+                "Des": "六大界皇"
+            },
+            {
+                "id": 10,
+                "Des": "环小队"
+            }
+        ],
+        "recommend": [
+            {
+                "ID": 1,
+                "MonsterID": 2220,
+                "ifshow": 0,
+                "Rarity": 2,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 1,
+                "petseries_id": 1,
+                "mouseClickFunc": "app:ThreePetRedoNewMainPanel"
+            },
+            {
+                "ID": 2,
+                "MonsterID": 2189,
+                "ifshow": 0,
+                "Rarity": 2,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 1,
+                "petseries_id": 1,
+                "mouseClickFunc": "app:ThreePetRedoNewMainPanel"
+            },
+            {
+                "ID": 3,
+                "MonsterID": 2221,
+                "ifshow": 0,
+                "Rarity": 2,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 1,
+                "petseries_id": 1,
+                "mouseClickFunc": "app:ThreePetRedoNewMainPanel"
+            },
+            {
+                "ID": 4,
+                "MonsterID": 2947,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 2,
+                "mouseClickFunc": "app:LuciusCompleteBodyMainPanel"
+            },
+            {
+                "ID": 5,
+                "MonsterID": 2966,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 2,
+                "mouseClickFunc": "app:MonaLisaCompleteBodyMainPanel"
+            },
+            {
+                "ID": 6,
+                "MonsterID": 2958,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 2,
+                "mouseClickFunc": "app:KingKongMainPanel"
+            },
+            {
+                "ID": 7,
+                "MonsterID": 3242,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 3,
+                "mouseClickFunc": "app:GaiyaBeKingMainPanel"
+            },
+            {
+                "ID": 9,
+                "MonsterID": 3170,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 3,
+                "mouseClickFunc": "app:BeKingofCassiusPanel"
+            },
+            {
+                "ID": 10,
+                "MonsterID": 3205,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 3,
+                "mouseClickFunc": "app:MiusiBecomeAKingMainPanel"
+            },
+            {
+                "ID": 11,
+                "MonsterID": 3142,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 3,
+                "mouseClickFunc": "app:ElectricalKingPanel"
+            },
+            {
+                "ID": 12,
+                "MonsterID": 3481,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 4,
+                "mouseClickFunc": "app:ShengzhanGaiyaMainPanel"
+            },
+            {
+                "ID": 13,
+                "MonsterID": 3539,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 4,
+                "mouseClickFunc": "app:ChaosBlackEvolvedMianPanel"
+            },
+            {
+                "ID": 14,
+                "MonsterID": 3568,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 3,
+                "petseries_id": 4,
+                "mouseClickFunc": "app:HolyLandCajasMainPanel"
+            },
+            {
+                "ID": 15,
+                "MonsterID": 3465,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 4,
+                "mouseClickFunc": "app:ShengtongmiusiMainPanel"
+            },
+            {
+                "ID": 16,
+                "MonsterID": 3406,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 4,
+                "mouseClickFunc": "app:ShengtingleiyiMainPanel"
+            },
+            {
+                "ID": 17,
+                "MonsterID": 2739,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 18,
+                "MonsterID": 2787,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 19,
+                "MonsterID": 3105,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 20,
+                "MonsterID": 3322,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 21,
+                "MonsterID": 2844,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 22,
+                "MonsterID": 3211,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 23,
+                "MonsterID": 2959,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 24,
+                "MonsterID": 3393,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 25,
+                "MonsterID": 2988,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 26,
+                "MonsterID": 3174,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 27,
+                "MonsterID": 3355,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 28,
+                "MonsterID": 3200,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 29,
+                "MonsterID": 3340,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 30,
+                "MonsterID": 3240,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 31,
+                "MonsterID": 3372,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 32,
+                "MonsterID": 3082,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 33,
+                "MonsterID": 3036,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 34,
+                "MonsterID": 3223,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 35,
+                "MonsterID": 3150,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 1,
+                "petseries_id": 5,
+                "mouseClickFunc": "app:PveElvenKingTrialMainPanel"
+            },
+            {
+                "ID": 36,
+                "MonsterID": 3467,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:AiensiMainPanel"
+            },
+            {
+                "ID": 37,
+                "MonsterID": 3456,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:HolyLightScarlettMainPanel"
+            },
+            {
+                "ID": 38,
+                "MonsterID": 3740,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:ChangLanCompleteMainPanel"
+            },
+            {
+                "ID": 39,
+                "MonsterID": 3613,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:MoleculeIntensificationMainPanel"
+            },
+            {
+                "ID": 40,
+                "MonsterID": 3886,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:ColderEvolutionMainPanel"
+            },
+            {
+                "ID": 41,
+                "MonsterID": 3529,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:HaiseweiEvoMainPanel"
+            },
+            {
+                "ID": 42,
+                "MonsterID": 3627,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:CiYuanWangStrengthensMainPanel"
+            },
+            {
+                "ID": 43,
+                "MonsterID": 3697,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:FlyingKingVansStrongMainPanel"
+            },
+            {
+                "ID": 44,
+                "MonsterID": 3734,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:HundunFanersiMainPanel"
+            },
+            {
+                "ID": 45,
+                "MonsterID": 3516,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:HunDunDiWangMainPanel"
+            },
+            {
+                "ID": 46,
+                "MonsterID": 3711,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:NaturalKingHolySpriteMainPanel"
+            },
+            {
+                "ID": 47,
+                "MonsterID": 3941,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:ChaosShadowSpiritKingMainPanel"
+            },
+            {
+                "ID": 48,
+                "MonsterID": 3807,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:OudelineiMainPanel"
+            },
+            {
+                "ID": 49,
+                "MonsterID": 3561,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:EvilKingMorganMainPanel"
+            },
+            {
+                "ID": 50,
+                "MonsterID": 4125,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:S56LieAoNiDaEvoMainPanel"
+            },
+            {
+                "ID": 51,
+                "MonsterID": 4186,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:S75SGQTLDMainPanel"
+            },
+            {
+                "ID": 52,
+                "MonsterID": 3994,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:S15KingOfElectricityRiotForm"
+            },
+            {
+                "ID": 53,
+                "MonsterID": 4004,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 6,
+                "mouseClickFunc": "app:S17AvatarOfTheKingOfElectricity"
+            },
+            {
+                "ID": 54,
+                "MonsterID": 3575,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 3,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:GodEvilDragonKingMainPanel"
+            },
+            {
+                "ID": 55,
+                "MonsterID": 3673,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 3,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:ChangLeaderMainPanel"
+            },
+            {
+                "ID": 56,
+                "MonsterID": 3665,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:ZakesCompleteMainPanel"
+            },
+            {
+                "ID": 57,
+                "MonsterID": 3214,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:WeisikeMainpanel"
+            },
+            {
+                "ID": 58,
+                "MonsterID": 3667,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:ChaosTianSheTiaZhuMainPanel"
+            },
+            {
+                "ID": 59,
+                "MonsterID": 3592,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:MingDiShuraCompletelyBodyMainPanel"
+            },
+            {
+                "ID": 60,
+                "MonsterID": 3554,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:FeiLiangCompleteMainPanel"
+            },
+            {
+                "ID": 61,
+                "MonsterID": 3217,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:EvilHadesMainPanel"
+            },
+            {
+                "ID": 62,
+                "MonsterID": 3679,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 7,
+                "mouseClickFunc": "app:FormerEldersMainPanel"
+            },
+            {
+                "ID": 63,
+                "MonsterID": 4037,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 8,
+                "mouseClickFunc": "app:S27TianXuanJieHuangEvoPanel"
+            },
+            {
+                "ID": 64,
+                "MonsterID": 4030,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 8,
+                "mouseClickFunc": "app:S25EvolutionOfTheEmperorOfTheVastSea"
+            },
+            {
+                "ID": 65,
+                "MonsterID": 4024,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 8,
+                "mouseClickFunc": "app:S22KingOfLandBurialSuperEvolution"
+            },
+            {
+                "ID": 66,
+                "MonsterID": 4048,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 8,
+                "mouseClickFunc": "app:S31GodOfPhantasmagoriaMainPanel"
+            },
+            {
+                "ID": 67,
+                "MonsterID": 4050,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 8,
+                "mouseClickFunc": "app:S30GodOfTimeAndSpaceMainPanel"
+            },
+            {
+                "ID": 68,
+                "MonsterID": 4075,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 8,
+                "mouseClickFunc": "app:S39ChaosWorldGodMainPanel"
+            },
+            {
+                "ID": 69,
+                "MonsterID": 3346,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 9,
+                "mouseClickFunc": "app:SkyMysteriousWangChaoEvolutionMainPanel"
+            },
+            {
+                "ID": 70,
+                "MonsterID": 3350,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 9,
+                "mouseClickFunc": "app:HanDynastyWangSuperEvoMainPanel"
+            },
+            {
+                "ID": 71,
+                "MonsterID": 3359,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 9,
+                "mouseClickFunc": "app:TheBurialOfTheKingChaoEvolutionMainPanel"
+            },
+            {
+                "ID": 72,
+                "MonsterID": 3367,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 9,
+                "mouseClickFunc": "app:ChaosSectorWangChaoEvolutionMainPanel"
+            },
+            {
+                "ID": 73,
+                "MonsterID": 3460,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 9,
+                "mouseClickFunc": "app:JiewangGetPanel"
+            },
+            {
+                "ID": 74,
+                "MonsterID": 3463,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 1,
+                "gaindifficulty": 2,
+                "petseries_id": 9,
+                "mouseClickFunc": "app:JiewangGetPanel"
+            },
+            {
+                "ID": 75,
+                "MonsterID": 4241,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 10,
+                "mouseClickFunc": "app:SpetHuanLingPanel"
+            },
+            {
+                "ID": 76,
+                "MonsterID": 4088,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 10,
+                "mouseClickFunc": "app:S43HuanShengmangMainPanel"
+            },
+            {
+                "ID": 77,
+                "MonsterID": 4072,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 10,
+                "mouseClickFunc": "app:S38HuanLongYiMainPanel"
+            },
+            {
+                "ID": 78,
+                "MonsterID": 4054,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 10,
+                "mouseClickFunc": "app:S32RingWoodHeartMainPanel"
+            },
+            {
+                "ID": 79,
+                "MonsterID": 4043,
+                "ifshow": 0,
+                "Rarity": 3,
+                "pettype": 2,
+                "gainperiod": 2,
+                "gaindifficulty": 2,
+                "petseries_id": 10,
+                "mouseClickFunc": "app:S29LoopEchoMainPanel"
+            },
+            {
+                "ID": 80,
+                "MonsterID": 5000,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "characteristic": 3,
+                "mouseClickFunc": "app:HolyPunnyMainPanel"
+            },
+            {
+                "ID": 81,
+                "MonsterID": 3414,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "characteristic": 3,
+                "mouseClickFunc": "app:SorensonCompleteMainPanel"
+            },
+            {
+                "ID": 82,
+                "MonsterID": 3577,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "characteristic": 2,
+                "mouseClickFunc": "app:PunishFormYinCarlosMainPanel"
+            },
+            {
+                "ID": 83,
+                "MonsterID": 3022,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 3,
+                "gaindifficulty": 1,
+                "characteristic": 1,
+                "mouseClickFunc": "app:DragonKingMainPanel"
+            },
+            {
+                "ID": 84,
+                "MonsterID": 3437,
+                "ifshow": 0,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 1,
+                "gaindifficulty": 1,
+                "characteristic": 1,
+                "mouseClickFunc": "app:AYaCompMainPanel"
+            },
+            {
+                "ID": 85,
+                "MonsterID": 4032,
+                "ifshow": 1,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 3,
+                "gaindifficulty": 3,
+                "characteristic": 2,
+                "mouseClickFunc": "app:S26SixRealmsGodKingPerfectMainPanel"
+            },
+            {
+                "ID": 86,
+                "MonsterID": 3329,
+                "ifshow": 1,
+                "Rarity": 4,
+                "pettype": 1,
+                "gainperiod": 3,
+                "gaindifficulty": 2,
+                "characteristic": 1,
+                "mouseClickFunc": "app:SixGodCompleteBodyMainPanel"
+            }
+        ]
+    }
+}

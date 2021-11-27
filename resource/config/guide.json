@@ -1,0 +1,4475 @@
+{
+    "data": {
+        "step_0": [
+            {
+                "id": 1,
+                "actionType": "component",
+                "actionData": {
+                    "compName": "CompSelectedGuid",
+                    "compData": null
+                },
+                "nextParams": {
+                    "nextStep": 1
+                }
+            }
+        ],
+        "step_1": [
+            {
+                "id": 1,
+                "actionType": "addEvent",
+                "actionData": "event_MapProcess_2001_init_complete",
+                "nextParams": {}
+            },
+            {
+                "id": 2,
+                "actionType": "component",
+                "actionData": {
+                    "compName": "CompStory",
+                    "compData": null
+                },
+                "nextParams": {}
+            },
+            {
+                "id": 3,
+                "actionType": "msg2Server",
+                "actionData": {
+                    "id": 42404,
+                    "data": [
+                        2,
+                        0
+                    ]
+                },
+                "nextParams": {
+                    "delay": 100,
+                    "nextStep": 2
+                }
+            }
+        ],
+        "step_10": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionDispatchEvent": "event_get_btnGo_3_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 28
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1001
+                }
+            },
+            {
+                "id": 1001,
+                "note": "一直等待第三阶段奖励领取完毕",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextStep": 11
+                }
+            }
+        ],
+        "step_11": [
+            {
+                "id": 1,
+                "flagStr": "@flag_show_new_seer_evl_panel",
+                "note": "一直等待第三阶段进化完毕",
+                "actionAddEvent": "event_close_new_seer_evl_panel",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_NewSeerEvolutionMainPop_close_view",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextStep": 12,
+                    "nextId": 3
+                }
+            }
+        ],
+        "step_12": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_show_taskIcon",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionDispatchEvent": "event_open_task_panel",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionAddEvent": "event_task_panel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "flagStr": "@flag_first_open_task_panel",
+                "actionAddEvent": "event_start_unlock_equip1",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionDispatchEvent": "event_guide_unlock_equip2",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionDispatchEvent": "event_guide_get_changeMap_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "actionAddEvent": "event_MapProcess_2002_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionDispatchEvent": "event_show_MapProcess_2002_task1",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 11,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 29
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 12
+                }
+            },
+            {
+                "id": 12,
+                "actionDispatchEvent": "event_show_buzhuotishi",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 13
+                }
+            },
+            {
+                "id": 13,
+                "actionAddEvent": "event_close_buzhuotishi_panel",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 14
+                }
+            },
+            {
+                "id": 14,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 30
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 15
+                }
+            },
+            {
+                "id": 15,
+                "actionDispatchEvent": "event_show_MapProcess_2002_task2",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "msgData": {
+                        "id": 42404,
+                        "data": [
+                            13,
+                            0
+                        ]
+                    },
+                    "nextStep": 13
+                }
+            }
+        ],
+        "step_13": [
+            {
+                "id": 1,
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextStep": 14
+                }
+            }
+        ],
+        "step_14": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_get_task_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "flagStr": "@flag_reward_three_main_pets",
+                "actionAddEvent": "event_onTouchTap_petId_2220",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextStep": 15
+                }
+            },
+            {
+                "id": 2,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 31
+                },
+                "completeFun": {
+                    "msgData": {
+                        "id": 42404,
+                        "data": [
+                            14,
+                            1
+                        ]
+                    },
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1
+                }
+            }
+        ],
+        "step_15": [
+            {
+                "id": 1,
+                "actionCompClass": "CompStory",
+                "parme": {},
+                "completeFun": {
+                    "msgData": {
+                        "id": 42404,
+                        "data": [
+                            15,
+                            0
+                        ]
+                    },
+                    "endFlg": true
+                }
+            }
+        ],
+        "step_2": [
+            {
+                "id": 1,
+                "actionType": "registerEvent",
+                "actionData": "seer_move_to_center",
+                "resetArray": [
+                    10001
+                ],
+                "nextParams": {}
+            },
+            {
+                "id": 2,
+                "actionType": "component",
+                "actionData": {
+                    "compName": "CompTalk",
+                    "compData": {
+                        "talkGroupId": 1
+                    }
+                },
+                "nextParams": null
+            },
+            {
+                "id": 3,
+                "actionType": "registerEvent",
+                "actionData": "get_luojie_point_data",
+                "nextParams": {
+                    "delay": 300
+                }
+            },
+            {
+                "id": 4,
+                "actionType": "component",
+                "actionData": {
+                    "compName": "CompTouchTap",
+                    "compData": {
+                        "offsetData": {
+                            "x": 0,
+                            "y": 0,
+                            "w": 100,
+                            "h": 80
+                        },
+                        "hand": "left",
+                        "event": "event_click_luojiechuanzhang_first"
+                    }
+                },
+                "nextParams": {}
+            },
+            {
+                "id": 5,
+                "actionType": "component",
+                "actionData": {
+                    "compName": "CompTalk",
+                    "compData": {
+                        "talkGroupId": 2
+                    }
+                },
+                "nextParams": {}
+            },
+            {
+                "id": 6,
+                "actionType": "msg2Server",
+                "actionData": {
+                    "id": 42404,
+                    "data": [
+                        3,
+                        0
+                    ]
+                },
+                "nextParams": {}
+            },
+            {
+                "id": 7,
+                "flag": "@flag_reward_five_pet",
+                "actionType": "addEvent",
+                "actionData": "touchTap_pet_875",
+                "nextParams": null
+            },
+            {
+                "id": 10001,
+                "actionType": "addEvent",
+                "actionData": "mapProcess_2001_init_complete",
+                "nextParams": {}
+            }
+        ],
+        "step_3": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 82
+                }
+            },
+            {
+                "id": 82,
+                "actionDispatchEvent": "event_guide_ready_unlock_jinhuazhilu",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionCache": 3,
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "flagStr": "@waite_first_touchTap_evl_level",
+                "actionAddEvent": "event_first_touuchTap_evl_levelTap",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 3
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 83
+                }
+            },
+            {
+                "id": 83,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionLevel_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 84
+                }
+            },
+            {
+                "id": 84,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 85
+                }
+            },
+            {
+                "id": 85,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionMainPop_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 86
+                }
+            },
+            {
+                "id": 86,
+                "actionCache": 87,
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 87,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionDispatchEvent": "event_guide_show_pet_btn",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 20,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 88
+                }
+            },
+            {
+                "id": 88,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "actionCompClass": "CompDragMove",
+                "flagStr": "@on_change_leiyi",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 628,
+                        "y": 53,
+                        "w": 400,
+                        "h": 595
+                    },
+                    "arrowPoint": {
+                        "x": 98,
+                        "y": 40
+                    },
+                    "bubbleData": {
+                        "data": {
+                            "BubbleClass": "BubbleLeft",
+                            "size": {
+                                "w": 179,
+                                "h": 105
+                            },
+                            "desc": "desc_step_id_9"
+                        },
+                        "x": -10,
+                        "y": 30
+                    },
+                    "event": "event_complete_change_pet"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 89
+                }
+            },
+            {
+                "id": 89,
+                "note": "这里给更换雷伊为首发记录一个缓存",
+                "actionCache": 81,
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@wait_click_evl",
+                "parme": {
+                    "point": "leftTop",
+                    "rect": {
+                        "x": 0,
+                        "y": 0,
+                        "w": 101,
+                        "h": 50
+                    },
+                    "hand": "right",
+                    "targetName": "btnClose"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 81,
+                "note": "预留给更换雷伊后的缓存",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 11,
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 90
+                }
+            },
+            {
+                "id": 90,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 91
+                }
+            },
+            {
+                "id": 91,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 12
+                }
+            },
+            {
+                "id": 12,
+                "actionDispatchEvent": "event_get_btnGo_1_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 13
+                }
+            },
+            {
+                "id": 13,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 92
+                }
+            },
+            {
+                "id": 92,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 14
+                }
+            },
+            {
+                "id": 14,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionLevel_level1_0_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 15
+                }
+            },
+            {
+                "id": 15,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 16
+                }
+            },
+            {
+                "id": 16,
+                "flagStr": "@wait_get_RedayBattlePop_rect",
+                "actionAddEvent": "event_guide_get_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 1000
+                    },
+                    "nextId": 17
+                }
+            },
+            {
+                "id": 17,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "targetName": "btnBattle"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 18
+                }
+            },
+            {
+                "id": 18,
+                "flagStr": "@flag_first_in_battle",
+                "actionAddEvent": "event_first_battle_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 19
+                }
+            },
+            {
+                "id": 19,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 4
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 20
+                }
+            },
+            {
+                "id": 20,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompMoreNext",
+                "parme": {
+                    "data": [
+                        {
+                            "point": "leftTop",
+                            "rect": {
+                                "x": 10,
+                                "y": 10,
+                                "w": 460,
+                                "h": 120
+                            },
+                            "bubble": {
+                                "data": {
+                                    "BubbleClass": "BubbleBottom",
+                                    "size": {
+                                        "w": 168,
+                                        "h": 116,
+                                        "textSize": 20
+                                    },
+                                    "desc": "我方信息"
+                                },
+                                "x": 0,
+                                "y": 60
+                            }
+                        },
+                        {
+                            "point": "center",
+                            "rect": {
+                                "x": 502,
+                                "y": 65,
+                                "w": 135,
+                                "h": 56
+                            },
+                            "bubble": {
+                                "data": {
+                                    "BubbleClass": "BubbleBottom",
+                                    "size": {
+                                        "w": 168,
+                                        "h": 116,
+                                        "textSize": 20
+                                    },
+                                    "desc": "我方信息"
+                                },
+                                "x": 0,
+                                "y": 58
+                            }
+                        },
+                        {
+                            "point": "rightTop",
+                            "rect": {
+                                "x": 666,
+                                "y": 10,
+                                "w": 460,
+                                "h": 120
+                            },
+                            "bubble": {
+                                "data": {
+                                    "BubbleClass": "BubbleBottom",
+                                    "size": {
+                                        "w": 168,
+                                        "h": 116,
+                                        "textSize": 20
+                                    },
+                                    "desc": "敌方信息"
+                                },
+                                "x": 0,
+                                "y": 60
+                            }
+                        },
+                        {
+                            "point": "center",
+                            "rect": {
+                                "x": 137,
+                                "y": 518,
+                                "w": 778,
+                                "h": 108
+                            },
+                            "bubble": {
+                                "data": {
+                                    "BubbleClass": "BubbleTop",
+                                    "size": {
+                                        "w": 168,
+                                        "h": 116,
+                                        "textSize": 20
+                                    },
+                                    "desc": "精灵技能"
+                                },
+                                "x": 0,
+                                "y": -58
+                            }
+                        }
+                    ]
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 21
+                }
+            },
+            {
+                "id": 21,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 5
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 22
+                }
+            },
+            {
+                "id": 22,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 1059,
+                        "y": 512,
+                        "w": 57,
+                        "h": 63
+                    },
+                    "hand": "left",
+                    "event": "event_first_open_pet_panel"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 23
+                }
+            },
+            {
+                "id": 23,
+                "flagStr": "@flag_first_in_battle",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 25
+                }
+            },
+            {
+                "id": 24,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompDialogNext",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 10,
+                        "y": 520,
+                        "w": 1030,
+                        "h": 108
+                    },
+                    "npcData": {
+                        "dir": "left",
+                        "x": 200,
+                        "y": -200,
+                        "bubble": {
+                            "data": {
+                                "BubbleClass": "BubbleRight",
+                                "size": {
+                                    "w": 299,
+                                    "h": 130,
+                                    "textSize": 20
+                                },
+                                "desc": "desc_3_24"
+                            },
+                            "x": 100,
+                            "y": 0
+                        }
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 25
+                }
+            },
+            {
+                "id": 25,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 6
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 26
+                }
+            },
+            {
+                "id": 26,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 350,
+                        "y": 520,
+                        "w": 174,
+                        "h": 111
+                    },
+                    "hand": "right",
+                    "event": "event_selected_miusi"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 27
+                }
+            },
+            {
+                "id": 27,
+                "flagStr": "@flag_first_in_battle",
+                "actionAddEvent": "event_first_battle_round2_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 28
+                }
+            },
+            {
+                "id": 28,
+                "flagStr": "@flag_first_in_battle",
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 7
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 29
+                }
+            },
+            {
+                "id": 29,
+                "flagStr": "@flag_first_in_battle_skill_compTouchTap",
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 141,
+                        "y": 526,
+                        "w": 180,
+                        "h": 100
+                    },
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1007
+                }
+            },
+            {
+                "id": 1001,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1002
+                }
+            },
+            {
+                "id": 1002,
+                "note": "这里是1-1关卡打完后如果掉线了下次上来直接接到这里,否则从上一步直接条下去",
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 1003
+                }
+            },
+            {
+                "id": 1003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1004
+                }
+            },
+            {
+                "id": 1004,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1005
+                }
+            },
+            {
+                "id": 1005,
+                "actionDispatchEvent": "event_get_btnGo_1_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 1006
+                }
+            },
+            {
+                "id": 1006,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1007
+                }
+            },
+            {
+                "id": 1007,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 35
+                }
+            },
+            {
+                "id": 35,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionLevel_level1_1_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 36
+                }
+            },
+            {
+                "id": 36,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 37
+                }
+            },
+            {
+                "id": 37,
+                "flagStr": "@wait_get_RedayBattlePop_rect",
+                "actionAddEvent": "event_guide_get_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 38
+                }
+            },
+            {
+                "id": 38,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "targetName": "btnBattle"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 39
+                }
+            },
+            {
+                "id": 39,
+                "flagStr": "@flag_second_in_battle",
+                "actionAddEvent": "event_second_battle_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 40
+                }
+            },
+            {
+                "id": 40,
+                "flagStr": "@flag_second_in_battle",
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 8
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 42
+                }
+            },
+            {
+                "id": 42,
+                "flagStr": "@flag_second_in_battle",
+                "actionCompClass": "CompDialogNext",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 141,
+                        "y": 526,
+                        "w": 180,
+                        "h": 100
+                    },
+                    "npcData": {
+                        "dir": "left",
+                        "x": 200,
+                        "y": -200,
+                        "bubble": {
+                            "data": {
+                                "BubbleClass": "BubbleRight",
+                                "size": {
+                                    "w": 299,
+                                    "h": 130,
+                                    "textSize": 20
+                                },
+                                "desc": "desc_3_42"
+                            },
+                            "x": 100,
+                            "y": 0
+                        }
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 43
+                }
+            },
+            {
+                "id": 43,
+                "flagStr": "@flag_second_in_battle",
+                "actionCompClass": "CompDialogNext",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 337,
+                        "y": 522,
+                        "w": 180,
+                        "h": 100
+                    },
+                    "npcData": {
+                        "dir": "left",
+                        "x": 200,
+                        "y": -200,
+                        "bubble": {
+                            "data": {
+                                "BubbleClass": "BubbleRight",
+                                "size": {
+                                    "w": 299,
+                                    "h": 130,
+                                    "textSize": 20
+                                },
+                                "desc": "desc_3_42"
+                            },
+                            "x": 100,
+                            "y": 0
+                        }
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 45
+                }
+            },
+            {
+                "id": 45,
+                "actionCompClass": "CompTalk",
+                "flagStr": "@flag_second_in_battle",
+                "parme": {
+                    "talkGroupId": 9
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 46
+                }
+            },
+            {
+                "id": 46,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_second_in_battle_skill_compTouchTap",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 141,
+                        "y": 526,
+                        "w": 180,
+                        "h": 100
+                    },
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 47
+                }
+            },
+            {
+                "id": 47,
+                "flagStr": "@flag_second_in_battle",
+                "actionAddEvent": "event_second_battle_round2_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 48
+                }
+            },
+            {
+                "id": 48,
+                "actionCompClass": "CompTalk",
+                "flagStr": "@flag_second_in_battle",
+                "parme": {
+                    "talkGroupId": 10
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 49
+                }
+            },
+            {
+                "id": 49,
+                "actionCompClass": "CompTouching",
+                "flagStr": "@flag_second_in_battle_need_touching",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 729,
+                        "y": 522,
+                        "w": 180,
+                        "h": 108
+                    },
+                    "event": "event_close_compTouching"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 50
+                }
+            },
+            {
+                "id": 50,
+                "actionAddEvent": "event_second_in_battle_use_skill",
+                "flagStr": "@flag_second_in_battle_touching_end",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 51
+                }
+            },
+            {
+                "id": 51,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_second_in_battle_skill_compTouchTap",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 729,
+                        "y": 522,
+                        "w": 180,
+                        "h": 108
+                    },
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2007
+                }
+            },
+            {
+                "id": 2001,
+                "note": "这里是1-2关卡打完后如果掉线了下次上来直接接到这里,否则从上一步直接条下去",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2002
+                }
+            },
+            {
+                "id": 2002,
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2003
+                }
+            },
+            {
+                "id": 2003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2004
+                }
+            },
+            {
+                "id": 2004,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2005
+                }
+            },
+            {
+                "id": 2005,
+                "actionDispatchEvent": "event_get_btnGo_1_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2006
+                }
+            },
+            {
+                "id": 2006,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2007
+                }
+            },
+            {
+                "id": 2007,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 57
+                }
+            },
+            {
+                "id": 57,
+                "note": "道具使用引导",
+                "actionDispatchEvent": "event_get_NewSeerEvolutionLevel_level1_2_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 58
+                }
+            },
+            {
+                "id": 58,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 59
+                }
+            },
+            {
+                "id": 59,
+                "flagStr": "@wait_get_RedayBattlePop_rect",
+                "actionAddEvent": "event_guide_get_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 60
+                }
+            },
+            {
+                "id": 60,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "targetName": "btnBattle"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 61
+                }
+            },
+            {
+                "id": 61,
+                "flagStr": "@flag_three_in_battle",
+                "actionAddEvent": "event_three_battle_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 62
+                }
+            },
+            {
+                "id": 62,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_three_in_battle_skill_compTouchTap",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 141,
+                        "y": 526,
+                        "w": 180,
+                        "h": 100
+                    },
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 63
+                }
+            },
+            {
+                "id": 63,
+                "flagStr": "@flag_three_in_battle",
+                "actionAddEvent": "event_three_battle_round2_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 64
+                }
+            },
+            {
+                "id": 64,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 11
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 65
+                }
+            },
+            {
+                "id": 65,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_three_in_battle_open_bag",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 1059,
+                        "y": 443,
+                        "w": 57,
+                        "h": 61
+                    },
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 66
+                }
+            },
+            {
+                "id": 66,
+                "flagStr": "@flag_three_in_battle_waite_hp_rect",
+                "actionAddEvent": "event_guide_get_btnHP_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 700
+                    },
+                    "nextId": 67
+                }
+            },
+            {
+                "id": 67,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_three_in_battle_touchTap_btnHp",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 300
+                    },
+                    "nextId": 69
+                }
+            },
+            {
+                "id": 69,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_three_in_battle_use_hp",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 106,
+                        "y": 518,
+                        "w": 80,
+                        "h": 80
+                    },
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 70
+                }
+            },
+            {
+                "id": 70,
+                "flagStr": "@flag_three_in_battle",
+                "actionAddEvent": "event_three_battle_round3_start",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 71
+                }
+            },
+            {
+                "id": 71,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 12
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 72
+                }
+            },
+            {
+                "id": 72,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_three_in_battle_skill_compTouchTap",
+                "parme": {
+                    "point": "center",
+                    "rect": {
+                        "x": 729,
+                        "y": 526,
+                        "w": 180,
+                        "h": 100
+                    },
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 93
+                }
+            },
+            {
+                "id": 93,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 73
+                }
+            },
+            {
+                "id": 73,
+                "actionDispatchEvent": "event_three_in_battle_end",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 79
+                }
+            },
+            {
+                "id": 3001,
+                "note": "这里是1-3关卡打完后如果掉线了下次上来直接接到这里,否则从上一步直接条下去",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3002
+                }
+            },
+            {
+                "id": 3002,
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 3003
+                }
+            },
+            {
+                "id": 3003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3004
+                }
+            },
+            {
+                "id": 3004,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3005
+                }
+            },
+            {
+                "id": 3005,
+                "actionDispatchEvent": "event_get_btnGo_1_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 3006
+                }
+            },
+            {
+                "id": 3006,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3007
+                }
+            },
+            {
+                "id": 3007,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 79
+                }
+            },
+            {
+                "id": 79,
+                "actionDispatchEvent": "event_wait_get_NewSeerEvolutionLevel_mode1_last_talk",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 80
+                }
+            },
+            {
+                "id": 80,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 13
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4001
+                }
+            },
+            {
+                "id": 4001,
+                "actionAddEvent": "event_guide_get_NewSeerEvolutionLevel_mode1_get_reward",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextStep": 4
+                }
+            }
+        ],
+        "step_4": [
+            {
+                "id": 1,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 14
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_get_close_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "targetName": "btnClose"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 1001,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1002
+                }
+            },
+            {
+                "id": 1002,
+                "note": "领取完奖励未进化完全的掉线处理开始标记",
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 1003
+                }
+            },
+            {
+                "id": 1003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionDispatchEvent": "event_get_btnEvolution_1_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "flagStr": "@flag_show_new_seer_evl_panel",
+                "actionAddEvent": "event_close_new_seer_evl_panel",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 15
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionMainPop_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "targetName": "btnClose"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextStep": 5,
+                    "nextId": 2
+                }
+            }
+        ],
+        "step_5": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 35
+                }
+            },
+            {
+                "id": 35,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 36
+                }
+            },
+            {
+                "id": 36,
+                "flagStr": "@flag_pet_detail_view_init",
+                "actionAddEvent": "event_pet_detail_view_init",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionCompClass": "CompDialogNext",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 634,
+                        "y": 109,
+                        "w": 474,
+                        "h": 70
+                    },
+                    "npcData": {
+                        "dir": "left",
+                        "x": -500,
+                        "y": 70,
+                        "bubble": {
+                            "data": {
+                                "BubbleClass": "BubbleRight",
+                                "size": {
+                                    "w": 300,
+                                    "h": 200,
+                                    "textSize": 20
+                                },
+                                "desc": "test_step_5_id_6"
+                            },
+                            "x": 117,
+                            "y": 0
+                        }
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionCompClass": "CompDialogNext",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 634,
+                        "y": 200,
+                        "w": 474,
+                        "h": 35
+                    },
+                    "npcData": {
+                        "dir": "left",
+                        "x": -500,
+                        "y": 50,
+                        "bubble": {
+                            "data": {
+                                "BubbleClass": "BubbleRight",
+                                "size": {
+                                    "w": 300,
+                                    "h": 200,
+                                    "textSize": 20
+                                },
+                                "desc": "test_step_5_id_7"
+                            },
+                            "x": 117,
+                            "y": 0
+                        }
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionCompClass": "CompDialogNext",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 627,
+                        "y": 426,
+                        "w": 507,
+                        "h": 120
+                    },
+                    "npcData": {
+                        "dir": "left",
+                        "x": -500,
+                        "y": 0,
+                        "bubble": {
+                            "data": {
+                                "BubbleClass": "BubbleRight",
+                                "size": {
+                                    "w": 300,
+                                    "h": 200,
+                                    "textSize": 20
+                                },
+                                "desc": "test_step_5_id_8"
+                            },
+                            "x": 117,
+                            "y": 0
+                        }
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 16
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionDispatchEvent": "event_get_btnLvl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 11,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "targetName": "btnLvl"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 12
+                }
+            },
+            {
+                "id": 12,
+                "actionAddEvent": "event_petlv_up_init",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 700
+                    },
+                    "nextId": 13
+                }
+            },
+            {
+                "id": 13,
+                "actionDispatchEvent": "event_get_rb_itemUp_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 14
+                }
+            },
+            {
+                "id": 14,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "targetName": "rb_itemUp"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 15
+                }
+            },
+            {
+                "id": 15,
+                "actionDispatchEvent": "event_get_item_icon_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 16
+                }
+            },
+            {
+                "id": 16,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_use_item_touchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 17
+                }
+            },
+            {
+                "id": 17,
+                "actionAddEvent": "event_get_item_btnUse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 18
+                }
+            },
+            {
+                "id": 18,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_use_item_sure"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 37
+                }
+            },
+            {
+                "id": 37,
+                "actionAddEvent": "event_get_Alert_ok_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 19
+                }
+            },
+            {
+                "id": 19,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_use_item_300700",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_click_alert_ok"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 20
+                }
+            },
+            {
+                "id": 20,
+                "flagStr": "@flag_use_item_300700",
+                "actionAddEvent": "event_use_item_300700_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 21
+                }
+            },
+            {
+                "id": 21,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 17
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 22
+                }
+            },
+            {
+                "id": 22,
+                "actionDispatchEvent": "event_get_new_skill_panel_btnChange_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 23
+                }
+            },
+            {
+                "id": 23,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 24
+                }
+            },
+            {
+                "id": 1001,
+                "note": "这里是逻辑分支，如果没掉线的玩家正常使用过升级后要从当前这个面板引导返回去点技能",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 1002
+                }
+            },
+            {
+                "id": 1002,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1003
+                }
+            },
+            {
+                "id": 1003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1010
+                }
+            },
+            {
+                "id": 1010,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1004
+                }
+            },
+            {
+                "id": 1004,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 1005
+                }
+            },
+            {
+                "id": 1005,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1007
+                }
+            },
+            {
+                "id": 1007,
+                "actionAddEvent": "event_pet_detail_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 1008
+                }
+            },
+            {
+                "id": 1008,
+                "actionDispatchEvent": "event_get_rb_skill_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1009
+                }
+            },
+            {
+                "id": 1009,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "targetName": "rb_skill",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 24
+                }
+            },
+            {
+                "id": 24,
+                "note": "这里是汇总",
+                "actionDispatchEvent": "event_get_new_skill_panel_btnChangeSkill_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 25
+                }
+            },
+            {
+                "id": 25,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "targetName": "btnChangeSkill",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 26
+                }
+            },
+            {
+                "id": 26,
+                "actionAddEvent": "event_change_skill_panel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 27
+                }
+            },
+            {
+                "id": 27,
+                "actionCompClass": "CompMoveDown",
+                "flagStr": "@flag_move_skill_to_down",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 625,
+                        "y": 354,
+                        "w": 526,
+                        "h": 278
+                    },
+                    "arrowPoint": {
+                        "x": 98,
+                        "y": 40
+                    },
+                    "bubbleData": {
+                        "data": {
+                            "BubbleClass": "BubbleLeft",
+                            "size": {
+                                "w": 179,
+                                "h": 105
+                            },
+                            "desc": "向上滑到底"
+                        },
+                        "x": -10,
+                        "y": 30
+                    },
+                    "event": "event_move_down_end"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 28
+                }
+            },
+            {
+                "id": 28,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "point": "rightTop",
+                    "rect": {
+                        "x": 886,
+                        "y": 526,
+                        "w": 222,
+                        "h": 90
+                    },
+                    "hand": "left",
+                    "event": "event_click_shun_lei_tian_shan"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 300
+                    },
+                    "nextId": 29
+                }
+            },
+            {
+                "id": 29,
+                "actionDispatchEvent": "event_get_th_btn",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 30
+                }
+            },
+            {
+                "id": 30,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 31
+                }
+            },
+            {
+                "id": 31,
+                "actionAddEvent": "event_get_target_skill_pos_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 32
+                }
+            },
+            {
+                "id": 32,
+                "flagStr": "@flag_send_to_change_skill",
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_click_shun_lei_tian_shan"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 300
+                    },
+                    "nextId": 33
+                }
+            },
+            {
+                "id": 33,
+                "actionDispatchEvent": "event_get_rb_info_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 34
+                }
+            },
+            {
+                "id": 34,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    },
+                    "event": "event_click_rb_info"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextStep": 6,
+                    "nextId": 6
+                }
+            }
+        ],
+        "step_6": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 56
+                }
+            },
+            {
+                "id": 56,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "flagStr": "@flag_pet_detail_view_init",
+                "actionAddEvent": "event_pet_detail_view_init",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 18
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionDispatchEvent": "event_get_btnGenius_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionAddEvent": "event_PetUseItemPanel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 1000
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 11,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_use_item_touchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 12
+                }
+            },
+            {
+                "id": 12,
+                "actionAddEvent": "event_get_item_btnUse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 13
+                }
+            },
+            {
+                "id": 13,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 59
+                }
+            },
+            {
+                "id": 59,
+                "actionAddEvent": "event_get_Alert_ok_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 14
+                }
+            },
+            {
+                "id": 14,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_use_item_300791",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_click_alert_ok"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 20
+                }
+            },
+            {
+                "id": 20,
+                "flagStr": "@flag_use_item_300791",
+                "actionAddEvent": "event_use_item_300791_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 21
+                }
+            },
+            {
+                "id": 21,
+                "actionDispatchEvent": "event_get_close_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 22
+                }
+            },
+            {
+                "id": 22,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_PetUseItemPanel"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 300
+                    },
+                    "nextId": 23
+                }
+            },
+            {
+                "id": 23,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 19
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 24
+                }
+            },
+            {
+                "id": 1001,
+                "note": "这里是使用完天赋药级掉线后的存档点",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 1002
+                }
+            },
+            {
+                "id": 1002,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1003
+                }
+            },
+            {
+                "id": 1003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "targetName": "btnPet",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 57
+                }
+            },
+            {
+                "id": 57,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1004
+                }
+            },
+            {
+                "id": 1004,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 1005
+                }
+            },
+            {
+                "id": 1005,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1006
+                }
+            },
+            {
+                "id": 1006,
+                "flagStr": "@flag_pet_detail_view_init",
+                "actionAddEvent": "event_pet_detail_view_init",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 24
+                }
+            },
+            {
+                "id": 24,
+                "actionDispatchEvent": "event_get_btnStuday_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 25
+                }
+            },
+            {
+                "id": 25,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 26
+                }
+            },
+            {
+                "id": 26,
+                "actionAddEvent": "event_StudyPetAttribute_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 27
+                }
+            },
+            {
+                "id": 27,
+                "actionDispatchEvent": "event_get_rb_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 800
+                    },
+                    "nextId": 28
+                }
+            },
+            {
+                "id": 28,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_compTouchTap_rb_item"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 29
+                }
+            },
+            {
+                "id": 29,
+                "actionDispatchEvent": "event_get_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 800
+                    },
+                    "nextId": 30
+                }
+            },
+            {
+                "id": 30,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_compTouchTap_use_item"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 31
+                }
+            },
+            {
+                "id": 31,
+                "actionAddEvent": "event_get_item_btnUse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 32
+                }
+            },
+            {
+                "id": 32,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 60
+                }
+            },
+            {
+                "id": 60,
+                "actionAddEvent": "event_get_Alert_ok_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 33
+                }
+            },
+            {
+                "id": 33,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_use_item_300792",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_click_alert_ok"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 34
+                }
+            },
+            {
+                "id": 34,
+                "actionAddEvent": "event_Item_300792_panel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 35
+                }
+            },
+            {
+                "id": 35,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 20
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 36
+                }
+            },
+            {
+                "id": 36,
+                "flagStr": "@flag_check_item300792",
+                "actionAddEvent": "event_check_newseer_useitem_300792_ok",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 37
+                }
+            },
+            {
+                "id": 37,
+                "flagStr": "@flag_waite_use_item300792_complete",
+                "actionAddEvent": "event_use_item300792_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 38
+                }
+            },
+            {
+                "id": 38,
+                "actionDispatchEvent": "event_get_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 39
+                }
+            },
+            {
+                "id": 39,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_StudyPetAttribute"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 800
+                    },
+                    "nextId": 40
+                }
+            },
+            {
+                "id": 2001,
+                "note": "这里是使用完至强学习力级掉线后的存档点",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 2002
+                }
+            },
+            {
+                "id": 2002,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2003
+                }
+            },
+            {
+                "id": 2003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "targetName": "btnPet",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 58
+                }
+            },
+            {
+                "id": 58,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2004
+                }
+            },
+            {
+                "id": 2004,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2005
+                }
+            },
+            {
+                "id": 2005,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2006
+                }
+            },
+            {
+                "id": 2006,
+                "flagStr": "@flag_pet_detail_view_init",
+                "actionAddEvent": "event_pet_detail_view_init",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 40
+                }
+            },
+            {
+                "id": 40,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 21
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 41
+                }
+            },
+            {
+                "id": 41,
+                "actionDispatchEvent": "event_get_btnPower_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 42
+                }
+            },
+            {
+                "id": 42,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 43
+                }
+            },
+            {
+                "id": 43,
+                "actionAddEvent": "event_PetUseItemPanel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 1000
+                    },
+                    "nextId": 44
+                }
+            },
+            {
+                "id": 44,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_use_item_touchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 45
+                }
+            },
+            {
+                "id": 45,
+                "actionAddEvent": "event_get_item_btnUse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 46
+                }
+            },
+            {
+                "id": 46,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 61
+                }
+            },
+            {
+                "id": 61,
+                "actionAddEvent": "event_get_Alert_ok_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 47
+                }
+            },
+            {
+                "id": 47,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_use_item_300848",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_click_alert_ok"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 48
+                }
+            },
+            {
+                "id": 48,
+                "flagStr": "@flag_use_item_300848",
+                "actionAddEvent": "event_use_item_300848_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 49
+                }
+            },
+            {
+                "id": 49,
+                "actionDispatchEvent": "event_get_close_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 50
+                }
+            },
+            {
+                "id": 50,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_PetUseItemPanel"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 51
+                }
+            },
+            {
+                "id": 51,
+                "actionDispatchEvent": "event_get_close_petDetailedInfo_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 52
+                }
+            },
+            {
+                "id": 52,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 53
+                }
+            },
+            {
+                "id": 53,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 54
+                }
+            },
+            {
+                "id": 54,
+                "actionDispatchEvent": "event_get_PetBag_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 55
+                }
+            },
+            {
+                "id": 55,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextStep": 7,
+                    "nextId": 11
+                }
+            }
+        ],
+        "step_7": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 11,
+                "actionDispatchEvent": "event_guide_get_jhzl_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionAddEvent": "event_NewSeerEvolutionMainPop_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionDispatchEvent": "event_get_btnGo_2_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionAddEvent": "event_NewSeerEvolutionLevel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionLevel_level2_0_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "flagStr": "@flag_first_touchTap_level2_1",
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_close_compTouchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "flagStr": "@flag_first_touchTap_level2_1",
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 22
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionDispatchEvent": "event_open_level2_1",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1001
+                }
+            },
+            {
+                "id": 1001,
+                "note": "一直等待第二阶段奖励领取完毕",
+                "actionAddEvent": "event_get_NewSeerEvolutionLevel_reward_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextStep": 8
+                }
+            }
+        ],
+        "step_8": [
+            {
+                "id": 1,
+                "flagStr": "@flag_show_new_seer_evl_panel",
+                "note": "一直等待第二阶段奖励领取完毕",
+                "actionAddEvent": "event_close_new_seer_evl_panel",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 23
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_get_NewSeerEvolutionMainPop_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextStep": 9,
+                    "nextId": 2
+                }
+            }
+        ],
+        "step_9": [
+            {
+                "id": 1,
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 2
+                }
+            },
+            {
+                "id": 2,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 3
+                }
+            },
+            {
+                "id": 3,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 4
+                }
+            },
+            {
+                "id": 4,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 5
+                }
+            },
+            {
+                "id": 5,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 6
+                }
+            },
+            {
+                "id": 6,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 7
+                }
+            },
+            {
+                "id": 7,
+                "actionAddEvent": "event_pet_detail_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 8
+                }
+            },
+            {
+                "id": 8,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 24
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 9
+                }
+            },
+            {
+                "id": 9,
+                "actionDispatchEvent": "event_get_btnNature_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 10
+                }
+            },
+            {
+                "id": 10,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 11
+                }
+            },
+            {
+                "id": 11,
+                "actionAddEvent": "event_PetUseItemPanel_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 1000
+                    },
+                    "nextId": 12
+                }
+            },
+            {
+                "id": 12,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "event": "event_use_item_touchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 13
+                }
+            },
+            {
+                "id": 13,
+                "actionAddEvent": "event_get_item_btnUse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 14
+                }
+            },
+            {
+                "id": 14,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 43
+                }
+            },
+            {
+                "id": 43,
+                "actionAddEvent": "event_get_Alert_ok_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 15
+                }
+            },
+            {
+                "id": 15,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_waite_use_item_300070",
+                "parme": {
+                    "parme": {
+                        "hand": "left",
+                        "event": "event_click_alert_ok"
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 16
+                }
+            },
+            {
+                "id": 16,
+                "flagStr": "@flag_waite_use_item_300070",
+                "actionAddEvent": "event_use_item_300070_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 17
+                }
+            },
+            {
+                "id": 17,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 25
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 18
+                }
+            },
+            {
+                "id": 18,
+                "actionDispatchEvent": "event_get_PetUseItemPanel_btnClose__rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 19
+                }
+            },
+            {
+                "id": 19,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_PetUseItemPanel"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 20
+                }
+            },
+            {
+                "id": 1001,
+                "note": "性格掉线后的存档位置",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 1002
+                }
+            },
+            {
+                "id": 1002,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1003
+                }
+            },
+            {
+                "id": 1003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1004
+                }
+            },
+            {
+                "id": 1004,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1005
+                }
+            },
+            {
+                "id": 1005,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 1006
+                }
+            },
+            {
+                "id": 1006,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 1007
+                }
+            },
+            {
+                "id": 1007,
+                "actionAddEvent": "event_pet_detail_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 20
+                }
+            },
+            {
+                "id": 20,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 26
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 21
+                }
+            },
+            {
+                "id": 21,
+                "actionDispatchEvent": "event_get_btnTexing_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 22
+                }
+            },
+            {
+                "id": 22,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 23
+                }
+            },
+            {
+                "id": 23,
+                "actionAddEvent": "event_PetChangeFeatures_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 24
+                }
+            },
+            {
+                "id": 24,
+                "actionDispatchEvent": "event_get_PetChangeFeatures_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 700
+                    },
+                    "nextId": 25
+                }
+            },
+            {
+                "id": 25,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_use_item_touchTap"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 26
+                }
+            },
+            {
+                "id": 26,
+                "actionAddEvent": "event_get_item_btnUse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 27
+                }
+            },
+            {
+                "id": 27,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 44
+                }
+            },
+            {
+                "id": 44,
+                "actionAddEvent": "event_get_Alert_ok_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 28
+                }
+            },
+            {
+                "id": 28,
+                "actionCompClass": "CompTouchTap",
+                "flagStr": "@flag_waite_use_item_300053",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_click_alert_ok"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 29
+                }
+            },
+            {
+                "id": 29,
+                "flagStr": "@flag_waite_use_item_300053",
+                "actionAddEvent": "event_use_item_300053_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 30
+                }
+            },
+            {
+                "id": 30,
+                "actionDispatchEvent": "event_get_PetChangeFeatures_btnClose_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 31
+                }
+            },
+            {
+                "id": 31,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_close_PetChangeFeatures"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 32
+                }
+            },
+            {
+                "id": 2001,
+                "note": "特性掉线后的存档位置",
+                "actionAddEvent": "event_MapProcess_2001_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 200
+                    },
+                    "nextId": 2002
+                }
+            },
+            {
+                "id": 2002,
+                "actionDispatchEvent": "event_get_pet_btn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2003
+                }
+            },
+            {
+                "id": 2003,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2004
+                }
+            },
+            {
+                "id": 2004,
+                "actionAddEvent": "event_petBag_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2005
+                }
+            },
+            {
+                "id": 2005,
+                "actionDispatchEvent": "event_get_pet_detailBtn_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 2006
+                }
+            },
+            {
+                "id": 2006,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "right",
+                    "handPos": {
+                        "x": 0,
+                        "y": -20
+                    }
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 2007
+                }
+            },
+            {
+                "id": 2007,
+                "actionAddEvent": "event_pet_detail_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 100
+                    },
+                    "nextId": 32
+                }
+            },
+            {
+                "id": 32,
+                "actionCompClass": "CompTalk",
+                "parme": {
+                    "talkGroupId": 27
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 33
+                }
+            },
+            {
+                "id": 33,
+                "actionDispatchEvent": "event_get_warehouse_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 34
+                }
+            },
+            {
+                "id": 34,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 35
+                }
+            },
+            {
+                "id": 35,
+                "actionAddEvent": "event_RuneWarehouse_item_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 36
+                }
+            },
+            {
+                "id": 36,
+                "actionDispatchEvent": "event_get_RuneWarehouse_item_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 300
+                    },
+                    "nextId": 37
+                }
+            },
+            {
+                "id": 37,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_touchTap_mark"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 38
+                }
+            },
+            {
+                "id": 38,
+                "actionAddEvent": "event_CounterMarkUniversalPopView_init_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 39
+                }
+            },
+            {
+                "id": 39,
+                "actionDispatchEvent": "event_get_CounterMarkUniversalPopView_btnZb_rect",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 40
+                }
+            },
+            {
+                "id": 40,
+                "actionCompClass": "CompTouchTap",
+                "parme": {
+                    "hand": "left",
+                    "event": "event_onTouchTap_mark"
+                },
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 0
+                    },
+                    "nextId": 41
+                }
+            },
+            {
+                "id": 41,
+                "flagStr": "@flag_first_use_counterMark",
+                "actionAddEvent": "event_first_use_counterMark_complete",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextId": 42
+                }
+            },
+            {
+                "id": 42,
+                "actionDispatchEvent": "event_RuneWarehouse_close_all",
+                "completeFun": {
+                    "nextParma": {
+                        "delay": 500
+                    },
+                    "nextStep": 10,
+                    "nextId": 8
+                }
+            }
+        ]
+    }
+}

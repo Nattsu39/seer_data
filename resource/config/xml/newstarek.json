@@ -1,0 +1,1307 @@
+{
+    "root": {
+        "event": {
+            "item": [
+                {
+                    "id": 1,
+                    "type": 1,
+                    "Des": "普通挑战"
+                },
+                {
+                    "id": 2,
+                    "type": 2,
+                    "Des": "精英挑战"
+                },
+                {
+                    "id": 3,
+                    "type": 3,
+                    "Des": "精灵派遣"
+                },
+                {
+                    "id": 4,
+                    "type": 4,
+                    "Des": "随机选择"
+                },
+                {
+                    "id": 5,
+                    "type": 5,
+                    "Des": "宝箱"
+                },
+                {
+                    "id": 6,
+                    "type": 6,
+                    "Des": "商店"
+                },
+                {
+                    "id": 7,
+                    "type": 7,
+                    "Des": "终点boss挑战"
+                }
+            ]
+        },
+        "boxreward": {
+            "item": [
+                {
+                    "id": 1,
+                    "rewardtype": 1,
+                    "prob": 25,
+                    "rewardid": 1706927,
+                    "rewardcnt": 1
+                },
+                {
+                    "id": 2,
+                    "rewardtype": 1,
+                    "prob": 25,
+                    "rewardid": 1706928,
+                    "rewardcnt": 1
+                },
+                {
+                    "id": 3,
+                    "rewardtype": 1,
+                    "prob": 20,
+                    "rewardid": 1706826,
+                    "rewardcnt": 1
+                },
+                {
+                    "id": 4,
+                    "rewardtype": 3,
+                    "prob": 20,
+                    "rewardid": 110005,
+                    "rewardcnt": 50
+                },
+                {
+                    "id": 4,
+                    "rewardtype": 1,
+                    "prob": 10,
+                    "rewardid": 1706924,
+                    "rewardcnt": 1
+                }
+            ]
+        },
+        "buff": {
+            "item": [
+                {
+                    "id": 1,
+                    "Des": "随机复活1只已阵亡的精灵"
+                },
+                {
+                    "id": 2,
+                    "Des": "随机将1只精灵的pp回满（满pp不会随机到）"
+                },
+                {
+                    "id": 3,
+                    "Des": "随机将1只精灵的hp回满（满hp不会随机到）"
+                },
+                {
+                    "id": 4,
+                    "Des": "生命上限提升10%"
+                },
+                {
+                    "id": 5,
+                    "Des": "对手体力低于1/3时自身所有技能造成伤害提升20%",
+                    "newseid": 3598
+                },
+                {
+                    "id": 6,
+                    "Des": "致命一击率+25%",
+                    "newseid": 3600
+                },
+                {
+                    "id": 7,
+                    "Des": "所有技能消除对手回合类效果",
+                    "newseid": 772
+                },
+                {
+                    "id": 8,
+                    "Des": "技能命中率+50%",
+                    "newseid": 3601
+                },
+                {
+                    "id": 9,
+                    "Des": "伤害提升至150%",
+                    "newseid": 1803
+                },
+                {
+                    "id": 10,
+                    "Des": "每回合我方任意3项属性-1",
+                    "newseid": 3619
+                },
+                {
+                    "id": 11,
+                    "Des": "每回合结束后，我方任意1个技能PP-3",
+                    "newseid": 3602
+                },
+                {
+                    "id": 12,
+                    "Des": "技能命中率-50%",
+                    "newseid": 3603
+                },
+                {
+                    "id": 13,
+                    "Des": "每回合结束扣除自身100点血",
+                    "newseid": 3604
+                }
+            ]
+        },
+        "debuff": {
+            "item": [
+                {
+                    "id": 1,
+                    "Des": "免疫低于2000的伤害",
+                    "newseid": 2512
+                },
+                {
+                    "id": 2,
+                    "Des": "吸强",
+                    "newseid": 1516
+                },
+                {
+                    "id": 3,
+                    "Des": "5回合逃跑（仅限关卡五最终boss）",
+                    "newseid": 1933,
+                    "tasklimit": 5
+                },
+                {
+                    "id": 4,
+                    "Des": "受到的伤害减少50%",
+                    "newseid": 3605
+                },
+                {
+                    "id": 5,
+                    "Des": "遇到天敌必定秒杀（仅限关卡五最终boss）",
+                    "newseid": 3179,
+                    "tasklimit": 5
+                },
+                {
+                    "id": 6,
+                    "Des": "每回合220固伤",
+                    "newseid": 1754
+                },
+                {
+                    "id": 7,
+                    "Des": "封属（仅限关卡五最终boss）",
+                    "newseid": 1832,
+                    "tasklimit": 5
+                },
+                {
+                    "id": 8,
+                    "Des": "血量低于1k时回满",
+                    "newseid": 3606
+                },
+                {
+                    "id": 9,
+                    "Des": "每回合恢复400点体力",
+                    "newseid": 3607
+                }
+            ]
+        },
+        "task": {
+            "item": [
+                {
+                    "id": 1,
+                    "step": 1,
+                    "connect": 0,
+                    "task": 1,
+                    "line": 1,
+                    "end": 0,
+                    "eventtype": 1,
+                    "NewStatLog": 2011190716
+                },
+                {
+                    "id": 2,
+                    "step": 2,
+                    "connect": 1,
+                    "task": 1,
+                    "line": 2,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190717
+                },
+                {
+                    "id": 3,
+                    "step": 3,
+                    "connect": 2,
+                    "task": 1,
+                    "line": 3,
+                    "end": 1,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190718
+                },
+                {
+                    "id": 4,
+                    "step": 1,
+                    "connect": 0,
+                    "task": 2,
+                    "line": 4,
+                    "end": 0,
+                    "eventtype": 6,
+                    "NewStatLog": 2011190719
+                },
+                {
+                    "id": 5,
+                    "step": 2,
+                    "connect": 1,
+                    "task": 2,
+                    "line": 5,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190720
+                },
+                {
+                    "id": 6,
+                    "step": 3,
+                    "connect": 1,
+                    "task": 2,
+                    "line": 5,
+                    "end": 0,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190721
+                },
+                {
+                    "id": 7,
+                    "step": 4,
+                    "connect": 2,
+                    "task": 2,
+                    "line": 6,
+                    "end": 0,
+                    "eventtype": 3,
+                    "NewStatLog": 2011190722
+                },
+                {
+                    "id": 8,
+                    "step": 5,
+                    "connect": "2_3",
+                    "task": 2,
+                    "line": 6,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190723
+                },
+                {
+                    "id": 9,
+                    "step": 6,
+                    "connect": 3,
+                    "task": 2,
+                    "line": 6,
+                    "end": 0,
+                    "eventtype": 3,
+                    "NewStatLog": 2011190724
+                },
+                {
+                    "id": 10,
+                    "step": 7,
+                    "connect": "4_5_6",
+                    "task": 2,
+                    "line": 7,
+                    "end": 1,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190725
+                },
+                {
+                    "id": 11,
+                    "step": 1,
+                    "connect": 0,
+                    "task": 3,
+                    "line": 8,
+                    "end": 0,
+                    "eventtype": 5,
+                    "NewStatLog": 2011190726
+                },
+                {
+                    "id": 12,
+                    "step": 2,
+                    "connect": 0,
+                    "task": 3,
+                    "line": 8,
+                    "end": 0,
+                    "eventtype": 6,
+                    "NewStatLog": 2011190727
+                },
+                {
+                    "id": 13,
+                    "step": 3,
+                    "connect": 1,
+                    "task": 3,
+                    "line": 9,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190728
+                },
+                {
+                    "id": 14,
+                    "step": 4,
+                    "connect": "1_2",
+                    "task": 3,
+                    "line": 9,
+                    "end": 0,
+                    "eventtype": 1,
+                    "NewStatLog": 2011190729
+                },
+                {
+                    "id": 15,
+                    "step": 5,
+                    "connect": 2,
+                    "task": 3,
+                    "line": 9,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190730
+                },
+                {
+                    "id": 16,
+                    "step": 6,
+                    "connect": "3_4",
+                    "task": 3,
+                    "line": 10,
+                    "end": 0,
+                    "eventtype": 1,
+                    "NewStatLog": 2011190731
+                },
+                {
+                    "id": 17,
+                    "step": 7,
+                    "connect": "4_5",
+                    "task": 3,
+                    "line": 10,
+                    "end": 0,
+                    "eventtype": 1,
+                    "NewStatLog": 2011190732
+                },
+                {
+                    "id": 18,
+                    "step": 8,
+                    "connect": 5,
+                    "task": 3,
+                    "line": 10,
+                    "end": 0,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190733
+                },
+                {
+                    "id": 19,
+                    "step": 9,
+                    "connect": "6_7",
+                    "task": 3,
+                    "line": 11,
+                    "end": 0,
+                    "eventtype": 3,
+                    "NewStatLog": 2011190734
+                },
+                {
+                    "id": 20,
+                    "step": 10,
+                    "connect": "7_8",
+                    "task": 3,
+                    "line": 11,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190735
+                },
+                {
+                    "id": 21,
+                    "step": 11,
+                    "connect": "9_10",
+                    "task": 3,
+                    "line": 12,
+                    "end": 1,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190736
+                },
+                {
+                    "id": 22,
+                    "step": 1,
+                    "connect": 0,
+                    "task": 4,
+                    "line": 13,
+                    "end": 0,
+                    "eventtype": 3,
+                    "NewStatLog": 2011190737
+                },
+                {
+                    "id": 23,
+                    "step": 2,
+                    "connect": 0,
+                    "task": 4,
+                    "line": 13,
+                    "end": 0,
+                    "eventtype": 1,
+                    "NewStatLog": 2011190738
+                },
+                {
+                    "id": 24,
+                    "step": 3,
+                    "connect": 1,
+                    "task": 4,
+                    "line": 14,
+                    "end": 0,
+                    "eventtype": 5,
+                    "NewStatLog": 2011190739
+                },
+                {
+                    "id": 25,
+                    "step": 4,
+                    "connect": 2,
+                    "task": 4,
+                    "line": 14,
+                    "end": 0,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190740
+                },
+                {
+                    "id": 26,
+                    "step": 5,
+                    "connect": 3,
+                    "task": 4,
+                    "line": 15,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190741
+                },
+                {
+                    "id": 27,
+                    "step": 6,
+                    "connect": "3_4",
+                    "task": 4,
+                    "line": 15,
+                    "end": 0,
+                    "eventtype": 6,
+                    "NewStatLog": 2011190742
+                },
+                {
+                    "id": 28,
+                    "step": 7,
+                    "connect": 4,
+                    "task": 4,
+                    "line": 15,
+                    "end": 0,
+                    "eventtype": 3,
+                    "NewStatLog": 2011190743
+                },
+                {
+                    "id": 29,
+                    "step": 8,
+                    "connect": "5_6",
+                    "task": 4,
+                    "line": 16,
+                    "end": 0,
+                    "eventtype": 1,
+                    "NewStatLog": 2011190744
+                },
+                {
+                    "id": 30,
+                    "step": 9,
+                    "connect": "6_7",
+                    "task": 4,
+                    "line": 16,
+                    "end": 0,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190745
+                },
+                {
+                    "id": 31,
+                    "step": 10,
+                    "connect": 8,
+                    "task": 4,
+                    "line": 17,
+                    "end": 0,
+                    "eventtype": 6,
+                    "NewStatLog": 2011190746
+                },
+                {
+                    "id": 32,
+                    "step": 11,
+                    "connect": "8_9",
+                    "task": 4,
+                    "line": 17,
+                    "end": 0,
+                    "eventtype": 4,
+                    "NewStatLog": 2011190747
+                },
+                {
+                    "id": 33,
+                    "step": 12,
+                    "connect": 9,
+                    "task": 4,
+                    "line": 17,
+                    "end": 0,
+                    "eventtype": 5,
+                    "NewStatLog": 2011190748
+                },
+                {
+                    "id": 34,
+                    "step": 13,
+                    "connect": "10_11_12",
+                    "task": 4,
+                    "line": 18,
+                    "end": 1,
+                    "eventtype": 2,
+                    "NewStatLog": 2011190749
+                },
+                {
+                    "id": 35,
+                    "step": 1,
+                    "connect": 0,
+                    "task": 5,
+                    "line": 19,
+                    "end": 1,
+                    "eventtype": 7,
+                    "NewStatLog": 2011190750
+                }
+            ]
+        },
+        "result": {
+            "item": [
+                {
+                    "id": 1,
+                    "type": 1,
+                    "Des": "直接获得红宝石",
+                    "itemID": 1706927
+                },
+                {
+                    "id": 2,
+                    "type": 1,
+                    "Des": "直接获得绿宝石",
+                    "itemID": 1706928
+                },
+                {
+                    "id": 3,
+                    "type": 1,
+                    "Des": "直接获得迷晶",
+                    "itemID": 110005
+                },
+                {
+                    "id": 4,
+                    "type": 2,
+                    "Des": "扣一定数量迷晶",
+                    "itemID": 110005
+                },
+                {
+                    "id": 5,
+                    "type": 3,
+                    "Des": "获得buff"
+                },
+                {
+                    "id": 6,
+                    "type": 4,
+                    "Des": "获得debuff"
+                },
+                {
+                    "id": 7,
+                    "type": 5,
+                    "Des": "随机禁止1个精灵上场"
+                },
+                {
+                    "id": 8,
+                    "type": 6,
+                    "Des": "1只被禁止上场的精灵解禁"
+                },
+                {
+                    "id": 9,
+                    "type": 7,
+                    "Des": "立即随机给1只未死亡且不满血的精灵回复200点hp"
+                },
+                {
+                    "id": 10,
+                    "type": 8,
+                    "Des": "立即为1只未死亡且pp不满的精灵回满任一技能的pp"
+                },
+                {
+                    "id": 11,
+                    "type": 1,
+                    "Des": "直接获得轮回神石",
+                    "itemID": 1706926
+                }
+            ]
+        },
+        "question": {
+            "item": [
+                {
+                    "id": 1,
+                    "ques": "前面的摊位上摆着1个宝箱，此时？",
+                    "ans": "1_2_3_4"
+                },
+                {
+                    "id": 2,
+                    "ques": "精灵嚷着口渴，不想前进了，此时？",
+                    "ans": "5_6_7_8"
+                },
+                {
+                    "id": 3,
+                    "ques": "前面有一群精灵挡住了前进的道路，此时？",
+                    "ans": "9_10_11_12"
+                },
+                {
+                    "id": 4,
+                    "ques": " 1只精灵向你乞讨",
+                    "ans": "13_14_15_16"
+                },
+                {
+                    "id": 5,
+                    "ques": "前面有1个奇怪的石头，此时？",
+                    "ans": "17_18_19_20"
+                },
+                {
+                    "id": 6,
+                    "ques": " 同行的精灵似乎感染了病毒，此时？",
+                    "ans": "21_22_23_24"
+                },
+                {
+                    "id": 7,
+                    "ques": "前面有一块年久失修的墓碑，此时？",
+                    "ans": "25_26_27_28"
+                },
+                {
+                    "id": 8,
+                    "ques": "有1只精灵向你们挑衅，此时？",
+                    "ans": "29_30_31_32"
+                },
+                {
+                    "id": 9,
+                    "ques": "一只精灵想投奔我们，此时？",
+                    "ans": "33_34_35_36"
+                },
+                {
+                    "id": 10,
+                    "ques": "这是一道送分题",
+                    "ans": "37_38_39_40"
+                },
+                {
+                    "id": 11,
+                    "ques": "3只精灵向我们投奔，此时？",
+                    "ans": "41_42_43_44"
+                }
+            ]
+        },
+        "answer": {
+            "item": [
+                {
+                    "id": 1,
+                    "answer": "强制撬锁",
+                    "result": 2,
+                    "args": "5_8",
+                    "NewStatLog": 2011190751
+                },
+                {
+                    "id": 2,
+                    "answer": "打碎",
+                    "result": 2,
+                    "args": "5_8",
+                    "NewStatLog": 2011190752
+                },
+                {
+                    "id": 3,
+                    "answer": "看看底部",
+                    "result": 3,
+                    "args": "20_50",
+                    "NewStatLog": 2011190753
+                },
+                {
+                    "id": 4,
+                    "answer": "买（建议不选）",
+                    "result": 4,
+                    "args": "1_2",
+                    "alarm": "什么也没发生，浪费了几个迷晶",
+                    "NewStatLog": 2011190754
+                },
+                {
+                    "id": 5,
+                    "answer": "整一杯肥宅快乐水",
+                    "alarm": "喝完有点更加渴了",
+                    "NewStatLog": 2011190755
+                },
+                {
+                    "id": 6,
+                    "answer": "来一招望梅止渴",
+                    "result": 7,
+                    "alarm": "$决定先去前面探探路，就再也没有回来",
+                    "NewStatLog": 2011190756
+                },
+                {
+                    "id": 7,
+                    "answer": "来一杯快乐樱桃酒",
+                    "result": 5,
+                    "args": 12,
+                    "alarm": "喝完精灵们有点浩浩乎如冯虚御风，而不知其所止，技能命中率下降了50%",
+                    "NewStatLog": 2011190757
+                },
+                {
+                    "id": 8,
+                    "answer": "多喝热水",
+                    "result": 3,
+                    "args": "30_50",
+                    "NewStatLog": 2011190758
+                },
+                {
+                    "id": 9,
+                    "answer": "杀敌，突出重围",
+                    "result": 5,
+                    "args": 13,
+                    "alarm": "你的精灵遭受了重创，再次战斗时，每回合结束都会扣除100点血",
+                    "NewStatLog": 2011190759
+                },
+                {
+                    "id": 10,
+                    "answer": "绕路看看能否找到突破口",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190760
+                },
+                {
+                    "id": 11,
+                    "answer": "乔装打扮混进人堆过去",
+                    "result": 3,
+                    "args": "2_8",
+                    "NewStatLog": 2011190761
+                },
+                {
+                    "id": 12,
+                    "answer": "招呼他们一起进来",
+                    "result": 8,
+                    "alarm": "走失的$就在这堆精灵里，现在他又可以上阵了！_什么也没发生",
+                    "NewStatLog": 2011190762
+                },
+                {
+                    "id": 13,
+                    "answer": "给予一些帮助",
+                    "result": 4,
+                    "args": "1_2",
+                    "alarm": "失去了一些迷晶，但是助人为乐的赛尔很高兴！",
+                    "NewStatLog": 2011190763
+                },
+                {
+                    "id": 14,
+                    "answer": "充耳不闻",
+                    "result": 5,
+                    "args": 10,
+                    "alarm": "被精灵诅咒了，获得了每回合任意3项属性-1的debuff",
+                    "NewStatLog": 2011190764
+                },
+                {
+                    "id": 15,
+                    "answer": "招募他进入自己的队伍",
+                    "result": 10,
+                    "alarm": "他帮助$回满了血量_什么也没发生",
+                    "NewStatLog": 2011190765
+                },
+                {
+                    "id": 16,
+                    "answer": "给予很多帮助",
+                    "result": 5,
+                    "args": 8,
+                    "alarm": "赠送了很多迷晶，作为回报，他祝福了赛尔，使得之后作战技能命中率+50%",
+                    "NewStatLog": 2011190766
+                },
+                {
+                    "id": 17,
+                    "answer": "翻开看看",
+                    "result": 1,
+                    "args": 10,
+                    "NewStatLog": 2011190767
+                },
+                {
+                    "id": 18,
+                    "answer": "装作没看见",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190768
+                },
+                {
+                    "id": 19,
+                    "answer": "直接前进",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190769
+                },
+                {
+                    "id": 20,
+                    "answer": "砸碎",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190770
+                },
+                {
+                    "id": 21,
+                    "answer": "大义灭亲",
+                    "result": 5,
+                    "args": 11,
+                    "alarm": "错误的做法导致你获得了debuff：每回合任意1个技能pp值-3",
+                    "NewStatLog": 2011190771
+                },
+                {
+                    "id": 22,
+                    "answer": "替他隐瞒",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190772
+                },
+                {
+                    "id": 23,
+                    "answer": "装作没看见",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190773
+                },
+                {
+                    "id": 24,
+                    "answer": "上报总部",
+                    "result": 3,
+                    "args": "20_50",
+                    "NewStatLog": 2011190774
+                },
+                {
+                    "id": 25,
+                    "answer": "许愿红宝石",
+                    "result": 1,
+                    "args": 8,
+                    "NewStatLog": 2011190775
+                },
+                {
+                    "id": 26,
+                    "answer": "许愿更多红宝石",
+                    "result": 1,
+                    "args": 20,
+                    "NewStatLog": 2011190776
+                },
+                {
+                    "id": 27,
+                    "answer": "许愿迷晶",
+                    "result": 3,
+                    "args": "20_50",
+                    "NewStatLog": 2011190777
+                },
+                {
+                    "id": 28,
+                    "answer": "许愿能力加强",
+                    "result": 9,
+                    "alarm": "$精灵血量恢复了200_什么也没发生",
+                    "NewStatLog": 2011190778
+                },
+                {
+                    "id": 29,
+                    "answer": "打一顿",
+                    "result": 4,
+                    "args": "1_8",
+                    "alarm": "他们没输，我们也没赢",
+                    "NewStatLog": 2011190779
+                },
+                {
+                    "id": 30,
+                    "answer": "称兄道弟",
+                    "result": 6,
+                    "args": 8,
+                    "alarm": "我们的软弱导致敌方士气大振，学习了血量低于1k时回满的特殊能力",
+                    "NewStatLog": 2011190780
+                },
+                {
+                    "id": 31,
+                    "answer": "委婉求饶",
+                    "result": 6,
+                    "args": 5,
+                    "alarm": "觉得我们太好欺负，决定投靠大boss，向他献上了遇到天敌必定秒杀的特殊能力",
+                    "NewStatLog": 2011190781
+                },
+                {
+                    "id": 32,
+                    "answer": "跑为上策",
+                    "result": 6,
+                    "args": 7,
+                    "alarm": "觉得我们太好欺负，决定投靠大boss，向他献上了封属的特殊能力",
+                    "NewStatLog": 2011190782
+                },
+                {
+                    "id": 33,
+                    "answer": "收他为徒",
+                    "result": 6,
+                    "args": 2,
+                    "alarm": "没想到他是对面派来的卧底，从我这儿偷学了吸强的能力",
+                    "NewStatLog": 2011190783
+                },
+                {
+                    "id": 34,
+                    "answer": "不做理睬",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190784
+                },
+                {
+                    "id": 35,
+                    "answer": "收一笔入队费",
+                    "result": 2,
+                    "args": 5,
+                    "NewStatLog": 2011190785
+                },
+                {
+                    "id": 36,
+                    "answer": "收一大笔入队费",
+                    "result": 2,
+                    "args": 10,
+                    "NewStatLog": 2011190786
+                },
+                {
+                    "id": 37,
+                    "answer": "别选我",
+                    "result": 6,
+                    "args": 1,
+                    "alarm": "敌方学习了免疫低于2000的伤害的能力",
+                    "NewStatLog": 2011190787
+                },
+                {
+                    "id": 38,
+                    "answer": "别选我",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190788
+                },
+                {
+                    "id": 39,
+                    "answer": "选我也行",
+                    "result": 2,
+                    "args": 20,
+                    "NewStatLog": 2011190789
+                },
+                {
+                    "id": 40,
+                    "answer": "最好选我",
+                    "result": 11,
+                    "args": 1,
+                    "NewStatLog": 2011190790
+                },
+                {
+                    "id": 41,
+                    "answer": "收他们为徒",
+                    "result": 1,
+                    "args": 10,
+                    "NewStatLog": 2011190791
+                },
+                {
+                    "id": 42,
+                    "answer": "不做理睬",
+                    "alarm": "什么也没发生",
+                    "NewStatLog": 2011190792
+                },
+                {
+                    "id": 43,
+                    "answer": "收一笔入队费",
+                    "result": 6,
+                    "args": 4,
+                    "alarm": "没想到他是对面派来的卧底，从我这儿偷学了受到的伤害减少50%的能力",
+                    "NewStatLog": 2011190793
+                },
+                {
+                    "id": 44,
+                    "answer": "收一大笔入队费",
+                    "result": 6,
+                    "args": 3,
+                    "alarm": "没想到他是对面派来的卧底，从我这儿偷学了5回合逃跑的能力",
+                    "NewStatLog": 2011190794
+                }
+            ]
+        },
+        "shop": {
+            "item": [
+                {
+                    "id": 1,
+                    "Des": "随机复活1只已阵亡的精灵",
+                    "cost": 80,
+                    "itemID": 110005,
+                    "buffid": 1,
+                    "alarm": "$被复活_没有精灵阵亡"
+                },
+                {
+                    "id": 2,
+                    "Des": "对手体力低于1/3时自身所有技能造成伤害提升20%",
+                    "cost": 40,
+                    "itemID": 110005,
+                    "buffid": 5
+                },
+                {
+                    "id": 3,
+                    "Des": "随机将1只精灵的pp回满（满pp不会随机到）",
+                    "cost": 120,
+                    "itemID": 110005,
+                    "buffid": 2,
+                    "alarm": "$pp已回满_所有精灵pp都是满值"
+                },
+                {
+                    "id": 4,
+                    "Des": "随机将1只精灵的hp回满（满hp不会随机到）",
+                    "cost": 120,
+                    "itemID": 110005,
+                    "buffid": 3,
+                    "alarm": "$hp已回满_所有精灵hp都是满值"
+                },
+                {
+                    "id": 5,
+                    "Des": "生命上限提升10%",
+                    "cost": 80,
+                    "itemID": 110005,
+                    "buffid": 4,
+                    "alarm": "精灵生命上限提升了10%"
+                },
+                {
+                    "id": 6,
+                    "Des": "致命一击率+25%",
+                    "cost": 60,
+                    "itemID": 110005,
+                    "buffid": 6
+                },
+                {
+                    "id": 7,
+                    "Des": "所有技能消除对手回合类效果",
+                    "cost": 120,
+                    "itemID": 110005,
+                    "buffid": 7
+                },
+                {
+                    "id": 8,
+                    "Des": "技能命中率+50%",
+                    "cost": 80,
+                    "itemID": 110005,
+                    "buffid": 8
+                },
+                {
+                    "id": 9,
+                    "Des": "伤害提升至150%",
+                    "cost": 100,
+                    "itemID": 110005,
+                    "buffid": 9
+                }
+            ]
+        },
+        "deliver": {
+            "item": [
+                {
+                    "id": 1,
+                    "round": "2_5",
+                    "succprob": 5,
+                    "addprob": "10_10_10_10_5",
+                    "rewardtype": "1_1_1_3_1",
+                    "rewardid": "1706927_1706928_1_110005_1706826",
+                    "rewardcnt": "15_15_1_15_1"
+                },
+                {
+                    "id": 2,
+                    "round": "2_5",
+                    "succprob": 15,
+                    "addprob": "10_10_10_10_5",
+                    "rewardtype": "1_1_1_3_1",
+                    "rewardid": "1706927_1706928_1706925_110005_1",
+                    "rewardcnt": "15_15_1_15_50"
+                },
+                {
+                    "id": 3,
+                    "round": "2_3",
+                    "succprob": 20,
+                    "addprob": "15_15_10_10_5",
+                    "rewardtype": "1_1_1_3_1",
+                    "rewardid": "1706927_1706928_1706924_110005_1",
+                    "rewardcnt": "15_15_1_15_50"
+                }
+            ]
+        },
+        "easyboss": {
+            "item": [
+                {
+                    "id": 1,
+                    "monsterid": "2201",
+                    "bossid": 1091,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 2,
+                    "monsterid": "2202",
+                    "bossid": 1092,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 3,
+                    "monsterid": "2203",
+                    "bossid": 1093,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 4,
+                    "monsterid": "2128",
+                    "bossid": 1094,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 5,
+                    "monsterid": "2284",
+                    "bossid": 1095,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 6,
+                    "monsterid": "2190",
+                    "bossid": 1096,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 7,
+                    "monsterid": "2847",
+                    "bossid": 1097,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 8,
+                    "monsterid": "3093",
+                    "bossid": 1098,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 9,
+                    "monsterid": "3585",
+                    "bossid": 1099,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 10,
+                    "monsterid": "2712",
+                    "bossid": 1100,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 11,
+                    "monsterid": "2803",
+                    "bossid": 1101,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                },
+                {
+                    "id": 12,
+                    "monsterid": "3327",
+                    "bossid": 1102,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "50",
+                    "deleteitem": 110005,
+                    "deletecnt": 20
+                }
+            ]
+        },
+        "difficultboss": {
+            "item": [
+                {
+                    "id": 1,
+                    "monsterid": "2625_2631",
+                    "bossid": 1104,
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "60",
+                    "deleteitem": 110005,
+                    "deletecnt": 50
+                },
+                {
+                    "id": 2,
+                    "monsterid": "2654_3761_3916",
+                    "bossid": "1105_1106_1107",
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "100",
+                    "deleteitem": 110005,
+                    "deletecnt": 40
+                },
+                {
+                    "id": 3,
+                    "monsterid": "3091_3088_3096",
+                    "bossid": "1108_1109_1110",
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "100",
+                    "deleteitem": 110005,
+                    "deletecnt": 40
+                },
+                {
+                    "id": 4,
+                    "monsterid": "3252_3245_3071",
+                    "bossid": "1111_1112_1113",
+                    "rewardtype": "3",
+                    "rewardid": "110005",
+                    "rewardcnt": "100",
+                    "deleteitem": 110005,
+                    "deletecnt": 40
+                }
+            ]
+        },
+        "boss": {
+            "item": [
+                {
+                    "id": 1,
+                    "monsterid": 3645,
+                    "bossid": 1114,
+                    "rewardtype": "1_1_1_1_1_1",
+                    "rewardid": "1706927_1706928_1706926_1706925_1706924_1706826",
+                    "rewardcnt": "100_100_3_4_4_6"
+                },
+                {
+                    "id": 2,
+                    "monsterid": 3646,
+                    "bossid": 1115,
+                    "rewardtype": "1_1_1_1_1_1",
+                    "rewardid": "1706927_1706928_1706926_1706925_1706924_1706826",
+                    "rewardcnt": "100_100_3_4_4_6"
+                },
+                {
+                    "id": 3,
+                    "monsterid": 3647,
+                    "bossid": 1116,
+                    "rewardtype": "1_1_1_1_1_1",
+                    "rewardid": "1706927_1706928_1706926_1706925_1706924_1706826",
+                    "rewardcnt": "100_100_3_4_4_6"
+                },
+                {
+                    "id": 4,
+                    "monsterid": 3648,
+                    "bossid": 1117,
+                    "rewardtype": "1_1_1_1_1_1",
+                    "rewardid": "1706927_1706928_1706926_1706925_1706924_1706826",
+                    "rewardcnt": "100_100_3_4_4_6"
+                },
+                {
+                    "id": 5,
+                    "monsterid": 3821,
+                    "bossid": 1118,
+                    "rewardtype": "1_1_1_1_1_1",
+                    "rewardid": "1706927_1706928_1706926_1706925_1706924_1706826",
+                    "rewardcnt": "100_100_3_4_4_6"
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,903 @@
+{
+    "Root": {
+        "Moulds": {
+            "Mould": [
+                {
+                    "ID": 1,
+                    "Forever": "107741 107742 107743 107744 107745 107746 107747 107748 107749 107750 107751 107752 107753 107754 107755 107756 107757 107758 107759 107760 107761 107762 107763 107764"
+                },
+                {
+                    "ID": 2
+                },
+                {
+                    "ID": 3
+                },
+                {
+                    "ID": 4,
+                    "Forever": 107765
+                },
+                {
+                    "ID": 5,
+                    "Daily": "200204 200205 200206 200207 200208 200209 200210 200211 200212 200213 200214 200215 200216 200217 200218 200219 200220 200221 200222 200223 200224 200225 200226 200227 200228"
+                },
+                {
+                    "ID": 6,
+                    "Daily": 200203
+                },
+                {
+                    "ID": 7
+                },
+                {
+                    "ID": 8,
+                    "Daily": "200251 200252 200253 200254 200255 200256 200257 200258 200259 200260 200261 200262 200263 200264 200265 200266 200267 200268 200269 200270 200271 200272 200273 200274"
+                },
+                {
+                    "ID": 9,
+                    "Daily": 200275
+                },
+                {
+                    "ID": 10,
+                    "Daily": "200281 200282 200283 200284 200285 200286 200287 200288 200289 200290 200291 200292 200293 200294 200295 200296 200297 200298 200299 200300 200724 200725 200726 200727"
+                },
+                {
+                    "ID": 11,
+                    "Daily": 200315
+                }
+            ]
+        },
+        "Rules": {
+            "Rule": [
+                {
+                    "ID": 1,
+                    "MouldID": 1,
+                    "Desc": "不可重复上阵（出战背包派出过的）精灵"
+                },
+                {
+                    "ID": 2,
+                    "MouldID": 2,
+                    "Args": "3022 3460 3437",
+                    "Desc": "禁用精灵：王之哈莫、幻境界皇、艾欧丽娅"
+                },
+                {
+                    "ID": 3,
+                    "MouldID": 2,
+                    "Args": 3512,
+                    "Desc": "禁止使用精灵——帝皇之御"
+                },
+                {
+                    "ID": 4,
+                    "MouldID": 3,
+                    "Args": 100,
+                    "Desc": "背包内出战精灵必须=100级"
+                },
+                {
+                    "ID": 5,
+                    "MouldID": 4,
+                    "Args": 5,
+                    "Desc": "对战累计失败＞5次，则本轮挑战自动放弃"
+                },
+                {
+                    "ID": 6,
+                    "MouldID": 5,
+                    "Desc": "不可重复上阵（出战背包派出过的）精灵"
+                },
+                {
+                    "ID": 7,
+                    "MouldID": 6,
+                    "Args": 3,
+                    "Desc": "对战累计失败＞3次，则本轮挑战自动放弃"
+                },
+                {
+                    "ID": 8,
+                    "Desc": "在受到神秘系攻击之前，BOSS对对手具有伤害提升效果"
+                },
+                {
+                    "ID": 9,
+                    "MouldID": 7,
+                    "Args": 7,
+                    "Desc": "每场battle都需要在7回合内击败BOSS，否则此场battle按失败结算"
+                },
+                {
+                    "ID": 10,
+                    "MouldID": 8,
+                    "Desc": "不可重复上阵（出战背包派出过的）精灵"
+                },
+                {
+                    "ID": 11,
+                    "MouldID": 9,
+                    "Args": 3,
+                    "Desc": "对战累计失败＞3次，则本轮挑战自动放弃"
+                },
+                {
+                    "ID": 12,
+                    "MouldID": 7,
+                    "Args": 6,
+                    "Desc": "每场battle都需要在6回合内击败BOSS，否则此场battle按失败结算"
+                },
+                {
+                    "ID": 13,
+                    "MouldID": 10,
+                    "Desc": "不可重复上阵（出战背包派出过的）精灵"
+                },
+                {
+                    "ID": 14,
+                    "MouldID": 11,
+                    "Args": 3,
+                    "Desc": "对战累计失败＞3次，则本轮挑战自动放弃"
+                }
+            ]
+        },
+        "Design": [
+            {
+                "Reward": {
+                    "ItemID": 1723493,
+                    "MonsterID": 4210,
+                    "MintMarkID": 42011,
+                    "MoveID": 1,
+                    "NewSeId": 5700,
+                    "GainValue": 107766
+                },
+                "Configure": {
+                    "Exchange_pet": 315,
+                    "Exchange_mintmark": 35,
+                    "Exchange_moves": 105,
+                    "Exchange_newse": 210,
+                    "Times": 3,
+                    "ProgressValue": 107767,
+                    "TimeValue": 12713
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3026,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000000,
+                            "Desc": "【很弱的敌人】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3013,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000001,
+                            "Desc": "【很弱的敌人，每回合附带220固伤】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3006,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000002,
+                            "Desc": "【有点强的敌人，每回合附带220固伤，受到伤害减少30%】"
+                        }
+                    ],
+                    "Out": 12,
+                    "RuleID": 1,
+                    "TaskStyle": 1,
+                    "BattleCnt": 3
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3460,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000003,
+                            "Desc": "【有点强的敌人，每回合220固伤，每回合恢复250hp】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3463,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000004,
+                            "Desc": "【有点强的敌人，每回合220固伤，每回合恢复500hp，每回合随机使对手1个技能PP值归零】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3367,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000005,
+                            "Desc": "【比较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4210,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000006,
+                            "Desc": "【比较强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 18,
+                    "RuleID": "1 2",
+                    "TaskStyle": 1,
+                    "BattleCnt": 4
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4048,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000007,
+                            "Desc": "【很弱的敌人，受到伤害大于2000时恢复自身全部体力】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4050,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000008,
+                            "Desc": "【有点强的敌人，每回合技能吸取对手一定HP】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4075,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000009,
+                            "Desc": "【比较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4032,
+                            "BattleType": 1,
+                            "Battlelevel": 4,
+                            "BossID": 1000010,
+                            "Desc": "【比较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4210,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000011,
+                            "Desc": "【厉害的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 36,
+                    "RuleID": "1 2 4 5",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5
+                },
+                "Stat": {
+                    "Battle": {
+                        "Start": 2104020500,
+                        "Finish": 2104020503,
+                        "Abandon": 2104020506
+                    },
+                    "Exchange": {
+                        "Monster": 2104020510,
+                        "Mintmark": 2104020511,
+                        "NewSe": 2104020512,
+                        "Move": 2104020513
+                    },
+                    "Task": {
+                        "Easy": {
+                            "Win": 2104020514,
+                            "Fail": 2104020526
+                        },
+                        "Normal": {
+                            "Win": 2104020517,
+                            "Fail": 2104020529
+                        },
+                        "Hard": {
+                            "Win": 2104020521,
+                            "Fail": 2104020533
+                        }
+                    }
+                },
+                "ID": 1,
+                "Desc": "20210402 S莫伊莱"
+            },
+            {
+                "Reward": {
+                    "ItemID": 2400004,
+                    "MonsterID": 4225,
+                    "MintMarkID": 42030,
+                    "MoveID": 1,
+                    "NewSeId": 5715,
+                    "GainValue": 107869
+                },
+                "Configure": {
+                    "Exchange_mintmark": 40,
+                    "Exchange_moves": 100,
+                    "Exchange_newse": 200,
+                    "Times": 3,
+                    "ProgressValue": 200201,
+                    "TimeValue": 200202
+                },
+                "Hardachievement": {
+                    "BranchID": 145,
+                    "ruleID": 1,
+                    "Achievementrule": 1
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4075,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000012,
+                            "Desc": "【较弱的敌人】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4050,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000013,
+                            "Desc": "【较弱的敌人】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4048,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000014,
+                            "Desc": "【有点强的敌人，每回合随机增加属性】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4187,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000015,
+                            "Desc": "【有点强的敌人，每回合恢复500hp、每回合附加220固定伤害、每回合随机增加属性】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4225,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000016,
+                            "Desc": "【有点强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 12,
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4075,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000017,
+                            "Desc": "【有点强的敌人，体力低于1500回满体力，每回合附加220固定伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4050,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000018,
+                            "Desc": "【有点强的敌人，体力低于1500回满体力，每回合附加220固定伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4048,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000019,
+                            "Desc": "【有点强的敌人，可以消除对手能力提升状态，每回合附加220固定伤害，每回合随机使对手1个技能PP值归零】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4187,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000020,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4225,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000021,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 22,
+                    "RuleID": "6 8",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4075,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000022,
+                            "Desc": "【有点强的敌人，可以消除对手能力提升状态，防御能力较强，免疫物理伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4050,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000023,
+                            "Desc": "【有点强的敌人，可以消除对手能力提升状态，防御能力较强，免疫特殊伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4048,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000024,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4187,
+                            "BattleType": 1,
+                            "Battlelevel": 5,
+                            "BossID": 1000025,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4225,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1000026,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 42,
+                    "RuleID": "6 2 4 7",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "Stat": {
+                    "Battle": {
+                        "Start": 2105140501,
+                        "Finish": 2105140504,
+                        "Abandon": 2105140507
+                    },
+                    "Exchange": {
+                        "Mintmark": 2105140511,
+                        "NewSe": 2105140512,
+                        "Move": 2105140513
+                    },
+                    "Task": {
+                        "Easy": {
+                            "Win": 2105140514,
+                            "Fail": 2105140529
+                        },
+                        "Normal": {
+                            "Win": 2105140519,
+                            "Fail": 2105140534
+                        },
+                        "Hard": {
+                            "Win": 2105140524,
+                            "Fail": 2105140539
+                        }
+                    },
+                    "Achievement": {
+                        "Get": 2105140500
+                    }
+                },
+                "ID": 2,
+                "Desc": "20210514 S霍瑞洛吉"
+            },
+            {
+                "Reward": {
+                    "ItemID": 2400006,
+                    "MonsterID": 4240,
+                    "MintMarkID": 42042,
+                    "MoveID": 1,
+                    "NewSeId": 5730,
+                    "GainValue": 107919
+                },
+                "Configure": {
+                    "Exchange_mintmark": 40,
+                    "Exchange_moves": 100,
+                    "Exchange_newse": 200,
+                    "Times": 3,
+                    "ProgressValue": 200249,
+                    "TimeValue": 200250
+                },
+                "Hardachievement": {
+                    "BranchID": 145,
+                    "ruleID": 2,
+                    "Achievementrule": 1
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4144,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000027,
+                            "Desc": "【简单的敌人，伤害提升100%】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4212,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000028,
+                            "Desc": "【简单的敌人，先制+1，伤害提升100%】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4156,
+                            "BattleType": 1,
+                            "Battlelevel": 2,
+                            "BossID": 1000029,
+                            "Desc": "【有点难度的敌人，先制+2，伤害提升200%，每回合随机减少对手属性且恢复自身一定体力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4240,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000030,
+                            "Desc": "【有点强的敌人，有概率使对手害怕，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4189,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000031,
+                            "Desc": "【有点强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 12,
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4144,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000032,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，每回合附带一定的固定伤害，有一定概率闪避】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4212,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000033,
+                            "Desc": "【有点难度的敌人，先制+2，伤害提升200%，每回合附带一定的固定伤害且防御能力提升，有一定概率闪避】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4156,
+                            "BattleType": 1,
+                            "Battlelevel": 4,
+                            "BossID": 1000034,
+                            "Desc": "【有点难度的敌人，对手无法强化自己，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4240,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000035,
+                            "Desc": "【有点强的敌人，有概率使对手害怕，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4189,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000036,
+                            "Desc": "【有点强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 22,
+                    "RuleID": "9 10",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4144,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000037,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，对手无法强化自己，受到过高的伤害时会恢复自身体力，每回合附带一定的固定伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4212,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000038,
+                            "Desc": "【有点强的敌人，受到过高的伤害时会恢复自身体力，暴击概率提升，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4156,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000039,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4240,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000040,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4189,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1000041,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 42,
+                    "RuleID": "10 2 4 11",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "Stat": {
+                    "Battle": {
+                        "Start": 2106111301,
+                        "Finish": 2106111304,
+                        "Abandon": 2106111307
+                    },
+                    "Exchange": {
+                        "Mintmark": 2106111311,
+                        "NewSe": 2106111313,
+                        "Move": 2106111312
+                    },
+                    "Task": {
+                        "Easy": {
+                            "Win": 2106111314,
+                            "Fail": 2106111329
+                        },
+                        "Normal": {
+                            "Win": 2106111319,
+                            "Fail": 2106111334
+                        },
+                        "Hard": {
+                            "Win": 2106111324,
+                            "Fail": 2106111339
+                        }
+                    },
+                    "Achievement": {
+                        "Get": 2106111300
+                    }
+                },
+                "ID": 3,
+                "Desc": "20210611 S溯洄•拉伯克"
+            },
+            {
+                "Reward": {
+                    "ItemID": 2400007,
+                    "MonsterID": 4241,
+                    "MintMarkID": 42043,
+                    "MoveID": 1,
+                    "NewSeId": 5731,
+                    "GainValue": 107924
+                },
+                "Configure": {
+                    "Exchange_mintmark": 54,
+                    "Exchange_moves": 108,
+                    "Exchange_newse": 270,
+                    "SweepItemID": 1723787,
+                    "SweepProductID": 258917,
+                    "Times": 3,
+                    "ProgressValue": 200314,
+                    "TimeValue": 200316
+                },
+                "Hardachievement": {
+                    "BranchID": 145,
+                    "ruleID": 3,
+                    "Achievementrule": 1
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4054,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000042,
+                            "Desc": "【简单的敌人，伤害提升100%】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4072,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000043,
+                            "Desc": "【简单的敌人，先制+1，伤害提升100%】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4043,
+                            "BattleType": 1,
+                            "Battlelevel": 2,
+                            "BossID": 1000044,
+                            "Desc": "【有点难度的敌人，先制+2，伤害提升200%，每回合随机增加属性，具有一定比例减伤】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4088,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000045,
+                            "Desc": "【有点难度的敌人，先制+3，伤害提升200%，每回合随机增加属性、附带一定的固定伤害且恢复一定体力，具有一定比例减伤】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4219,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000046,
+                            "Desc": "【有点难度的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 9,
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4054,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000047,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，每回合双防提升，且附带一定的固定伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4072,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000048,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，每回合双防提升且附带一定的固定伤害，免疫过低的伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4043,
+                            "BattleType": 1,
+                            "Battlelevel": 4,
+                            "BossID": 1000049,
+                            "Desc": "【有点难度的敌人，对手无法强化自己，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4088,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000050,
+                            "Desc": "【有点难度的敌人，每回合有一定概率令对手害怕，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4219,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000051,
+                            "Desc": "【有点强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 18,
+                    "RuleID": "12 13",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4054,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000052,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，对手无法强化自己，每降低一定的自身体力则造成的伤害有所提升，有一定概率闪避】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4072,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000053,
+                            "Desc": "【有点强的敌人，只有水系、火系、草系才能对BOSS造成伤害，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4043,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000054,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4088,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000055,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4219,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1000056,
+                            "Desc": "【较强的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 36,
+                    "RuleID": "13 2 4 14",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "Stat": {
+                    "Battle": {
+                        "Start": 2106180401,
+                        "Finish": 2106180404,
+                        "Abandon": 2106180407
+                    },
+                    "Exchange": {
+                        "Mintmark": 2106180411,
+                        "NewSe": 2106180413,
+                        "Move": 2106180412
+                    },
+                    "Task": {
+                        "Easy": {
+                            "Win": 2106180414,
+                            "Fail": 2106180429
+                        },
+                        "Normal": {
+                            "Win": 2106180419,
+                            "Fail": 2106180434
+                        },
+                        "Hard": {
+                            "Win": 2106180424,
+                            "Fail": 2106180439
+                        }
+                    },
+                    "Achievement": {
+                        "Get": 2106180400
+                    }
+                },
+                "ID": 4,
+                "Desc": "20210618 SS环·零"
+            }
+        ]
+    }
+}

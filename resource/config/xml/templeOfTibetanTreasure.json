@@ -1,0 +1,169 @@
+{
+    "Root": {
+        "PersonGame": {
+            "Game": [
+                {
+                    "Levels": {
+                        "LevelInfo": [
+                            {
+                                "level": 0,
+                                "nodeNum": 0
+                            },
+                            {
+                                "level": 1,
+                                "nodeNum": 2,
+                                "route": "1_2",
+                                "reward": "100_0_2"
+                            },
+                            {
+                                "level": 2,
+                                "nodeNum": 5,
+                                "route": "1_2|1_3|2_3|2_4|2_5|3_4|3_5|4_5",
+                                "reward": "100_0_3"
+                            },
+                            {
+                                "level": 3,
+                                "nodeNum": 6,
+                                "route": "1_2|1_3|1_5|1_6|2_4|3_4|4_5|4_6|5_6",
+                                "reward": "80_0_5|20_1_1"
+                            },
+                            {
+                                "level": 4,
+                                "nodeNum": 6,
+                                "route": "1_2|1_3|1_4|1_5|2_6|3_4|3_6|4_6|5_6",
+                                "reward": "80_0_5|20_1_4"
+                            },
+                            {
+                                "level": 5,
+                                "nodeNum": 5,
+                                "route": "1_2|1_3|1_4|1_5|2_3|2_4|2_5|3_4|3_5|4_5",
+                                "reward": "100_1_4"
+                            }
+                        ]
+                    },
+                    "des": "个人模式星云迷途面板",
+                    "panelName": "AstrayOfStarAndCloudMainPanel",
+                    "maxTime": 35,
+                    "delayTime": 15,
+                    "itemIds": "1721765_1721763"
+                },
+                {
+                    "Rules": {
+                        "Rule": [
+                            {
+                                "id": 1,
+                                "score": "-10|10"
+                            },
+                            {
+                                "id": 2,
+                                "score": "7|5"
+                            },
+                            {
+                                "id": 3,
+                                "score": "5|7"
+                            },
+                            {
+                                "id": 4,
+                                "score": "10|-10"
+                            }
+                        ]
+                    },
+                    "Rewards": {
+                        "Reward": [
+                            {
+                                "level": 1,
+                                "score": "1|100",
+                                "reward": "0_1"
+                            },
+                            {
+                                "level": 2,
+                                "score": "101|250",
+                                "reward": "0_2"
+                            },
+                            {
+                                "level": 3,
+                                "score": "251|450",
+                                "reward": "0_2|1_8"
+                            },
+                            {
+                                "level": 4,
+                                "score": "451|-1",
+                                "reward": "1_8"
+                            }
+                        ]
+                    },
+                    "des": "个人模式欢腾的鬼火面板",
+                    "panelName": "JubilantGhostFireMainPanel",
+                    "maxTime": 35,
+                    "itemIds": "1721765_1721763"
+                },
+                {
+                    "Reward": [
+                        {
+                            "id": 1,
+                            "bossId": "3979_3945_3924",
+                            "reward": "90_5_5_0|10_1_1_1"
+                        },
+                        {
+                            "id": 2,
+                            "bossId": "3962_3961_3953",
+                            "reward": "80_8_8_0|20_2_2_1"
+                        },
+                        {
+                            "id": 3,
+                            "bossId": "3983_3896_3866",
+                            "reward": "70_8_10_0|30_5_5_1"
+                        }
+                    ],
+                    "des": "个人模式星辰挑战面板",
+                    "panelName": "StarChallengeMainPanel",
+                    "itemIds": "1721765_1721763"
+                },
+                {
+                    "MainBoss": {
+                        "bossId": 4020,
+                        "exchangID": 13110,
+                        "costNum": 998,
+                        "costDiamond": 998,
+                        "exchangeItem": 1
+                    },
+                    "OtherBoss": {
+                        "Boss": [
+                            {
+                                "bossId": 3998,
+                                "exchangID": 13111,
+                                "costNum": 998,
+                                "exchangeItem": 0,
+                                "iconId": 10001
+                            },
+                            {
+                                "bossId": 3986,
+                                "exchangID": 13112,
+                                "costNum": 998,
+                                "exchangeItem": 0,
+                                "iconId": 10007
+                            },
+                            {
+                                "bossId": 3988,
+                                "exchangID": 13113,
+                                "costNum": 998,
+                                "exchangeItem": 0,
+                                "iconId": 1004
+                            },
+                            {
+                                "bossId": 4010,
+                                "exchangID": 13114,
+                                "costNum": 998,
+                                "exchangeItem": 0,
+                                "iconId": 10011
+                            }
+                        ]
+                    },
+                    "des": "星辰宝藏兑换面板",
+                    "panelName": "StarTreasureExchangePanel",
+                    "itemIds": "1721765_1721763"
+                }
+            ]
+        }
+    }
+}

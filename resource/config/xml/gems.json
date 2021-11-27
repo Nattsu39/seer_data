@@ -1,0 +1,4685 @@
+{
+    "Gems": {
+        "Gem": [
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "3"
+                        }
+                    }
+                ],
+                "ID": 1800001,
+                "Name": "冻伤宝石Lv1",
+                "Category": 1,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "命中后3%/6%/9%/12%/15%/18%/21%/24%/27%/30%令对方冻伤",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800002,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "6"
+                        }
+                    }
+                ],
+                "ID": 1800002,
+                "Name": "冻伤宝石Lv2",
+                "Category": 1,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800003,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "9"
+                        }
+                    }
+                ],
+                "ID": 1800003,
+                "Name": "冻伤宝石Lv3",
+                "Category": 1,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800004,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800004,
+                "Name": "冻伤宝石Lv4",
+                "Category": 1,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800005,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800005,
+                "Name": "冻伤宝石Lv5",
+                "Category": 1,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800006,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "18"
+                        }
+                    }
+                ],
+                "ID": 1800006,
+                "Name": "冻伤宝石Lv6",
+                "Category": 1,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800007,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "21"
+                        }
+                    }
+                ],
+                "ID": 1800007,
+                "Name": "冻伤宝石Lv7",
+                "Category": 1,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800008,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "24"
+                        }
+                    }
+                ],
+                "ID": 1800008,
+                "Name": "冻伤宝石Lv8",
+                "Category": 1,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800009,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "27"
+                        }
+                    }
+                ],
+                "ID": 1800009,
+                "Name": "冻伤宝石Lv9",
+                "Category": 1,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800010,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 14,
+                            "Param": "30"
+                        }
+                    }
+                ],
+                "ID": 1800010,
+                "Name": "冻伤宝石Lv10",
+                "Category": 1,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "3"
+                        }
+                    }
+                ],
+                "ID": 1800011,
+                "Name": "烧伤宝石Lv1",
+                "Category": 2,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "命中后3%/6%/9%/12%/15%/18%/21%/24%/27%/30%令对方烧伤",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800012,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "6"
+                        }
+                    }
+                ],
+                "ID": 1800012,
+                "Name": "烧伤宝石Lv2",
+                "Category": 2,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800013,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "9"
+                        }
+                    }
+                ],
+                "ID": 1800013,
+                "Name": "烧伤宝石Lv3",
+                "Category": 2,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800014,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800014,
+                "Name": "烧伤宝石Lv4",
+                "Category": 2,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800015,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800015,
+                "Name": "烧伤宝石Lv5",
+                "Category": 2,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800016,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "18"
+                        }
+                    }
+                ],
+                "ID": 1800016,
+                "Name": "烧伤宝石Lv6",
+                "Category": 2,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800017,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "21"
+                        }
+                    }
+                ],
+                "ID": 1800017,
+                "Name": "烧伤宝石Lv7",
+                "Category": 2,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800018,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "24"
+                        }
+                    }
+                ],
+                "ID": 1800018,
+                "Name": "烧伤宝石Lv8",
+                "Category": 2,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800019,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "27"
+                        }
+                    }
+                ],
+                "ID": 1800019,
+                "Name": "烧伤宝石Lv9",
+                "Category": 2,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800020,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 12,
+                            "Param": "30"
+                        }
+                    }
+                ],
+                "ID": 1800020,
+                "Name": "烧伤宝石Lv10",
+                "Category": 2,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "3"
+                        }
+                    }
+                ],
+                "ID": 1800021,
+                "Name": "中毒宝石Lv1",
+                "Category": 3,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "命中后3%/6%/9%/12%/15%/18%/21%/24%/27%/30%令对方中毒",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800022,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "6"
+                        }
+                    }
+                ],
+                "ID": 1800022,
+                "Name": "中毒宝石Lv2",
+                "Category": 3,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800023,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "9"
+                        }
+                    }
+                ],
+                "ID": 1800023,
+                "Name": "中毒宝石Lv3",
+                "Category": 3,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800024,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800024,
+                "Name": "中毒宝石Lv4",
+                "Category": 3,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800025,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800025,
+                "Name": "中毒宝石Lv5",
+                "Category": 3,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800026,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "18"
+                        }
+                    }
+                ],
+                "ID": 1800026,
+                "Name": "中毒宝石Lv6",
+                "Category": 3,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800027,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "21"
+                        }
+                    }
+                ],
+                "ID": 1800027,
+                "Name": "中毒宝石Lv7",
+                "Category": 3,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800028,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "24"
+                        }
+                    }
+                ],
+                "ID": 1800028,
+                "Name": "中毒宝石Lv8",
+                "Category": 3,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800029,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "27"
+                        }
+                    }
+                ],
+                "ID": 1800029,
+                "Name": "中毒宝石Lv9",
+                "Category": 3,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800030,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 11,
+                            "Param": "30"
+                        }
+                    }
+                ],
+                "ID": 1800030,
+                "Name": "中毒宝石Lv10",
+                "Category": 3,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 3
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 3 1"
+                        }
+                    }
+                ],
+                "ID": 1800031,
+                "Name": "速度+1宝石Lv1",
+                "Category": 4,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "技能使用成功3%/6%/9%/12%/15%/18%/21%/24%/27%/95%改变自身速度等级+1",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800032,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 6 1"
+                        }
+                    }
+                ],
+                "ID": 1800032,
+                "Name": "速度+1宝石Lv2",
+                "Category": 4,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800033,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 9 1"
+                        }
+                    }
+                ],
+                "ID": 1800033,
+                "Name": "速度+1宝石Lv3",
+                "Category": 4,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800034,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 12 1"
+                        }
+                    }
+                ],
+                "ID": 1800034,
+                "Name": "速度+1宝石Lv4",
+                "Category": 4,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800035,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 15 1"
+                        }
+                    }
+                ],
+                "ID": 1800035,
+                "Name": "速度+1宝石Lv5",
+                "Category": 4,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800036,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 18 1"
+                        }
+                    }
+                ],
+                "ID": 1800036,
+                "Name": "速度+1宝石Lv6",
+                "Category": 4,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800037,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 21 1"
+                        }
+                    }
+                ],
+                "ID": 1800037,
+                "Name": "速度+1宝石Lv7",
+                "Category": 4,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800038,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 24 1"
+                        }
+                    }
+                ],
+                "ID": 1800038,
+                "Name": "速度+1宝石Lv8",
+                "Category": 4,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800039,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 27 1"
+                        }
+                    }
+                ],
+                "ID": 1800039,
+                "Name": "速度+1宝石Lv9",
+                "Category": 4,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800040,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "4 95 1"
+                        }
+                    }
+                ],
+                "ID": 1800040,
+                "Name": "速度+1宝石Lv10",
+                "Category": 4,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 3 1"
+                        }
+                    }
+                ],
+                "ID": 1800041,
+                "Name": "攻击+1宝石Lv1",
+                "Category": 5,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "技能使用成功3%/6%/9%/12%/15%/18%/21%/24%/27%/95%改变自身攻击等级+1",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800042,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 6 1"
+                        }
+                    }
+                ],
+                "ID": 1800042,
+                "Name": "攻击+1宝石Lv2",
+                "Category": 5,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800043,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 9 1"
+                        }
+                    }
+                ],
+                "ID": 1800043,
+                "Name": "攻击+1宝石Lv3",
+                "Category": 5,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800044,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 12 1"
+                        }
+                    }
+                ],
+                "ID": 1800044,
+                "Name": "攻击+1宝石Lv4",
+                "Category": 5,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800045,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 15 1"
+                        }
+                    }
+                ],
+                "ID": 1800045,
+                "Name": "攻击+1宝石Lv5",
+                "Category": 5,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800046,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 18 1"
+                        }
+                    }
+                ],
+                "ID": 1800046,
+                "Name": "攻击+1宝石Lv6",
+                "Category": 5,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800047,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 21 1"
+                        }
+                    }
+                ],
+                "ID": 1800047,
+                "Name": "攻击+1宝石Lv7",
+                "Category": 5,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800048,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 24 1"
+                        }
+                    }
+                ],
+                "ID": 1800048,
+                "Name": "攻击+1宝石Lv8",
+                "Category": 5,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800049,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 27 1"
+                        }
+                    }
+                ],
+                "ID": 1800049,
+                "Name": "攻击+1宝石Lv9",
+                "Category": 5,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800050,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "0 95 1"
+                        }
+                    }
+                ],
+                "ID": 1800050,
+                "Name": "攻击+1宝石Lv10",
+                "Category": 5,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 3 1"
+                        }
+                    }
+                ],
+                "ID": 1800051,
+                "Name": "特攻+1宝石Lv1",
+                "Category": 6,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "技能使用成功3%/6%/9%/12%/15%/18%/21%/24%/27%/95%改变自身特攻等级+1",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800052,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 6 1"
+                        }
+                    }
+                ],
+                "ID": 1800052,
+                "Name": "特攻+1宝石Lv2",
+                "Category": 6,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800053,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 9 1"
+                        }
+                    }
+                ],
+                "ID": 1800053,
+                "Name": "特攻+1宝石Lv3",
+                "Category": 6,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800054,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 12 1"
+                        }
+                    }
+                ],
+                "ID": 1800054,
+                "Name": "特攻+1宝石Lv4",
+                "Category": 6,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800055,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 15 1"
+                        }
+                    }
+                ],
+                "ID": 1800055,
+                "Name": "特攻+1宝石Lv5",
+                "Category": 6,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800056,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 18 1"
+                        }
+                    }
+                ],
+                "ID": 1800056,
+                "Name": "特攻+1宝石Lv6",
+                "Category": 6,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800057,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 21 1"
+                        }
+                    }
+                ],
+                "ID": 1800057,
+                "Name": "特攻+1宝石Lv7",
+                "Category": 6,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800058,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 24 1"
+                        }
+                    }
+                ],
+                "ID": 1800058,
+                "Name": "特攻+1宝石Lv8",
+                "Category": 6,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800059,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 27 1"
+                        }
+                    }
+                ],
+                "ID": 1800059,
+                "Name": "特攻+1宝石Lv9",
+                "Category": 6,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800060,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "2 95 1"
+                        }
+                    }
+                ],
+                "ID": 1800060,
+                "Name": "特攻+1宝石Lv10",
+                "Category": 6,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 3 1"
+                        }
+                    }
+                ],
+                "ID": 1800061,
+                "Name": "防御+1宝石Lv1",
+                "Category": 7,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "技能使用成功3%/6%/9%/12%/15%/18%/21%/24%/27%/95%改变自身防御等级+1",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800062,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 6 1"
+                        }
+                    }
+                ],
+                "ID": 1800062,
+                "Name": "防御+1宝石Lv2",
+                "Category": 7,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800063,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 9 1"
+                        }
+                    }
+                ],
+                "ID": 1800063,
+                "Name": "防御+1宝石Lv3",
+                "Category": 7,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800064,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 12 1"
+                        }
+                    }
+                ],
+                "ID": 1800064,
+                "Name": "防御+1宝石Lv4",
+                "Category": 7,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800065,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 15 1"
+                        }
+                    }
+                ],
+                "ID": 1800065,
+                "Name": "防御+1宝石Lv5",
+                "Category": 7,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800066,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 18 1"
+                        }
+                    }
+                ],
+                "ID": 1800066,
+                "Name": "防御+1宝石Lv6",
+                "Category": 7,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800067,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 21 1"
+                        }
+                    }
+                ],
+                "ID": 1800067,
+                "Name": "防御+1宝石Lv7",
+                "Category": 7,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800068,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 24 1"
+                        }
+                    }
+                ],
+                "ID": 1800068,
+                "Name": "防御+1宝石Lv8",
+                "Category": 7,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800069,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 27 1"
+                        }
+                    }
+                ],
+                "ID": 1800069,
+                "Name": "防御+1宝石Lv9",
+                "Category": 7,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800070,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "1 95 1"
+                        }
+                    }
+                ],
+                "ID": 1800070,
+                "Name": "防御+1宝石Lv10",
+                "Category": 7,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 3 1"
+                        }
+                    }
+                ],
+                "ID": 1800071,
+                "Name": "特防+1宝石Lv1",
+                "Category": 8,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "技能使用成功3%/6%/9%/12%/15%/18%/21%/24%/27%/95%改变自身特防等级+1",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800072,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 6 1"
+                        }
+                    }
+                ],
+                "ID": 1800072,
+                "Name": "特防+1宝石Lv2",
+                "Category": 8,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800073,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 9 1"
+                        }
+                    }
+                ],
+                "ID": 1800073,
+                "Name": "特防+1宝石Lv3",
+                "Category": 8,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800074,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 12 1"
+                        }
+                    }
+                ],
+                "ID": 1800074,
+                "Name": "特防+1宝石Lv4",
+                "Category": 8,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800075,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 15 1"
+                        }
+                    }
+                ],
+                "ID": 1800075,
+                "Name": "特防+1宝石Lv5",
+                "Category": 8,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800076,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 18 1"
+                        }
+                    }
+                ],
+                "ID": 1800076,
+                "Name": "特防+1宝石Lv6",
+                "Category": 8,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800077,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 21 1"
+                        }
+                    }
+                ],
+                "ID": 1800077,
+                "Name": "特防+1宝石Lv7",
+                "Category": 8,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800078,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 24 1"
+                        }
+                    }
+                ],
+                "ID": 1800078,
+                "Name": "特防+1宝石Lv8",
+                "Category": 8,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800079,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 27 1"
+                        }
+                    }
+                ],
+                "ID": 1800079,
+                "Name": "特防+1宝石Lv9",
+                "Category": 8,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800080,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 4,
+                            "Param": "3 95 1"
+                        }
+                    }
+                ],
+                "ID": 1800080,
+                "Name": "特防+1宝石Lv10",
+                "Category": 8,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 4
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "3"
+                        }
+                    }
+                ],
+                "ID": 1800081,
+                "Name": "固定伤害3宝石Lv1",
+                "Category": 9,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "额外增加3/6/9/12/15/18/21/24/27/30点固定伤害",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800082,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "6"
+                        }
+                    }
+                ],
+                "ID": 1800082,
+                "Name": "固定伤害6宝石Lv2",
+                "Category": 9,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800083,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "9"
+                        }
+                    }
+                ],
+                "ID": 1800083,
+                "Name": "固定伤害9宝石Lv3",
+                "Category": 9,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800084,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800084,
+                "Name": "固定伤害12宝石Lv4",
+                "Category": 9,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800085,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800085,
+                "Name": "固定伤害15宝石Lv5",
+                "Category": 9,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800086,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "18"
+                        }
+                    }
+                ],
+                "ID": 1800086,
+                "Name": "固定伤害18宝石Lv6",
+                "Category": 9,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800087,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "21"
+                        }
+                    }
+                ],
+                "ID": 1800087,
+                "Name": "固定伤害21宝石Lv7",
+                "Category": 9,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800088,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "24"
+                        }
+                    }
+                ],
+                "ID": 1800088,
+                "Name": "固定伤害24宝石Lv8",
+                "Category": 9,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800089,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "27"
+                        }
+                    }
+                ],
+                "ID": 1800089,
+                "Name": "固定伤害27宝石Lv9",
+                "Category": 9,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800090,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 29,
+                            "Param": "30"
+                        }
+                    }
+                ],
+                "ID": 1800090,
+                "Name": "固定伤害30宝石Lv10",
+                "Category": 9,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 6
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "0.8"
+                        }
+                    }
+                ],
+                "ID": 1800091,
+                "Name": "致命一击宝石Lv1",
+                "Category": 10,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "增加致命一击的概率",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800092,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "1.6"
+                        }
+                    }
+                ],
+                "ID": 1800092,
+                "Name": "致命一击宝石Lv2",
+                "Category": 10,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800093,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "2.4"
+                        }
+                    }
+                ],
+                "ID": 1800093,
+                "Name": "致命一击宝石Lv3",
+                "Category": 10,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800094,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "3.2"
+                        }
+                    }
+                ],
+                "ID": 1800094,
+                "Name": "致命一击宝石Lv4",
+                "Category": 10,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800095,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "4"
+                        }
+                    }
+                ],
+                "ID": 1800095,
+                "Name": "致命一击宝石Lv5",
+                "Category": 10,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800096,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "4.8"
+                        }
+                    }
+                ],
+                "ID": 1800096,
+                "Name": "致命一击宝石Lv6",
+                "Category": 10,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800097,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "5.6"
+                        }
+                    }
+                ],
+                "ID": 1800097,
+                "Name": "致命一击宝石Lv7",
+                "Category": 10,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800098,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "6.4"
+                        }
+                    }
+                ],
+                "ID": 1800098,
+                "Name": "致命一击宝石Lv8",
+                "Category": 10,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800099,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "7.2"
+                        }
+                    }
+                ],
+                "ID": 1800099,
+                "Name": "致命一击宝石Lv9",
+                "Category": 10,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 543,
+                            "Param": "8"
+                        }
+                    }
+                ],
+                "ID": 1800100,
+                "Name": "致命一击宝石Lv10",
+                "Category": 10,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 5
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "2 1"
+                        }
+                    }
+                ],
+                "ID": 1800101,
+                "Name": "疲惫宝石Lv1",
+                "Category": 11,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "命中时2%/4%/6%/8%/10%/12%/14%/16%/18%/20%令对方疲惫，1回合无法攻击",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800102,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "4 1"
+                        }
+                    }
+                ],
+                "ID": 1800102,
+                "Name": "疲惫宝石Lv2",
+                "Category": 11,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800103,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "6 1"
+                        }
+                    }
+                ],
+                "ID": 1800103,
+                "Name": "疲惫宝石Lv3",
+                "Category": 11,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800104,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "8 1"
+                        }
+                    }
+                ],
+                "ID": 1800104,
+                "Name": "疲惫宝石Lv4",
+                "Category": 11,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800105,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "10 1"
+                        }
+                    }
+                ],
+                "ID": 1800105,
+                "Name": "疲惫宝石Lv5",
+                "Category": 11,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800106,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "12 1"
+                        }
+                    }
+                ],
+                "ID": 1800106,
+                "Name": "疲惫宝石Lv6",
+                "Category": 11,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800107,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "14 1"
+                        }
+                    }
+                ],
+                "ID": 1800107,
+                "Name": "疲惫宝石Lv7",
+                "Category": 11,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800108,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "16 1"
+                        }
+                    }
+                ],
+                "ID": 1800108,
+                "Name": "疲惫宝石Lv8",
+                "Category": 11,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800109,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "18 1"
+                        }
+                    }
+                ],
+                "ID": 1800109,
+                "Name": "疲惫宝石Lv9",
+                "Category": 11,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800110,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 22,
+                            "Param": "20 1"
+                        }
+                    }
+                ],
+                "ID": 1800110,
+                "Name": "疲惫宝石Lv10",
+                "Category": 11,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "2"
+                        }
+                    }
+                ],
+                "ID": 1800111,
+                "Name": "麻痹宝石Lv1",
+                "Category": 12,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "命中后2%/4%/6%/8%/10%/12%/14%/16%/18%/20%令对方麻痹",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800112,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "4"
+                        }
+                    }
+                ],
+                "ID": 1800112,
+                "Name": "麻痹宝石Lv2",
+                "Category": 12,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800113,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "6"
+                        }
+                    }
+                ],
+                "ID": 1800113,
+                "Name": "麻痹宝石Lv3",
+                "Category": 12,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800114,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "8"
+                        }
+                    }
+                ],
+                "ID": 1800114,
+                "Name": "麻痹宝石Lv4",
+                "Category": 12,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800115,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "10"
+                        }
+                    }
+                ],
+                "ID": 1800115,
+                "Name": "麻痹宝石Lv5",
+                "Category": 12,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800116,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800116,
+                "Name": "麻痹宝石Lv6",
+                "Category": 12,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800117,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "14"
+                        }
+                    }
+                ],
+                "ID": 1800117,
+                "Name": "麻痹宝石Lv7",
+                "Category": 12,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800118,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "16"
+                        }
+                    }
+                ],
+                "ID": 1800118,
+                "Name": "麻痹宝石Lv8",
+                "Category": 12,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800119,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "18"
+                        }
+                    }
+                ],
+                "ID": 1800119,
+                "Name": "麻痹宝石Lv9",
+                "Category": 12,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800120,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 10,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800120,
+                "Name": "麻痹宝石Lv10",
+                "Category": 12,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1402,
+                            "Param": "1"
+                        }
+                    }
+                ],
+                "ID": 1800121,
+                "Name": "威力宝石Lv1",
+                "Category": 13,
+                "Lv": 1,
+                "EquitLv1Cnt1": 1,
+                "Des": "技能威力提升1/4/7/10/14/17/20/24/27/30点，不受威力提升/下降效果加成",
+                "PromoteItemId": 1900003,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800122,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1403,
+                            "Param": "4"
+                        }
+                    }
+                ],
+                "ID": 1800122,
+                "Name": "威力宝石Lv2",
+                "Category": 13,
+                "Lv": 2,
+                "EquitLv1Cnt1": 2,
+                "PromoteItemId": 1900004,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800123,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1404,
+                            "Param": "7"
+                        }
+                    }
+                ],
+                "ID": 1800123,
+                "Name": "威力宝石Lv3",
+                "Category": 13,
+                "Lv": 3,
+                "EquitLv1Cnt1": 8,
+                "PromoteItemId": 1900005,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800124,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1405,
+                            "Param": "10"
+                        }
+                    }
+                ],
+                "ID": 1800124,
+                "Name": "威力宝石Lv4",
+                "Category": 13,
+                "Lv": 4,
+                "EquitLv1Cnt1": 32,
+                "PromoteItemId": 1900006,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800125,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1406,
+                            "Param": "14"
+                        }
+                    }
+                ],
+                "ID": 1800125,
+                "Name": "威力宝石Lv5",
+                "Category": 13,
+                "Lv": 5,
+                "EquitLv1Cnt1": 160,
+                "PromoteItemId": 1900007,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800126,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1407,
+                            "Param": "17"
+                        }
+                    }
+                ],
+                "ID": 1800126,
+                "Name": "威力宝石Lv6",
+                "Category": 13,
+                "Lv": 6,
+                "EquitLv1Cnt1": 1120,
+                "PromoteItemId": 1900008,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800127,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 6,
+                "FailCompensateEnd": 6,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1408,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800127,
+                "Name": "威力宝石Lv7",
+                "Category": 13,
+                "Lv": 7,
+                "EquitLv1Cnt1": 8960,
+                "PromoteItemId": 1900009,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800128,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 10000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 7,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1409,
+                            "Param": "24"
+                        }
+                    }
+                ],
+                "ID": 1800128,
+                "Name": "威力宝石Lv8",
+                "Category": 13,
+                "Lv": 8,
+                "EquitLv1Cnt1": 89600,
+                "PromoteItemId": 1900010,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800129,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 7000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 8,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1410,
+                            "Param": "27"
+                        }
+                    }
+                ],
+                "ID": 1800129,
+                "Name": "威力宝石Lv9",
+                "Category": 13,
+                "Lv": 9,
+                "EquitLv1Cnt1": 1433600,
+                "PromoteItemId": 1900011,
+                "ItemProb": 100,
+                "UpgradeGemId": 1800130,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 4000,
+                "FailCompensateStart": 7,
+                "FailCompensateEnd": 9,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1411,
+                            "Param": "30"
+                        }
+                    }
+                ],
+                "ID": 1800130,
+                "Name": "威力宝石Lv10",
+                "Category": 13,
+                "Lv": 10,
+                "EquitLv1Cnt1": 28672000,
+                "PromoteItemId": 1900012,
+                "ItemProb": 100,
+                "UpgradeFailCompensanteProb": 3000,
+                "InlayProb": 3000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 10,
+                "InlayPromoteItem": 1900002,
+                "InlayPromoteProb": 100,
+                "DecomposeProb": 3000,
+                "cap_lv": 7
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1703,
+                            "Param": "5"
+                        }
+                    }
+                ],
+                "ID": 1800201,
+                "Name": "活力维持宝石Ⅰ",
+                "Category": 101,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "使用技能5%/10%/15%/20%/25%不消耗PP值",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800202,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1703,
+                            "Param": "10"
+                        }
+                    }
+                ],
+                "ID": 1800202,
+                "Name": "活力维持宝石Ⅱ",
+                "Category": 101,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800203,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1703,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800203,
+                "Name": "活力维持宝石Ⅲ",
+                "Category": 101,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800204,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1703,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800204,
+                "Name": "活力维持宝石Ⅳ",
+                "Category": 101,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800205,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1703,
+                            "Param": "25"
+                        }
+                    }
+                ],
+                "ID": 1800205,
+                "Name": "活力维持宝石Ⅴ",
+                "Category": 101,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1704,
+                            "Param": "4"
+                        }
+                    }
+                ],
+                "ID": 1800206,
+                "Name": "活力消耗宝石Ⅰ",
+                "Category": 102,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后4%/8%/12%/16%/20%降低对手所有PP值1点（仅限PVP）",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800207,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1704,
+                            "Param": "8"
+                        }
+                    }
+                ],
+                "ID": 1800207,
+                "Name": "活力消耗宝石Ⅱ",
+                "Category": 102,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800208,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1704,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800208,
+                "Name": "活力消耗宝石Ⅲ",
+                "Category": 102,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800209,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1704,
+                            "Param": "16"
+                        }
+                    }
+                ],
+                "ID": 1800209,
+                "Name": "活力消耗宝石Ⅳ",
+                "Category": 102,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800210,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1704,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800210,
+                "Name": "活力消耗宝石Ⅴ",
+                "Category": 102,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1705,
+                            "Param": "4"
+                        }
+                    }
+                ],
+                "ID": 1800211,
+                "Name": "活力恢复宝石Ⅰ",
+                "Category": 103,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后4%/8%/12%/16%/20%恢复自身所有PP值1点",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800212,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1705,
+                            "Param": "8"
+                        }
+                    }
+                ],
+                "ID": 1800212,
+                "Name": "活力恢复宝石Ⅱ",
+                "Category": 103,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800213,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1705,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800213,
+                "Name": "活力恢复宝石Ⅲ",
+                "Category": 103,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800214,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1705,
+                            "Param": "16"
+                        }
+                    }
+                ],
+                "ID": 1800214,
+                "Name": "活力恢复宝石Ⅳ",
+                "Category": 103,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800215,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1705,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800215,
+                "Name": "活力恢复宝石Ⅴ",
+                "Category": 103,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1706,
+                            "Param": "4"
+                        }
+                    }
+                ],
+                "ID": 1800216,
+                "Name": "追命宝石Ⅰ",
+                "Category": 104,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后造成的攻击伤害为0时吸取对手最大体力的4%/8%/12%/16%/20%（仅限PVP）",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800217,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1706,
+                            "Param": "8"
+                        }
+                    }
+                ],
+                "ID": 1800217,
+                "Name": "追命宝石Ⅱ",
+                "Category": 104,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800218,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1706,
+                            "Param": "12"
+                        }
+                    }
+                ],
+                "ID": 1800218,
+                "Name": "追命宝石Ⅲ",
+                "Category": 104,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800219,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1706,
+                            "Param": "16"
+                        }
+                    }
+                ],
+                "ID": 1800219,
+                "Name": "追命宝石Ⅳ",
+                "Category": 104,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800220,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1706,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800220,
+                "Name": "追命宝石Ⅴ",
+                "Category": 104,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1712,
+                            "Param": "5"
+                        }
+                    }
+                ],
+                "ID": 1800221,
+                "Name": "逆命宝石Ⅰ",
+                "Category": 105,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "本次攻击微弱对手时5%/10%/15%/20%/25%变为普通",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800222,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1713,
+                            "Param": "10"
+                        }
+                    }
+                ],
+                "ID": 1800222,
+                "Name": "逆命宝石Ⅱ",
+                "Category": 105,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800223,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1714,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800223,
+                "Name": "逆命宝石Ⅲ",
+                "Category": 105,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800224,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1715,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800224,
+                "Name": "逆命宝石Ⅳ",
+                "Category": 105,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800225,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1716,
+                            "Param": "25"
+                        }
+                    }
+                ],
+                "ID": 1800225,
+                "Name": "逆命宝石Ⅴ",
+                "Category": 105,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1707,
+                            "Param": "5"
+                        }
+                    }
+                ],
+                "ID": 1800226,
+                "Name": "绝命宝石Ⅰ",
+                "Category": 106,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "本次攻击克制对手时伤害提升5%/10%/15%/20%/25%（仅限PVP）",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800227,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1707,
+                            "Param": "10"
+                        }
+                    }
+                ],
+                "ID": 1800227,
+                "Name": "绝命宝石Ⅱ",
+                "Category": 106,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800228,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1707,
+                            "Param": "15"
+                        }
+                    }
+                ],
+                "ID": 1800228,
+                "Name": "绝命宝石Ⅲ",
+                "Category": 106,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800229,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1707,
+                            "Param": "20"
+                        }
+                    }
+                ],
+                "ID": 1800229,
+                "Name": "绝命宝石Ⅳ",
+                "Category": 106,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800230,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 1707,
+                            "Param": "25"
+                        }
+                    }
+                ],
+                "ID": 1800230,
+                "Name": "绝命宝石Ⅴ",
+                "Category": 106,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "5 20"
+                        }
+                    }
+                ],
+                "ID": 1800231,
+                "Name": "失明宝石Ⅰ",
+                "Category": 107,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后5%/10%/15%/20%/25%令对方失明",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800232,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "10 20"
+                        }
+                    }
+                ],
+                "ID": 1800232,
+                "Name": "失明宝石Ⅱ",
+                "Category": 107,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800233,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "15 20"
+                        }
+                    }
+                ],
+                "ID": 1800233,
+                "Name": "失明宝石Ⅲ",
+                "Category": 107,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800234,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "20 20"
+                        }
+                    }
+                ],
+                "ID": 1800234,
+                "Name": "失明宝石Ⅳ",
+                "Category": 107,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800235,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "25 20"
+                        }
+                    }
+                ],
+                "ID": 1800235,
+                "Name": "失明宝石Ⅴ",
+                "Category": 107,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "5 29"
+                        }
+                    }
+                ],
+                "ID": 1800236,
+                "Name": "失神宝石Ⅰ",
+                "Category": 108,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后5%/10%/15%/20%/25%令对方失神",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800237,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "10 29"
+                        }
+                    }
+                ],
+                "ID": 1800237,
+                "Name": "失神宝石Ⅱ",
+                "Category": 108,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800238,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "15 29"
+                        }
+                    }
+                ],
+                "ID": 1800238,
+                "Name": "失神宝石Ⅲ",
+                "Category": 108,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800239,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "20 29"
+                        }
+                    }
+                ],
+                "ID": 1800239,
+                "Name": "失神宝石Ⅳ",
+                "Category": 108,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800240,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "25 29"
+                        }
+                    }
+                ],
+                "ID": 1800240,
+                "Name": "失神宝石Ⅴ",
+                "Category": 108,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "4 15"
+                        }
+                    }
+                ],
+                "ID": 1800241,
+                "Name": "冰封宝石Ⅰ",
+                "Category": 109,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后4%/8%/12%/16%/20%令对方冰封",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800242,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "8 15"
+                        }
+                    }
+                ],
+                "ID": 1800242,
+                "Name": "冰封宝石Ⅱ",
+                "Category": 109,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800243,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "12 15"
+                        }
+                    }
+                ],
+                "ID": 1800243,
+                "Name": "冰封宝石Ⅲ",
+                "Category": 109,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800244,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "16 15"
+                        }
+                    }
+                ],
+                "ID": 1800244,
+                "Name": "冰封宝石Ⅳ",
+                "Category": 109,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800245,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "20 15"
+                        }
+                    }
+                ],
+                "ID": 1800245,
+                "Name": "冰封宝石Ⅴ",
+                "Category": 109,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "4 22"
+                        }
+                    }
+                ],
+                "ID": 1800246,
+                "Name": "焚烬宝石Ⅰ",
+                "Category": 110,
+                "Lv": 1,
+                "EquitLv1Cnt1": 0,
+                "Des": "命中后4%/8%/12%/16%/20%令对方焚烬",
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800247,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 1,
+                "FailCompensateEnd": 1,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "8 22"
+                        }
+                    }
+                ],
+                "ID": 1800247,
+                "Name": "焚烬宝石Ⅱ",
+                "Category": 110,
+                "Lv": 2,
+                "EquitLv1Cnt1": 10000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800248,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 2,
+                "FailCompensateEnd": 2,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "12 22"
+                        }
+                    }
+                ],
+                "ID": 1800248,
+                "Name": "焚烬宝石Ⅲ",
+                "Category": 110,
+                "Lv": 3,
+                "EquitLv1Cnt1": 30000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800249,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 3,
+                "FailCompensateEnd": 3,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "16 22"
+                        }
+                    }
+                ],
+                "ID": 1800249,
+                "Name": "焚烬宝石Ⅳ",
+                "Category": 110,
+                "Lv": 4,
+                "EquitLv1Cnt1": 60000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeGemId": 1800250,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 4,
+                "FailCompensateEnd": 4,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            },
+            {
+                "SkillEffects": [
+                    {
+                        "Effect": {
+                            "EffectId": 756,
+                            "Param": "20 22"
+                        }
+                    }
+                ],
+                "ID": 1800250,
+                "Name": "焚烬宝石Ⅴ",
+                "Category": 110,
+                "Lv": 5,
+                "EquitLv1Cnt1": 100000,
+                "PromoteItemId": 0,
+                "ItemProb": 0,
+                "UpgradeFailCompensanteProb": 0,
+                "InlayProb": 10000,
+                "FailCompensateStart": 5,
+                "FailCompensateEnd": 5,
+                "InlayPromoteItem": 0,
+                "InlayPromoteProb": 0,
+                "DecomposeProb": 3000,
+                "cap_lv": 1
+            }
+        ]
+    }
+}
