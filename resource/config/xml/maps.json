@@ -44280,6 +44280,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1525,
+                "Name": "冷烟峡谷",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -50204,18 +50210,30 @@
                 "Name": "暗黑灯海",
                 "InitX": 466,
                 "InitY": 424
+            },
+            {
+                "ID": 3205,
+                "Name": "陨石地带",
+                "InitX": 208,
+                "InitY": 420
+            },
+            {
+                "ID": 3206,
+                "Name": "巨型陨石",
+                "InitX": 150,
+                "InitY": 330
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1524,
+                    "RandMaps": 1525,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1524,
+                    "RandMaps": 1525,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -50227,7 +50245,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20211126,
+                "ID": 20211203,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

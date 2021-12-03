@@ -30,7 +30,7 @@
                 "exMapList": 50000,
                 "ui": "shengdianyingxiongtuan_icon",
                 "tips": "圣殿英雄团",
-                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel"
+                "mouseClickFunc": "app:TempleHeroAltarPrePanel"
             },
             {
                 "direction": "left_side",
@@ -104,7 +104,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3432"
+                "mouseClickFunc": "app:MainLineTask_3433"
             },
             {
                 "direction": "right",
@@ -147,10 +147,9 @@
                 "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "wishtree",
-                "tips": "心愿漂流瓶",
-                "initfunc": "com.robot.app2.control.WishTreeIconController:setup",
-                "mouseClickFunc": "com.robot.app2.control.WishTreeIconController:onClickIcon"
+                "ui": "2022YearVipPreheat_icon",
+                "tips": "2022年费神宠预告",
+                "mouseClickFunc": "app:AnnualFeePreheating2022AggregatePanel"
             },
             {
                 "direction": "right_side",

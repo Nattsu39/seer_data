@@ -545,44 +545,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4307,
-                        "ImageID": 4307,
+                        "ID": 4311,
+                        "ImageID": 4311,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInDecember2021Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4308,
-                        "ImageID": 4308,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1524
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4309,
-                        "ImageID": 4309,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1095
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4310,
-                        "ImageID": 4310,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1524;app/SpetTeLuoSiPanel"
+                        "Go": "1525;app/SpetTuTuoErSiPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 429,
-                        "MonID": 2724,
-                        "ImageID": 1400429,
+                        "ID": 430,
+                        "MonID": 4309,
+                        "ImageID": 1400430,
                         "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondMain2019Panel"
+                        "Redirect": "map",
+                        "Go": 1095
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -44759,6 +44735,16 @@
                 "Features": "一位神秘的少女，能够汇聚龙之力量在手中释放，故乡在盖伦星系的她似乎身上还有着其他的秘密等待被揭开......",
                 "Redirect": "map|module",
                 "Go": "1524;app/SpetTeLuoSiPanel"
+            },
+            {
+                "ID": 4311,
+                "DefName": "图托尔斯",
+                "Type": "冰 暗影",
+                "Height": 758,
+                "Weight": 3484,
+                "Features": "灵格星系三大上古神兽之一，远古巨龟，背上有巨大的冰山，口中可以吹出极寒之气，每一次践踏都会造成巨大的雪崩，被世人称之为“移动的冰川”！",
+                "Redirect": "map|module",
+                "Go": "1525;app/SpetTuTuoErSiPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

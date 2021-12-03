@@ -5,20 +5,20 @@
                 "substep": [
                     {
                         "type": 1,
-                        "param": "xinshoumanhua1",
-                        "auto": 1,
+                        "swfName": "xinshoumanhua1",
+                        "width": 1408,
+                        "height": 640,
                         "stat": "完成过场动画1"
                     },
                     {
                         "type": 6,
-                        "param": 1136,
-                        "auto": 1,
-                        "teach": 1,
+                        "bossId": 1136,
                         "stat": "进入对战教学1"
                     },
                     {
                         "type": 5,
-                        "param": "238,522,179,98",
+                        "rect": "238,522,179,98",
+                        "defaultMask": 1,
                         "startEvent": "new_round",
                         "endEvent": "fightResult",
                         "align": "center",
@@ -28,7 +28,7 @@
                     },
                     {
                         "type": 9,
-                        "param": "fight_alarmClick"
+                        "eventType": "fight_alarmClick"
                     }
                 ],
                 "step": 1
@@ -37,44 +37,39 @@
                 "substep": [
                     {
                         "type": 3,
-                        "param": 25,
-                        "side": 1,
-                        "auto": 1
+                        "talkGroupId": 25
                     },
                     {
                         "type": 1,
-                        "param": "xinshoumanhua1",
-                        "auto": 1,
+                        "swfName": "xinshoumanhua1",
+                        "width": 1408,
+                        "height": 640,
                         "stat": "完成过场动画2"
                     },
                     {
                         "type": 8,
-                        "param": "2,3,4",
-                        "auto": 1,
+                        "npcs": "2,3,4",
                         "stat": "首次打开训练营面板"
                     },
                     {
                         "type": 1,
-                        "param": "xinshoumanhua1",
-                        "auto": 1,
+                        "swfName": "xinshoumanhua1",
+                        "width": 1408,
+                        "height": 640,
                         "stat": "完成过场动画3"
                     },
                     {
                         "type": 8,
-                        "param": "2,3,4,5,6,7",
-                        "auto": 1,
+                        "npcs": "2,3,4,5,6,7",
                         "stat": "训练营面板更新1"
                     },
                     {
                         "type": 3,
-                        "param": 26,
-                        "side": 1,
-                        "auto": 1
+                        "talkGroupId": 26
                     },
                     {
                         "type": 4,
                         "param": "41392:1:2",
-                        "auto": 1,
                         "outputPanel": 128,
                         "stat": "打开输出01面板"
                     }
@@ -85,35 +80,17 @@
                 "substep": [
                     {
                         "type": 3,
-                        "param": 31,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 32,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 33,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框31-33"
+                        "talkGroupId": 27
                     },
                     {
                         "type": 7,
-                        "param": 18061,
-                        "auto": 1,
-                        "teach": 1,
+                        "bossId": 18061,
                         "stat": "进入对战教学2"
                     },
                     {
                         "type": 5,
-                        "param": "170,522,179,98",
+                        "rect": "145,522,170,98",
                         "startEvent": "new_round",
-                        "endEvent": "fightResult",
                         "align": "center",
                         "event": "useSkill",
                         "eventArgs": 17709,
@@ -121,1618 +98,1406 @@
                     },
                     {
                         "type": 5,
-                        "param": "777,506,68,50|3,246,123|0|300,1,807,524,0.5",
-                        "auto": 0,
-                        "stat": "点击【精灵】按钮F2"
+                        "rect": "1104,488,140,140",
+                        "handOffSet": "-110,20",
+                        "handRotation": 0,
+                        "defaultMask": 1,
+                        "rotation": 45,
+                        "startEvent": "new_round",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击技能梦超级吸取F2"
                     },
                     {
                         "type": 5,
-                        "param": "249,453,96,105|4,246,123|0|300,1,297,502,1",
-                        "auto": 0,
+                        "rect": "190,518,184,111",
+                        "event": "select_pet",
+                        "eventArgs": 2845,
                         "stat": "点击萌火猴F2"
                     },
                     {
                         "type": 5,
-                        "param": "261,538,78,22|5,246,123|300,520,0|0",
-                        "auto": 0,
+                        "rect": "190,408,184,224",
+                        "handType": 4,
+                        "align": "left",
+                        "event": "change_pet",
+                        "eventArgs": 2845,
                         "stat": "点击【出击】按钮F2"
                     },
                     {
                         "type": 5,
-                        "param": "141,462,154,94|6,246,123|0|300,1,219,503,1",
-                        "skillId": 17779,
-                        "auto": 0,
+                        "rect": "145,522,170,98",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 17779,
                         "stat": "点击技能炽魔焰裂空击F2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
                     }
                 ],
                 "step": 3,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,6,7,8"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 34,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 35,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 36,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 37,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框34-37"
+                        "talkGroupId": 28
                     },
                     {
                         "type": 4,
                         "param": "41392:1:4",
-                        "auto": 1,
                         "stat": "打开输出02面板"
                     }
                 ],
                 "step": 4,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,6,7,8"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 38,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 39,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框38-39"
+                        "talkGroupId": 29
                     },
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "handScaleX": 1,
+                        "handScaleY": 1,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "tipPos": "568,320",
+                        "tip": "内容",
+                        "tipTitle": "提示标题",
                         "stat": "点击精灵背包T1"
                     },
                     {
                         "type": 5,
-                        "param": "367,372,94,98|7,246,235|0|300,1,413,421,1",
-                        "pid": "2845,2",
-                        "auto": 0,
+                        "rect": "903,68,101,124",
+                        "align": "right",
+                        "startEvent": "pet_bag_init_completed",
+                        "event": "select_pet",
+                        "eventArgs": 2845,
                         "stat": "点击萌火猴T1"
                     },
                     {
                         "type": 5,
-                        "param": "21,51,283,48|8,321,27|0|300,1,265,76,1",
-                        "pid": 2845,
-                        "auto": 0,
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "836,107,40,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnLvl",
                         "stat": "点击提升等级T1"
                     },
                     {
                         "type": 5,
-                        "param": "311,259,96,36|9,427,175|0|300,1,360,277,1",
-                        "auto": 0,
-                        "waitPanel": "PetLevelUpPanel",
+                        "rect": "998,314,96,41",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnLv100",
                         "stat": "点击快速提升T1"
                     },
                     {
                         "type": 5,
-                        "param": "374,334,88,42|0|0|300,1,418,355,1",
-                        "auto": 0
+                        "rect": "588,351,120,41",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认提升"
+                    },
+                    {
+                        "type": 11
                     },
                     {
                         "type": 5,
-                        "param": "768,61,40,40|10,427,101|0|300,1,788,81,0.5",
-                        "auto": 0,
-                        "stat": "关闭提升等级面板T1"
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵详细面板"
                     },
                     {
                         "type": 5,
-                        "param": "917,3,40,40|11,485,55|897,25,270|0",
-                        "auto": 0,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
                         "stat": "关闭精灵背包T1"
                     }
                 ],
                 "step": 5,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
+                "toolbar": "btnPet",
+                "npcs": "2,3,4,5,6,7,8"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 40,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 41,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 42,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 43,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 44,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 45,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 46,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 47,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框40-47"
+                        "talkGroupId": 30
                     },
                     {
                         "type": 7,
-                        "param": 18062,
-                        "auto": 1,
+                        "bossId": 18062,
                         "teach": 1,
                         "stat": "进入对战教学3"
                     },
                     {
                         "type": 5,
-                        "param": "138,462,158,94|12,246,123|0|300,1,219,503,1",
-                        "skillId": 17709,
-                        "auto": 0,
+                        "rect": "145,522,170,98",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 17709,
                         "stat": "点击技能梦超级吸取F3.1"
                     },
                     {
                         "type": 5,
-                        "param": "886,421,68,50|13,246,123|0|300,1,915,446,0.5",
-                        "auto": 0,
+                        "rect": "993,453,63,63",
+                        "align": "right",
+                        "startEvent": "new_round",
+                        "event": "click_button",
+                        "eventArgs": "btnItem",
                         "stat": "点击道具F3"
                     },
                     {
                         "type": 5,
-                        "param": "162,475,72,72|14,246,123|0|300,1,198,504,1",
-                        "auto": 0,
+                        "rect": "11,527,81,81",
+                        "align": "left",
+                        "event": "select_pet_item",
+                        "eventArgs": 300742,
                         "stat": "点击长效体力药剂F3"
                     },
                     {
                         "type": 5,
-                        "param": "138,462,158,94|15,246,123|0|300,1,219,503,1",
-                        "skillId": 17709,
-                        "auto": 0,
+                        "rect": "11,447,81,160",
+                        "handType": 4,
+                        "align": "left",
+                        "event": "usePetItem",
+                        "eventArgs": 300742,
+                        "stat": "使用长效体力药剂F3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "145,522,170,98",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 17709,
                         "stat": "点击技能梦超级吸取F3.2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
                     }
                 ],
                 "step": 6,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 48,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 49,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 50,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 51,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框48-51"
+                        "talkGroupId": 31
                     },
                     {
                         "type": 4,
                         "param": "41392:1:7",
-                        "auto": 1,
                         "stat": "打开输出03面板"
                     }
                 ],
                 "step": 7,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 52,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 53,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框52-53"
+                        "talkGroupId": 32
                     },
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "handScaleX": 1,
+                        "handScaleY": 1,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "tipPos": "568,320",
+                        "tip": "内容",
+                        "tipTitle": "提示标题",
                         "stat": "点击精灵背包T2"
                     },
                     {
                         "type": 5,
-                        "param": "367,372,94,98|16,246,235|0|300,1,414,421,1",
-                        "pid": "2845,2",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
+                        "rect": "903,68,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "eventArgs": 2845,
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
                         "stat": "点击萌火猴T2"
                     },
                     {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
                         "type": 5,
-                        "param": "21,138,283,48|17,343,128|0|300,1,265,164,1",
-                        "pid": 2845,
-                        "auto": 0,
+                        "rect": "836,152,40,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnStudy",
                         "stat": "点击提升学习力T2"
                     },
                     {
-                        "type": 5,
-                        "param": "242,369,138,50|18,428,178|0|300,1,311,394,1",
-                        "auto": 0,
-                        "waitPanel": "PetAbilityUpPanel",
-                        "stat": "点击前往分配T2"
+                        "type": 9,
+                        "eventType": "open_module"
                     },
                     {
                         "type": 5,
-                        "param": "665,201,40,28_665,273,40,28|19,332,450|648,215,270_648,287,270|0",
-                        "auto": 0,
-                        "waitPanel": "PetAbilityUpNewPanel",
-                        "stat": "点击MAX按钮T2"
+                        "rect": "813,381,54,27",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnMax1",
+                        "stat": "点击快速提升T2"
                     },
                     {
                         "type": 5,
-                        "param": "651,416,110,44|20,332,450|0|300,1,706,438,1",
-                        "auto": 0,
+                        "rect": "813,480,54,27",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnMax5",
+                        "stat": "点击快速提升T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "900,544,174,52",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnOK",
+                        "stat": "点击快速提升T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "590,351,122,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
                         "stat": "点击确认分配T2"
                     },
                     {
-                        "type": 5,
-                        "param": "434,335,88,42|0|0|300,1,479,356,1",
-                        "auto": 0
+                        "type": 11
                     },
                     {
                         "type": 5,
-                        "param": "768,61,40,40|21,282,26|0|300,1,788,81,0.5",
-                        "auto": 0,
-                        "stat": "关闭分配学习力面板T2"
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵详细面板"
                     },
                     {
                         "type": 5,
-                        "param": "917,3,40,40|22,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包T2"
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵背包T1"
                     }
                 ],
                 "step": 8,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 54,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 55,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 56,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 57,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 58,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 59,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 60,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 61,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 62,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 63,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框54-63"
+                        "talkGroupId": 33
                     },
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "handScaleX": 1,
+                        "handScaleY": 1,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "tipPos": "568,320",
+                        "tip": "内容",
+                        "tipTitle": "提示标题",
                         "stat": "点击精灵背包S1"
                     },
                     {
                         "type": 5,
-                        "param": "272,372,94,98|23,246,235|0|300,1,319,422,1",
-                        "pid": "2858,1",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击萌伊优S1"
-                    },
-                    {
-                        "type": 5,
-                        "param": "161,372,598,98|24,246,235|0|0",
-                        "pid": 2858,
-                        "playEff": "pet:1:0",
-                        "auto": 0,
-                        "stat": "拖动萌伊优至首发位S1"
+                        "rect": "671,68,226,125",
+                        "handType": 3,
+                        "align": "right",
+                        "event": "set_default",
+                        "eventArgs": 2858,
+                        "tipPos": "568,320",
+                        "tip": "拖动萌优伊到萌布布种子位置",
+                        "tipTitle": "提示标题",
+                        "stat": "点击技能雷神天明闪F1"
                     }
                 ],
                 "step": 9,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "skip": 1
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet"
+                    },
+                    {
+                        "type": 9,
+                        "condition": "1,10,0",
+                        "param": "open_module"
                     },
                     {
                         "type": 3,
-                        "param": 64,
-                        "side": 1,
-                        "auto": 0
-                    },
-                    {
-                        "type": 3,
-                        "param": 65,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 66,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 67,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框64-67"
+                        "talkGroupId": 34
                     },
                     {
                         "type": 5,
-                        "param": "749,324,96,38|25,246,235|0|300,1,797,344,1",
-                        "auto": 1,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击更换技能S2"
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "stat": "点击萌伊优详细"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
                     },
                     {
                         "type": 5,
-                        "param": "429,436,32,32|26,491,430|0|300,1,445,452,0.5",
-                        "auto": 0,
-                        "waitPanel": "PetSkillPanel",
-                        "stat": "点击往前翻页按钮S2"
+                        "rect": "0,201,109,65",
+                        "event": "change_detail_tab",
+                        "eventArgs": 2,
+                        "stat": "点击技能"
                     },
                     {
                         "type": 5,
-                        "param": "232,181,536,259|27,246,440|0|0",
-                        "playEff": "skill:17835:17838",
-                        "auto": 0,
-                        "stat": "拖动涛剑舞到涛高压水枪S2"
+                        "rect": "679,567,174,50",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnChangeSkill",
+                        "stat": "点击更换技能"
                     },
                     {
                         "type": 5,
-                        "param": "793,61,40,40|28,287,61|0|300,1,813,82,0.5",
-                        "auto": 0,
-                        "stat": "关闭更换技能面板S2"
+                        "rect": "654,382,223,91",
+                        "align": "right",
+                        "event": "select_pet_skill",
+                        "eventArgs": 17835,
+                        "stat": "点击技能"
                     },
                     {
                         "type": 5,
-                        "param": "917,3,40,40|29,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包S2"
+                        "rect": "703,400,91,31",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnChange",
+                        "stat": "点击替换"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "650,211,223,91",
+                        "align": "right",
+                        "event": "change_skill",
+                        "eventArgs": 17838,
+                        "stat": "点击技能"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵背包T1"
                     }
                 ],
                 "step": 10,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 68,
-                        "side": 1,
-                        "auto": 1,
+                        "talkGroupId": 35,
                         "stat": "完成对话框68"
                     },
                     {
                         "type": 7,
-                        "param": 18063,
-                        "auto": 1,
+                        "bossId": 18063,
                         "teach": 1,
                         "stat": "进入对战教学4"
                     },
                     {
                         "type": 5,
-                        "param": "138,462,158,94|30,246,123|0|300,1,221,504,1",
-                        "skillId": 17839,
-                        "auto": 0,
+                        "rect": "145,522,170,98",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 17839,
                         "stat": "点击技能涛湍流龙击打F4"
                     },
                     {
                         "type": 5,
-                        "param": "451,462,158,94|31,246,123|0|300,1,530,504,1",
-                        "skillId": 17835,
-                        "auto": 0,
+                        "rect": "535,522,170,98",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 17835,
                         "stat": "点击技能涛剑舞F4"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
                     }
                 ],
                 "step": 11,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 69,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 70,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 71,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 72,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 73,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框69-73"
+                        "talkGroupId": 36
                     },
                     {
                         "type": 4,
                         "param": "41392:1:12",
-                        "auto": 1,
                         "stat": "打开输出04面板"
                     }
                 ],
                 "step": 12,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 74,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 75,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 76,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 77,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框74-77"
+                        "talkGroupId": 37
                     },
                     {
                         "type": 7,
-                        "param": 18064,
-                        "auto": 1,
-                        "teach": 1,
+                        "bossId": 18064,
                         "stat": "进入对战教学5"
                     },
                     {
                         "type": 5,
-                        "param": "294,462,158,94|32,246,123|0|300,1,373,504,1",
-                        "skillId": 24306,
-                        "auto": 0,
+                        "rect": "339,522,170,98",
+                        "startEvent": "new_round",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 24306,
                         "stat": "点击技能涛水天一色F5"
                     },
                     {
                         "type": 5,
-                        "param": "138,462,158,94|33,246,123|0|300,1,221,504,1",
-                        "skillId": 17839,
-                        "auto": 0,
+                        "rect": "145,522,170,98",
+                        "startEvent": "new_round",
+                        "endEvent": "fightResult",
+                        "align": "center",
+                        "event": "useSkill",
+                        "eventArgs": 17839,
                         "stat": "点击技能涛湍流龙击打F5"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "fight_alarmClick"
                     }
                 ],
                 "step": 13,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9"
+                "toolbar": "btnPet",
+                "npcs": "1,2,3,4,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 78,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 79,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 80,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 81,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 82,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 83,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框78-83"
+                        "talkGroupId": 38
                     },
                     {
                         "type": 4,
                         "param": "41392:1:14",
-                        "auto": 1,
                         "stat": "打开输出05面板"
                     }
                 ],
                 "step": 14,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "toolbar": "btnPet",
                 "npcs": "0,1,2,3,7,8,9"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 84,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 85,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框84-85"
+                        "talkGroupId": 39
                     },
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
                         "stat": "点击精灵背包T3"
                     },
                     {
                         "type": 5,
-                        "param": "367,372,94,98|34,246,235|0|300,1,413,421,1",
-                        "pid": "2845,2",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击萌火猴T3"
+                        "rect": "914,68,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "eventArgs": 2845,
+                        "stat": "点击萌火猴T1"
                     },
                     {
                         "type": 5,
-                        "param": "21,97,283,48|35,339,83|0|300,1,266,121,1",
-                        "auto": 0,
-                        "stat": "点击提升天赋T3"
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
                     },
                     {
                         "type": 5,
-                        "param": "434,108,70,68|36,428,194|0|300,1,469,139,1",
-                        "auto": 0,
-                        "waitPanel": "PetTalentUpPanel",
+                        "rect": "1072,110,40,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnGenius",
+                        "stat": "点击提升学习力T2"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "complete"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "649,181,80,80",
+                        "align": "right",
+                        "event": "click_item",
+                        "eventArgs": 300791,
                         "stat": "点击至强天赋药剂T3"
                     },
                     {
                         "type": 5,
-                        "param": "376,334,85,42|0|0|300,1,418,355,1",
-                        "auto": 0
+                        "rect": "703,380,91,31",
+                        "await": 200,
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnUse",
+                        "stat": "点击使用"
                     },
                     {
                         "type": 5,
-                        "param": "768,61,40,40|37,427,101|0|300,1,788,82,0.5",
-                        "auto": 0,
-                        "stat": "关闭提升天赋面板T3"
+                        "rect": "590,351,122,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
                     },
                     {
                         "type": 5,
-                        "param": "917,3,40,40|38,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包T3"
+                        "rect": "568,290,56,112",
+                        "align": "right",
+                        "event": "event_close_useitem_panel",
+                        "stat": "点击替换"
                     }
                 ],
                 "step": 15,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
-            },
-            {
-                "substep": [
-                    {
-                        "type": 3,
-                        "param": 86,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 87,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框86-87"
-                    },
-                    {
-                        "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "stat": "点击精灵背包T4"
-                    },
-                    {
-                        "type": 5,
-                        "param": "367,372,94,98|39,246,235|0|300,1,414,421,1",
-                        "pid": "2845,2",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击萌火猴T4"
-                    },
-                    {
-                        "type": 5,
-                        "param": "21,228,283,48|40,338,188|0|300,1,266,253,1",
-                        "auto": 0,
-                        "stat": "点击调整性格T4"
-                    },
-                    {
-                        "type": 5,
-                        "param": "434,108,70,68|41,428,194|0|300,1,469,139,1",
-                        "auto": 0,
-                        "waitPanel": "PetNatureUpPanel",
-                        "stat": "点击性格转化剂开朗T4"
-                    },
-                    {
-                        "type": 5,
-                        "param": "376,334,85,42|0|0|300,1,418,355,1",
-                        "auto": 0
-                    },
-                    {
-                        "type": 5,
-                        "param": "768,62,40,40|42,427,101|0|300,1,788,82,0.5",
-                        "auto": 0,
-                        "stat": "关闭调整性格面板T4"
-                    },
-                    {
-                        "type": 5,
-                        "param": "917,3,40,40|43,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包T4"
-                    }
-                ],
-                "step": 16,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
-            },
-            {
-                "substep": [
-                    {
-                        "type": 3,
-                        "param": 88,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 89,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框88-89"
-                    },
-                    {
-                        "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "stat": "点击精灵背包T5"
-                    },
-                    {
-                        "type": 5,
-                        "param": "367,372,94,98|44,246,235|0|300,1,414,421,1",
-                        "pid": "2845,2",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击萌火猴T5"
-                    },
-                    {
-                        "type": 5,
-                        "param": "21,273,283,48|45,315,250|0|300,1,265,297,1",
-                        "auto": 0,
-                        "stat": "点击开启特性T5"
-                    },
-                    {
-                        "type": 5,
-                        "param": "437,335,84,42|46,246,397|0|300,1,480,356,1",
-                        "auto": 0
-                    },
-                    {
-                        "type": 5,
-                        "param": "917,3,40,40|47,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包T5"
-                    }
-                ],
-                "step": 17,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
-            },
-            {
-                "substep": [
-                    {
-                        "type": 3,
-                        "param": 90,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 91,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框90-91"
-                    },
-                    {
-                        "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "stat": "点击精灵背包T6"
-                    },
-                    {
-                        "type": 5,
-                        "param": "367,372,94,98|48,246,235|0|300,1,413,421,1",
-                        "pid": "2845,2",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击萌火猴T6"
-                    },
-                    {
-                        "type": 5,
-                        "param": "21,184,283,48|49,321,182|0|300,1,266,209,1",
-                        "auto": 0,
-                        "stat": "点击提升体力上限T6"
-                    },
-                    {
-                        "type": 5,
-                        "param": "434,108,70,68|50,428,207|0|300,1,469,142,1",
-                        "auto": 0,
-                        "waitPanel": "PetExHpUpPanel",
-                        "stat": "点击初级体力上限提升药剂T6"
-                    },
-                    {
-                        "type": 5,
-                        "param": "376,334,85,42|0|0|300,1,418,355,1",
-                        "auto": 0
-                    },
-                    {
-                        "type": 5,
-                        "param": "768,61,40,40|51,427,101|0|300,1,788,82,0.5",
-                        "auto": 0,
-                        "stat": "关闭体力上限提升面板T6"
-                    },
-                    {
-                        "type": 5,
-                        "param": "917,3,40,40|52,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包T6"
-                    }
-                ],
-                "step": 18,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9",
-                "auto": 1
-            },
-            {
-                "substep": [
-                    {
-                        "type": 3,
-                        "param": 92,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 93,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 94,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框92-94"
-                    },
-                    {
-                        "type": 8,
-                        "param": "0,1,2,3,7,8,9,10",
-                        "auto": 1,
-                        "stat": "训练营面板更新2"
-                    },
-                    {
-                        "type": 3,
-                        "param": 95,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 96,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 97,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 98,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 99,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 100,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 101,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 102,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框95-102"
-                    },
-                    {
-                        "type": 7,
-                        "param": 18065,
-                        "auto": 1,
-                        "stat": "进入真实对战"
-                    }
-                ],
-                "step": 19,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "toolbar": "btnPet",
                 "npcs": "0,1,2,3,7,8,9"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 103,
-                        "side": 1,
-                        "auto": 1
+                        "talkGroupId": 40
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,11,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "903,68,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "condition": "1,11,0",
+                        "eventArgs": 2845,
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "condition": "1,11,0",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "1,11,0"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "837,205,40,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnNature",
+                        "stat": "点击调整性格T4"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "complete"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "649,181,80,80",
+                        "align": "right",
+                        "event": "click_item",
+                        "eventArgs": 300082,
+                        "stat": "点击性格转化剂开朗T4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "699,385,91,31",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnUse",
+                        "stat": "点击替换"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "590,351,119,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "568,290,56,112",
+                        "align": "right",
+                        "event": "event_close_useitem_panel",
+                        "stat": "点击替换"
+                    }
+                ],
+                "step": 16,
+                "toolbar": "btnPet",
+                "npcs": "0,1,2,3,7,8,9"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 41
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,11,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "903,68,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "condition": "1,11,0",
+                        "eventArgs": 2845,
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "condition": "1,11,0",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "1,11,0"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1072,202,40,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnTexing",
+                        "stat": "点击开启特性T5"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "649,191,80,80",
+                        "align": "right",
+                        "event": "click_item",
+                        "eventArgs": 300063,
+                        "stat": "点击开启特性T5"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "699,385,91,31",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnUse",
+                        "stat": "点击替换"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "590,351,119,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "568,275,56,112",
+                        "align": "right",
+                        "event": "close_module",
+                        "eventArgs": "petChangeFeatures.PetChangeFeatures",
+                        "stat": "点击替换"
+                    }
+                ],
+                "step": 17,
+                "toolbar": "btnPet",
+                "npcs": "0,1,2,3,7,8,9"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 42
+                    },
+                    {
+                        "type": 5,
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,11,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "903,68,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "condition": "1,11,0",
+                        "eventArgs": 2845,
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "condition": "1,11,0",
+                        "stat": "点击萌火猴T1"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "1,11,0"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "1072,157,40,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnPower",
+                        "stat": "点击提升体力上限T6"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "complete"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "649,181,80,80",
+                        "align": "right",
+                        "event": "click_item",
+                        "eventArgs": 300021,
+                        "stat": "点击性格转化剂开朗T4"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "699,385,91,31",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnUse",
+                        "stat": "点击替换"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "590,351,122,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "568,290,56,112",
+                        "align": "right",
+                        "event": "event_close_useitem_panel",
+                        "stat": "点击替换"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵背包T1"
+                    }
+                ],
+                "step": 18,
+                "toolbar": "btnPet",
+                "npcs": "0,1,2,3,7,8,9"
+            },
+            {
+                "substep": [
+                    {
+                        "type": 3,
+                        "talkGroupId": 43
+                    },
+                    {
+                        "type": 8,
+                        "npcs": "0,1,2,3,7,8,9,10",
+                        "stat": "训练营面板更新2"
                     },
                     {
                         "type": 3,
-                        "param": 104,
-                        "side": 1,
-                        "auto": 1
+                        "talkGroupId": 44
                     },
                     {
+                        "type": 7,
+                        "bossId": 18065,
+                        "mustWin": 1,
+                        "failDialogID": 54,
+                        "stat": "进入真实对战"
+                    }
+                ],
+                "step": 19,
+                "toolbar": "btnPet",
+                "npcs": "0,1,2,3,7,8,9"
+            },
+            {
+                "substep": [
+                    {
                         "type": 3,
-                        "param": 105,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框103-105"
+                        "talkGroupId": 45
                     },
                     {
                         "type": 4,
                         "param": "41392:1:20",
-                        "auto": 1,
                         "outputPanel": 129,
                         "stat": "打开输出06面板"
                     }
                 ],
                 "step": 20,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "toolbar": "btnPet",
                 "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 106,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 107,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 108,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框106-108"
+                        "talkGroupId": 46
                     },
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "stat": "点击精灵背包T7"
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,11,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
                     },
                     {
                         "type": 5,
-                        "param": "1,478,140,60|53,171,411|0|300,1,65,506,1",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
+                        "rect": "679,203,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "eventArgs": 3582,
+                        "stat": "点击吉米T1"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "condition": "1,11,0",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "1,11,0"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "682,564,174,48",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnRuneWareHouse",
+                        "stat": "点击刻印中心T7"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "complete"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "262,109,107,107",
+                        "event": "click_mark",
+                        "eventArgs": 40916,
                         "stat": "点击刻印中心T7"
                     },
                     {
                         "type": 5,
-                        "param": "185,475,58,58|54,263,415|0|300,1,215,504,1",
-                        "auto": 0,
-                        "waitPanel": "CountermarkCenterNewPanel_2016",
-                        "stat": "点击衡巨刃T7"
+                        "rect": "598,417,94,21",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnUp",
+                        "stat": "点击刻印中心T7"
                     },
                     {
                         "type": 5,
-                        "param": "682,262,104,45|55,263,415|0|300,1,734,284,1",
-                        "auto": 0,
-                        "stat": "点击升级刻印T7"
+                        "rect": "490,305,163,36",
+                        "align": "center",
+                        "endEvent": "mark_max_level",
+                        "event": "click_button",
+                        "eventArgs": "btnLevelUp",
+                        "stat": "点击升级刻印"
                     },
                     {
-                        "type": 5,
-                        "param": "375,333,86,45|0|0|300,1,418,356,1",
-                        "auto": 0
-                    },
-                    {
-                        "type": 5,
-                        "param": "436,334,86,45|0|0|300,1,479,356,1",
-                        "auto": 0
-                    },
-                    {
-                        "type": 5,
-                        "param": "918,3,40,40|56,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭刻印中心T7"
+                        "type": 11
                     }
                 ],
                 "step": 21,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9,10",
-                "auto": 1
+                "toolbar": "btnPet",
+                "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 109,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 110,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框109-110"
+                        "talkGroupId": 47
                     },
                     {
                         "type": 5,
-                        "param": "779,509,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "stat": "点击精灵背包S3"
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,11,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
                     },
                     {
                         "type": 5,
-                        "param": "461,375,94,98|57,246,235|0|300,1,508,422,1",
-                        "pid": "3582,3",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击几米S3"
+                        "rect": "679,203,101,124",
+                        "startEvent": "pet_bag_init_completed",
+                        "align": "right",
+                        "event": "select_pet",
+                        "condition": "1,11,0",
+                        "eventArgs": 3582,
+                        "stat": "点击吉米T1"
                     },
                     {
                         "type": 5,
-                        "param": "344,286,70,70|58,246,164|0|300,1,379,321,1",
-                        "pid": 3582,
-                        "auto": 0,
-                        "stat": "点击刻印孔S3"
+                        "rect": "21,435,64,80",
+                        "event": "click_button",
+                        "eventArgs": "btnDetail",
+                        "condition": "1,11,0",
+                        "stat": "点击详细"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "1,11,0"
                     },
                     {
                         "type": 5,
-                        "param": "483,139,54,50|59,317,230|0|300,1,510,165,1",
-                        "auto": 0,
-                        "waitPanel": "CountermarkEquipPanel",
-                        "stat": "点击衡巨刃S3"
+                        "rect": "682,564,174,48",
+                        "align": "right",
+                        "event": "click_button",
+                        "condition": "2,MARK_WAREHOUSE_SHOW",
+                        "eventArgs": "btnRuneWareHouse",
+                        "stat": "点击刻印中心T7"
                     },
                     {
                         "type": 5,
-                        "param": "375,333,84,44|0|0|300,1,418,355,1",
-                        "auto": 0
+                        "rect": "262,109,107,107",
+                        "await": 600,
+                        "event": "click_mark",
+                        "eventArgs": 40916,
+                        "stat": "点击刻印中心T7"
                     },
                     {
                         "type": 5,
-                        "param": "848,40,40,40|60,483,110|0|300,1,868,60,0.5",
-                        "auto": 0,
-                        "stat": "关闭装载刻印面板S3"
+                        "rect": "445,418,94,21",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnPutOn",
+                        "stat": "点击升级刻印"
                     },
                     {
                         "type": 5,
-                        "param": "917,3,40,40|61,485,55|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包S3"
+                        "rect": "590,351,122,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵详细面板"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵背包T1"
                     }
                 ],
                 "step": 22,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9,10",
-                "auto": 1
+                "toolbar": "btnPet",
+                "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 111,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 112,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 113,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框111-113"
+                        "talkGroupId": 48
                     },
                     {
                         "type": 4,
                         "param": "41392:1:23",
-                        "auto": 1,
                         "outputPanel": 130,
                         "stat": "打开输出07面板"
                     }
                 ],
                 "step": 23,
-                "tool": "helper:friendBtn:shopBtn:bagBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "toolbar": "btnPet",
                 "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 114,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 115,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 116,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 117,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 118,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 119,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 120,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框114-120"
+                        "talkGroupId": 49
                     },
                     {
                         "type": 5,
-                        "param": "545,510,63,49|0|586,495,0|0",
-                        "auto": 1,
+                        "rect": "485,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "eventArgs": "btnInfo",
                         "stat": "点击物品S4"
                     },
                     {
-                        "type": 5,
-                        "param": "1,337,134,42|62,123,294|0|300,1,68,358,1",
-                        "auto": 0,
-                        "waitPanel": "NewItemBagMainPanel",
-                        "stat": "点击外观S4"
+                        "type": 9,
+                        "eventType": "open_module"
                     },
                     {
                         "type": 5,
-                        "param": "196,151,326,66|63,125,239|362,235,180|0",
-                        "auto": 0,
-                        "stat": "点击任一装扮部件S4"
+                        "rect": "1007,536,80,80",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "eventArgs": "btnSuit",
+                        "stat": "点击编辑装扮"
                     },
                     {
                         "type": 5,
-                        "param": "389,457,58,64|64,460,433|0|300,1,418,488,1",
-                        "auto": 0,
-                        "stat": "点击保存S4"
+                        "rect": "737,560,133,46",
+                        "await": 1300,
+                        "align": "center",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "eventArgs": "btnAllDressUp",
+                        "stat": "点击一键穿戴"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
                     },
                     {
                         "type": 5,
-                        "param": "439,334,84,44|0|0|300,1,481,356,1",
-                        "auto": 0
+                        "rect": "652,506,125,42",
+                        "align": "center",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "eventArgs": "btnSuit",
+                        "stat": "点击装备"
                     },
                     {
                         "type": 5,
-                        "param": "917,3,40,40|65,410,5|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭物品面板S4"
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭个人信息面板"
                     }
                 ],
                 "step": 24,
-                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,7,8,9,10",
-                "auto": 1
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 121,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 122,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 123,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 124,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 125,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 126,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框121-126"
+                        "talkGroupId": 50
                     },
                     {
                         "type": 4,
                         "param": "41392:1:25",
-                        "auto": 1,
                         "outputPanel": 131,
                         "stat": "打开输出08面板"
                     }
                 ],
                 "step": 25,
-                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "toolbar": "btnPet,btnInfo",
                 "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 127,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 128,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 129,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 130,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 131,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 132,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 133,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 134,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框127-134"
+                        "talkGroupId": 51
                     },
                     {
                         "type": 4,
                         "param": "41392:1:26",
-                        "auto": 1,
                         "outputPanel": 132,
                         "stat": "打开输出09面板"
                     }
                 ],
                 "step": 26,
-                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "toolbar": "btnPet,btnInfo",
                 "npcs": "0,1,2,3,7,8,9,10"
             },
             {
                 "substep": [
                     {
                         "type": 3,
-                        "param": 135,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 136,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 137,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 138,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框135-138"
+                        "talkGroupId": 52
                     },
                     {
                         "type": 5,
-                        "param": "778,510,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "stat": "点击精灵背包S5"
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
                     },
                     {
                         "type": 5,
-                        "param": "818,417,140,60|66,474,247|0|300,1,886,447,1",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "点击精灵仓库S5"
+                        "rect": "21,338,64,80",
+                        "startEvent": "pet_bag_init_completed",
+                        "event": "click_button",
+                        "eventArgs": "btnWarehouse",
+                        "stat": "点击精灵仓库"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
                     },
                     {
                         "type": 5,
-                        "param": "587,135,110,34|67,477,320|0|300,1,642,152,1",
-                        "auto": 0,
-                        "waitPanel": "PetStorage",
-                        "stat": "点击查看全部S5"
+                        "rect": "383,119,105,122",
+                        "event": "select_pet",
+                        "eventArgs": 3891,
+                        "stat": "点击精灵仓库"
                     },
                     {
                         "type": 5,
-                        "param": "655,184,88,112|68,477,320|0|300,1,698,236,1",
-                        "pid": 3891,
-                        "auto": 0,
-                        "stat": "点击未来伊优S5"
+                        "rect": "633,577,112,40",
+                        "align": "right",
+                        "event": "click_button",
+                        "eventArgs": "btnInBag",
+                        "stat": "点击放入背包"
                     },
                     {
                         "type": 5,
-                        "param": "180,450,64,58|69,477,320|0|300,1,212,480,1",
-                        "auto": 0,
-                        "stat": "点击放入背包S5"
+                        "rect": "482,227,100,120",
+                        "align": "center",
+                        "rectType": 1,
+                        "handType": 2,
+                        "event": "replace_pet",
+                        "eventArgs": 2858,
+                        "stat": "替换萌伊优"
                     },
                     {
                         "type": 5,
-                        "param": "413,171,96,98|70,493,288|0|300,1,461,222,1",
-                        "pid": 2858,
-                        "auto": 0,
-                        "waitPanel": "BagStorageSwitchChoosePanel",
-                        "stat": "点击萌伊优S5"
+                        "rect": "590,351,122,40",
+                        "align": "center",
+                        "event": "click_button",
+                        "eventArgs": "btnOk",
+                        "stat": "点击确认分配T2"
                     },
                     {
                         "type": 5,
-                        "param": "416,261,92,40|71,493,288|463,319,180|0",
-                        "auto": 0,
-                        "stat": "点击确认替换S5"
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵仓库面板"
                     },
                     {
-                        "type": 5,
-                        "param": "920,1,40,40|72,472,41|902,24,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵仓库S5"
+                        "type": 9,
+                        "eventType": "close_module"
                     }
                 ],
                 "step": 27,
-                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,11",
-                "auto": 1
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "0,1,2,3,11"
             },
             {
                 "substep": [
                     {
                         "type": 5,
-                        "param": "778,510,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "skip": 1
+                        "rect": "378,592,95,39",
+                        "align": "right",
+                        "rectType": 1,
+                        "handType": 2,
+                        "condition": "1,10,0",
+                        "event": "click_button",
+                        "eventArgs": "btnPet",
+                        "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module",
+                        "condition": "1,10,0"
                     },
                     {
                         "type": 5,
-                        "param": "648,372,98,100|73,418,260|0|300,1,697,422,1",
-                        "pid": "3891,5",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "stat": "选中未来伊优S5"
+                        "rect": "658,68,133,256",
+                        "handType": 4,
+                        "align": "right",
+                        "event": "set_default",
+                        "eventArgs": 3891,
+                        "tipPos": "568,320",
+                        "tip": "拖动萌优伊到萌布布种子位置",
+                        "tipTitle": "提示标题",
+                        "stat": "点击技能雷神天明闪F1"
                     },
                     {
                         "type": 5,
-                        "param": "172,371,576,100|74,246,253|0|0",
-                        "pid": 3891,
-                        "playEff": "pet:5:0",
-                        "auto": 0,
-                        "stat": "将未来伊优设为首发S5"
-                    },
-                    {
-                        "type": 5,
-                        "param": "917,2,40,40|75,410,5|897,25,270|0",
-                        "auto": 0,
-                        "stat": "关闭精灵背包S5"
+                        "rect": "0,0,101,49",
+                        "event": "click_button",
+                        "eventArgs": "btnClose",
+                        "stat": "关闭精灵背包T1"
                     },
                     {
                         "type": 3,
-                        "param": 139,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 140,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 141,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 142,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 143,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 144,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 145,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 146,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 147,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 148,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 149,
-                        "side": 1,
-                        "auto": 1
-                    },
-                    {
-                        "type": 3,
-                        "param": 150,
-                        "side": 1,
-                        "auto": 1,
-                        "stat": "完成对话框139-150"
+                        "talkGroupId": 53
                     }
                 ],
                 "step": 28,
-                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,11",
-                "auto": 1
+                "toolbar": "btnPet,btnInfo",
+                "npcs": "0,1,2,3,11"
             }
         ]
     }
