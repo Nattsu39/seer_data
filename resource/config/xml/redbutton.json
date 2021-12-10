@@ -8,7 +8,7 @@
                 "BytePos": 0,
                 "ByteValue": 0,
                 "Judge": 0,
-                "tips": "星愿漂流瓶可否许愿红点",
+                "tips": "最新礼包_星愿漂流瓶可否许愿红点",
                 "From": "shopcenter:1|icon:shopcenter_icon"
             },
             {
@@ -18,7 +18,7 @@
                 "BytePos": 1,
                 "ByteValue": 1,
                 "Judge": 0,
-                "tips": "【英雄圣殿巡回】更新提示红点，点击进入prepanel面板后消失",
+                "tips": "主界面_【英雄圣殿巡回】更新提示红点，点击进入prepanel面板后消失",
                 "From": "icon:shengdianyingxiongtuan_icon"
             },
             {
@@ -28,17 +28,17 @@
                 "BytePos": 0,
                 "ByteValue": 1,
                 "Judge": 1,
-                "tips": "刻印抽奖机页签红点,消耗掉每日赛尔豆抽取次数后消失",
+                "tips": "最新礼包_刻印抽奖机页签红点,消耗掉每日赛尔豆抽取次数后消失",
                 "From": "shopcenter:2|icon:shopcenter_icon"
             },
             {
                 "ID": 4,
                 "IsClick": 0,
                 "UserInfo": 123509,
-                "BytePos": 2,
-                "ByteValue": 9,
+                "BytePos": 3,
+                "ByteValue": 6,
                 "Judge": 0,
-                "tips": "主线剧情提醒红点，完成当期主线剧情后消失",
+                "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
             },
             {
@@ -46,10 +46,10 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 2,
-                "ByteValue": 1,
+                "ByteValue": 2,
                 "Judge": 0,
-                "tips": "【全新兑钻系统】更新提示红点，点击进入对应面板后消失",
-                "From": "shopcenter:17|icon:shopcenter_icon"
+                "tips": "最新礼包_【全新兑钻系统】更新提示红点，点击进入对应面板后消失",
+                "From": "shopcenter:19|icon:shopcenter_icon"
             },
             {
                 "ID": 6,
@@ -58,8 +58,28 @@
                 "BytePos": 0,
                 "ByteValue": 0,
                 "Judge": 0,
-                "tips": "【钻石任务】无每日任务/奖励待领取的情况下，则不显示",
+                "tips": "主界面_【钻石任务】无每日任务/奖励待领取的情况下，则不显示",
                 "From": "icon:SeerTrainLog_icon"
+            },
+            {
+                "ID": 7,
+                "IsClick": 1,
+                "UserInfo": 121117,
+                "BytePos": 3,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
+                "From": "icon:announcement_icon"
+            },
+            {
+                "ID": 8,
+                "IsClick": 1,
+                "UserInfo": 121117,
+                "BytePos": 4,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【皮肤商城】更新提示红点，点击进入皮肤商城面板后消失",
+                "From": "shopcenter:20|icon:shopcenter_icon"
             }
         ]
     }

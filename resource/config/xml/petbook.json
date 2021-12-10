@@ -545,20 +545,55 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4311,
-                        "ImageID": 4311,
+                        "ID": 4312,
+                        "ImageID": 4312,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1525;app/SpetTuTuoErSiPanel"
+                        "Go": "1526;app/SpetMaTiSiTePanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4313,
+                        "ImageID": 4313,
+                        "Label": 0,
+                        "Redirect": "alarm",
+                        "Go": "挑战《赛尔互通助手》SPT副本获得！"
                     },
                     {
                         "type": 1,
-                        "ID": 430,
-                        "MonID": 4309,
-                        "ImageID": 1400430,
+                        "ID": 431,
+                        "MonID": 3665,
+                        "ImageID": 1400431,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SkinShopMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 432,
+                        "MonID": 3813,
+                        "ImageID": 1400432,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SkinShopMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 433,
+                        "MonID": 3875,
+                        "ImageID": 1400433,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SkinShopMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 434,
+                        "MonID": 3414,
+                        "ImageID": 1400434,
                         "Label": 1,
                         "Redirect": "map",
-                        "Go": 1095
+                        "Go": 103
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -44745,6 +44780,26 @@
                 "Features": "灵格星系三大上古神兽之一，远古巨龟，背上有巨大的冰山，口中可以吹出极寒之气，每一次践踏都会造成巨大的雪崩，被世人称之为“移动的冰川”！",
                 "Redirect": "map|module",
                 "Go": "1525;app/SpetTuTuoErSiPanel"
+            },
+            {
+                "ID": 4312,
+                "DefName": "玛提斯特",
+                "Type": "邪灵 暗影",
+                "Height": 169,
+                "Weight": 64,
+                "Features": "盖伦星系的侦察兵，长有双翅的他行动非常迅捷，常常负责通风报信的工作！",
+                "Redirect": "map|module",
+                "Go": "1526;app/SpetMaTiSiTePanel"
+            },
+            {
+                "ID": 4313,
+                "DefName": "灼日之蚀",
+                "Type": "火",
+                "Height": 218,
+                "Weight": 95,
+                "Features": "蚀日的超进化形态，对火焰力量的运用已经出神入化，吞天蚀日的烈火势必焚烬一切来犯之敌！",
+                "Redirect": "alarm",
+                "Go": "挑战《赛尔互通助手》SPT副本获得！"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

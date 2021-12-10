@@ -74,15 +74,6 @@
                 "shownewseer": 0,
                 "priority": 5,
                 "exMapList": 50000,
-                "ui": "taoleIcon",
-                "tips": "淘乐节",
-                "mouseClickFunc": "app:TaoleFestivalPropagandaPanel"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
                 "ui": "offlineIcon",
                 "tips": "精灵下架通知",
                 "mouseClickFunc": "app:ClassSSpiritOfflineMainPanel"
@@ -104,7 +95,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3433"
+                "mouseClickFunc": "app:MainLineTask_3434"
             },
             {
                 "direction": "right",
@@ -114,6 +105,15 @@
                 "ui": "pvpPreIcon",
                 "tips": "巅峰联赛 全新赛季",
                 "mouseClickFunc": "map:1095"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "announcement_icon",
+                "tips": "公告中心",
+                "mouseClickFunc": "app:NoticeCenterMainPanel"
             },
             {
                 "direction": "right_side",
