@@ -545,55 +545,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4312,
-                        "ImageID": 4312,
+                        "ID": 4314,
+                        "ImageID": 4314,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1526;app/SpetMaTiSiTePanel"
+                        "Redirect": "map",
+                        "Go": 1527
                     },
                     {
                         "type": 0,
-                        "ID": 4313,
-                        "ImageID": 4313,
+                        "ID": 4315,
+                        "ImageID": 4315,
                         "Label": 0,
-                        "Redirect": "alarm",
-                        "Go": "挑战《赛尔互通助手》SPT副本获得！"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 431,
-                        "MonID": 3665,
-                        "ImageID": 1400431,
-                        "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/SkinShopMainPanel"
+                        "Go": "1527;app/RescueGreenBallMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 432,
-                        "MonID": 3813,
-                        "ImageID": 1400432,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4316,
+                        "ImageID": 4316,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/SkinShopMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 433,
-                        "MonID": 3875,
-                        "ImageID": 1400433,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/SkinShopMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 434,
-                        "MonID": 3414,
-                        "ImageID": 1400434,
-                        "Label": 1,
-                        "Redirect": "map",
-                        "Go": 103
+                        "Go": "1527;app/S100ShaYuShiMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -44800,6 +44772,36 @@
                 "Features": "蚀日的超进化形态，对火焰力量的运用已经出神入化，吞天蚀日的烈火势必焚烬一切来犯之敌！",
                 "Redirect": "alarm",
                 "Go": "挑战《赛尔互通助手》SPT副本获得！"
+            },
+            {
+                "ID": 4314,
+                "DefName": "绿棘球",
+                "Type": "草",
+                "Height": 45,
+                "Weight": 22,
+                "Features": "长满针刺的小球，十分柔弱可爱，同族群的伙伴们似乎遭遇了危险！",
+                "Redirect": "map",
+                "Go": 1527
+            },
+            {
+                "ID": 4315,
+                "DefName": "翡翠棘球",
+                "Type": "草 暗影",
+                "Height": 52,
+                "Weight": 26,
+                "Features": "绿棘球族群中稀有的变异种，融合了暗影元素的它有着特殊的能力！",
+                "Redirect": "map|module",
+                "Go": "1527;app/RescueGreenBallMainPanel"
+            },
+            {
+                "ID": 4316,
+                "DefName": "沙狱使者",
+                "Type": "地面 战斗",
+                "Height": 180,
+                "Weight": 72,
+                "Features": "负责看守监狱的士兵，对自己的守卫工作尽职尽责，能够将身体化为沙尘融入地面快速移动，拥有特殊的抓捕技巧！",
+                "Redirect": "map|module",
+                "Go": "1527;app/S100ShaYuShiMainPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

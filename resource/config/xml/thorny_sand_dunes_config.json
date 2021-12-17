@@ -1,0 +1,1306 @@
+{
+    "root": {
+        "Rooms": {
+            "Room": [
+                {
+                    "Optional": {
+                        "ID": 1,
+                        "FunctionID": 1,
+                        "Nmae": "锅炉房",
+                        "OpenContentID": 0
+                    },
+                    "ID": 1,
+                    "Optionals": 1
+                },
+                {
+                    "Optional": [
+                        {
+                            "ID": 1,
+                            "FunctionID": 16,
+                            "Name": "洗衣房",
+                            "OpenContentID": 80
+                        },
+                        {
+                            "ID": 2,
+                            "FunctionID": 17,
+                            "Name": "垃圾房",
+                            "OpenContentID": 81
+                        },
+                        {
+                            "ID": 3,
+                            "FunctionID": 18,
+                            "Name": "厕所A",
+                            "OpenContentID": 76
+                        },
+                        {
+                            "ID": 4,
+                            "FunctionID": 19,
+                            "Name": "厕所B",
+                            "OpenContentID": 76
+                        }
+                    ],
+                    "ID": "2 12 14 15",
+                    "Optionals": 4
+                },
+                {
+                    "Optional": [
+                        {
+                            "ID": 1,
+                            "FunctionID": 12,
+                            "Name": "电力室",
+                            "OpenContentID": 77
+                        },
+                        {
+                            "ID": 2,
+                            "FunctionID": 13,
+                            "Name": "图书馆",
+                            "OpenContentID": 79
+                        },
+                        {
+                            "ID": 3,
+                            "FunctionID": 14,
+                            "Name": "通讯室",
+                            "OpenContentID": 77
+                        },
+                        {
+                            "ID": 4,
+                            "FunctionID": 15,
+                            "Name": "保安室",
+                            "OpenContentID": 79
+                        }
+                    ],
+                    "ID": "3 6 9 19",
+                    "Optionals": 4
+                },
+                {
+                    "Optional": {
+                        "ID": 1,
+                        "FunctionID": 3,
+                        "Name": "转角走廊B",
+                        "OpenContentID": 73
+                    },
+                    "ID": 4,
+                    "Optionals": 1
+                },
+                {
+                    "Optional": [
+                        {
+                            "ID": 1,
+                            "FunctionID": 7,
+                            "Name": "厨房",
+                            "OpenContentID": 75
+                        },
+                        {
+                            "ID": 2,
+                            "FunctionID": 8,
+                            "Name": "浴室",
+                            "OpenContentID": 76
+                        },
+                        {
+                            "ID": 3,
+                            "FunctionID": 9,
+                            "Name": "机房",
+                            "OpenContentID": 77
+                        },
+                        {
+                            "ID": 4,
+                            "FunctionID": 10,
+                            "Name": "休息室A",
+                            "OpenContentID": 78
+                        },
+                        {
+                            "ID": 5,
+                            "FunctionID": 11,
+                            "Name": "休息室B",
+                            "OpenContentID": 78
+                        }
+                    ],
+                    "ID": "5 8 13 17 20",
+                    "Optionals": 5
+                },
+                {
+                    "Optional": [
+                        {
+                            "ID": 1,
+                            "FunctionID": 20,
+                            "Name": "牢房A",
+                            "OpenContentID": 82
+                        },
+                        {
+                            "ID": 2,
+                            "FunctionID": 21,
+                            "Name": "牢房B",
+                            "OpenContentID": 83
+                        },
+                        {
+                            "ID": 3,
+                            "FunctionID": 22,
+                            "Name": "牢房C",
+                            "OpenContentID": 83
+                        },
+                        {
+                            "ID": 4,
+                            "FunctionID": 23,
+                            "Name": "宿舍A",
+                            "OpenContentID": 82
+                        },
+                        {
+                            "ID": 5,
+                            "FunctionID": 24,
+                            "Name": "宿舍B",
+                            "OpenContentID": 82
+                        },
+                        {
+                            "ID": 6,
+                            "FunctionID": 25,
+                            "Name": "资料室",
+                            "OpenContentID": 83
+                        }
+                    ],
+                    "ID": "7 11 22 23 24 25",
+                    "Optionals": 6
+                },
+                {
+                    "Optional": [
+                        {
+                            "ID": 1,
+                            "FunctionID": 5,
+                            "Name": "大堂",
+                            "OpenContentID": 74
+                        },
+                        {
+                            "ID": 2,
+                            "FunctionID": 6,
+                            "Name": "餐厅",
+                            "OpenContentID": 74
+                        }
+                    ],
+                    "ID": "10 21",
+                    "Optionals": 2
+                },
+                {
+                    "Optional": {
+                        "ID": 1,
+                        "FunctionID": 4,
+                        "Name": "转角走廊C",
+                        "OpenContentID": 73
+                    },
+                    "ID": 18,
+                    "Optionals": 1
+                },
+                {
+                    "Optional": {
+                        "ID": 1,
+                        "FunctionID": 2,
+                        "Name": "长走廊A",
+                        "OpenContentID": 73
+                    },
+                    "ID": 16,
+                    "Optionals": 1
+                }
+            ]
+        },
+        "Doors": {
+            "Door": [
+                {
+                    "ID": 1,
+                    "UnlockRooms": "1 5"
+                },
+                {
+                    "ID": 2,
+                    "UnlockRooms": "1 2"
+                },
+                {
+                    "ID": 2,
+                    "UnlockRooms": "1 2"
+                },
+                {
+                    "ID": 3,
+                    "UnlockRooms": "2 6"
+                },
+                {
+                    "ID": 4,
+                    "UnlockRooms": "2 3"
+                },
+                {
+                    "ID": 5,
+                    "UnlockRooms": "3 4"
+                },
+                {
+                    "ID": 6,
+                    "UnlockRooms": "4 14"
+                },
+                {
+                    "ID": 7,
+                    "UnlockRooms": "5 15"
+                },
+                {
+                    "ID": 8,
+                    "UnlockRooms": "6 10"
+                },
+                {
+                    "ID": 9,
+                    "UnlockRooms": "7 8"
+                },
+                {
+                    "ID": 10,
+                    "UnlockRooms": "8 11"
+                },
+                {
+                    "ID": 11,
+                    "UnlockRooms": "8 12"
+                },
+                {
+                    "ID": 12,
+                    "UnlockRooms": "8 9"
+                },
+                {
+                    "ID": 13,
+                    "UnlockRooms": "9 13"
+                },
+                {
+                    "ID": 14,
+                    "UnlockRooms": "10 16"
+                },
+                {
+                    "ID": 15,
+                    "UnlockRooms": "12 16"
+                },
+                {
+                    "ID": 16,
+                    "UnlockRooms": "13 21"
+                },
+                {
+                    "ID": 17,
+                    "UnlockRooms": "13 14"
+                },
+                {
+                    "ID": 18,
+                    "UnlockRooms": "14 17"
+                },
+                {
+                    "ID": 19,
+                    "UnlockRooms": "15 18"
+                },
+                {
+                    "ID": 20,
+                    "UnlockRooms": "16 19"
+                },
+                {
+                    "ID": 21,
+                    "UnlockRooms": "17 25"
+                },
+                {
+                    "ID": 22,
+                    "UnlockRooms": "18 22"
+                },
+                {
+                    "ID": 23,
+                    "UnlockRooms": "18 19"
+                },
+                {
+                    "ID": 24,
+                    "UnlockRooms": "19 23"
+                },
+                {
+                    "ID": 25,
+                    "UnlockRooms": "19 20"
+                },
+                {
+                    "ID": 26,
+                    "UnlockRooms": "20 24"
+                },
+                {
+                    "ID": 27,
+                    "UnlockRooms": "20 21"
+                }
+            ]
+        },
+        "Items": {
+            "Item": [
+                {
+                    "ID": 1,
+                    "Name": "万能钥匙卡",
+                    "ChangeTo": 1
+                },
+                {
+                    "ID": 2,
+                    "Name": "脆弱的撬棍",
+                    "ChangeTo": 3
+                },
+                {
+                    "ID": 3,
+                    "Name": "损坏的撬棍",
+                    "UseSeedRoomID": "0_15",
+                    "ChangeTo": 2,
+                    "UseContent": 61
+                },
+                {
+                    "ID": 4,
+                    "Name": "大号垃圾袋",
+                    "UseSeedRoomID": "1_5",
+                    "ChangeTo": 5,
+                    "UseContent": 62
+                },
+                {
+                    "ID": 5,
+                    "Name": "黑色垃圾袋"
+                },
+                {
+                    "ID": 6,
+                    "Name": "牢固的绳子",
+                    "UseSeedRoomID": "2_8",
+                    "ChangeTo": 7,
+                    "UseContent": 63
+                },
+                {
+                    "ID": 7,
+                    "Name": "便携式梯子",
+                    "UseSeedRoomID": "2_11",
+                    "ChangeTo": 7,
+                    "AddItem": 18,
+                    "UseContent": 64
+                },
+                {
+                    "ID": 8,
+                    "Name": "大号工作服",
+                    "UseSeedRoomID": "3_5",
+                    "ChangeTo": 9,
+                    "UseContent": 65
+                },
+                {
+                    "ID": 9,
+                    "Name": "小号工作服"
+                },
+                {
+                    "ID": 10,
+                    "Name": "喝剩的鸡汤",
+                    "UseSeedRoomID": "4_1 4_7",
+                    "ChangeTo": "11 11",
+                    "UseContent": 66
+                },
+                {
+                    "ID": 11,
+                    "Name": "大锅热鸡汤"
+                },
+                {
+                    "ID": 12,
+                    "Name": "大锅毒鸡汤",
+                    "UseSeedRoomID": "4_23 4_24",
+                    "ChangeTo": "13 14",
+                    "UseContent": 67
+                },
+                {
+                    "ID": 13,
+                    "Name": "半锅毒鸡汤",
+                    "UseSeedRoomID": "4_24",
+                    "ChangeTo": 15,
+                    "UseContent": 68
+                },
+                {
+                    "ID": 14,
+                    "Name": "半锅毒鸡汤",
+                    "UseSeedRoomID": "4_23",
+                    "ChangeTo": 15,
+                    "UseContent": 68
+                },
+                {
+                    "ID": 15,
+                    "Name": "大锅"
+                },
+                {
+                    "ID": 16,
+                    "Name": "便签纸",
+                    "UseSeedRoomID": "1_13",
+                    "ChangeTo": 17,
+                    "UseContent": 69
+                },
+                {
+                    "ID": 17,
+                    "Name": "可回收标签"
+                },
+                {
+                    "ID": 18,
+                    "Name": "工具箱"
+                },
+                {
+                    "ID": 19,
+                    "Name": "红色领结",
+                    "UseSeedRoomID": "3_12",
+                    "ChangeTo": 20,
+                    "UseContent": 70
+                },
+                {
+                    "ID": 20,
+                    "Name": "领结变声器"
+                },
+                {
+                    "ID": 21,
+                    "Name": "穿泻甲秘方",
+                    "UseSeedRoomID": "4_0",
+                    "PreItemID": 11,
+                    "ChangeTo": 12,
+                    "UseContent": 71
+                },
+                {
+                    "ID": 22,
+                    "Name": "可疑的纸条"
+                },
+                {
+                    "ID": 23,
+                    "Name": "无线上网卡",
+                    "UseSeedRoomID": "0_9",
+                    "LimitTime": 54,
+                    "UseContent": 72
+                }
+            ]
+        },
+        "Functions": {
+            "Function": [
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "GetItem": 2,
+                            "TextContentID": 1,
+                            "FirstInContentID": 2
+                        },
+                        {
+                            "ID": 2,
+                            "GetItem": 2,
+                            "TextContentID": 3,
+                            "FirstInContentID": 4
+                        },
+                        {
+                            "ID": 3,
+                            "GetItem": 2,
+                            "TextContentID": 1,
+                            "FirstInContentID": 2
+                        },
+                        {
+                            "ID": 4,
+                            "GetItem": 2,
+                            "TextContentID": 5,
+                            "FirstInContentID": 6
+                        }
+                    ],
+                    "ID": 1,
+                    "Name": "锅炉房"
+                },
+                {
+                    "ID": 2,
+                    "Name": "长走廊A",
+                    "TextContentID": 7
+                },
+                {
+                    "ID": 3,
+                    "Name": "转角走廊B",
+                    "TextContentID": 8
+                },
+                {
+                    "ID": 4,
+                    "Name": "转角走廊C",
+                    "TextContentID": 9
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 10
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 11
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 12
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 11
+                        }
+                    ],
+                    "ID": 5,
+                    "Name": "大堂"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 13
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 13,
+                            "FirstInContentID": 14,
+                            "GetItem": 1
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 13
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 13,
+                            "FirstInContentID": 15,
+                            "GetItem": 10
+                        }
+                    ],
+                    "ID": 6,
+                    "Name": "餐厅"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 16,
+                            "FirstInContentID": 17,
+                            "GetItem": 16
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 18
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 18
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 19
+                        }
+                    ],
+                    "ID": 7,
+                    "Name": "厨房"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 20
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 23
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 20,
+                            "FirstInCheckItemID": 2,
+                            "HasItemContentID": 21,
+                            "NoItemContentID": 22,
+                            "PunishTime": 6
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 20,
+                            "FirstInCheckItemID": 2,
+                            "HasItemContentID": 21,
+                            "NoItemContentID": 22,
+                            "PunishTime": 6
+                        }
+                    ],
+                    "ID": 8,
+                    "Name": "浴室"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 24,
+                            "FirstInContentID": 84,
+                            "GetItem": 23
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 24,
+                            "FirstInContentID": 84,
+                            "GetItem": 23
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 24,
+                            "FirstInContentID": 84,
+                            "GetItem": 23
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 24,
+                            "FirstInContentID": 84,
+                            "GetItem": 23
+                        }
+                    ],
+                    "ID": 9,
+                    "Name": "机房",
+                    "TextContentID": 24
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 25,
+                            "FirstInContentID": 26,
+                            "GetItem": 1
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 25
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 25,
+                            "FirstInContentID": 27,
+                            "GetItem": 19
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 25
+                        }
+                    ],
+                    "ID": 10,
+                    "Name": "休息室A"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 25
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 28
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 25
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 25,
+                            "FirstInContentID": 29,
+                            "GetItem": 1
+                        }
+                    ],
+                    "ID": 11,
+                    "Name": "休息室B"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 30,
+                            "FirstInCheckItemID": 2,
+                            "HasItemContentID": 31,
+                            "NoItemContentID": 32,
+                            "PunishTime": 6
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 30,
+                            "FirstInCheckItemID": 2,
+                            "HasItemContentID": 31,
+                            "NoItemContentID": 32,
+                            "PunishTime": 6
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 33
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 30
+                        }
+                    ],
+                    "ID": 12,
+                    "Name": "电力室"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 34
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 35,
+                            "FirstInContentID": 36,
+                            "GetItem": 6
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 37
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 37
+                        }
+                    ],
+                    "ID": 13,
+                    "Name": "图书馆"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 38
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 38
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 39
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 38
+                        }
+                    ],
+                    "ID": 14,
+                    "Name": "通讯室"
+                },
+                {
+                    "ID": 15,
+                    "Name": "保安室",
+                    "TextContentID": 40
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 41
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 41
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 42,
+                            "FirstInContentID": 43,
+                            "GetItem": 8
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 41
+                        }
+                    ],
+                    "ID": 16,
+                    "Name": "洗衣房"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 44
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 45
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 46,
+                            "FirstInContentID": 47,
+                            "GetItem": 1
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 45
+                        }
+                    ],
+                    "ID": 17,
+                    "Name": "垃圾房"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 48
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 48
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 48
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 49,
+                            "FirstInContentID": 50,
+                            "GetItem": 21
+                        }
+                    ],
+                    "ID": 18,
+                    "Name": "厕所A"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 51,
+                            "FirstInContentID": 52,
+                            "GetItem": 4
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 48
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 48
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 48
+                        }
+                    ],
+                    "ID": 19,
+                    "Name": "厕所B"
+                },
+                {
+                    "ID": 20,
+                    "Name": "牢房A",
+                    "TextContentID": 53,
+                    "FirstInContentID": 54
+                },
+                {
+                    "ID": 21,
+                    "Name": "牢房B",
+                    "TextContentID": 53
+                },
+                {
+                    "ID": 22,
+                    "Name": "牢房C",
+                    "TextContentID": 53
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 55,
+                            "FirstInCheckItemID": 2,
+                            "HasItemContentID": 56,
+                            "NoItemContentID": 57,
+                            "PunishTime": 6
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 55
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 55,
+                            "FirstInCheckItemID": 2,
+                            "HasItemContentID": 56,
+                            "NoItemContentID": 57,
+                            "PunishTime": 6
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 58
+                        }
+                    ],
+                    "ID": 23,
+                    "Name": "宿舍A"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 55
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 55
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 55
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 58
+                        }
+                    ],
+                    "ID": 24,
+                    "Name": "宿舍B"
+                },
+                {
+                    "Seed": [
+                        {
+                            "ID": 1,
+                            "TextContentID": 59,
+                            "FirstInContentID": 60,
+                            "GetItem": 22
+                        },
+                        {
+                            "ID": 2,
+                            "TextContentID": 59,
+                            "FirstInContentID": 60,
+                            "GetItem": 22
+                        },
+                        {
+                            "ID": 3,
+                            "TextContentID": 59,
+                            "FirstInContentID": 60,
+                            "GetItem": 22
+                        },
+                        {
+                            "ID": 4,
+                            "TextContentID": 59,
+                            "FirstInContentID": 60,
+                            "GetItem": 22
+                        }
+                    ],
+                    "ID": 25,
+                    "Name": "资料室"
+                }
+            ]
+        },
+        "TextContents": {
+            "TextContent": [
+                {
+                    "ID": 1,
+                    "Contect": "锅炉房十分聒噪，你从通风管道跳了下来，管道的入口已经被牢牢封锁了。"
+                },
+                {
+                    "ID": 2,
+                    "Contect": "锅炉房十分聒噪，你从通风管道跳了下来，管道的入口已经被牢牢封锁了。你在角落里找到了一个撬棍。获得道具【脆弱的撬棍】"
+                },
+                {
+                    "ID": 3,
+                    "Contect": "锅炉房十分聒噪，你从通风管道跳了下来，天花板上管道的入口没有完全合上，看来需要一些东西来重新打开它。"
+                },
+                {
+                    "ID": 4,
+                    "Contect": "锅炉房十分聒噪，你从通风管道跳了下来，天花板上管道的入口没有完全合上，看来需要一些东西来重新打开它。你在角落里找到了一个撬棍。获得道具【脆弱的撬棍】"
+                },
+                {
+                    "ID": 5,
+                    "Contect": "你从通风管道跳了下来，管道的入口已经被牢牢封锁了，锅炉房似乎在运作，强烈的热气催促着你赶紧离开。"
+                },
+                {
+                    "ID": 6,
+                    "Contect": "你从通风管道跳了下来，管道的入口已经被牢牢封锁了，锅炉房似乎在运作，强烈的热气催促着你赶紧离开。你在角落里找到了一个撬棍。获得道具【脆弱的撬棍】"
+                },
+                {
+                    "ID": 7,
+                    "Contect": "长长的走廊连接着3个房间，走廊被打扫的很干净。"
+                },
+                {
+                    "ID": 8,
+                    "Contect": "走廊的尽头还连接了1个房间，这里没有什么异常。"
+                },
+                {
+                    "ID": 9,
+                    "Contect": "走廊的内侧包裹着一个神秘的房间，走廊上倒没什么东西。"
+                },
+                {
+                    "ID": 10,
+                    "Contect": "空无一人的大堂，桌子上零零散散的放了一些黑色颜料，之前应该有什么文娱活动在这里进行。"
+                },
+                {
+                    "ID": 11,
+                    "Contect": "空无一人的大堂，桌子上零零散散的放了一些画板和彩色水粉颜料，之前应该有什么文娱活动在这里进行。"
+                },
+                {
+                    "ID": 12,
+                    "Contect": "空无一人的大堂，桌子上零零散散的放了一些剪刀，之前应该有什么文娱活动在这里进行。"
+                },
+                {
+                    "ID": 13,
+                    "Contect": "非常空旷的餐厅，被打扫的十分干净。"
+                },
+                {
+                    "ID": 14,
+                    "Contect": "非常空旷的餐厅，被打扫的十分干净。但在桌角发现了一张奇怪的卡片。获得道具【万能钥匙卡】"
+                },
+                {
+                    "ID": 15,
+                    "Contect": "非常空旷的餐厅，被打扫的十分干净。但在最中间的大桌上有一大碗鸡汤。获得道具【喝剩的鸡汤】"
+                },
+                {
+                    "ID": 16,
+                    "Contect": "略微狭窄的厨房，但设备和工具一应俱全。"
+                },
+                {
+                    "ID": 17,
+                    "Contect": "略微狭窄的厨房，但设备和工具一应俱全。桌边有一些很大的便签纸，应该是用来食品分类的。获得道具【便签纸】"
+                },
+                {
+                    "ID": 18,
+                    "Contect": "略微狭窄的厨房，但设备和工具一应俱全。厨房后面有扇门，但被锁死了。"
+                },
+                {
+                    "ID": 19,
+                    "Contect": "略微狭窄的厨房，但设备和工具一应俱全，在这里应该可以加热食物。厨房后面有扇门，上面有一个密码锁。"
+                },
+                {
+                    "ID": 20,
+                    "Contect": "浴室里很滑，一定要小心行走。"
+                },
+                {
+                    "ID": 21,
+                    "Contect": "刚开门的时候没注意，你差点摔一跤，不过还好用撬棍撑了下，可惜的是撬棍坏掉了。【脆弱的撬棍】变成了【损坏的撬棍】"
+                },
+                {
+                    "ID": 22,
+                    "Contect": "刚开门的时候没注意，你重重地摔一跤，在这里浪费了30分钟。"
+                },
+                {
+                    "ID": 23,
+                    "Contect": "浴室里放置了很多拖把，地面也已经拖过了，可以放心走动。"
+                },
+                {
+                    "ID": 24,
+                    "Contect": "这个房间整齐地排布着一些电脑，据说在凌晨时分这些电脑会突然闪屏，有些诡异。"
+                },
+                {
+                    "ID": 25,
+                    "Contect": "一间休息室，配备了清新剂，能让人放松身心。"
+                },
+                {
+                    "ID": 26,
+                    "Contect": "一间休息室，配备了清新剂，能让人放松身心。在休息室的沙发夹缝里发现了一张奇怪的卡片。获得道具【万能钥匙卡】"
+                },
+                {
+                    "ID": 27,
+                    "Contect": "一间休息室，配备了清新剂，能让人放松身心。沙发上散落着一些衣物，有一些好看的衣饰。获得道具【红色领结】"
+                },
+                {
+                    "ID": 28,
+                    "Contect": "一间休息室，配备了清新剂，能让人放松身心。在休息室的顶柜上放置了几个工具箱，好像没法直接够到。"
+                },
+                {
+                    "ID": 29,
+                    "Contect": "一间休息室，配备了清新剂，能让人放松身心。在休息室的沙发夹缝里发现了一张奇怪的卡片。获得道具【万能钥匙卡】"
+                },
+                {
+                    "ID": 30,
+                    "Contect": "电力室的地上散落了一些零件，这些零件似乎泄露了一些电流出来，十分危险。"
+                },
+                {
+                    "ID": 31,
+                    "Contect": "你没注意，踩在了漏电的地方，不过你马上用撬棍把自己勾到了安全的地方，但撬棍坏掉了。【脆弱的撬棍】变成了【损坏的撬棍】"
+                },
+                {
+                    "ID": 32,
+                    "Contect": "刚开门的时候没注意，你一脚猜到了漏电的地方里，在这里浪费了30分钟。"
+                },
+                {
+                    "ID": 33,
+                    "Contect": "电力室的地上散落了一些零件，不知道是不是磁场的影响，在这里说话有些奇怪。地上的零件似乎可以装备在某样东西上。"
+                },
+                {
+                    "ID": 34,
+                    "Contect": "图书馆里十分安静，书架上陈列了许多书籍。桌子上放着一些彩色记号笔，看来有人之前在这里整理书籍。"
+                },
+                {
+                    "ID": 35,
+                    "Contect": "图书馆里十分安静，书架上陈列了许多书籍。角落里放了一些绳子，看来之前有搬来一些新的书籍。"
+                },
+                {
+                    "ID": 36,
+                    "Contect": "图书馆里十分安静，书架上陈列了许多书籍。角落里放了一些绳子，看来之前有搬来一些新的书籍。这些绳子还蛮结实的嘛，没准可以排上用场。获得道具【牢固的绳子】"
+                },
+                {
+                    "ID": 37,
+                    "Contect": "图书馆里十分安静，书架上陈列了许多书籍。"
+                },
+                {
+                    "ID": 38,
+                    "Contect": "通讯室里有一些通讯设备，但没有办法使用。"
+                },
+                {
+                    "ID": 39,
+                    "Contect": "通讯室里有一些通讯设备，在抽屉里找到了使用方法，看来可以用这个来联系监狱外的其他工作人员。"
+                },
+                {
+                    "ID": 40,
+                    "Contect": "保安室里存放着许多器材，甚至还有器材的维修工具。"
+                },
+                {
+                    "ID": 41,
+                    "Contect": "洗衣房里放着许多机器，均处于待机状态，似乎没有要洗的衣服。"
+                },
+                {
+                    "ID": 42,
+                    "Contect": "洗衣房里放着许多机器，均处于待机状态。一旁的晾衣架上晒了许多工作制服，似乎已经晒干了。"
+                },
+                {
+                    "ID": 43,
+                    "Contect": "洗衣房里放着许多机器，均处于待机状态。一旁的晾衣架上晒了许多工作制服，似乎已经晒干了。虽然这些衣服对你来说大了点，但你还是带走了一件。获得道具【大号工作服】"
+                },
+                {
+                    "ID": 44,
+                    "Contect": "垃圾房的垃圾口传来了风声，但是没有办法打开这个通道。墙上写着垃圾回收的日子，在明天清晨将要回收可回收垃圾，或许可以利用这个来逃脱。"
+                },
+                {
+                    "ID": 45,
+                    "Contect": "垃圾房的垃圾口传来了风声，但是没有办法打开这个通道，垃圾房的臭味让你想赶紧离开。"
+                },
+                {
+                    "ID": 46,
+                    "Contect": "垃圾房的垃圾口传来了风声，但是没有办法打开这个通道，垃圾房的臭味让你想赶紧离开。"
+                },
+                {
+                    "ID": 47,
+                    "Contect": "垃圾房的垃圾口传来了风声，但是没有办法打开这个通道，垃圾房的臭味让你想赶紧离开。你忍耐着臭味搜寻了一番，找到了一张奇怪的卡片。获得道具【万能钥匙卡】"
+                },
+                {
+                    "ID": 48,
+                    "Contect": "厕所里打扫的还算干净，至少没有让人反感的味道。"
+                },
+                {
+                    "ID": 49,
+                    "Contect": "厕所里打扫的还算干净，至少没有让人反感的味道。柜子里似乎堆叠着许多杂物。"
+                },
+                {
+                    "ID": 50,
+                    "Contect": "厕所里打扫的还算干净，至少没有让人反感的味道。柜子里似乎堆叠着许多杂物。你搜寻了一番，找到了一袋奇怪的东西。获得道具【穿泻甲秘方】"
+                },
+                {
+                    "ID": 51,
+                    "Contect": "厕所里打扫的还算干净，至少没有让人反感的味道。柜子里似乎堆叠着许多杂物。"
+                },
+                {
+                    "ID": 52,
+                    "Contect": "厕所里打扫的还算干净，至少没有让人反感的味道。柜子里似乎堆叠着许多杂物。你你搜寻了一番，找到了一个大号的透明垃圾袋。获得道具【大号垃圾袋】"
+                },
+                {
+                    "ID": 53,
+                    "Contect": "一间普普通通的牢房。"
+                },
+                {
+                    "ID": 54,
+                    "Contect": "一间普普通通的牢房。角落里蹲着一个绿幽幽的家伙，看来就是本次的营救目标了。你救到了任务目标，接下来就是考虑如何逃脱了。"
+                },
+                {
+                    "ID": 55,
+                    "Contect": "看来是监狱的守卫居住的屋子，在这里你一定要小心行事。"
+                },
+                {
+                    "ID": 56,
+                    "Contect": "刚开门的时候你被熟睡的守卫吓到了，被反锁在了屋子里，你用撬棍轻声地打开了门。但撬棍坏掉了。【脆弱的撬棍】变成了【损坏的撬棍】"
+                },
+                {
+                    "ID": 57,
+                    "Contect": "刚开门的时候你被熟睡的守卫吓到了，被反锁在了屋子里，在这里摸索了30分钟终于破解了机关。"
+                },
+                {
+                    "ID": 58,
+                    "Contect": "看来是监狱的守卫居住的屋子。房间的门口似乎放着一个碗，应该是用来分配第二天的早餐的。"
+                },
+                {
+                    "ID": 59,
+                    "Contect": "资料室里存放了许多机密档案，你没有那么多时间细细研究了。"
+                },
+                {
+                    "ID": 60,
+                    "Contect": "突然，一张纸条掉在地上，吸引到了你的注意。获得道具【可疑的纸条】"
+                },
+                {
+                    "ID": 61,
+                    "Contect": "【损坏的撬棍】变为【脆弱的撬棍】"
+                },
+                {
+                    "ID": 62,
+                    "Contect": "【大号垃圾袋】变为【黑色垃圾袋】"
+                },
+                {
+                    "ID": 63,
+                    "Contect": "【牢固的绳子】变为【便携式梯子】"
+                },
+                {
+                    "ID": 64,
+                    "Contect": "你获得了【工具箱】"
+                },
+                {
+                    "ID": 65,
+                    "Contect": "【大号工作服】变为【小号工作服】"
+                },
+                {
+                    "ID": 66,
+                    "Contect": "【喝剩的鸡汤】变为【大锅热鸡汤】"
+                },
+                {
+                    "ID": 67,
+                    "Contect": "【大锅毒鸡汤】变为【半锅毒鸡汤】"
+                },
+                {
+                    "ID": 68,
+                    "Contect": "【半锅毒鸡汤】变为【大锅】"
+                },
+                {
+                    "ID": 69,
+                    "Contect": "【标签纸】变为【可回收标签】"
+                },
+                {
+                    "ID": 70,
+                    "Contect": "【红色领结】变为【领结变声器】"
+                },
+                {
+                    "ID": 71,
+                    "Contect": "【大锅热鸡汤】变为【大锅毒鸡汤】，【穿泻甲秘方】道具消失"
+                },
+                {
+                    "ID": 72,
+                    "Contect": "欢迎来到镜子世界"
+                },
+                {
+                    "ID": 73,
+                    "Contect": "前面的区域感觉异常空旷。"
+                },
+                {
+                    "ID": 74,
+                    "Contect": "前面应该是个大型区域，有很多座位但没有人。"
+                },
+                {
+                    "ID": 75,
+                    "Contect": "前面的房间散发着一股油腻的味道。"
+                },
+                {
+                    "ID": 76,
+                    "Contect": "前面的房间似乎很潮湿，隐约有水滴声。"
+                },
+                {
+                    "ID": 77,
+                    "Contect": "前方的房间散发出微弱的电子声。"
+                },
+                {
+                    "ID": 78,
+                    "Contect": "前方的房间传来清新的香气。"
+                },
+                {
+                    "ID": 79,
+                    "Contect": "前方的房间十分安静。"
+                },
+                {
+                    "ID": 80,
+                    "Contect": "前方的房间有微弱的机器声。"
+                },
+                {
+                    "ID": 81,
+                    "Contect": "前方的房间有奇怪的风声。"
+                },
+                {
+                    "ID": 82,
+                    "Contect": "这个房间十分的幽暗，里面似乎有生物的声音。打开这扇门需要钥匙卡或者撬棍。"
+                },
+                {
+                    "ID": 83,
+                    "Contect": "这个房间十分的幽暗，里面很安静。打开这扇门需要钥匙卡或者撬棍。"
+                },
+                {
+                    "ID": 84,
+                    "Contect": "这个房间整齐地排布着一些电脑，据说在凌晨时分这些电脑会突然闪屏，有些诡异。你获得了一张神秘的【无线上网卡】"
+                }
+            ]
+        }
+    }
+}

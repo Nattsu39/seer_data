@@ -12251,6 +12251,105 @@
                 },
                 "ID": 99,
                 "Desc": "20211022 S99沃卡奥拉"
+            },
+            {
+                "Cover": {
+                    "Cehua": {
+                        "ZhizunItemID": 1724241
+                    },
+                    "Houtai": {
+                        "SuperEvolveID": 0
+                    }
+                },
+                "Tasks": {
+                    "Mould": [
+                        {
+                            "Cehua": {
+                                "TaskId": 1,
+                                "MouldId": 34,
+                                "MidItems": "1724242 1724244 1724243",
+                                "Args": "8 2 4 6 8 10 15 10",
+                                "BossId": "4308 4292 4282 4205 4204 4269 3877 4252 4142 3889 3890 3891",
+                                "PanelTips": "战胜下方精灵，积攒进度到100%即可通过此关卡\\n每轮挑战战胜的精灵数量越多，增加的进度越多"
+                            },
+                            "Houtai": {
+                                "Forever": 123802,
+                                "Daily": 202900,
+                                "BossStartID": 258085,
+                                "BossEndID": 258096,
+                                "BossStyle": 0,
+                                "StatLog": 2010230100
+                            }
+                        },
+                        {
+                            "Qianduan": {
+                                "BossPosX": "0 0 0 0",
+                                "BossPosY": "0 0 0 -85",
+                                "BossScaleX": "1 1 1 1",
+                                "BossScaleY": "1 1 1 1"
+                            },
+                            "Cehua": {
+                                "TaskId": 2,
+                                "MouldId": 35,
+                                "MidItems": "1724245 1724246",
+                                "Args": "10 30 60",
+                                "BossId": "4313 4243 4215 4316"
+                            },
+                            "Houtai": {
+                                "Forever": 123803,
+                                "Daily": 202901,
+                                "BossStartID": 264517,
+                                "BossEndID": 264520,
+                                "BossStyle": 0,
+                                "StatLog": 2010230125
+                            }
+                        },
+                        {
+                            "Cehua": {
+                                "TaskId": 3,
+                                "MouldId": 36,
+                                "MidItems": "1724247 1724249 1724248",
+                                "Args": "8 3 3",
+                                "BossId": "4296 3746 4312 3821"
+                            },
+                            "Houtai": {
+                                "Forever": "123804 123805 123806",
+                                "Daily": 202902,
+                                "BossStartID": 266513,
+                                "BossEndID": 266516,
+                                "BossStyle": 0,
+                                "StatLog": 2010230132
+                            }
+                        }
+                    ],
+                    "Style": 1,
+                    "MonCount": 1,
+                    "TaskCount": 3,
+                    "TaskValue": 123801
+                },
+                "Power": {
+                    "Cehua": {
+                        "PowerID": 2,
+                        "LoadType": 1,
+                        "MonsterID": 4316,
+                        "MintmarkID": 42133,
+                        "NewSeIconId": 1512,
+                        "Args": "2 1 0 1 3 5 8 1 3 5 8 12 15 30 30",
+                        "Items": 1724250,
+                        "MidItems": "1724252 1724251"
+                    },
+                    "Houtai": {
+                        "GainValue": 123800,
+                        "NewSeID": 5807,
+                        "Forever": 123807,
+                        "Daily": 202903,
+                        "BossStartID": 210057,
+                        "BossEndID": 210060,
+                        "StatLog": 2006240144
+                    }
+                },
+                "ID": 100,
+                "Desc": "20211217 S100 沙狱使者"
             }
         ]
     }
