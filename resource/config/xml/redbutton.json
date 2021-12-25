@@ -34,9 +34,9 @@
             {
                 "ID": 4,
                 "IsClick": 0,
-                "UserInfo": 123509,
-                "BytePos": 4,
-                "ByteValue": 10,
+                "UserInfo": 123510,
+                "BytePos": 2,
+                "ByteValue": 8,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
@@ -46,7 +46,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 2,
-                "ByteValue": 2,
+                "ByteValue": 3,
                 "Judge": 0,
                 "tips": "最新礼包_【全新兑钻系统】更新提示红点，点击进入对应面板后消失",
                 "From": "shopcenter:19|icon:shopcenter_icon"
@@ -66,10 +66,30 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 2,
+                "ByteValue": 3,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
+            },
+            {
+                "ID": 9,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 1,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【年费预约礼包】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:21|icon:announcement_icon"
+            },
+            {
+                "ID": 10,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 2,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "主界面_【年费预热活动】提示红点，点击进入活动面板后红点消失",
+                "From": "icon:2022YearVipPreheat_icon"
             }
         ]
     }

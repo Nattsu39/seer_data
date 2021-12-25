@@ -5917,7 +5917,7 @@
                                 "index": 7,
                                 "npcName": "绿棘球",
                                 "npcID": 4314,
-                                "dialogArr": "还有我们的首领，一定要就出他…呜呜…",
+                                "dialogArr": "还有我们的首领，一定要救出他…呜呜…",
                                 "questionArr": "…"
                             },
                             {
@@ -6993,6 +6993,718 @@
                 ],
                 "activityID": 18,
                 "name": "棘土沙丘主题活动-营救绿棘球模拟作战"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "看来是环·源把自己的意识或者能量保存在了那根能量炮里面。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "他早就想着要怎么逃跑了…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "不过，既然已经消灭了他的躯体，就没有什么可以怕的了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "他一定就躲在这个机械环城的某个地方。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "嗯？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "那个…我记得是叫圣·芒？上次的伤口还在，幸好还没恢复，看来这些侵略者也已经黔驴技穷了啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "环·圣芒",
+                                "npcID": 4088,
+                                "dialogArr": "…？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "你竟然还有意识？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "环·圣芒",
+                                "npcID": 4088,
+                                "dialogArr": "可不是多亏了你…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "说吧，你们的队长躲到哪里去了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "环·圣芒",
+                                "npcID": 4088,
+                                "dialogArr": "什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "别装傻了，我可受够这种捉迷藏的游戏了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "你们已经没有任何机会了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "环·圣芒",
+                                "npcID": 4088,
+                                "dialogArr": "队长…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "环·圣芒",
+                                "npcID": 4088,
+                                "dialogArr": "我明白了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "！？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "拉克希斯",
+                                "npcID": 4216,
+                                "dialogArr": "你要干什么！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "环·圣芒",
+                                "npcID": 4088,
+                                "dialogArr": "没什么…只是拉你陪葬罢了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "果然…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "环·回响的躯壳就在这里，还有这个能量炮。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "哈哈，这个油灯，果然如我所料。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "这么看来，您是觉得这家伙已经没办法回头了么…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "也好，就由我们来帮忙解决掉吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "环·回响",
+                                "npcID": 4043,
+                                "dialogArr": "谁…谁在说话？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "环·回响",
+                                "npcID": 4043,
+                                "dialogArr": "队长…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "真是可怜，看来你还不知道你们的队长已经消散了吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "环·回响",
+                                "npcID": 4043,
+                                "dialogArr": "队长…！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "就让我给你解脱吧。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "面板3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "大家一定要仔细调查，有什么问题和状况及时向我汇报。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "慌张的赛尔A",
+                                "npcID": 5561,
+                                "dialogArr": "好…好的，派特博士。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "慌张的赛尔B",
+                                "npcID": 5562,
+                                "dialogArr": "没…没问题。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "大家也不用那么慌张，这里应该还是比较安全的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "（不过这里的景色还蛮奇特，最好能多一点时间调查一下…）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "（不光是那个吸引人眼球的巨大骸骨，还有这里的自然生态…）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "派特，能听到吗？那边的调查是否有什么进展？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "我们正在进行初步的勘察，暂时没有发现什么有用的信息。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "有发现水域么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "暂时没有发现泰普斯说的水域和他的同伴的踪迹。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "好的，有任何情报及时反馈。另外…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "遇到危险立马撤退，不要进行没有意义的战斗。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "了解，我们本身也没有带太多攻击装备。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "嗯，注意安全。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "诶，你们怎么了，都跑回来了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "慌张的赛尔A",
+                                "npcID": 5561,
+                                "dialogArr": "丛林深处好像有奇怪的东西在窜来窜去，好像有野兽…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "慌张的赛尔B",
+                                "npcID": 5561,
+                                "dialogArr": "不对不对，好像是只老鹰一样的生物在飞来飞去，翅膀有这——么大！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "？？？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "面板4"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "慌张的赛尔A",
+                                "npcID": 5561,
+                                "dialogArr": "太吓人了太吓人了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "慌张的赛尔B",
+                                "npcID": 5561,
+                                "dialogArr": "那到底是什么怪物啊！？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "你有什么头绪么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "难道说…是丛林里的凯弗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "丛林里的凯弗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "是的，听说他身手十分矫健，拥有智慧，算是在这里的一个奇闻。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "没想到我们一来就见到了，看来不是件坏事吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "怎么了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "但我记忆中，凯弗虽然长得像个怪兽，但是他性格温顺，还时常帮助经过的旅人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "可是刚刚他这么暴躁，让我感觉又不像是凯弗了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "说不准…只是认错了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "嗯，我有点产生兴趣了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "我们走，继续向前探索！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 8,
+                        "name": "面板4"
+                    }
+                ],
+                "activityID": 19,
+                "name": "主线任务21-12-24"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "…怎么了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "等等，这个是什么？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "这里竟然写着几行小字…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "之前有么？我怎么没印象。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "看来是时钟诛机启动后才显现出来的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "让我看下，上面说…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "注入能量时需要注入等量的“光明”与“黑暗”力量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "我们注入的是等量的么…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "不清楚，但第二条说注入过量的其中一种力量为让机器损坏",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "看来…是注入过量了啊…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "上面有写什么补救方法么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "似乎没有。最后一条写的是…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "时钟诛机无法对“世界”外的情况进行侦测。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "这是什么意思…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "世界外…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "世界还有内外么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "不清楚，但很显然，这个机器被制造出来就是用来侦测的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "刚刚应该是我注入了过量的黑暗力量了，你再找些光明力量去吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "…？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "额…麻烦你，帮忙再找点能量吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "哎，我尽量吧。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "不行，注入光明力量已经没有反应了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "看来是已经坏掉了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "没想到它这么不经用，亏我还花了那么多工夫。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "机器就先放你这边吧，没准以后还有用场。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "你还真把这里当自己家了啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "哈哈哈，你也别那么客气啦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "你！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "好啦好啦，别计较那么多，至少咱们还是有些收获。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "我要先检查一下时钟领域的其他地方有没有受损。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "那你先忙，我就不打扰了哈哈哈。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "霍瑞洛吉",
+                                "npcID": 4225,
+                                "dialogArr": "不许走，你也一起。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "啊…",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "面板1"
+                    }
+                ],
+                "activityID": 20,
+                "name": "2022年费预热D"
             }
         ]
     }

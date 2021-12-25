@@ -1153,6 +1153,61 @@
                         ],
                         "ID": 9,
                         "Desc": "成长之路"
+                    },
+                    {
+                        "Branch": [
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 10,
+                                        "AchievementPoint": 10,
+                                        "Desc": "点赞10次好友基地",
+                                        "proicon": 1239,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 2,
+                                        "Threshold": 30,
+                                        "AchievementPoint": 10,
+                                        "Desc": "点赞30次好友基地",
+                                        "proicon": 1239,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 3,
+                                        "Threshold": 100,
+                                        "AchievementPoint": 15,
+                                        "Desc": "点赞100次好友基地",
+                                        "proicon": 1239,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 4,
+                                        "Threshold": 150,
+                                        "AchievementPoint": 20,
+                                        "Desc": "点赞150次好友基地",
+                                        "proicon": 1239,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 5,
+                                        "Threshold": 300,
+                                        "AchievementPoint": 30,
+                                        "Desc": "点赞300次好友基地",
+                                        "proicon": 1239,
+                                        "icon": 1,
+                                        "SpeNameBonus": 403,
+                                        "title": "拜访达人"
+                                    }
+                                ],
+                                "ID": 150,
+                                "Desc": "基地拜访点赞",
+                                "isShowPro": 1
+                            }
+                        ],
+                        "ID": 46,
+                        "Desc": "基地互动"
                     }
                 ],
                 "ID": 0,

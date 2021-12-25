@@ -545,27 +545,33 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4314,
-                        "ImageID": 4314,
+                        "ID": 4317,
+                        "ImageID": 4317,
                         "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1528;app/S101KaiFuMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 435,
+                        "MonID": 4317,
+                        "ImageID": 1400435,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/ChristmasLimitPetMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 436,
+                        "MonID": 3763,
+                        "ImageID": 1400436,
+                        "Label": 1,
                         "Redirect": "map",
-                        "Go": 1527
+                        "Go": 103
                     },
                     {
-                        "type": 0,
-                        "ID": 4315,
-                        "ImageID": 4315,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1527;app/RescueGreenBallMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4316,
-                        "ImageID": 4316,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1527;app/S100ShaYuShiMainPanel"
+                        "type": 3,
+                        "ID": 42135
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -44802,6 +44808,16 @@
                 "Features": "负责看守监狱的士兵，对自己的守卫工作尽职尽责，能够将身体化为沙尘融入地面快速移动，拥有特殊的抓捕技巧！",
                 "Redirect": "map|module",
                 "Go": "1527;app/S100ShaYuShiMainPanel"
+            },
+            {
+                "ID": 4317,
+                "DefName": "凯弗",
+                "Type": "远古 神秘",
+                "Height": 617,
+                "Weight": 884,
+                "Features": "强壮的神秘巨人，外表憨厚的他常年留居在剔骨崖，似乎是为了守护什么东西......",
+                "Redirect": "map|module",
+                "Go": "1528;app/S101KaiFuMainPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

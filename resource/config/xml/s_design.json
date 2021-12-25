@@ -12350,6 +12350,101 @@
                 },
                 "ID": 100,
                 "Desc": "20211217 S100 沙狱使者"
+            },
+            {
+                "Cover": {
+                    "Cehua": {
+                        "ZhizunItemID": 1724256
+                    },
+                    "Houtai": {
+                        "SuperEvolveID": 0
+                    }
+                },
+                "Tasks": {
+                    "Mould": [
+                        {
+                            "Cehua": {
+                                "TaskId": 1,
+                                "MouldId": 54,
+                                "MidItems": "1724257 1724266 1724258 1724259 1724260",
+                                "Args": "5 5 4",
+                                "BossId": "4298 4271 4283 4220 4043"
+                            },
+                            "Houtai": {
+                                "Forever": 108426,
+                                "Daily": 200371,
+                                "BossStartID": 298106,
+                                "BossEndID": 298110,
+                                "BossStyle": 0,
+                                "StatLog": 2102090100
+                            }
+                        },
+                        {
+                            "Cehua": {
+                                "TaskId": 2,
+                                "MouldId": 18,
+                                "ResType": 1,
+                                "MidItems": "1721990 1721999 1721988 1721989",
+                                "Args": "5 5 13 14 15 16 17",
+                                "BossId": 4317,
+                                "BossFlip": 1,
+                                "PanelTips": "凯弗想要成为精灵世界中的强者\\n击败他，令他领悟成为强者需要具备的5种元素吧！"
+                            },
+                            "Houtai": {
+                                "Forever": 108431,
+                                "Daily": 200372,
+                                "BossStartID": 186005,
+                                "BossEndID": 186005,
+                                "BossStyle": 0,
+                                "StatLog": 2005150407
+                            }
+                        },
+                        {
+                            "Cehua": {
+                                "TaskId": 3,
+                                "MouldId": 56,
+                                "MidItems": "1724261 1724266 1724262 1724263",
+                                "Args": "10 12 2 3 1 5",
+                                "BossId": "4054 4072 4088 4241"
+                            },
+                            "Houtai": {
+                                "Forever": "108427 108428 108429 108430 108431",
+                                "Daily": 200373,
+                                "BossStartID": 801505,
+                                "BossEndID": 801508,
+                                "BossStyle": 0,
+                                "StatLog": 2102090111
+                            }
+                        }
+                    ],
+                    "Style": 1,
+                    "MonCount": 1,
+                    "TaskCount": 3,
+                    "TaskValue": 108425
+                },
+                "Power": {
+                    "Cehua": {
+                        "PowerID": 2,
+                        "LoadType": 1,
+                        "MonsterID": 4317,
+                        "MintmarkID": 42134,
+                        "NewSeIconId": 1514,
+                        "Args": "2 1 0 1 3 5 8 1 3 5 8 12 15 30 30",
+                        "Items": 1724267,
+                        "MidItems": "1724266 1724268"
+                    },
+                    "Houtai": {
+                        "GainValue": 108424,
+                        "NewSeID": 5808,
+                        "Forever": 108433,
+                        "Daily": 200374,
+                        "BossStartID": 210061,
+                        "BossEndID": 210064,
+                        "StatLog": 2006240144
+                    }
+                },
+                "ID": 101,
+                "Desc": "20211224 凯弗"
             }
         ]
     }

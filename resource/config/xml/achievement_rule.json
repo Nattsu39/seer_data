@@ -6499,62 +6499,27 @@
                 "Rule": [
                     {
                         "ID": 1,
-                        "Threshold": 1,
+                        "Threshold": 10,
                         "AchievementPoint": 10
                     },
                     {
                         "ID": 2,
-                        "Threshold": 5,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 3,
-                        "Threshold": 10,
-                        "AchievementPoint": 15
-                    },
-                    {
-                        "ID": 4,
-                        "Threshold": 20,
-                        "AchievementPoint": 20
-                    },
-                    {
-                        "ID": 5,
                         "Threshold": 30,
-                        "AchievementPoint": 30,
-                        "SpeNameBonus": 402,
-                        "desc": "亲密无间"
-                    }
-                ],
-                "ID": 149,
-                "IsSingle": 1,
-                "Type": 2,
-                "Desc": "精灵好感度"
-            },
-            {
-                "Rule": [
-                    {
-                        "ID": 1,
-                        "Threshold": 10,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 2,
-                        "Threshold": 50,
                         "AchievementPoint": 10
                     },
                     {
                         "ID": 3,
-                        "Threshold": 150,
+                        "Threshold": 100,
                         "AchievementPoint": 15
                     },
                     {
                         "ID": 4,
-                        "Threshold": 300,
+                        "Threshold": 150,
                         "AchievementPoint": 20
                     },
                     {
                         "ID": 5,
-                        "Threshold": 500,
+                        "Threshold": 300,
                         "AchievementPoint": 30,
                         "SpeNameBonus": 403,
                         "desc": "拜访达人"
@@ -6564,41 +6529,6 @@
                 "IsSingle": 1,
                 "Type": 2,
                 "Desc": "基地拜访点赞"
-            },
-            {
-                "Rule": [
-                    {
-                        "ID": 1,
-                        "Threshold": 10,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 2,
-                        "Threshold": 50,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 3,
-                        "Threshold": 150,
-                        "AchievementPoint": 15
-                    },
-                    {
-                        "ID": 4,
-                        "Threshold": 300,
-                        "AchievementPoint": 20
-                    },
-                    {
-                        "ID": 5,
-                        "Threshold": 500,
-                        "AchievementPoint": 30,
-                        "SpeNameBonus": 404,
-                        "desc": "种植能手"
-                    }
-                ],
-                "ID": 151,
-                "IsSingle": 1,
-                "Type": 2,
-                "Desc": "太空温室种植"
             }
         ]
     }
