@@ -17,7 +17,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "238,522,179,98",
+                        "rect": "242,522,173,94",
                         "startEvent": "new_round",
                         "endEvent": "fightResult",
                         "align": "center",
@@ -40,8 +40,9 @@
             {
                 "substep": [
                     {
-                        "type": 3,
-                        "talkGroupId": 25
+                        "type": 8,
+                        "npcs": "0,1,2",
+                        "stat": "首次打开训练营面板"
                     },
                     {
                         "type": 1,
@@ -51,9 +52,8 @@
                         "stat": "完成过场动画2"
                     },
                     {
-                        "type": 8,
-                        "npcs": "0,1,2",
-                        "stat": "首次打开训练营面板"
+                        "type": 3,
+                        "talkGroupId": 25
                     },
                     {
                         "type": 1,
@@ -101,14 +101,13 @@
                         "handScaleY": 0.6,
                         "eventArgs": 17709,
                         "tipPos": "461,252",
-                        "tip": "点击技能【梦·超级吸取】，向冰拳莫特发起攻击。",
+                        "tip": "长按【梦·超级吸取】，可查看其详细效果；点击技能【梦·超级吸取】，向冰拳莫特发起攻击。",
                         "tipTitle": "使用攻击技能",
                         "stat": "点击技能梦超级吸取F2"
                     },
                     {
                         "type": 5,
-                        "rect": "1144,527,121,121",
-                        "handOffSet": "-110,20",
+                        "rect": "1046,528,116,116",
                         "handRotation": 0,
                         "rotation": 45,
                         "startEvent": "new_round",
@@ -124,7 +123,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "194,518,180,109",
+                        "rect": "196,519,176,107",
                         "event": "select_pet",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -159,7 +158,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": 17779,
                         "tipPos": "461,252",
-                        "tip": "点击技能【炽·魔焰裂空击】；向冰拳莫特发起攻击。",
+                        "tip": "长按【炽·魔焰裂空击】，可查看其详细效果；点击技能【炽·魔焰裂空击】；向冰拳莫特发起攻击。",
                         "tipTitle": "使用高威力技能",
                         "stat": "点击技能炽魔焰裂空击F2"
                     },
@@ -206,7 +205,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "907,70,99,122",
+                        "rect": "908,71,97,120",
                         "align": "right",
                         "startEvent": "pet_bag_init_completed",
                         "event": "select_pet",
@@ -220,7 +219,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -237,7 +236,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "839,109,40,40",
+                        "rect": "839,110,32,32",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -263,7 +262,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "589,351,121,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -272,7 +271,7 @@
                         "stat": "点击确认提升"
                     },
                     {
-                        "type": 11
+                        "type": 12
                     },
                     {
                         "type": 5,
@@ -282,7 +281,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnClose",
                         "tipPos": "305,147",
-                        "tip": "点击返回按钮，关闭等级提升页面，返回上级页面",
+                        "tip": "点击返回按钮，关闭详情页面，返回背包主界面",
                         "tipTitle": "返回",
                         "stat": "关闭精灵详细面板"
                     },
@@ -294,7 +293,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnClose",
                         "tipPos": "305,147",
-                        "tip": "点击返回按钮，关闭精灵背包页面。",
+                        "tip": "点击返回按钮，关闭精灵背包。",
                         "tipTitle": "返回",
                         "stat": "关闭精灵背包T1"
                     }
@@ -359,7 +358,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "13,446,83,142",
+                        "rect": "14,410,82,178",
                         "handType": 4,
                         "align": "left",
                         "event": "usePetItem",
@@ -373,7 +372,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "145,522,171,95",
+                        "rect": "145,526,170,91",
                         "startEvent": "new_round",
                         "endEvent": "fightResult",
                         "align": "center",
@@ -431,7 +430,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "903,68,101,124",
+                        "rect": "907,70,100,121",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -443,7 +442,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -460,7 +459,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "839,152,40,40",
+                        "rect": "839,156,32,32",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -477,7 +476,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "812,379,54,28",
+                        "rect": "815,381,48,24",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -490,7 +489,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "812,380,54,28",
+                        "rect": "815,481,48,24",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -503,20 +502,20 @@
                     },
                     {
                         "type": 5,
-                        "rect": "900,544,174,50",
+                        "rect": "900,544,171,50",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnOK",
                         "tipPos": "305,147",
-                        "tip": "：点击【确认分配】按钮，完成学习力分配。",
+                        "tip": "点击【确认分配】按钮，完成学习力分配。",
                         "tipTitle": "分配学习力",
                         "stat": "点击快速提升T2"
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,121,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -525,7 +524,7 @@
                         "stat": "点击确认分配T2"
                     },
                     {
-                        "type": 11
+                        "type": 12
                     },
                     {
                         "type": 5,
@@ -535,7 +534,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnClose",
                         "tipPos": "305,147",
-                        "tip": "点击返回按钮，关闭学习提升页面，返回上级页面",
+                        "tip": "点击返回按钮，关闭详情页面，返回精灵背包主界面",
                         "tipTitle": "返回",
                         "stat": "关闭精灵详细面板"
                     },
@@ -547,7 +546,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnClose",
                         "tipPos": "305,147",
-                        "tip": "点击返回按钮，关闭精灵背包页面。",
+                        "tip": "点击返回按钮，关闭精灵背包",
                         "tipTitle": "返回",
                         "stat": "关闭精灵背包T1"
                     }
@@ -572,15 +571,11 @@
                         "handScaleY": 1,
                         "event": "click_button",
                         "eventArgs": "btnPet",
-                        "tipPos": "461,252",
-                        "tip": "内容",
-                        "tipTitle": "提示标题",
                         "stat": "点击精灵背包S1"
                     },
                     {
                         "type": 5,
-                        "rect": "671,68,226,125",
-                        "handType": 3,
+                        "rect": "794,70,100,121",
                         "align": "right",
                         "event": "select_pet",
                         "handScaleX": 0.6,
@@ -593,7 +588,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "671,68,226,125",
+                        "rect": "681,70,213,121",
                         "handType": 3,
                         "align": "right",
                         "event": "set_default",
@@ -635,7 +630,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -648,7 +643,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "0,201,109,65",
+                        "rect": "0,201,107,64",
                         "event": "change_detail_tab",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -660,7 +655,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "679,567,174,50",
+                        "rect": "679,567,174,47",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -673,7 +668,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "654,382,223,91",
+                        "rect": "655,382,220,87",
                         "align": "right",
                         "event": "select_pet_skill",
                         "handScaleX": 0.6,
@@ -686,7 +681,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "703,400,91,31",
+                        "rect": "697,405,91,23",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -699,7 +694,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "650,211,223,91",
+                        "rect": "646,208,227,94",
                         "align": "right",
                         "event": "change_skill",
                         "handScaleX": 0.6,
@@ -768,7 +763,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "535,522,171,95",
+                        "rect": "537,522,171,95",
                         "startEvent": "new_round",
                         "endEvent": "fightResult",
                         "align": "center",
@@ -819,7 +814,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "339,522,171,95",
+                        "rect": "341,523,172,92",
                         "startEvent": "new_round",
                         "align": "center",
                         "event": "useSkill",
@@ -892,7 +887,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "914,68,101,124",
+                        "rect": "907,70,100,121",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -903,7 +898,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -920,7 +915,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "1072,110,40,40",
+                        "rect": "1075,110,32,32",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -937,7 +932,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "649,181,80,80",
+                        "rect": "649,177,78,78",
                         "align": "right",
                         "event": "click_item",
                         "handScaleX": 0.6,
@@ -950,7 +945,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "703,380,91,31",
+                        "rect": "699,369,90,23",
                         "await": 200,
                         "align": "center",
                         "event": "click_button",
@@ -964,19 +959,21 @@
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,122,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnOk",
-                        "stat": "点击确认分配T2"
+                        "stat": "点击确认使用T2"
                     },
                     {
                         "type": 5,
-                        "rect": "568,290,56,112",
+                        "rect": "602,292,13,98",
                         "align": "right",
                         "event": "event_close_useitem_panel",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "tipPos": "305,147",
                         "tip": "点击返回按钮，关闭天赋养成面板。",
                         "tipTitle": "返回",
@@ -1023,7 +1020,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1042,14 +1039,14 @@
                     },
                     {
                         "type": 5,
-                        "rect": "837,205,40,40",
+                        "rect": "839,202,32,32",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnNature",
                         "tipPos": "305,147",
-                        "tip": "点击天赋栏的【设置】按钮，对萌火猴进行性格调整",
+                        "tip": "点击性格栏的转换按钮，对萌火猴进行性格调整",
                         "tipTitle": "调整精灵性格",
                         "stat": "点击调整性格T4"
                     },
@@ -1059,7 +1056,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "649,181,80,80",
+                        "rect": "649,177,78,78",
                         "align": "right",
                         "event": "click_item",
                         "handScaleX": 0.6,
@@ -1072,7 +1069,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "699,385,91,31",
+                        "rect": "699,369,90,23",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1085,7 +1082,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,119,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1095,9 +1092,11 @@
                     },
                     {
                         "type": 5,
-                        "rect": "568,290,56,112",
+                        "rect": "602,292,13,98",
                         "align": "right",
                         "event": "event_close_useitem_panel",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "tipPos": "305,147",
                         "tip": "点击返回按钮，关闭性格养成面板。",
                         "tipTitle": "返回",
@@ -1144,7 +1143,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1163,14 +1162,14 @@
                     },
                     {
                         "type": 5,
-                        "rect": "1072,202,40,40",
+                        "rect": "1075,202,32,32",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnTexing",
                         "tipPos": "305,147",
-                        "tip": "点击特性栏的【设置】按钮，为萌火猴开启特性",
+                        "tip": "点击特性栏的转换按钮，为萌火猴开启特性",
                         "tipTitle": "开启精灵特性",
                         "stat": "点击特性详情T5"
                     },
@@ -1180,7 +1179,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "649,191,80,80",
+                        "rect": "649,195,78,78",
                         "align": "right",
                         "event": "click_item",
                         "handScaleX": 0.6,
@@ -1193,7 +1192,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "699,385,91,31",
+                        "rect": "699,369,90,23",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1206,7 +1205,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,119,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1216,7 +1215,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "568,275,56,112",
+                        "rect": "602,272,13,98",
                         "align": "right",
                         "event": "close_module",
                         "handScaleX": 0.6,
@@ -1268,7 +1267,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1287,7 +1286,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "1072,157,40,40",
+                        "rect": "1075,156,32,32",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1304,7 +1303,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "649,181,80,80",
+                        "rect": "649,177,78,78",
                         "align": "right",
                         "event": "click_item",
                         "handScaleX": 0.6,
@@ -1317,7 +1316,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "699,385,91,31",
+                        "rect": "699,369,90,23",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1330,7 +1329,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,122,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1340,9 +1339,11 @@
                     },
                     {
                         "type": 5,
-                        "rect": "568,290,56,112",
+                        "rect": "602,292,13,98",
                         "align": "right",
                         "event": "event_close_useitem_panel",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "tipPos": "305,147",
                         "tip": "点击返回按钮，关闭体力上限养成页面，返回背包主界面",
                         "tipTitle": "返回",
@@ -1442,7 +1443,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "679,203,101,124",
+                        "rect": "681,205,99,120",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1456,7 +1457,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1475,7 +1476,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "682,564,174,48",
+                        "rect": "682,565,172,48",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1504,7 +1505,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "598,417,94,21",
+                        "rect": "660,411,124,23",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1573,7 +1574,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "54,465,26",
+                        "rect": "54,468,41",
                         "rectType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,

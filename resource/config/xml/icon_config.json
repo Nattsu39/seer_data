@@ -56,9 +56,9 @@
                 "priority": 2,
                 "exMapList": 50000,
                 "ui": "yearvip_icon",
-                "tips": "2021年费",
+                "tips": "2022年费",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016",
-                "mouseClickFunc": "app:Yearvip2021MainPanel"
+                "mouseClickFunc": "app:Yearvip2022MainPanel"
             },
             {
                 "direction": "left_side",
@@ -68,15 +68,6 @@
                 "tips": "新手福利",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initNewseer2020icon",
                 "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:newseer2020iconClick"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "offlineIcon",
-                "tips": "精灵下架通知",
-                "mouseClickFunc": "app:ClassSSpiritOfflineMainPanel"
             },
             {
                 "direction": "right",
@@ -95,7 +86,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3436"
+                "mouseClickFunc": "app:MainLineTask_3437"
             },
             {
                 "direction": "right",
@@ -143,21 +134,12 @@
                 "mouseClickFunc": "app:DiamondTask201806MainPanel"
             },
             {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 3,
-                "exMapList": 50000,
-                "ui": "2022YearVipPreheat_icon",
-                "tips": "2022年费神宠预告",
-                "mouseClickFunc": "app:AnnualFeePreheating2022AggregatePanel"
-            },
-            {
                 "direction": "right_side",
                 "shownewseer": 0,
                 "priority": 2,
                 "exMapList": 50000,
                 "ui": "H5icon",
-                "tips": "赛尔经典版",
+                "tips": "赛尔号经典版",
                 "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"
             },
             {

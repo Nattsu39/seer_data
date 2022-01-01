@@ -309,6 +309,14 @@
                                     "Label": 6,
                                     "Redirect": "map|module",
                                     "Go": "1471;app/Yearvip2021MainPanel"
+                                },
+                                {
+                                    "ID": 8,
+                                    "monID": 4321,
+                                    "ImageID": 100030,
+                                    "Label": 6,
+                                    "Redirect": "map|module",
+                                    "Go": "1529;app/Yearvip2022MainPanel"
                                 }
                             ],
                             "ID": 0,
@@ -529,6 +537,14 @@
                                     "Label": 0,
                                     "Redirect": "map|module",
                                     "Go": "1471;app/Yearvip2021MainPanel"
+                                },
+                                {
+                                    "ID": 8,
+                                    "monID": 4321,
+                                    "ImageID": 100030,
+                                    "Label": 0,
+                                    "Redirect": "map|module",
+                                    "Go": "1529;app/Yearvip2022MainPanel"
                                 }
                             ],
                             "ID": 4,
@@ -545,33 +561,48 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4317,
-                        "ImageID": 4317,
+                        "ID": 4318,
+                        "ImageID": 4318,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1528;app/S101KaiFuMainPanel"
+                        "Go": "1530;app/S102BuLeiLiKeMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 435,
-                        "MonID": 4317,
-                        "ImageID": 1400435,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/ChristmasLimitPetMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 436,
-                        "MonID": 3763,
-                        "ImageID": 1400436,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4319,
+                        "ImageID": 4319,
+                        "Label": 0,
                         "Redirect": "map",
-                        "Go": 103
+                        "Go": 1095
                     },
                     {
-                        "type": 3,
-                        "ID": 42135
+                        "type": 0,
+                        "ID": 4320,
+                        "ImageID": 4320,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1530
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4321,
+                        "ImageID": 4321,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1529;app/Yearvip2022MainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4322,
+                        "ImageID": 4322,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/MonthlyPetInJanuary2022Panel"
+                    },
+                    {
+                        "type": 2,
+                        "ID": 428,
+                        "Label": 1
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -29218,9 +29249,9 @@
                 "ID": 2607,
                 "DefName": "圣光灵王",
                 "Type": "圣灵 远古",
-                "Height": 188,
-                "Weight": 158,
-                "Features": "新年超强包年精灵！圣光灵王的本体已然傲视环宇，在得到了守护神的守护之后更加所向披靡，是新一代的神级精灵！",
+                "Height": 176,
+                "Weight": 68,
+                "Features": "2015年年费精灵，他的本体已然傲视环宇，在得到了守护神的守护之后更加所向披靡，是新一代的神级精灵！",
                 "mapID": 103
             },
             {
@@ -31581,9 +31612,9 @@
                 "ID": 2873,
                 "DefName": "圣光灵皇",
                 "Type": "圣灵 远古",
-                "Height": 198,
-                "Weight": 188,
-                "Features": "圣光灵王超进化！圣光的终极审判，所有的力量全部得到惊人的提升！斩魔神，驱暗影，圣光的最强审判者!",
+                "Height": 182,
+                "Weight": 74,
+                "Features": "2015年年费精灵圣光灵王的超进化形态，所有的力量全部得到了惊人的提升！斩魔神，驱暗影，他就是圣光的最强审判者!",
                 "mapID": 1
             },
             {
@@ -32598,9 +32629,9 @@
                 "ID": 2987,
                 "DefName": "重生之翼",
                 "Type": "王",
-                "Height": 198,
-                "Weight": 98,
-                "Features": "2016年年费精灵，正义的守护者，王者苏醒，重生之翼！",
+                "Height": 184,
+                "Weight": 77,
+                "Features": "2016年年费精灵，正义的守望者，王者苏醒，天启歌罢，诸魔尽陨！",
                 "Label": "0,1,7",
                 "mapID": 1144
             },
@@ -34779,7 +34810,7 @@
             {
                 "ID": 3237,
                 "DefName": "大威势明王",
-                "Type": "神秘 神秘",
+                "Type": "远古 神秘",
                 "Height": 180,
                 "Weight": 80,
                 "Features": "是不动明王的超进化形态，深研佛法密门，能够更为强力的诛尽邪恶！",
@@ -35268,9 +35299,9 @@
                 "ID": 3291,
                 "DefName": "瀚宇星皇",
                 "Type": "自然 圣灵",
-                "Height": 190,
-                "Weight": 100,
-                "Features": "出现之时，可以令整个宇宙产生特殊的异象，光芒之盛烈，不仅可以驱散黑夜，更能够令深海颤抖，那种只能来自皇帝之光，正是这位来自更神秘，更梦幻的宇宙空间之神！",
+                "Height": 178,
+                "Weight": 69,
+                "Features": "2017年年费精灵，出现之时，可以令整个宇宙产生特殊的异象，其光芒之盛烈，不但可以驱散黑夜，还能够令深海颤抖，那种只属于皇帝的圣怒，正是来自这位更神秘，更梦幻的宇宙空间之神！",
                 "Label": "0,1,7",
                 "mapID": 0
             },
@@ -35440,9 +35471,9 @@
                 "ID": 3311,
                 "DefName": "圣光灵神",
                 "Type": "远古 圣灵",
-                "Height": 180,
-                "Weight": 80,
-                "Features": "圣光灵王的完全体形态，拥有了全新的形态和远古力量，但不变的是心中对正义的坚持！",
+                "Height": 188,
+                "Weight": 78,
+                "Features": "2015年年费精灵圣光灵王的完全体形态，拥有了全新的形态和更强的远古力量，但始终不变的是心中对正义的坚持！",
                 "mapID": 103
             },
             {
@@ -37610,9 +37641,9 @@
                 "ID": 3550,
                 "DefName": "天启帝君",
                 "Type": "轮回",
-                "Height": 200,
+                "Height": 192,
                 "Weight": 80,
-                "Features": "2018年费，神秘的英雄终于现世！正义的利刃斩杀邪恶！",
+                "Features": "2018年年费精灵，神秘的英雄终于现世！正义的利刃斩杀邪恶！",
                 "Label": "0,1,7",
                 "mapID": 0
             },
@@ -39711,7 +39742,7 @@
                 "Type": "混沌 次元",
                 "Height": 185,
                 "Weight": 72,
-                "Features": "2019年费精灵，为了追逐力量不惜一切代价，这或许是一条无妄之路，只有更深层次的堕落与终结...",
+                "Features": "2019年年费精灵，为了追逐力量不惜一切代价，这或许是一条无妄之路，只有更深层次的堕落与终结...",
                 "Label": "0,1,7",
                 "mapID": 1344
             },
@@ -41508,7 +41539,7 @@
                 "Type": "神灵",
                 "Height": 180,
                 "Weight": 55,
-                "Features": "2020年费精灵，异世界的信仰之神，承载着人们最后的希望！",
+                "Features": "2020年年费精灵，查理星系的现任守护者，异世界的信仰之神，承载着人们最后的希望！",
                 "mapID": 1414
             },
             {
@@ -43333,9 +43364,9 @@
                 "ID": 4169,
                 "DefName": "弑序神罗",
                 "Type": "虚空 混沌",
-                "Height": 180,
-                "Weight": 55,
-                "Features": "2021年费精灵，长夜无尽，黎明未觉，生命不朽，枷锁不灭！",
+                "Height": 184,
+                "Weight": 73,
+                "Features": "2021年年费精灵，莱达宇宙的黑夜之神，长夜无尽，黎明未觉，生命不朽，枷锁不灭！",
                 "Redirect": "map|module",
                 "Go": "1471;app/Yearvip2021MainPanel"
             },
@@ -44033,9 +44064,9 @@
                 "ID": 4239,
                 "DefName": "浩渺之源·努恩",
                 "Type": "水 龙",
-                "Height": 190,
-                "Weight": 65,
-                "Features": "查理星系的前守护者，启灵元神的老师，奔涌的沧龙之水润泽万物！",
+                "Height": 195,
+                "Weight": 82,
+                "Features": "查理星系的前任守护者，启灵元神的老师，奔涌的沧龙之水润泽万物！",
                 "Redirect": "map|module",
                 "Go": "1495;app/S91NuEnMainPanel"
             },
@@ -44818,6 +44849,56 @@
                 "Features": "强壮的神秘巨人，外表憨厚的他常年留居在剔骨崖，似乎是为了守护什么东西......",
                 "Redirect": "map|module",
                 "Go": "1528;app/S101KaiFuMainPanel"
+            },
+            {
+                "ID": 4318,
+                "DefName": "布蕾里克",
+                "Type": "冰 超能",
+                "Height": 173,
+                "Weight": 53,
+                "Features": "萨特的手下之一，人前冷漠但却充满爱心，善用融合了寒冰魔法的枪械攻击，射术十分精准！",
+                "Redirect": "map|module",
+                "Go": "1530;app/S102BuLeiLiKeMainPanel"
+            },
+            {
+                "ID": 4319,
+                "DefName": "露露",
+                "Type": "远古 地面",
+                "Height": 156,
+                "Weight": 49,
+                "Features": "2022年1月巅峰圣战精灵，露露是一个性格活泼的小女孩，松鼠榛榛是她最好的朋友！",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4320,
+                "DefName": "泰小斯",
+                "Type": "电 龙",
+                "Height": 95,
+                "Weight": 45,
+                "Features": "泰普斯的幼年体，遭受沙暴侵袭后的泰普斯一族已经濒临灭绝，在凌风孤潮或许偶尔能见到泰小斯的影子...",
+                "Redirect": "map",
+                "Go": 1530
+            },
+            {
+                "ID": 4321,
+                "DefName": "至序圣华",
+                "Type": "圣灵 轮回",
+                "Height": 182,
+                "Weight": 58,
+                "Features": "2022年年费精灵，莱达宇宙的光明之神，光耀涤世，斩破暗夜，圣华神临，唯序至上！",
+                "Redirect": "map|module",
+                "Go": "1529;app/Yearvip2022MainPanel"
+            },
+            {
+                "ID": 4322,
+                "DefName": "西莉斯特",
+                "Type": "飞行",
+                "Height": 183,
+                "Weight": 61,
+                "Features": "2022年1月包月精灵，十二冠灵之一，负责掌控天空，长箭破穹，风华圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInJanuary2022Panel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"
