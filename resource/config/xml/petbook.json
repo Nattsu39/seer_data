@@ -561,48 +561,25 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4318,
-                        "ImageID": 4318,
+                        "ID": 4323,
+                        "ImageID": 4323,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1530;app/S102BuLeiLiKeMainPanel"
+                        "Go": "1531;app/SpetLvJiJuMoPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4319,
-                        "ImageID": 4319,
-                        "Label": 0,
+                        "type": 1,
+                        "ID": 437,
+                        "MonID": 4319,
+                        "ImageID": 1400437,
+                        "Label": 1,
                         "Redirect": "map",
                         "Go": 1095
                     },
                     {
-                        "type": 0,
-                        "ID": 4320,
-                        "ImageID": 4320,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1530
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4321,
-                        "ImageID": 4321,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1529;app/Yearvip2022MainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4322,
-                        "ImageID": 4322,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInJanuary2022Panel"
-                    },
-                    {
-                        "type": 2,
-                        "ID": 428,
-                        "Label": 1
+                        "type": 1,
+                        "ID": 438,
+                        "MonID": 3577
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -44899,6 +44876,16 @@
                 "Features": "2022年1月包月精灵，十二冠灵之一，负责掌控天空，长箭破穹，风华圣冕！",
                 "Redirect": "map|module",
                 "Go": "103;app/MonthlyPetInJanuary2022Panel"
+            },
+            {
+                "ID": 4323,
+                "DefName": "绿棘巨魔",
+                "Type": "草 暗影",
+                "Height": 344,
+                "Weight": 482,
+                "Features": "由无数绿棘球合体变成的巨大魔物，苏醒后开始四处破坏，拥有着可怕的战斗力！",
+                "Redirect": "map|module",
+                "Go": "1531;app/SpetLvJiJuMoPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

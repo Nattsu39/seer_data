@@ -12445,6 +12445,115 @@
                 },
                 "ID": 101,
                 "Desc": "20211224 凯弗"
+            },
+            {
+                "Cover": {
+                    "Cehua": {
+                        "ZhizunItemID": 1724294
+                    },
+                    "Houtai": {
+                        "SuperEvolveID": 0
+                    }
+                },
+                "Tasks": {
+                    "Mould": [
+                        {
+                            "Qianduan": {
+                                "BossPosX": "40 15 50",
+                                "BossPosY": "-3 -28 -7",
+                                "BossScaleX": "1 1 1",
+                                "BossScaleY": "1 1 1"
+                            },
+                            "Cehua": {
+                                "TaskId": 1,
+                                "MouldId": 14,
+                                "MidItems": "1724295 1724297 1724296",
+                                "Args": 3,
+                                "BossId": "4279 4193 4065",
+                                "PanelTips": "战胜下方三个精灵即可通过此关卡。"
+                            },
+                            "Houtai": {
+                                "Forever": 108446,
+                                "Daily": 200377,
+                                "BossStartID": 144034,
+                                "BossEndID": 144036,
+                                "BossStyle": 0,
+                                "StatLog": 2007030200
+                            }
+                        },
+                        {
+                            "Cehua": {
+                                "TaskId": 2,
+                                "MouldId": 44,
+                                "MidItems": "1724298 1724299 1724304 1724301 1724303",
+                                "Items": 1724300,
+                                "Args": "6 20 5 30 6 1",
+                                "BossId": "4216 4231 4278"
+                            },
+                            "Houtai": {
+                                "Forever": "108447 108448 108449 108450",
+                                "BossStartID": 279510,
+                                "BossEndID": 279512,
+                                "BossStyle": 0
+                            }
+                        },
+                        {
+                            "Cehua": {
+                                "TaskId": 3,
+                                "MouldId": 22,
+                                "Items": "1724284 1724272 1724273 1724274 1724278 1724279 1724280 1724288 1724287",
+                                "MidItems": "1724302 1724275 1724276 1724277 1724281 1724282 1724283 1724289 1724285 1724286 1724290 1724290",
+                                "Args": "15 15 1 1 1 50 50 50 3 3 3 1 3 5 10 50 40 10 30 15 30 3 100 3 50 3 2 1 5",
+                                "BossId": "4318 4252 3507 4068 3888",
+                                "BossIsBitmap": "1 1 1 1 1",
+                                "PanelTips": "挑战布蕾里克获得种子，播种种子后，使用光源和水源，使其光能和水能达到100，长出果实。\\n通过采摘和兑换，集齐15个奇幻冰花即可通关领取精灵。",
+                                "ChallengeTips": "挑战的精灵星级越高，获得的道具品质越高；\\n挑战某种星级的精灵达到3次，必定既能得到光源，又能得到水源"
+                            },
+                            "Houtai": {
+                                "Forever": "108451 108452 108453 108454 108455",
+                                "Daily": "200378 200378",
+                                "BossStartID": 207043,
+                                "BossEndID": 207048,
+                                "BossStyle": 0,
+                                "StatLog": 2009110115
+                            },
+                            "Qianduan": {
+                                "BossPosX": "0 0 0 0 0",
+                                "BossPosY": "0 0 0 0 -60",
+                                "BossScaleX": "1 1 1 1 1",
+                                "BossScaleY": "1 1 1 1 1",
+                                "Args": "光能 水能"
+                            }
+                        }
+                    ],
+                    "Style": 1,
+                    "MonCount": 1,
+                    "TaskCount": 3,
+                    "TaskValue": 108445
+                },
+                "Power": {
+                    "Cehua": {
+                        "PowerID": 2,
+                        "LoadType": 1,
+                        "MonsterID": 4318,
+                        "MintmarkID": 42136,
+                        "NewSeIconId": 1521,
+                        "Args": "2 1 0 1 3 5 8 1 3 5 8 12 15 30 30",
+                        "Items": 1724291,
+                        "MidItems": "1724293 1724292"
+                    },
+                    "Houtai": {
+                        "GainValue": 108444,
+                        "NewSeID": 5815,
+                        "Forever": 108456,
+                        "Daily": 200379,
+                        "BossStartID": 210065,
+                        "BossEndID": 210068,
+                        "StatLog": 2006240144
+                    }
+                },
+                "ID": 102,
+                "Desc": "20211231 布蕾里克"
             }
         ]
     }

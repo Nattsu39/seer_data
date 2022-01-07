@@ -41,7 +41,7 @@
                 "substep": [
                     {
                         "type": 8,
-                        "npcs": "0,1,2",
+                        "npcs": "2,3,4",
                         "stat": "首次打开训练营面板"
                     },
                     {
@@ -64,7 +64,7 @@
                     },
                     {
                         "type": 8,
-                        "npcs": "0,1,2,3,4,5,6",
+                        "npcs": "2,3,4,5,6,7,8",
                         "stat": "训练营面板更新1"
                     },
                     {
@@ -168,7 +168,7 @@
                     }
                 ],
                 "step": 3,
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -183,7 +183,7 @@
                     }
                 ],
                 "step": 4,
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -197,8 +197,8 @@
                         "align": "right",
                         "rectType": 1,
                         "handType": 2,
-                        "handScaleX": 0.7,
-                        "handScaleY": 0.7,
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "event": "click_button",
                         "eventArgs": "btnPet",
                         "stat": "点击精灵背包T1"
@@ -264,6 +264,7 @@
                         "type": 5,
                         "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -276,6 +277,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -288,6 +290,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -300,7 +303,7 @@
                 ],
                 "step": 5,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -392,7 +395,7 @@
                 ],
                 "step": 6,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -408,7 +411,7 @@
                 ],
                 "step": 7,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -422,8 +425,8 @@
                         "align": "right",
                         "rectType": 1,
                         "handType": 2,
-                        "handScaleX": 1,
-                        "handScaleY": 1,
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "event": "click_button",
                         "eventArgs": "btnPet",
                         "stat": "点击精灵背包T2"
@@ -434,6 +437,8 @@
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "eventArgs": 2845,
                         "tipPos": "305,147",
                         "tip": "点击萌火猴的头像，选中萌火猴。",
@@ -517,6 +522,7 @@
                         "type": 5,
                         "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -529,6 +535,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -541,6 +548,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -553,7 +561,7 @@
                 ],
                 "step": 8,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -567,8 +575,8 @@
                         "align": "right",
                         "rectType": 1,
                         "handType": 2,
-                        "handScaleX": 1,
-                        "handScaleY": 1,
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
                         "event": "click_button",
                         "eventArgs": "btnPet",
                         "stat": "点击精灵背包S1"
@@ -603,7 +611,7 @@
                 ],
                 "step": 9,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -708,6 +716,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -720,6 +729,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -732,7 +742,7 @@
                 ],
                 "step": 10,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -763,7 +773,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "537,522,171,95",
+                        "rect": "537,521,171,94",
                         "startEvent": "new_round",
                         "endEvent": "fightResult",
                         "align": "center",
@@ -783,7 +793,7 @@
                 ],
                 "step": 11,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -799,7 +809,7 @@
                 ],
                 "step": 12,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -848,7 +858,7 @@
                 ],
                 "step": 13,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -864,7 +874,7 @@
                 ],
                 "step": 14,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -961,6 +971,7 @@
                         "type": 5,
                         "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -982,7 +993,7 @@
                 ],
                 "step": 15,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -1005,7 +1016,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "903,68,101,124",
+                        "rect": "907,70,99,121",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1070,6 +1081,7 @@
                     {
                         "type": 5,
                         "rect": "699,369,90,23",
+                        "handOffSet": "24,10",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1084,6 +1096,7 @@
                         "type": 5,
                         "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1105,7 +1118,7 @@
                 ],
                 "step": 16,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -1128,7 +1141,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "903,68,101,124",
+                        "rect": "907,70,99,121",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1193,6 +1206,7 @@
                     {
                         "type": 5,
                         "rect": "699,369,90,23",
+                        "handOffSet": "24,10",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1207,6 +1221,7 @@
                         "type": 5,
                         "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1229,7 +1244,7 @@
                 ],
                 "step": 17,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -1252,7 +1267,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "903,68,101,124",
+                        "rect": "907,70,99,121",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1317,6 +1332,7 @@
                     {
                         "type": 5,
                         "rect": "699,369,90,23",
+                        "handOffSet": "24,10",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1331,6 +1347,7 @@
                         "type": 5,
                         "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1352,6 +1369,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1364,6 +1382,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1376,7 +1395,7 @@
                 ],
                 "step": 18,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -1386,7 +1405,7 @@
                     },
                     {
                         "type": 8,
-                        "npcs": "0,1,2,3,7,8,9,10",
+                        "npcs": "2,3,4,5,9,10,11,12",
                         "stat": "训练营面板更新2"
                     },
                     {
@@ -1403,7 +1422,7 @@
                 ],
                 "step": 19,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9"
+                "npcs": "2,3,4,5,9,10,11"
             },
             {
                 "substep": [
@@ -1420,7 +1439,7 @@
                 ],
                 "step": 20,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1443,7 +1462,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "681,205,99,120",
+                        "rect": "681,205,100,121",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1476,7 +1495,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "682,565,172,48",
+                        "rect": "681,566,172,48",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1507,19 +1526,6 @@
                         "type": 5,
                         "rect": "660,411,124,23",
                         "align": "center",
-                        "event": "click_button",
-                        "handScaleX": 0.6,
-                        "handScaleY": 0.6,
-                        "eventArgs": "btnUp",
-                        "tipPos": "282,524",
-                        "tip": "点击【升级】按钮，打开刻印升级界面",
-                        "tipTitle": "升级刻印",
-                        "stat": "点击升级按钮T7"
-                    },
-                    {
-                        "type": 5,
-                        "rect": "490,305,163,36",
-                        "align": "center",
                         "endEvent": "mark_max_level",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1536,7 +1542,7 @@
                 ],
                 "step": 21,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1559,7 +1565,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "679,203,101,124",
+                        "rect": "681,205,99,120",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1593,8 +1599,9 @@
                     },
                     {
                         "type": 5,
-                        "rect": "682,564,174,48",
+                        "rect": "681,566,172,48",
                         "align": "right",
+                        "handOffSet": "61,9",
                         "event": "click_button",
                         "condition": "2,MARK_WAREHOUSE_SHOW",
                         "handScaleX": 0.6,
@@ -1617,33 +1624,36 @@
                     },
                     {
                         "type": 5,
-                        "rect": "445,418,94,21",
+                        "rect": "353,411,88,21",
                         "align": "center",
+                        "handOffSet": "20,5",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnPutOn",
                         "tipPos": "282,524",
-                        "tip": "点击之前升级好的刻印：衡·巨刃，将其装备到几米身上。",
+                        "tip": "点击【装备】，将刻印装备到几米身上。",
                         "tipTitle": "装备刻印",
                         "stat": "点击升级刻印"
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,122,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
+                        "handOffSet": "35,12",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnOk",
                         "tipPos": "282,524",
-                        "tip": "点击之前升级好的刻印：衡·巨刃，将其装备到几米身上。",
+                        "tip": "点击【确认】，将刻印装备到几米身上。",
                         "tipTitle": "装备刻印",
                         "stat": "点击确认分配T2"
                     },
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1656,6 +1666,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1668,7 +1679,7 @@
                 ],
                 "step": 22,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1685,7 +1696,7 @@
                 ],
                 "step": 23,
                 "toolbar": "btnPet",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1695,7 +1706,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "485,592,95,39",
+                        "rect": "490,598,90,35",
                         "align": "right",
                         "rectType": 1,
                         "handType": 2,
@@ -1711,9 +1722,10 @@
                     },
                     {
                         "type": 5,
-                        "rect": "1007,536,80,80",
+                        "rect": "1042,568,41",
+                        "rectType": 2,
+                        "handOffSet": "-20,-24",
                         "align": "right",
-                        "rectType": 1,
                         "handType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1726,11 +1738,11 @@
                     },
                     {
                         "type": 5,
-                        "rect": "737,560,133,46",
+                        "rect": "742,563,124,36",
                         "await": 1300,
+                        "handOffSet": "35,12",
                         "align": "center",
                         "rectType": 1,
-                        "handType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1746,10 +1758,10 @@
                     },
                     {
                         "type": 5,
-                        "rect": "652,506,125,42",
+                        "rect": "650,470,124,36",
+                        "handOffSet": "35,12",
                         "align": "center",
                         "rectType": 1,
-                        "handType": 2,
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1761,7 +1773,8 @@
                     },
                     {
                         "type": 5,
-                        "rect": "0,0,94,48",
+                        "rect": "0,0,205,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1774,7 +1787,7 @@
                 ],
                 "step": 24,
                 "toolbar": "btnPet,btnInfo",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1791,7 +1804,7 @@
                 ],
                 "step": 25,
                 "toolbar": "btnPet,btnInfo",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1808,7 +1821,7 @@
                 ],
                 "step": 26,
                 "toolbar": "btnPet,btnInfo",
-                "npcs": "0,1,2,3,7,8,9,10"
+                "npcs": "2,3,4,5,9,10,11,12"
             },
             {
                 "substep": [
@@ -1830,7 +1843,8 @@
                     },
                     {
                         "type": 5,
-                        "rect": "21,338,64,80",
+                        "rect": "53,381,41",
+                        "rectType": 2,
                         "startEvent": "pet_bag_init_completed",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1847,7 +1861,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "383,119,105,122",
+                        "rect": "385,123,104,126",
                         "event": "select_pet",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1859,7 +1873,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "633,577,112,40",
+                        "rect": "634,575,108,38",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1872,10 +1886,9 @@
                     },
                     {
                         "type": 5,
-                        "rect": "482,227,100,120",
+                        "rect": "483,225,98,119",
                         "align": "center",
                         "rectType": 1,
-                        "handType": 2,
                         "event": "replace_pet",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1887,7 +1900,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "590,351,122,40",
+                        "rect": "589,351,120,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1901,6 +1914,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1917,7 +1931,7 @@
                 ],
                 "step": 27,
                 "toolbar": "btnPet,btnInfo",
-                "npcs": "0,1,2,3,11"
+                "npcs": "2,3,4,5,13"
             },
             {
                 "substep": [
@@ -1941,8 +1955,8 @@
                     },
                     {
                         "type": 5,
-                        "rect": "658,68,133,256",
-                        "handType": 1,
+                        "rect": "679,68,103,258",
+                        "handOffSet": "7,59",
                         "align": "right",
                         "event": "select_pet",
                         "handScaleX": 0.6,
@@ -1955,7 +1969,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "658,68,133,256",
+                        "rect": "679,68,103,258",
                         "handType": 4,
                         "align": "right",
                         "event": "set_default",
@@ -1970,6 +1984,7 @@
                     {
                         "type": 5,
                         "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1986,7 +2001,7 @@
                 ],
                 "step": 28,
                 "toolbar": "btnPet,btnInfo",
-                "npcs": "0,1,2,3,11"
+                "npcs": "2,3,4,5,13"
             }
         ]
     }
