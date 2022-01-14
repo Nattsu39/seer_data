@@ -2,41 +2,7 @@
     "data": [
         {
             "id": 1,
-            "name": "精灵满级特惠组合",
-            "productID": 247297,
-            "itemID": 1709057,
-            "price": 180,
-            "Discountprice": 128,
-            "vip": 1,
-            "type": 0,
-            "productType": 1,
-            "limittype": 0,
-            "limitnum": 0,
-            "HotSale": 1,
-            "usenew": 0,
-            "exchangeId": 0,
-            "page": 1
-        },
-        {
-            "id": 2,
-            "name": "抗性特惠超值礼包",
-            "productID": 247483,
-            "itemID": 1709277,
-            "price": 400,
-            "Discountprice": 98,
-            "vip": 1,
-            "type": 0,
-            "productType": 1,
-            "limittype": 2,
-            "limitnum": 1,
-            "HotSale": 2,
-            "usenew": 0,
-            "exchangeId": 0,
-            "page": 1
-        },
-        {
-            "id": 3,
-            "name": "特性生成晶片特惠礼包",
+            "name": "商城特性限时礼包",
             "productID": 251922,
             "itemID": 1714959,
             "price": 398,
@@ -49,10 +15,11 @@
             "HotSale": 0,
             "usenew": 0,
             "exchangeId": 0,
-            "page": 1
+            "page": 1,
+            "shopExcel": 1
         },
         {
-            "id": 4,
+            "id": 2,
             "name": "速升极品礼包",
             "productID": 247680,
             "itemID": 1709505,
@@ -66,10 +33,11 @@
             "HotSale": 3,
             "usenew": 0,
             "exchangeId": 0,
-            "page": 2
+            "page": 2,
+            "shopExcel": 1
         },
         {
-            "id": 5,
+            "id": 3,
             "name": "大富翁礼包",
             "productID": 247681,
             "itemID": 1709506,
@@ -83,7 +51,44 @@
             "HotSale": 0,
             "usenew": 0,
             "exchangeId": 0,
-            "page": 3
+            "page": 3,
+            "shopExcel": 1
+        },
+        {
+            "id": 4,
+            "name": "每日抗性礼包",
+            "productID": 258785,
+            "itemID": 1723633,
+            "price": 220,
+            "Discountprice": 98,
+            "vip": 1,
+            "type": 0,
+            "productType": 1,
+            "limittype": 1,
+            "limitnum": 1,
+            "HotSale": 2,
+            "usenew": 0,
+            "exchangeId": 0,
+            "page": 1,
+            "shopExcel": 1
+        },
+        {
+            "id": 5,
+            "name": "每周抗性礼包",
+            "productID": 247483,
+            "itemID": 1709277,
+            "price": 400,
+            "Discountprice": 98,
+            "vip": 1,
+            "type": 0,
+            "productType": 1,
+            "limittype": 2,
+            "limitnum": 1,
+            "HotSale": 2,
+            "usenew": 0,
+            "exchangeId": 0,
+            "page": 1,
+            "shopExcel": 1
         }
     ]
 }

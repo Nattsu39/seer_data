@@ -16763,11 +16763,7 @@
                             "ID": 691,
                             "Lv": "60 61"
                         }
-                    ],
-                    "WildBonusProb": 1000,
-                    "WildBonusTotalProb": 1000,
-                    "BonusID": 5301,
-                    "ItemBonusID": 1
+                    ]
                 },
                 "ID": 481,
                 "Name": "般若星",
@@ -44442,6 +44438,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1532,
+                "Name": "岩赫之壁",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -50776,11 +50778,7 @@
                             "ID": 691,
                             "Lv": "60 61"
                         }
-                    ],
-                    "WildBonusProb": 1000,
-                    "WildBonusTotalProb": 1000,
-                    "BonusID": 5301,
-                    "ItemBonusID": 1
+                    ]
                 },
                 "ID": 3223,
                 "Name": "般若星",
@@ -50868,18 +50866,123 @@
                 "Name": "赫鲁卡城",
                 "InitX": 88,
                 "InitY": 150
+            },
+            {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 706,
+                            "Lv": "19 20"
+                        },
+                        {
+                            "ID": 706,
+                            "Lv": "19 20"
+                        },
+                        {
+                            "ID": 706,
+                            "Lv": "19 20"
+                        },
+                        {
+                            "ID": 707,
+                            "Lv": "61 62"
+                        },
+                        {
+                            "ID": 707,
+                            "Lv": "61 62"
+                        },
+                        {
+                            "ID": 707,
+                            "Lv": "61 62"
+                        },
+                        {
+                            "ID": 707,
+                            "Lv": "61 62"
+                        },
+                        {
+                            "ID": 707,
+                            "Lv": "61 62"
+                        },
+                        {
+                            "ID": 707,
+                            "Lv": "61 62"
+                        }
+                    ],
+                    "WildBonusProb": 500,
+                    "WildBonusTotalProb": 1000,
+                    "BonusID": 5005,
+                    "ItemBonusID": 9
+                },
+                "ID": 3230,
+                "Name": "怀特星",
+                "InitX": 500,
+                "InitY": 360,
+                "StarExplorationID": 23,
+                "PrimaryScene": 4
+            },
+            {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 716,
+                            "Lv": "20 21"
+                        },
+                        {
+                            "ID": 716,
+                            "Lv": "20 21"
+                        },
+                        {
+                            "ID": 716,
+                            "Lv": "20 21"
+                        },
+                        {
+                            "ID": 717,
+                            "Lv": "62 63"
+                        },
+                        {
+                            "ID": 717,
+                            "Lv": "62 63"
+                        },
+                        {
+                            "ID": 717,
+                            "Lv": "62 63"
+                        },
+                        {
+                            "ID": 717,
+                            "Lv": "62 63"
+                        },
+                        {
+                            "ID": 717,
+                            "Lv": "62 63"
+                        },
+                        {
+                            "ID": 717,
+                            "Lv": "62 63"
+                        }
+                    ]
+                },
+                "ID": 3231,
+                "Name": "怀特矿场",
+                "InitX": 80,
+                "InitY": 440,
+                "StarExplorationID": 23
+            },
+            {
+                "ID": 3232,
+                "Name": "怀特矿洞",
+                "InitX": 126,
+                "InitY": 428
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1531,
+                    "RandMaps": 1532,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1531,
+                    "RandMaps": 1532,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -50891,7 +50994,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220107,
+                "ID": 20220114,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

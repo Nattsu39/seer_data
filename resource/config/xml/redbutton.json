@@ -34,9 +34,9 @@
             {
                 "ID": 4,
                 "IsClick": 0,
-                "UserInfo": 123510,
-                "BytePos": 4,
-                "ByteValue": 7,
+                "UserInfo": 123511,
+                "BytePos": 2,
+                "ByteValue": 6,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
@@ -66,7 +66,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 5,
+                "ByteValue": 6,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
@@ -90,6 +90,16 @@
                 "Judge": 0,
                 "tips": "最新礼包_【特性生成晶片礼包】提示红点，点击进入活动面板后红点消失",
                 "From": "shopcenter:6|icon:announcement_icon"
+            },
+            {
+                "ID": 11,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 3,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【巅峰战姬回归】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:23|icon:announcement_icon"
             }
         ]
     }
