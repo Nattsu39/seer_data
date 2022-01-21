@@ -7,7 +7,7 @@
                 "title": "星愿漂流瓶",
                 "picture": 5,
                 "sort": 1,
-                "mouseClickFunc": "app:StarWishDriftBottlenNewMainPanel"
+                "mouseClickFunc": "app:StarWishdDriftBottleMainPanel"
             },
             {
                 "id": 2,
@@ -18,88 +18,69 @@
                 "mouseClickFunc": "app:MarkMachine0707Panel"
             },
             {
-                "id": 4,
-                "type": 1,
-                "title": "十一月VIP神宠",
-                "picture": 7,
-                "sort": 9,
-                "mouseClickFunc": "app:MonthlyPetInNovember2021Panel"
-            },
-            {
-                "id": 6,
+                "id": 3,
                 "type": 1,
                 "title": "特性生成晶片礼包",
-                "picture": 8,
+                "picture": 25,
                 "sort": 8,
                 "start": 20211105,
                 "mouseClickFunc": "app:SupermarketPanel",
                 "Tag": 2
             },
             {
-                "id": 8,
-                "type": 1,
-                "title": "兑钻大狂欢",
-                "picture": 10,
-                "sort": 10,
-                "start": 20211105,
-                "end": 20211126,
-                "mouseClickFunc": "app:ExchangeDiamondMain2019Panel",
-                "Tag": 2
-            },
-            {
-                "id": 12,
-                "type": 1,
-                "title": "启灵元神冬季盛装",
-                "picture": 12,
-                "sort": 3,
-                "start": 20211119,
-                "end": 20211126,
-                "mouseClickFunc": "app:QiLingYuanShenWinterSkinMainPanel",
-                "Tag": 1
-            },
-            {
-                "id": 13,
-                "type": 1,
-                "title": "圣殿英雄全体回归",
-                "picture": 13,
-                "sort": 4,
-                "start": 20211119,
-                "end": 20211203,
-                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel",
-                "Tag": 2
-            },
-            {
-                "id": 14,
-                "type": 1,
-                "title": "VIP感恩回馈",
-                "picture": 14,
-                "sort": 5,
-                "start": 20211119,
-                "end": 20211126,
-                "mouseClickFunc": "app:VIPExclusiveMall2020MainPanel",
-                "Tag": 1
-            },
-            {
-                "id": 15,
+                "id": 4,
                 "type": 1,
                 "title": "星河商店",
-                "picture": 15,
-                "sort": 6,
-                "start": 20211119,
-                "end": 20211126,
+                "picture": 27,
+                "sort": 5,
+                "start": 20211217,
+                "end": 20220211,
                 "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
+                "Tag": 2
+            },
+            {
+                "id": 6,
+                "type": 1,
+                "title": "2022年年费",
+                "picture": 24,
+                "sort": 14,
+                "start": 20220101,
+                "end": 20220224,
+                "mouseClickFunc": "app:Yearvip2022MainPanel",
+                "Tag": 2
+            },
+            {
+                "id": 7,
+                "type": 1,
+                "title": "全新钻石奖励",
+                "picture": 29,
+                "sort": 12,
+                "start": 20210121,
+                "end": 20220231,
+                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
                 "Tag": 1
             },
             {
-                "id": 16,
+                "id": 8,
                 "type": 1,
-                "title": "火星折扣商城",
-                "picture": 16,
-                "sort": 7,
-                "start": 20211119,
-                "end": 20211126,
-                "mouseClickFunc": "app:LuoKaiShop20211119MainPanel",
-                "Tag": 2
+                "title": "尊享特权钻石月卡",
+                "picture": 30,
+                "sort": 15,
+                "start": 20210121,
+                "end": 20220231,
+                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel",
+                "Tag": 1
+            },
+            {
+                "id": 9,
+                "type": 1,
+                "title": "刻印回溯系统",
+                "picture": 31,
+                "sort": 16,
+                "start": 20210121,
+                "end": 20220231,
+                "mouseClickFunc": "app:MarkRecallEnterPanel",
+                "Tag": 1
             }
         ]
     }

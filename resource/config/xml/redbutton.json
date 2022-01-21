@@ -35,8 +35,8 @@
                 "ID": 4,
                 "IsClick": 0,
                 "UserInfo": 123511,
-                "BytePos": 2,
-                "ByteValue": 6,
+                "BytePos": 3,
+                "ByteValue": 8,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
@@ -46,10 +46,10 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 2,
-                "ByteValue": 4,
+                "ByteValue": 5,
                 "Judge": 0,
-                "tips": "最新礼包_【全新兑钻系统】更新提示红点，点击进入对应面板后消失",
-                "From": "shopcenter:19|icon:shopcenter_icon"
+                "tips": "最新礼包_【全新钻石奖励】更新提示红点，点击进入对应面板后消失",
+                "From": "shopcenter:7|icon:shopcenter_icon"
             },
             {
                 "ID": 6,
@@ -66,7 +66,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 6,
+                "ByteValue": 7,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
@@ -79,7 +79,7 @@
                 "ByteValue": 3,
                 "Judge": 0,
                 "tips": "最新礼包_【2022年费上线】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:22|icon:announcement_icon"
+                "From": "shopcenter:6|icon:shopcenter_icon"
             },
             {
                 "ID": 10,
@@ -89,17 +89,27 @@
                 "ByteValue": 2,
                 "Judge": 0,
                 "tips": "最新礼包_【特性生成晶片礼包】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:6|icon:announcement_icon"
+                "From": "shopcenter:3|icon:shopcenter_icon"
             },
             {
                 "ID": 11,
                 "IsClick": 1,
                 "UserInfo": 121118,
                 "BytePos": 3,
+                "ByteValue": 2,
+                "Judge": 0,
+                "tips": "最新礼包_【刻印回溯系统】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:9|icon:shopcenter_icon"
+            },
+            {
+                "ID": 12,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 4,
                 "ByteValue": 1,
                 "Judge": 0,
-                "tips": "最新礼包_【巅峰战姬回归】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:23|icon:announcement_icon"
+                "tips": "最新礼包_【尊享特权钻石月卡】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:8|icon:shopcenter_icon"
             }
         ]
     }
