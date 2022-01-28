@@ -6395,6 +6395,20 @@
                         "AchievementPoint": 10,
                         "SpeNameBonus": 406,
                         "Desc": "沙岚终焉"
+                    },
+                    {
+                        "ID": 19,
+                        "Threshold": 19,
+                        "AchievementPoint": 20,
+                        "SpeNameBonus": 407,
+                        "Desc": "战艺至极"
+                    },
+                    {
+                        "ID": 20,
+                        "Threshold": 20,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 408,
+                        "Desc": "狂霆绝武"
                     }
                 ],
                 "ID": 145,
@@ -6539,13 +6553,29 @@
                 "Desc": "基地拜访点赞"
             },
             {
-                "Rule": {
-                    "ID": 1,
-                    "Threshold": 1,
-                    "AchievementPoint": 10,
-                    "SpeNameBonus": 405,
-                    "Desc": "耀世者"
-                },
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 405,
+                        "Desc": "耀世者"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 409,
+                        "Desc": "诡秘之夜"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 410,
+                        "Desc": "“除夕”勇士"
+                    }
+                ],
                 "ID": 152,
                 "Type": 0,
                 "Desc": "其他杂项类称号8"

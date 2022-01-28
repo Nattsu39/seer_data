@@ -30,7 +30,7 @@
                 "exMapList": 50000,
                 "ui": "shengdianyingxiongtuan_icon",
                 "tips": "圣殿英雄团",
-                "mouseClickFunc": "app:TempleHeroAltarPrePanel"
+                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel"
             },
             {
                 "direction": "left_side",
@@ -86,7 +86,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3440"
+                "mouseClickFunc": "app:MainLineTaskNav"
             },
             {
                 "direction": "right",

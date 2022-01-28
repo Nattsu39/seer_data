@@ -16,7 +16,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 1,
-                "ByteValue": 2,
+                "ByteValue": 3,
                 "Judge": 0,
                 "tips": "主界面_【英雄圣殿巡回】更新提示红点，点击进入prepanel面板后消失",
                 "From": "icon:shengdianyingxiongtuan_icon"
@@ -34,9 +34,9 @@
             {
                 "ID": 4,
                 "IsClick": 0,
-                "UserInfo": 123511,
-                "BytePos": 3,
-                "ByteValue": 8,
+                "UserInfo": 123512,
+                "BytePos": 1,
+                "ByteValue": 7,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
@@ -66,7 +66,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 7,
+                "ByteValue": 8,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
@@ -110,6 +110,26 @@
                 "Judge": 0,
                 "tips": "最新礼包_【尊享特权钻石月卡】提示红点，点击进入活动面板后红点消失",
                 "From": "shopcenter:8|icon:shopcenter_icon"
+            },
+            {
+                "ID": 13,
+                "IsClick": 1,
+                "UserInfo": 121121,
+                "BytePos": 1,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【新春限定许愿池Ⅰ】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:10|icon:shopcenter_icon"
+            },
+            {
+                "ID": 16,
+                "IsClick": 1,
+                "UserInfo": 121121,
+                "BytePos": 4,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【新春限定皮肤】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:11|icon:shopcenter_icon"
             }
         ]
     }
