@@ -35,8 +35,8 @@
                 "ID": 4,
                 "IsClick": 0,
                 "UserInfo": 123512,
-                "BytePos": 1,
-                "ByteValue": 7,
+                "BytePos": 3,
+                "ByteValue": 8,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
@@ -46,10 +46,10 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 2,
-                "ByteValue": 5,
+                "ByteValue": 6,
                 "Judge": 0,
                 "tips": "最新礼包_【全新钻石奖励】更新提示红点，点击进入对应面板后消失",
-                "From": "shopcenter:7|icon:shopcenter_icon"
+                "From": "shopcenter:12|icon:shopcenter_icon"
             },
             {
                 "ID": 6,
@@ -66,7 +66,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 8,
+                "ByteValue": 9,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
@@ -116,10 +116,30 @@
                 "IsClick": 1,
                 "UserInfo": 121221,
                 "BytePos": 1,
+                "ByteValue": 2,
+                "Judge": 0,
+                "tips": "最新礼包_【新春限定许愿池Ⅱ】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:14|icon:shopcenter_icon"
+            },
+            {
+                "ID": 14,
+                "IsClick": 1,
+                "UserInfo": 121221,
+                "BytePos": 2,
                 "ByteValue": 1,
                 "Judge": 0,
-                "tips": "最新礼包_【新春限定许愿池Ⅰ】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:10|icon:shopcenter_icon"
+                "tips": "最新礼包_【新春钻石福袋】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:13|icon:shopcenter_icon"
+            },
+            {
+                "ID": 15,
+                "IsClick": 1,
+                "UserInfo": 121221,
+                "BytePos": 3,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【顶级刻印返场】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:15|icon:shopcenter_icon"
             },
             {
                 "ID": 16,
@@ -130,6 +150,16 @@
                 "Judge": 0,
                 "tips": "最新礼包_【新春限定皮肤】提示红点，点击进入活动面板后红点消失",
                 "From": "shopcenter:11|icon:shopcenter_icon"
+            },
+            {
+                "ID": 17,
+                "IsClick": 1,
+                "UserInfo": 121222,
+                "BytePos": 1,
+                "ByteValue": 1,
+                "Judge": 0,
+                "tips": "最新礼包_【能力套装回归】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:16|icon:shopcenter_icon"
             }
         ]
     }
