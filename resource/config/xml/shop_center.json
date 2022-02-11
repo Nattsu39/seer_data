@@ -22,20 +22,9 @@
                 "type": 1,
                 "title": "特性生成晶片礼包",
                 "picture": 25,
-                "sort": 13,
+                "sort": 15,
                 "start": 20211105,
                 "mouseClickFunc": "app:SupermarketPanel",
-                "Tag": 2
-            },
-            {
-                "id": 4,
-                "type": 1,
-                "title": "星河商店",
-                "picture": 27,
-                "sort": 12,
-                "start": 20221217,
-                "end": 20220211,
-                "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
                 "Tag": 2
             },
             {
@@ -43,21 +32,10 @@
                 "type": 1,
                 "title": "2022年年费",
                 "picture": 24,
-                "sort": 13,
+                "sort": 14,
                 "start": 20220101,
                 "end": 20220224,
                 "mouseClickFunc": "app:Yearvip2022MainPanel",
-                "Tag": 2
-            },
-            {
-                "id": 7,
-                "type": 1,
-                "title": "全新钻石奖励",
-                "picture": 29,
-                "sort": 11,
-                "start": 20220121,
-                "end": 20220204,
-                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
                 "Tag": 2
             },
             {
@@ -67,7 +45,7 @@
                 "picture": 30,
                 "sort": 3,
                 "start": 20220121,
-                "end": 20220231,
+                "end": 20220224,
                 "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel",
                 "Tag": 2
             },
@@ -78,31 +56,9 @@
                 "picture": 31,
                 "sort": 4,
                 "start": 20220121,
-                "end": 20220217,
+                "end": 20220218,
                 "mouseClickFunc": "app:MarkRecallEnterPanel",
                 "Tag": 2
-            },
-            {
-                "id": 10,
-                "type": 1,
-                "title": "新春限定许愿池I",
-                "picture": 32,
-                "sort": 5,
-                "start": 20220128,
-                "end": 20220211,
-                "mouseClickFunc": "app:NewYearPetWish2022MainPanel",
-                "Tag": 1
-            },
-            {
-                "id": 11,
-                "type": 1,
-                "title": "新春限定皮肤",
-                "picture": 33,
-                "sort": 6,
-                "start": 20220128,
-                "end": 20220211,
-                "mouseClickFunc": "app:NuEnAnKaLimitedSkinMainPanel",
-                "Tag": 1
             },
             {
                 "id": 12,
@@ -114,17 +70,6 @@
                 "end": 20220218,
                 "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
                 "Tag": 2
-            },
-            {
-                "id": 13,
-                "type": 1,
-                "title": "新春钻石福袋",
-                "picture": 35,
-                "sort": 8,
-                "start": 20220204,
-                "end": 20220211,
-                "mouseClickFunc": "app:SpringFestivalDiamond2019MainPanel",
-                "Tag": 1
             },
             {
                 "id": 14,
@@ -144,20 +89,42 @@
                 "picture": 37,
                 "sort": 7,
                 "start": 20220204,
-                "end": 20220211,
+                "end": 20220218,
                 "mouseClickFunc": "app:TenYearEngravingSalesMainPanel",
                 "Tag": 1
             },
             {
                 "id": 16,
                 "type": 1,
-                "title": "能力套装回归",
-                "picture": 38,
-                "sort": 10,
-                "start": 20220204,
-                "end": 20220211,
-                "mouseClickFunc": "app:BattleSuitCollectionSaleMainPanel",
+                "title": "皮肤商城更新",
+                "picture": 40,
+                "sort": 8,
+                "start": 20220211,
+                "end": 20220218,
+                "mouseClickFunc": "app:SkinShopMainPanel",
                 "Tag": 1
+            },
+            {
+                "id": 17,
+                "type": 1,
+                "title": "水晶折扣献礼",
+                "picture": 41,
+                "sort": 6,
+                "start": 20220211,
+                "end": 20220218,
+                "mouseClickFunc": "app:ShuijinSell1027Panel",
+                "Tag": 1
+            },
+            {
+                "id": 18,
+                "type": 1,
+                "title": "星河商店",
+                "picture": 42,
+                "sort": 16,
+                "start": 20220211,
+                "end": 20220311,
+                "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
+                "Tag": 2
             }
         ]
     }

@@ -635,7 +635,7 @@
                     {
                         "type": 9,
                         "condition": "1,10,0",
-                        "param": "open_module"
+                        "eventType": "open_module"
                     },
                     {
                         "type": 3,
@@ -1243,7 +1243,7 @@
                         "event": "close_module",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
-                        "eventArgs": "petChangeFeatures.PetChangeFeatures",
+                        "eventArgs": 30,
                         "tipPos": "305,147",
                         "tip": "点击返回按钮，关闭特性养成面板。",
                         "tipTitle": "返回",

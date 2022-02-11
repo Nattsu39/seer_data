@@ -12662,6 +12662,142 @@
                 },
                 "ID": 103,
                 "Desc": "20220128 审判之魂"
+            },
+            {
+                "Cover": {
+                    "Cehua": {
+                        "ZhizunItemID": 1724383,
+                        "OriginMonsterID": 4289,
+                        "OriginPanelName": "SPetYiWeiLaBoKePanel",
+                        "Args": 1,
+                        "SkillPanelName": "WindSonSkillEnhancementMainPanel"
+                    },
+                    "Houtai": {
+                        "SuperEvolveID": 0
+                    }
+                },
+                "Tasks": {
+                    "Mould": [
+                        {
+                            "Qianduan": {
+                                "BossPosX": 0,
+                                "BossPosY": 0,
+                                "BossScaleX": 0,
+                                "BossScaleY": 0
+                            },
+                            "Cehua": {
+                                "TaskId": 1,
+                                "MouldId": 39,
+                                "MidItems": "1724384 1724386 1724385",
+                                "Args": "10 300 5 10 10 10 10 15 15 15 15 20 20 20 20 60",
+                                "BossId": 4333,
+                                "BossIsBitmap": 0
+                            },
+                            "Houtai": {
+                                "Forever": 123810,
+                                "Daily": 202904,
+                                "BossStartID": 269502,
+                                "BossEndID": 269502,
+                                "BossStyle": 0
+                            }
+                        },
+                        {
+                            "Qianduan": {
+                                "BossPosX": "0 50",
+                                "BossPosY": "0 0",
+                                "Args": "混沌 次元 -330 270"
+                            },
+                            "Cehua": {
+                                "TaskId": 2,
+                                "MouldId": 1,
+                                "MidItems": "1724388 1724387 1724389",
+                                "Args": "6 20 1 5 1 5 1 1 8 12 9 11",
+                                "BossId": "3964 3940",
+                                "PanelTips": "\\n战胜混沌系精灵，游标向左移动1-5个刻度；战胜次元系精灵，游标向右移动1-5个刻度。\\n8≤战胜次数≤12时，游标位于区间9-11内，即可通过此关卡！"
+                            },
+                            "Houtai": {
+                                "Forever": 123811,
+                                "Daily": 202905,
+                                "BossStartID": 55027,
+                                "BossEndID": 55028,
+                                "BossStyle": 0
+                            }
+                        },
+                        {
+                            "Qianduan": {
+                                "BossPosX": 0,
+                                "BossPosY": -44,
+                                "BossScaleX": 0,
+                                "BossScaleY": 0
+                            },
+                            "Cehua": {
+                                "TaskId": 3,
+                                "MouldId": 40,
+                                "MidItems": "1724390 1724392 1724391",
+                                "Args": "8 20 2 3 6",
+                                "BossId": "4333 4249 4250 4251",
+                                "BossIsBitmap": 0
+                            },
+                            "Houtai": {
+                                "Forever": "123812 123813",
+                                "Daily": 202906,
+                                "BossStartID": 270003,
+                                "BossEndID": 270004,
+                                "BossStyle": 0
+                            }
+                        },
+                        {
+                            "Qianduan": {
+                                "BossPosX": "-10 25 -30",
+                                "BossPosY": "118 125 130",
+                                "BossScaleX": 0,
+                                "BossScaleY": 0,
+                                "Args": "畏冰 防机械 畏战斗 防次元 畏神灵 防电"
+                            },
+                            "Cehua": {
+                                "TaskId": 4,
+                                "MouldId": 42,
+                                "MidItems": "1724393 1724395 1724394",
+                                "Args": "5 10000 10 30 50 90 150 40 41 42 43 44 45 46 47 500",
+                                "BossId": "4020 4097 4078",
+                                "BossIsBitmap": 0
+                            },
+                            "Houtai": {
+                                "Forever": "123814 123815",
+                                "Daily": 202907,
+                                "BossStartID": 273516,
+                                "BossEndID": 273530,
+                                "BossStyle": 0
+                            }
+                        }
+                    ],
+                    "Style": 1,
+                    "MonCount": 1,
+                    "TaskCount": 4,
+                    "TaskValue": 123809
+                },
+                "Power": {
+                    "Cehua": {
+                        "PowerID": 2,
+                        "LoadType": 1,
+                        "MonsterID": 4333,
+                        "MintmarkID": 42161,
+                        "NewSeIconId": 1535,
+                        "Args": "2 1 0 1 3 5 8 1 3 5 8 12 15 30 30",
+                        "Items": 1724396,
+                        "MidItems": "1724398 1724397"
+                    },
+                    "Houtai": {
+                        "GainValue": 123808,
+                        "NewSeID": 5828,
+                        "Forever": 123816,
+                        "Daily": 202908,
+                        "BossStartID": 210073,
+                        "BossEndID": 210076
+                    }
+                },
+                "ID": 104,
+                "Desc": "20220211 哀·拉伯克"
             }
         ]
     }

@@ -561,111 +561,16 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4327,
-                        "ImageID": 4327,
+                        "ID": 4333,
+                        "ImageID": 4333,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1534;app/SpetAErSiLanEvoPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4328,
-                        "ImageID": 4328,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInFebruary2022Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4329,
-                        "ImageID": 4329,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/DaAnTiaoNiKeSiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4330,
-                        "ImageID": 4330,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1535;app/S103SPZHMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4331,
-                        "ImageID": 4331,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1095
+                        "Go": "1536;app/SpetBaoErSiPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 440,
-                        "MonID": 4219,
-                        "ImageID": 1400440,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/NuEnAnKaLimitedSkinMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 441,
-                        "MonID": 4239,
-                        "ImageID": 1400441,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/NuEnAnKaLimitedSkinMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 442,
-                        "MonID": 4329,
-                        "ImageID": 1400442,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/DaAnTiaoNiKeSiMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 443,
-                        "MonID": 4327,
-                        "ImageID": 1400443,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1535;app/LedaRedPacketRainShopPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42153
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42154
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42155
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42156
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42157
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42158
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42159
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42160
+                        "ID": 445,
+                        "MonID": 4331
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45051,6 +44956,26 @@
                 "Features": "2022年2月巅峰圣战精灵，邪恶的魔女，据说被她盯上的敌人都葬身在了那邪魅的笑容之下......",
                 "Redirect": "map",
                 "Go": 1095
+            },
+            {
+                "ID": 4332,
+                "DefName": "鲍尔斯",
+                "Type": "火 电",
+                "Height": 177,
+                "Weight": 86,
+                "Features": "萨特的手下之一，布蕾里克的伙伴，主要负责城邦的治安，身材十分魁梧！",
+                "Redirect": "map|module",
+                "Go": "1536;app/SpetBaoErSiPanel"
+            },
+            {
+                "ID": 4333,
+                "DefName": "哀·拉伯克",
+                "Type": "混沌 次元",
+                "Height": 185,
+                "Weight": 78,
+                "Features": "拉伯克的完全体，拥有能连接次元的能力，哀队长在恢复记忆后选择了回到队伍，但他终究难逃“倒吊人”的宿命......",
+                "Redirect": "map|module",
+                "Go": "1537;app/S104AiLaBoKeMainPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"
