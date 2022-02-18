@@ -34,9 +34,9 @@
             {
                 "ID": 4,
                 "IsClick": 0,
-                "UserInfo": 123512,
-                "BytePos": 4,
-                "ByteValue": 7,
+                "UserInfo": 123513,
+                "BytePos": 1,
+                "ByteValue": 8,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
@@ -46,7 +46,7 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 2,
-                "ByteValue": 5,
+                "ByteValue": 6,
                 "Judge": 0,
                 "tips": "最新礼包_【全新钻石奖励】更新提示红点，点击进入对应面板后消失",
                 "From": "shopcenter:7|icon:shopcenter_icon"
@@ -66,10 +66,20 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 8,
+                "ByteValue": 10,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
+            },
+            {
+                "ID": 8,
+                "IsClick": 1,
+                "UserInfo": 121117,
+                "BytePos": 4,
+                "ByteValue": 2,
+                "Judge": 0,
+                "tips": "最新礼包_【皮肤商城】更新提示红点，点击进入皮肤商城面板后消失",
+                "From": "shopcenter:20|icon:shopcenter_icon"
             },
             {
                 "ID": 9,
@@ -80,16 +90,6 @@
                 "Judge": 0,
                 "tips": "最新礼包_【2022年费上线】提示红点，点击进入活动面板后红点消失",
                 "From": "shopcenter:6|icon:shopcenter_icon"
-            },
-            {
-                "ID": 10,
-                "IsClick": 1,
-                "UserInfo": 121118,
-                "BytePos": 2,
-                "ByteValue": 2,
-                "Judge": 0,
-                "tips": "最新礼包_【特性生成晶片礼包】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:3|icon:shopcenter_icon"
             },
             {
                 "ID": 11,
@@ -116,20 +116,40 @@
                 "IsClick": 1,
                 "UserInfo": 121221,
                 "BytePos": 1,
+                "ByteValue": 2,
+                "Judge": 0,
+                "tips": "最新礼包_【新春限定许愿池Ⅱ】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:14|icon:shopcenter_icon"
+            },
+            {
+                "ID": 14,
+                "IsClick": 1,
+                "UserInfo": 121221,
+                "BytePos": 2,
+                "ByteValue": 2,
+                "Judge": 0,
+                "tips": "最新礼包_【水晶折扣献礼】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:17|icon:shopcenter_icon"
+            },
+            {
+                "ID": 15,
+                "IsClick": 1,
+                "UserInfo": 121221,
+                "BytePos": 3,
                 "ByteValue": 1,
                 "Judge": 0,
-                "tips": "最新礼包_【新春限定许愿池Ⅰ】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:10|icon:shopcenter_icon"
+                "tips": "最新礼包_【顶级刻印返场】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:15|icon:shopcenter_icon"
             },
             {
                 "ID": 16,
                 "IsClick": 1,
                 "UserInfo": 121221,
                 "BytePos": 4,
-                "ByteValue": 1,
+                "ByteValue": 2,
                 "Judge": 0,
-                "tips": "最新礼包_【新春限定皮肤】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:11|icon:shopcenter_icon"
+                "tips": "最新礼包_【星河商店】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:18|icon:shopcenter_icon"
             }
         ]
     }

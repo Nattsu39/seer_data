@@ -107,7 +107,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "1046,528,116,116",
+                        "rect": "1022,504,116,116",
                         "androidOffSetX": -60,
                         "handRotation": 0,
                         "rotation": 45,
@@ -194,7 +194,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -423,7 +423,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -574,7 +574,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -621,7 +621,7 @@
                 "substep": [
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -656,7 +656,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "0,201,107,64",
+                        "rect": "0,206,107,54",
                         "event": "change_detail_tab",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -778,7 +778,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "537,521,171,94",
+                        "rect": "537,522,171,95",
                         "startEvent": "new_round",
                         "endEvent": "fightResult",
                         "align": "center",
@@ -889,7 +889,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -900,6 +900,14 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnPet",
                         "stat": "点击精灵背包T3"
+                    },
+                    {
+                        "type": 9,
+                        "eventType": "open_module"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "DISABLE_DRAG"
                     },
                     {
                         "type": 5,
@@ -1009,7 +1017,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -1135,7 +1143,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -1262,7 +1270,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -1458,7 +1466,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -1472,7 +1480,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "681,205,100,121",
+                        "rect": "680,205,100,120",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1562,7 +1570,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -1777,7 +1785,7 @@
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnSuit",
-                        "tipPos": "182,320",
+                        "tipPos": "186,267",
                         "tip": "点击【装备】按钮，穿戴杰出新兵套装。",
                         "tipTitle": "选择装备穿戴",
                         "stat": "点击装备"
@@ -1842,7 +1850,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,
@@ -1949,7 +1957,7 @@
                 "substep": [
                     {
                         "type": 5,
-                        "rect": "382,596,90,35",
+                        "rect": "378,596,96,36",
                         "androidOffSetX": -60,
                         "align": "right",
                         "rectType": 1,

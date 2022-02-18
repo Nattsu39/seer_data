@@ -561,16 +561,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4333,
-                        "ImageID": 4333,
+                        "ID": 4334,
+                        "ImageID": 4334,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1536;app/SpetBaoErSiPanel"
+                        "Go": "1538;app/SpetKuTeLangPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4335,
+                        "ImageID": 4335,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1538
                     },
                     {
                         "type": 1,
-                        "ID": 445,
-                        "MonID": 4331
+                        "ID": 446,
+                        "MonID": 4004,
+                        "ImageID": 1400446,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -44943,7 +44955,7 @@
                 "Type": "光 次元",
                 "Height": 162,
                 "Weight": 43,
-                "Features": "迪斯博德觉醒力量后召唤出来的神秘精灵，它的身上蕴藏了塔罗牌“审判”的力量，拥有着极为强大的实力！",
+                "Features": "迪斯伯德觉醒力量后召唤出来的神秘精灵，它的身上蕴藏了塔罗牌“审判”的力量，拥有着极为强大的实力！",
                 "Redirect": "map|module",
                 "Go": "1535;app/S103SPZHMainPanel"
             },
@@ -44976,6 +44988,26 @@
                 "Features": "拉伯克的完全体，拥有能连接次元的能力，哀队长在恢复记忆后选择了回到队伍，但他终究难逃“倒吊人”的宿命......",
                 "Redirect": "map|module",
                 "Go": "1537;app/S104AiLaBoKeMainPanel"
+            },
+            {
+                "ID": 4334,
+                "DefName": "库特朗",
+                "Type": "邪灵 神秘",
+                "Height": 194,
+                "Weight": 85,
+                "Features": "凶恶的狼人，幽谷营地的山贼头领，劫持了坎普瑞亚的他妄图利用古龙的能量训练士兵，筹划造反！",
+                "Redirect": "map|module",
+                "Go": "1538;app/SpetKuTeLangPanel"
+            },
+            {
+                "ID": 4335,
+                "DefName": "特朗",
+                "Type": "邪灵",
+                "Height": 86,
+                "Weight": 33,
+                "Features": "库特朗的小弟，对老大忠心耿耿，虽然身材娇小，但打起架来毫不含糊！",
+                "Redirect": "map",
+                "Go": 1538
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"
