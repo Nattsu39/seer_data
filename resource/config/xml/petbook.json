@@ -561,28 +561,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4334,
-                        "ImageID": 4334,
+                        "ID": 4336,
+                        "ImageID": 4336,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1538;app/SpetKuTeLangPanel"
+                        "Go": "1539;app/KaKaTuoSiOfLegendBMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4335,
-                        "ImageID": 4335,
+                        "ID": 4337,
+                        "ImageID": 4337,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1538
+                        "Redirect": "map|module",
+                        "Go": "1539;app/SpetKaSiBoPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 446,
-                        "MonID": 4004,
-                        "ImageID": 1400446,
+                        "ID": 447,
+                        "MonID": 4208,
+                        "ImageID": 1400447,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/GuLingDanceLegendSkinSalesMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45008,6 +45008,26 @@
                 "Features": "库特朗的小弟，对老大忠心耿耿，虽然身材娇小，但打起架来毫不含糊！",
                 "Redirect": "map",
                 "Go": 1538
+            },
+            {
+                "ID": 4336,
+                "DefName": "卡诺",
+                "Type": "地面",
+                "Height": 77,
+                "Weight": 29,
+                "Features": "卡卡托斯一族的住民，他们勤劳勇敢，对卡卡托斯之柱怀着真诚的信仰。",
+                "Redirect": "map|module",
+                "Go": "1539;app/KaKaTuoSiOfLegendBMainPanel"
+            },
+            {
+                "ID": 4337,
+                "DefName": "卡斯珀",
+                "Type": "光 超能",
+                "Height": 172,
+                "Weight": 68,
+                "Features": "卡托娜的哥哥，身为长兄的他却没有获得通神力量的祝福，但他仍然悉心照顾自己的妹妹，希望成为卡卡托斯的守护者。",
+                "Redirect": "map|module",
+                "Go": "1539;app/SpetKaSiBoPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

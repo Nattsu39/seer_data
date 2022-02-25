@@ -6,7 +6,7 @@
             "pic": "1",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 5,
@@ -17,7 +17,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": 2,
             "Des": "罗杰船长"
         },
         {
@@ -26,7 +26,7 @@
             "pic": "2",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -37,7 +37,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": -2,
             "Des": "我"
         },
         {
@@ -46,7 +46,7 @@
             "pic": "3",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "right",
+            "scaleX": 2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -57,8 +57,8 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
-            "Des": "叽里呱啦"
+            "scaleY": 2,
+            "Des": "呜哩哇啦"
         },
         {
             "id": 4,
@@ -66,7 +66,7 @@
             "pic": "4",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "right",
+            "scaleX": 2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -77,8 +77,8 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
-            "Des": "呜哩哇啦"
+            "scaleY": -2,
+            "Des": "叽里呱啦"
         },
         {
             "id": 5,
@@ -86,7 +86,7 @@
             "pic": "5",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -97,7 +97,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": -2,
             "Des": "教官雷蒙"
         },
         {
@@ -106,7 +106,7 @@
             "pic": "6",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 1.2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -117,8 +117,8 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
-            "Des": "萌伊优"
+            "scaleY": -1.2,
+            "Des": "萌伊优（朝左）"
         },
         {
             "id": 7,
@@ -126,7 +126,7 @@
             "pic": "7",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 1.2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -137,8 +137,8 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
-            "Des": "萌火猴"
+            "scaleY": -1.2,
+            "Des": "萌火猴（朝左）"
         },
         {
             "id": 8,
@@ -146,7 +146,7 @@
             "pic": "8",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 1.2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -157,8 +157,8 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
-            "Des": "萌布布种子"
+            "scaleY": -1.2,
+            "Des": "萌布布种子（朝左）"
         },
         {
             "id": 9,
@@ -166,7 +166,7 @@
             "pic": "6",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "right",
+            "scaleX": 1.2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -177,7 +177,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": 1.2,
             "Des": "萌伊优"
         },
         {
@@ -186,7 +186,7 @@
             "pic": "7",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "right",
+            "scaleX": 1.2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -197,7 +197,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": 1.2,
             "Des": "萌火猴"
         },
         {
@@ -206,7 +206,7 @@
             "pic": "8",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "right",
+            "scaleX": 1.2,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -217,7 +217,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": 1.2,
             "Des": "萌布布种子"
         },
         {
@@ -226,7 +226,7 @@
             "pic": "9",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 1.5,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -237,7 +237,7 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": -1.5,
             "Des": "几米"
         },
         {
@@ -246,7 +246,7 @@
             "pic": "10",
             "color": "0x0066FF",
             "clothes": "100358|100359|100360|100361",
-            "dir": "left",
+            "scaleX": 1.5,
             "isSimple": 1,
             "isWalk": 0,
             "sound": 0,
@@ -257,8 +257,28 @@
             "FuncDes": "",
             "TaskID": "",
             "TaskPro": "",
-            "scale": "2",
+            "scaleY": 1.5,
             "Des": "纱娜"
+        },
+        {
+            "id": 14,
+            "name": "",
+            "pic": "13",
+            "color": "0x0066FF",
+            "clothes": "100358|100359|100360|100361",
+            "scaleX": 2,
+            "isSimple": 1,
+            "isWalk": 0,
+            "sound": 0,
+            "action": 2,
+            "UITips": 0,
+            "TipsDes": "",
+            "FuncType": 0,
+            "FuncDes": "",
+            "TaskID": "",
+            "TaskPro": "",
+            "scaleY": 2,
+            "Des": "纽斯"
         }
     ]
 }
