@@ -561,28 +561,68 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4336,
-                        "ImageID": 4336,
+                        "ID": 4338,
+                        "ImageID": 4338,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1539;app/KaKaTuoSiOfLegendBMainPanel"
+                        "Redirect": "alarm",
+                        "Go": "作战实验室专属精灵，暂未开放，敬请期待！"
                     },
                     {
                         "type": 0,
-                        "ID": 4337,
-                        "ImageID": 4337,
+                        "ID": 4339,
+                        "ImageID": 4339,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1539;app/SpetKaSiBoPanel"
+                        "Go": "1540;app/SpetMaiGeMuPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4340,
+                        "ImageID": 4340,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4341,
+                        "ImageID": 4341,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1540
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4342,
+                        "ImageID": 4342,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/MonthlyPetInMarch2022Panel"
                     },
                     {
                         "type": 1,
-                        "ID": 447,
-                        "MonID": 4208,
-                        "ImageID": 1400447,
+                        "ID": 448,
+                        "MonID": 4189,
+                        "ImageID": 1400448,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/GuLingDanceLegendSkinSalesMainPanel"
+                        "Go": "11897;app/PrincessDayPartyMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 449,
+                        "MonID": 3237,
+                        "ImageID": 1400449,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 2,
+                        "ID": 429,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/EmperorGodSuitMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45015,7 +45055,7 @@
                 "Type": "地面",
                 "Height": 77,
                 "Weight": 29,
-                "Features": "卡卡托斯一族的住民，他们勤劳勇敢，对卡卡托斯之柱怀着真诚的信仰。",
+                "Features": "卡卡托斯一族的住民，他们勤劳勇敢，对卡卡托斯之柱怀着真诚的信仰！",
                 "Redirect": "map|module",
                 "Go": "1539;app/KaKaTuoSiOfLegendBMainPanel"
             },
@@ -45028,6 +45068,56 @@
                 "Features": "卡托娜的哥哥，身为长兄的他却没有获得通神力量的祝福，但他仍然悉心照顾自己的妹妹，希望成为卡卡托斯的守护者。",
                 "Redirect": "map|module",
                 "Go": "1539;app/SpetKaSiBoPanel"
+            },
+            {
+                "ID": 4338,
+                "DefName": "星礼",
+                "Type": "自然 战斗",
+                "Height": 161,
+                "Weight": 50,
+                "Features": "作战实验室中现身的神秘精灵，天性活泼的她掌握着各种各样的对战技巧，据说只要能够完成她的重重考验，就有机会与她成为伙伴哦！",
+                "Redirect": "alarm",
+                "Go": "作战实验室专属精灵，暂未开放，敬请期待！"
+            },
+            {
+                "ID": 4339,
+                "DefName": "麦格姆",
+                "Type": "远古 火",
+                "Height": 677,
+                "Weight": 926,
+                "Features": "赤熔之泉现身的异变熔钳蟹，有着坚硬的甲壳和巨大的体魄，背部还能喷发岩浆！",
+                "Redirect": "map|module",
+                "Go": "1540;app/SpetMaiGeMuPanel"
+            },
+            {
+                "ID": 4340,
+                "DefName": "凝绝",
+                "Type": "冰 光",
+                "Height": 174,
+                "Weight": 56,
+                "Features": "2022年3月巅峰圣战精灵，冰泉冷涩弦凝绝，凝绝不通声暂歇！",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4341,
+                "DefName": "熔钳蟹",
+                "Type": "火",
+                "Height": 69,
+                "Weight": 24,
+                "Features": "钳上汇聚了熔岩之力的小螃蟹，喜欢在赤熔之泉活动！",
+                "Redirect": "map",
+                "Go": 1540
+            },
+            {
+                "ID": 4342,
+                "DefName": "伊塔吉雅",
+                "Type": "机械",
+                "Height": 169,
+                "Weight": 51,
+                "Features": "2022年3月包月精灵，十二冠灵之一，能够掌控机械元素，刀影照芙，钢核圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInMarch2022Panel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

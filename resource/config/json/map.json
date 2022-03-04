@@ -1061,9 +1061,9 @@
             "DeviceID": "",
             "DeviceScale": "",
             "DeviceXYZ": "",
-            "NPCID": "5,13,4,3,12,11,10,9,8,7,6,2",
+            "NPCID": "5,13,4,3,11,10,9,8,7,6,2,12",
             "NPCScale": "1",
-            "NPCXYZ": "583,288_233,415_356,373_438,415_583,471_836,332_850,361_901,387_583,409_657,396_623,439_762,420",
+            "NPCXYZ": "583,288_171,360_249,396_337,438_855,332_890,364_950,396_583,397_657,396_623,439_762,420_583,471",
             "WildBossNum": 0,
             "WildBossPoint": "",
             "WildBossLifeTime": 0,
@@ -3888,9 +3888,9 @@
         {
             "id": 3267,
             "name": "神火星",
-            "pic": "",
-            "sound": "",
-            "GroupID": 0,
+            "pic": "1067",
+            "sound": "BGM_023",
+            "GroupID": 20408,
             "PrimaryScene": 0,
             "PlayerXYZ": "",
             "DeviceID": "",
@@ -3908,10 +3908,10 @@
         },
         {
             "id": 3268,
-            "name": "神火星",
-            "pic": "",
-            "sound": "",
-            "GroupID": 0,
+            "name": "异能部落",
+            "pic": "668",
+            "sound": "BGM_097",
+            "GroupID": 20409,
             "PrimaryScene": 0,
             "PlayerXYZ": "",
             "DeviceID": "",
@@ -3929,9 +3929,9 @@
         },
         {
             "id": 3269,
-            "name": "异能星",
-            "pic": "668",
-            "sound": "",
+            "name": "异能山谷",
+            "pic": "669",
+            "sound": "BGM_10080",
             "GroupID": 20409,
             "PrimaryScene": 0,
             "PlayerXYZ": "",
@@ -3950,8 +3950,8 @@
         },
         {
             "id": 3270,
-            "name": "异能星",
-            "pic": "",
+            "name": "异能冰窟",
+            "pic": "671",
             "sound": "",
             "GroupID": 0,
             "PrimaryScene": 0,
@@ -3971,8 +3971,8 @@
         },
         {
             "id": 3271,
-            "name": "异能星",
-            "pic": "",
+            "name": "能量控制室",
+            "pic": "672",
             "sound": "",
             "GroupID": 0,
             "PrimaryScene": 0,
@@ -3992,8 +3992,8 @@
         },
         {
             "id": 3272,
-            "name": "异能星",
-            "pic": "",
+            "name": "守护部落",
+            "pic": "676",
             "sound": "",
             "GroupID": 0,
             "PrimaryScene": 0,
@@ -4013,8 +4013,8 @@
         },
         {
             "id": 3273,
-            "name": "异能星",
-            "pic": "",
+            "name": "封印之境",
+            "pic": "677",
             "sound": "",
             "GroupID": 0,
             "PrimaryScene": 0,
@@ -4034,8 +4034,8 @@
         },
         {
             "id": 3274,
-            "name": "希尔星",
-            "pic": "",
+            "name": "泰若星",
+            "pic": "683",
             "sound": "",
             "GroupID": 0,
             "PrimaryScene": 0,
@@ -4139,7 +4139,7 @@
         },
         {
             "id": 3279,
-            "name": "泰若星",
+            "name": "提尔瑞斯星",
             "pic": "",
             "sound": "",
             "GroupID": 0,
@@ -4181,27 +4181,6 @@
         },
         {
             "id": 3281,
-            "name": "提尔瑞斯星",
-            "pic": "",
-            "sound": "",
-            "GroupID": 0,
-            "PrimaryScene": 0,
-            "PlayerXYZ": "",
-            "DeviceID": "",
-            "DeviceScale": "",
-            "DeviceXYZ": "",
-            "NPCID": "",
-            "NPCScale": "",
-            "NPCXYZ": "",
-            "WildBossNum": 0,
-            "WildBossPoint": "",
-            "WildBossLifeTime": 0,
-            "WildBossID": "",
-            "WildBossWeight": "",
-            "hidenAllPlayers": 0
-        },
-        {
-            "id": 3282,
             "name": "火凤之巢",
             "pic": "",
             "sound": "",
@@ -4222,7 +4201,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3283,
+            "id": 3282,
             "name": "巨石星",
             "pic": "702",
             "sound": "",
@@ -4243,7 +4222,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3284,
+            "id": 3283,
             "name": "巨石星",
             "pic": "704",
             "sound": "",
@@ -4264,7 +4243,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3285,
+            "id": 3284,
             "name": "巨石星",
             "pic": "705",
             "sound": "",
@@ -4285,7 +4264,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3286,
+            "id": 3285,
             "name": "巨石星",
             "pic": "706",
             "sound": "",
@@ -4306,7 +4285,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3287,
+            "id": 3286,
             "name": "巨石星",
             "pic": "708",
             "sound": "",
@@ -4327,9 +4306,30 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3288,
+            "id": 3287,
             "name": "巨石星",
             "pic": "709",
+            "sound": "",
+            "GroupID": 0,
+            "PrimaryScene": 0,
+            "PlayerXYZ": "",
+            "DeviceID": "",
+            "DeviceScale": "",
+            "DeviceXYZ": "",
+            "NPCID": "",
+            "NPCScale": "",
+            "NPCXYZ": "",
+            "WildBossNum": 0,
+            "WildBossPoint": "",
+            "WildBossLifeTime": 0,
+            "WildBossID": "",
+            "WildBossWeight": "",
+            "hidenAllPlayers": 0
+        },
+        {
+            "id": 3288,
+            "name": "艾伦星",
+            "pic": "",
             "sound": "",
             "GroupID": 0,
             "PrimaryScene": 0,
@@ -4454,7 +4454,7 @@
         },
         {
             "id": 3294,
-            "name": "艾伦星",
+            "name": "巴斯星",
             "pic": "",
             "sound": "",
             "GroupID": 0,
@@ -4559,7 +4559,7 @@
         },
         {
             "id": 3299,
-            "name": "巴斯星",
+            "name": "莱恩那星",
             "pic": "",
             "sound": "",
             "GroupID": 0,
@@ -4748,27 +4748,6 @@
         },
         {
             "id": 3308,
-            "name": "莱恩那星",
-            "pic": "",
-            "sound": "",
-            "GroupID": 0,
-            "PrimaryScene": 0,
-            "PlayerXYZ": "",
-            "DeviceID": "",
-            "DeviceScale": "",
-            "DeviceXYZ": "",
-            "NPCID": "",
-            "NPCScale": "",
-            "NPCXYZ": "",
-            "WildBossNum": 0,
-            "WildBossPoint": "",
-            "WildBossLifeTime": 0,
-            "WildBossID": "",
-            "WildBossWeight": "",
-            "hidenAllPlayers": 0
-        },
-        {
-            "id": 3309,
             "name": "巨石星",
             "pic": "",
             "sound": "",
@@ -4789,7 +4768,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3310,
+            "id": 3309,
             "name": "艾伦星",
             "pic": "",
             "sound": "",
@@ -4810,7 +4789,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3311,
+            "id": 3310,
             "name": "巴斯星",
             "pic": "",
             "sound": "",
@@ -4831,7 +4810,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3312,
+            "id": 3311,
             "name": "莱恩那星",
             "pic": "",
             "sound": "",
@@ -4852,7 +4831,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3313,
+            "id": 3312,
             "name": "幻影星",
             "pic": "",
             "sound": "",
@@ -4873,7 +4852,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3314,
+            "id": 3313,
             "name": "恶魔星",
             "pic": "",
             "sound": "",
@@ -4894,7 +4873,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3315,
+            "id": 3314,
             "name": "魔神星",
             "pic": "",
             "sound": "",
@@ -4915,7 +4894,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3316,
+            "id": 3315,
             "name": "南瓜星",
             "pic": "",
             "sound": "",
@@ -4936,7 +4915,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3317,
+            "id": 3316,
             "name": "天马星",
             "pic": "",
             "sound": "",
@@ -4957,7 +4936,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3318,
+            "id": 3317,
             "name": "帕索尔星",
             "pic": "",
             "sound": "",
@@ -4978,7 +4957,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3319,
+            "id": 3318,
             "name": "麒麟之峰",
             "pic": "",
             "sound": "",
@@ -4999,7 +4978,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3320,
+            "id": 3319,
             "name": "创世星",
             "pic": "",
             "sound": "",
@@ -5020,7 +4999,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3321,
+            "id": 3320,
             "name": "永恒星",
             "pic": "",
             "sound": "",
@@ -5041,7 +5020,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3322,
+            "id": 3321,
             "name": "棱石星",
             "pic": "",
             "sound": "",
@@ -5062,7 +5041,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3323,
+            "id": 3322,
             "name": "暗婆罗星",
             "pic": "",
             "sound": "",
@@ -5083,7 +5062,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3324,
+            "id": 3323,
             "name": "迷幻星云",
             "pic": "",
             "sound": "",
@@ -5104,7 +5083,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3325,
+            "id": 3324,
             "name": "天魔星",
             "pic": "",
             "sound": "",
@@ -5125,7 +5104,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3326,
+            "id": 3325,
             "name": "魔灵星",
             "pic": "",
             "sound": "",
@@ -5146,7 +5125,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3327,
+            "id": 3326,
             "name": "泰坦核心",
             "pic": "",
             "sound": "",
@@ -5167,7 +5146,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3328,
+            "id": 3327,
             "name": "斯欧星",
             "pic": "",
             "sound": "",
@@ -5188,7 +5167,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3329,
+            "id": 3328,
             "name": "卡尔星",
             "pic": "",
             "sound": "",
@@ -5209,7 +5188,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3330,
+            "id": 3329,
             "name": "千机星",
             "pic": "",
             "sound": "",
@@ -5230,7 +5209,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3331,
+            "id": 3330,
             "name": "挽尘星",
             "pic": "",
             "sound": "",
@@ -5251,7 +5230,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3332,
+            "id": 3331,
             "name": "宇宙裂隙",
             "pic": "",
             "sound": "",
@@ -5272,7 +5251,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3333,
+            "id": 3332,
             "name": "杜马斯星",
             "pic": "",
             "sound": "",
@@ -5293,7 +5272,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3334,
+            "id": 3333,
             "name": "科兹莫星",
             "pic": "",
             "sound": "",
@@ -5314,7 +5293,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3335,
+            "id": 3334,
             "name": "卡鲁克星",
             "pic": "",
             "sound": "",
@@ -5335,7 +5314,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3336,
+            "id": 3335,
             "name": "蝎子号",
             "pic": "",
             "sound": "",
@@ -5356,7 +5335,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3337,
+            "id": 3336,
             "name": "冥域之门",
             "pic": "",
             "sound": "",
@@ -5377,7 +5356,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3338,
+            "id": 3337,
             "name": "死灵深谭",
             "pic": "",
             "sound": "",
@@ -5398,7 +5377,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3339,
+            "id": 3338,
             "name": "白骨峰",
             "pic": "",
             "sound": "",
@@ -5419,7 +5398,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3340,
+            "id": 3339,
             "name": "影月林",
             "pic": "",
             "sound": "",
@@ -5440,7 +5419,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3341,
+            "id": 3340,
             "name": "莫问栈道",
             "pic": "",
             "sound": "",
@@ -5461,7 +5440,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3342,
+            "id": 3341,
             "name": "修罗大殿",
             "pic": "",
             "sound": "",
@@ -5482,7 +5461,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3343,
+            "id": 3342,
             "name": "星空要塞",
             "pic": "",
             "sound": "",
@@ -5503,7 +5482,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3344,
+            "id": 3343,
             "name": "混沌战场",
             "pic": "",
             "sound": "",
@@ -5524,7 +5503,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3345,
+            "id": 3344,
             "name": "赛米星",
             "pic": "",
             "sound": "",
@@ -5545,7 +5524,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3346,
+            "id": 3345,
             "name": "守望者星",
             "pic": "",
             "sound": "",
@@ -5566,7 +5545,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3347,
+            "id": 3346,
             "name": "暗月星",
             "pic": "",
             "sound": "",
@@ -5587,7 +5566,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3348,
+            "id": 3347,
             "name": "巨岩星",
             "pic": "",
             "sound": "",
@@ -5608,7 +5587,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3349,
+            "id": 3348,
             "name": "星域魂塔",
             "pic": "",
             "sound": "",
@@ -5629,7 +5608,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3350,
+            "id": 3349,
             "name": "破碎星域",
             "pic": "",
             "sound": "",
@@ -5650,7 +5629,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3351,
+            "id": 3350,
             "name": "莱赫星",
             "pic": "",
             "sound": "",
@@ -5671,7 +5650,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3352,
+            "id": 3351,
             "name": "混沌核心",
             "pic": "",
             "sound": "",
@@ -5692,7 +5671,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3353,
+            "id": 3352,
             "name": "丧钟丘陵",
             "pic": "",
             "sound": "",
@@ -5713,7 +5692,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3354,
+            "id": 3353,
             "name": "失落战场",
             "pic": "",
             "sound": "",
@@ -5734,7 +5713,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3355,
+            "id": 3354,
             "name": "千魂要塞",
             "pic": "",
             "sound": "",
@@ -5755,7 +5734,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3356,
+            "id": 3355,
             "name": "星流之井",
             "pic": "",
             "sound": "",
@@ -5776,7 +5755,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3357,
+            "id": 3356,
             "name": "王者圣域",
             "pic": "",
             "sound": "",
@@ -5797,7 +5776,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3358,
+            "id": 3357,
             "name": "冰焱之地",
             "pic": "",
             "sound": "",
@@ -5818,7 +5797,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3359,
+            "id": 3358,
             "name": "弑神之地",
             "pic": "",
             "sound": "",
@@ -5839,7 +5818,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3360,
+            "id": 3359,
             "name": "寂杀暗野",
             "pic": "",
             "sound": "",
@@ -5860,7 +5839,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3361,
+            "id": 3360,
             "name": "天魔古道",
             "pic": "",
             "sound": "",
@@ -5881,7 +5860,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3362,
+            "id": 3361,
             "name": "妄念厄境",
             "pic": "",
             "sound": "",
@@ -5902,7 +5881,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3363,
+            "id": 3362,
             "name": "不灭尊坛",
             "pic": "",
             "sound": "",
@@ -5923,7 +5902,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3364,
+            "id": 3363,
             "name": "避泉谷",
             "pic": "",
             "sound": "",
@@ -5944,7 +5923,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3365,
+            "id": 3364,
             "name": "九幽",
             "pic": "",
             "sound": "",
@@ -5965,7 +5944,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3366,
+            "id": 3365,
             "name": "悲鸣之地",
             "pic": "",
             "sound": "",
@@ -5986,7 +5965,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3367,
+            "id": 3366,
             "name": "神殿之丘",
             "pic": "",
             "sound": "",
@@ -6007,7 +5986,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3368,
+            "id": 3367,
             "name": "叹息之地",
             "pic": "",
             "sound": "",
@@ -6028,7 +6007,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3369,
+            "id": 3368,
             "name": "洛亚大陆",
             "pic": "",
             "sound": "",
@@ -6049,7 +6028,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3370,
+            "id": 3369,
             "name": "末日之泉",
             "pic": "",
             "sound": "",
@@ -6070,7 +6049,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3371,
+            "id": 3370,
             "name": "风语之森",
             "pic": "",
             "sound": "",
@@ -6091,7 +6070,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3372,
+            "id": 3371,
             "name": "坠雷山崖",
             "pic": "",
             "sound": "",
@@ -6112,7 +6091,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3373,
+            "id": 3372,
             "name": "痛苦沼泽",
             "pic": "",
             "sound": "",
@@ -6133,7 +6112,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3374,
+            "id": 3373,
             "name": "上古雪峰",
             "pic": "",
             "sound": "",
@@ -6154,7 +6133,7 @@
             "hidenAllPlayers": 0
         },
         {
-            "id": 3375,
+            "id": 3374,
             "name": "毁灭之海",
             "pic": "",
             "sound": "",

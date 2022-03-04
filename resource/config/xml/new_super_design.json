@@ -7002,6 +7002,225 @@
                 },
                 "ID": 32,
                 "Desc": "20220225 S卡斯珀"
+            },
+            {
+                "Rules": {
+                    "Rule": [
+                        {
+                            "ID": 1,
+                            "MouldID": 1,
+                            "UserInfo": "202780 202781 202782 202783 202784 202785 202786 202787 202788 202789 202790 202791 202792 202793 202794 202795 202796 202797 202798 202799 202800 202801 202802 202803",
+                            "CheckTips": "本关卡在挑战中，不可重复上阵（出战背包派出过的）精灵"
+                        },
+                        {
+                            "ID": 2,
+                            "MouldID": 2,
+                            "Args": 6,
+                            "CheckTips": "每场battle都需要在6回合内击败BOSS，否则battle按失败结算",
+                            "FailTips": "战斗未在6回合内结束，结算为失败"
+                        },
+                        {
+                            "ID": 3,
+                            "MouldID": 3,
+                            "Args": "3022 3460 3437",
+                            "CheckTips": "本关卡不可使用精灵：王之哈莫、幻境界皇、艾欧丽娅"
+                        },
+                        {
+                            "ID": 4,
+                            "MouldID": 4,
+                            "Args": 100,
+                            "CheckTips": "出战精灵需等于100级"
+                        },
+                        {
+                            "ID": 5,
+                            "MouldID": 5,
+                            "Args": 3,
+                            "UserInfo": 202804,
+                            "CheckTips": "关卡挑战中的对战累计失败次数＞3次，则本轮关卡挑战自动放弃",
+                            "FailTips": "本关卡中对战累计失败次数已大于3次，挑战失败"
+                        },
+                        {
+                            "ID": 6,
+                            "MouldID": 6,
+                            "Args": 3,
+                            "UserInfo": 202805,
+                            "CheckTips": "一天之内连续胜利此难度关卡三次，即可解锁本关卡扫荡功能（需要连续胜利，不可中断 ）"
+                        }
+                    ]
+                },
+                "Achievement": {},
+                "Reward": {
+                    "ItemID": 2400091,
+                    "MonsterID": 4339,
+                    "MintMarkID": 42169,
+                    "MoveID": 1,
+                    "NewSeId": 5834
+                },
+                "Configure": {
+                    "Exchange_mintmark": 40,
+                    "Times": 3,
+                    "ProgressValue": 202806,
+                    "TimeValue": 202807,
+                    "FailTimes": 202804,
+                    "ExchangeID": "13630 13631 13632",
+                    "ExchangeProductID": "259436 259439 259437"
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4341,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000460,
+                            "Desc": "【简单的敌人，伤害提升100%】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4296,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000461,
+                            "Desc": "【简单的敌人，先制+1，伤害提升100%】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4302,
+                            "BattleType": 1,
+                            "Battlelevel": 2,
+                            "BossID": 1000462,
+                            "Desc": "【有点难度的敌人，先制+2，伤害提升200%，每回合随机3项能力提升且附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4311,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000463,
+                            "Desc": "【有点难度的敌人，先制+3，伤害提升200%，一定程度减伤，每回合100%令对手冻伤，每回合使对手随机2项能力下降且恢复一定体力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4339,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000464,
+                            "Desc": "【有点难度的敌人，必定先手，免疫瞬杀，伤害提升300%，一定程度减伤，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 14,
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4296,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000465,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，对手使用攻击技能时若先出手则无效，每回合开始时随机吸取对手2项能力并附加给自己，每回合附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4302,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000466,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，对手使用攻击技能时若后出手则无效，每回合开始时随机吸取对手2项能力并附加给自己，每回合附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4311,
+                            "BattleType": 1,
+                            "Battlelevel": 4,
+                            "BossID": 1000467,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，可以消除对手能力提升状态，免疫特殊攻击伤害，每回合恢复一定体力且附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4339,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000468,
+                            "Desc": "【有点强的敌人，对手无法使用属性技能，每回合一定概率令对手害怕，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 22,
+                    "RuleID": "2 1",
+                    "TaskStyle": 1,
+                    "BattleCnt": 4,
+                    "Desc": "依次战胜Battle1-4即可通关"
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4341,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000469,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，可以消除对手能力提升状态，100%闪避，每回合附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4296,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000470,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，可以消除对手能力提升状态，一定程度减伤，所有技能消除对手回合类效果，每回合附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4302,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000471,
+                            "Desc": "【较强的敌人，对手无法使用属性技能，可以消除对手能力提升状态，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4311,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000472,
+                            "Desc": "【较强的敌人，对手无法使用属性技能，受到伤害时使对手进入冰封异常状态，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4339,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1000473,
+                            "Desc": "【强的敌人，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 42,
+                    "RuleID": "1 3 4 5",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "Sweep": {
+                    "ItemID": "1400153_2500001_1724430 1400153_2500001_1724430 1400153_2500001_1724430",
+                    "ProductID": "0_0_259438 0_0_259438 0_0_259438",
+                    "RuleID": "6 6 6"
+                },
+                "Stat": {
+                    "Battle": {},
+                    "Exchange": {},
+                    "Task": {
+                        "Easy": {},
+                        "Normal": {},
+                        "Hard": {}
+                    },
+                    "Sweep": {},
+                    "Achievement": {}
+                },
+                "ID": 33,
+                "Desc": "20220304 S麦格姆"
             }
         ]
     }
