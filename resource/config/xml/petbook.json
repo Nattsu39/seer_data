@@ -561,68 +561,50 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4338,
-                        "ImageID": 4338,
-                        "Label": 0,
-                        "Redirect": "alarm",
-                        "Go": "作战实验室专属精灵，暂未开放，敬请期待！"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4339,
-                        "ImageID": 4339,
+                        "ID": 4343,
+                        "ImageID": 4343,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1540;app/SpetMaiGeMuPanel"
+                        "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4340,
-                        "ImageID": 4340,
+                        "ID": 4344,
+                        "ImageID": 4344,
                         "Label": 0,
+                        "Redirect": "alarm",
+                        "Go": "挑战《赛尔互通助手》SPT副本限时活动获得！"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4345,
+                        "ImageID": 4345,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1541;app/SpetSXNHKaTuoNaPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4346,
+                        "ImageID": 4346,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/YaShiLaiMuGrowUpMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 450,
+                        "MonID": 4340,
+                        "ImageID": 1400450,
+                        "Label": 1,
                         "Redirect": "map",
                         "Go": 1095
                     },
                     {
-                        "type": 0,
-                        "ID": 4341,
-                        "ImageID": 4341,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1540
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4342,
-                        "ImageID": 4342,
-                        "Label": 0,
+                        "type": 3,
+                        "ID": 42174,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInMarch2022Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 448,
-                        "MonID": 4189,
-                        "ImageID": 1400448,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/PrincessDayPartyMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 449,
-                        "MonID": 3237,
-                        "ImageID": 1400449,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 2,
-                        "ID": 429,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/EmperorGodSuitMainPanel"
+                        "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -34533,8 +34515,8 @@
                 "ID": 3201,
                 "DefName": "凛锋剑豪",
                 "Type": "冰 神秘",
-                "Height": 180,
-                "Weight": 80,
+                "Height": 164,
+                "Weight": 66,
                 "Features": "神秘的剑客，剑的威力不容小觑，光影之下，死亡如风！",
                 "mapID": 103
             },
@@ -37643,7 +37625,7 @@
                 "ID": 3548,
                 "DefName": "凛锋剑侠",
                 "Type": "冰 神秘",
-                "Height": 170,
+                "Height": 172,
                 "Weight": 70,
                 "Features": "浪迹天涯的神秘剑客，似乎从来没有人知道他的身世是什么......",
                 "mapID": 103
@@ -45118,6 +45100,46 @@
                 "Features": "2022年3月包月精灵，十二冠灵之一，能够掌控机械元素，刀影照芙，钢核圣冕！",
                 "Redirect": "map|module",
                 "Go": "103;app/MonthlyPetInMarch2022Panel"
+            },
+            {
+                "ID": 4343,
+                "DefName": "凛锋剑心",
+                "Type": "冰 神秘",
+                "Height": 184,
+                "Weight": 74,
+                "Features": "剑伏人去再无叱咤，冢伫心归回首天涯；豪之迈，侠之大，不过孩童痴话......",
+                "Redirect": "map|module",
+                "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
+            },
+            {
+                "ID": 4344,
+                "DefName": "潘克多斯",
+                "Type": "火",
+                "Height": 176,
+                "Weight": 0,
+                "Features": "潘多斯的超进化形态，对鬼火元素的运用已经出神入化，任何妄想与其为敌的对手都将被无情焚毁，化为灰烬！",
+                "Redirect": "alarm",
+                "Go": "挑战《赛尔互通助手》SPT副本限时活动获得！"
+            },
+            {
+                "ID": 4345,
+                "DefName": "圣心女皇·卡托娜",
+                "Type": "圣灵 地面",
+                "Height": 170,
+                "Weight": 54,
+                "Features": "卡托娜的超进化形态，面对着逐渐崩坏的卡卡托斯之柱与生命垂危的哥哥，卡托娜于绝境中得到了卡卡托斯之神的眷顾，觉醒“女皇”塔罗牌之力实现了自我突破！",
+                "Redirect": "map|module",
+                "Go": "1541;app/SpetSXNHKaTuoNaPanel"
+            },
+            {
+                "ID": 4346,
+                "DefName": "芽史莱姆",
+                "Type": "草",
+                "Height": 46,
+                "Weight": 17,
+                "Features": "史莱姆一族的新成员芽史莱姆登场！可爱的它会为赛尔们带来怎样的惊喜呢？",
+                "Redirect": "map|module",
+                "Go": "11897;app/YaShiLaiMuGrowUpMainPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

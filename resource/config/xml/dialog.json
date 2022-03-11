@@ -15774,57 +15774,492 @@
             {
                 "item": [
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "卡托娜",
-                            "npcID": 4324,
-                            "dialogArr": "前置剧情待补充，黄金史莱姆国王在永恒星的发现。永恒树，永恒果",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "咳咳，小赛尔，你好啊！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "黄金史莱姆国王！听说之前你被混沌侵染，是已经恢复了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "是啊。多亏了精灵王的恩泽，我从混沌的噩梦中解脱了……听说赛尔号飞船最近去了异宇宙，这么快就回来了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嘿嘿，这不是植树节到了嘛，我来看看永恒之树有没有需要帮忙的地方！再说，我们赛尔号船员都有一种叫「星际地图」的传送装置，可以在各个地方快速进行量子传送，很方便的~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "竟有这么神奇的东西，可以借我用用吗？老朽也一直有遨游宇宙的梦想啊！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "做我的精灵吧！想去哪我带你走！还有基因重组药剂、性格重组药剂、特性重组药剂、通用刻印激活水晶……我有的好东西统统都给你用！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "咳咳……这个药那个药的……我这把老骨头，怕是无福消受了。不过，我这里有个小家伙，它刚刚诞生，或许对这些感兴趣。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "哦？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "咕妞咕妞！芽芽咕妞姆！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "呜哇哇！！！QQ弹弹小小软软！！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "别怕，这个小家伙是芽史莱姆，史莱姆家族的新成员",
+                                "questionArr": "新成员好耶！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "新成员好姆！！小阿黑是新成员！",
+                                "questionArr": "小阿黑…是说我吗？"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "哈哈！看来它还挺喜欢你的！！不如这段时间，芽史莱姆就交给你来照顾吧！",
+                                "questionArr": "好好好！！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "其实很简单。你就负责每天搜集一些我们史莱姆的食物，把这小家伙喂饱吧！",
+                                "questionArr": "保证完成任务！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不过……我有一个问题，你们史莱姆是怎么出生的？该不会是……有丝分裂吧？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "咳咳……你是想问芽芽的身世吧，这个……涉及我们史莱姆一族的秘密，还请容我细细斟酌一下。",
+                                "questionArr": "好吧"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "总之一切就交给你了！3月11日-3月17日期间，每天完成任务，就能获得永恒之树的果实，快去吧！芽史莱姆已经嗷嗷待哺了。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 1,
                         "name": "剧情引导"
                     },
                     {
                         "dialog": {
                             "index": 1,
-                            "npcName": "卡托娜",
-                            "npcID": 4324,
-                            "dialogArr": "玩法引导待补充",
+                            "npcName": "黄金史莱姆国王",
+                            "npcID": 2312,
+                            "dialogArr": "芽史莱姆就交给你照顾了！3月11日-3月17日期间，每天完成任务，就能获得永恒之树的果实，快去喂饱它吧！",
                             "questionArr": "…"
                         },
                         "id": 2,
                         "name": "玩法引导"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "卡托娜",
-                            "npcID": 4324,
-                            "dialogArr": "黄金史莱姆国王，…… ，……。芽史莱姆昨晚裂开了。裂开了？是有什么伤心事吗？-不，因为心情太好，所以裂开了。- 心情好原来是会裂开的吗？！-什么时候你也裂一个呗？待补充",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "黄金史莱姆国王？你的脸色似乎有点不对劲，是发生什么了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "呃……嗯……不知道怎么说才能让你理解。",
+                                "questionArr": "就别吊我胃口啦！！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "是这样的，芽史莱姆刚刚……裂开了。",
+                                "questionArr": "？！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "裂开了？！！是有什么伤心事吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "不，是因为心情太好，所以裂开了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "原来心情好是会裂开的吗？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "这只是史莱姆的一种增殖方式，《永恒星纪》上有过记载，但鲜有发生，我也是第一次遇到。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "新生的芽史莱姆",
+                                "npcID": 5663,
+                                "dialogArr": "咕妞咕妞————姆！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "好有精神！！————话说国王你什么时候也能裂一下？嘿嘿嘿…………",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "知道你馋老朽身子了，收一收吧。",
+                                "questionArr": "咕妞！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "不过这只新生的芽史莱姆，就赠予你吧，",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "送给……我？！好突然！芽芽不会生气吧？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "分裂增殖不会保留本体的记忆，但却拥有同样的形貌。你就带着它，替芽芽去宇宙间四处游历吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我也可以带着芽芽在银河间穿梭，挑战最强大的精灵！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "不。很遗憾，芽芽有它自己的路要走。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "你说句话呀！",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 3,
                         "name": "获得精灵"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "卡托娜",
-                            "npcID": 4324,
-                            "dialogArr": "活动要结束啦，我提前给你做好了礼物",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "咕妞咕妞！谢谢阿黑这段时间的照料姆！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不客气姆，咱俩已经是朋友了姆！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "不过姆……芽芽要跟小阿黑说再见了姆……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "……好突然，为什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "芽芽感受到了永恒之树的召唤，芽芽要去做很重要很重要的事了姆。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "芽芽竟然这么厉害吗！可以和永恒之树对话！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "永恒之树……是妈妈……姆，总之，芽芽今天给阿黑提前准备好了礼物，阿黑可以给芽芽再做一顿饭嘛！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "没问题！不过我有个问题好奇很久了",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "姆？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "芽芽的礼物里为什么会有红绿宝石和学习力粘液呀？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "姆……难到芽芽了……不过阿黑没听过这样的故事吗？勇士击败了地下城的巨大史莱姆，获得了粘液啊宝石啊什么的姆！",
+                                "questionArr": "你该不是背着我偷偷打电动了吧！！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "呜哇哇————芽——芽——饿——了姆！！！",
+                                "questionArr": "好了好了~不逗你玩了，这就给你准备吃的！"
+                            }
+                        ],
                         "id": 4,
                         "name": "活动结束提醒"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "卡托娜",
-                            "npcID": 4324,
-                            "dialogArr": "拜拜了家人，我回永恒星了，咱们有缘再见",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "芽芽吃饱了！mua一口小阿黑！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "呜哇————好粘！不过……好温暖。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "那……芽芽走了姆！",
+                                "questionArr": "一路平安。"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "芽史莱姆",
+                                "npcID": 4346,
+                                "dialogArr": "要！想！芽！芽！阿黑要想芽芽，好姆好姆？",
+                                "questionArr": "嗯！芽芽也要想阿黑姆！"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "（目送芽史莱姆走远。）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "小家伙果然和永恒之树的复苏有关……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "永恒之树？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "咳咳……这个秘密事关永恒星的存亡，但这段时间你和芽史莱姆的相处，让我感受到了你的善良和温柔，相信你一定不会伤害我们的。现在，我可以告诉你其中的秘密了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "芽史莱姆……其实诞自永恒之树，是树上的新芽。",
+                                "questionArr": "新芽？"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "自从魔灵王将永恒星腐化后，永恒之树也一并枯死了。精灵王们将我们拯救后，其中一位将生命之力注入永恒之树，并为我们留下了预言。",
+                                "questionArr": "是……茉蕊儿吧，什么预言呢？"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "“腐化的永恒陷入了轮回的噩梦，但生命的种子已然种下，树冠必将诞出新芽。”",
+                                "questionArr": "是说，永恒之树会有苏醒的一天嘛"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "是啊，而这一天，终于来到了！永恒之树诞下了一颗生命的种子，那就是————",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "芽史莱姆！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "没想到可爱的芽芽竟……背负着如此沉重的命运。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "哈哈，小赛尔，命运从不选择。如果有一天，芽史莱姆完全复苏了永恒之树，也是那孩子自己的选择。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "小赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "如果有这么一天，我要和芽芽一起见证！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 1,
+                                "npcName": "黄金史莱姆国王",
+                                "npcID": 2312,
+                                "dialogArr": "好啊，好啊。小赛尔。到那一天，再会吧。",
+                                "questionArr": "后会有期！"
+                            }
+                        ],
                         "id": 5,
                         "name": "结束剧情"
                     }
@@ -16230,7 +16665,7 @@
                                 "index": 34,
                                 "npcName": "卡斯珀",
                                 "npcID": 4337,
-                                "dialogArr": "你抓重点的本身还是这么厉害，你再乱说话我可不带你吃东西去了。",
+                                "dialogArr": "你抓重点的本事还是这么厉害，你再乱说话我可不带你吃东西去了。",
                                 "questionArr": "…"
                             },
                             {
@@ -16337,6 +16772,666 @@
                 ],
                 "activityID": 39,
                 "name": "主线任务22-03-04"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "嘿嘿，我就知道你会来找我的。 ",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "别紧张，附近没有别人了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "我再确认一遍，是真的任何愿望都能实现么？ ",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "哼，我这么说，自然是有我的办法。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "天底下怎么可能会有这么好的事情…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "是要所谓的“代价”是吧…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "嗯，你还挺机灵的，看来也不用我多绕弯子了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "先说说你的愿望吧，越难实现的愿望，代价也就越大哦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "我…考虑一下…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "没问题，我想你应该是要实现和你妹妹有关的愿望吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "那些长老们，那些顽固的家伙，我想除掉他们…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "哦？我能问问为什么吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "他们整天封建迷信，对那卡卡托斯之神…其实根本就不存在！但他们还要以此为借口忽悠民众们，我的妹妹本身身体就…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "你还真是个为妹妹考虑的哥哥啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "传闻前两天萨特大人传了消息来让大家去城邦避难，这些长老…竟然完全无视，自顾自的让大家继续去参拜那什么卡卡托斯之神…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "真是太愚昧了…我们一族不能再被他们所控制了…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "我明白你的愿望了，但即使是以命换命，单凭你的力量也无法换掉所有长老们的生命。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "咳咳，你要理解，生死这种事情我比较难插手。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "行吧，那我再想想…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "对了，那把卡卡托斯之柱破坏掉，总可以吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "你是说，你要破坏掉那根大柱子？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "这种事情你总能做到吧。失去了卡卡托斯之柱，长老们的信仰也自然而然就会瓦解了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "没问题，那代价就是你的记忆如何？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "我的记忆…你要我的记忆要干什么？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 27,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "别激动，你要是不愿意，那就你的寿命也可以。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 28,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "这代价…未免有点…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 29,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "寿命和记忆，我已经给了你选择的空间了。或者你现在选择放弃也可以。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 30,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "那就用我的寿命作为代价吧…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 31,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "很好，这样契约就生效了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 32,
+                                "npcName": "卡斯珀",
+                                "npcID": 4337,
+                                "dialogArr": "接下来我还需要做什么吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 33,
+                                "npcName": "隐秘的怪人",
+                                "npcID": 5662,
+                                "dialogArr": "不用了，你就静静等着卡卡托斯之柱的陨落吧，嘿嘿嘿。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "卡托娜",
+                                "npcID": 4324,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "卡托娜",
+                                "npcID": 4324,
+                                "dialogArr": "你们…谁快来…快救救我哥哥…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "古索迪尔",
+                                "npcID": 4268,
+                                "dialogArr": "先冷静下来，卡托娜。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "卡托娜",
+                                "npcID": 4324,
+                                "dialogArr": "为什么…我明明已经许下愿望了…卡卡托斯之神…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "卡诺",
+                                "npcID": 4336,
+                                "dialogArr": "现在我们过去，不就是送命么…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "我去。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "我来开破壁者去救他。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "卡诺",
+                                "npcID": 4336,
+                                "dialogArr": "但凭这样一个座驾？外面可是有这么多怪物呢。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "古索迪尔",
+                                "npcID": 4268,
+                                "dialogArr": "我来掩护你！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "没事，破壁者的机动性很强，你们还是先照顾好卡托娜的心情。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "她的状态很不稳定…没准…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "卡诺",
+                                "npcID": 4336,
+                                "dialogArr": "诶？卡托娜去哪儿了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "古索迪尔",
+                                "npcID": 4268,
+                                "dialogArr": "什么？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "查梅洛？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "你还记得我啊，塞泽丝，我还以为我的存在感很低呢。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "这几天在跟踪我的人就是你吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "是的，因为我有点信不过库帕帕，他和以前的气味不太一样。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "事实证明，确实如此。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "库帕帕他到底怎么了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "仔细看，是被后面这个家伙控制了，只要将她击败应该就可以了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "夜使·库帕帕",
+                                "npcID": 4141,
+                                "dialogArr": "没错…塞泽丝，查梅洛…我在与团长交战的时候不慎中了计，所以现在被她操控了…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "快闭嘴吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "夜使·库帕帕",
+                                "npcID": 4141,
+                                "dialogArr": "额啊——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "稍不留神，竟然让这家伙用自己的意识说话了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "夜使·库帕帕",
+                                "npcID": 4141,
+                                "dialogArr": "你们别怕，我是你们的伙伴。乖乖站好别动就可以了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "嘿嘿嘿。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "如你所见，能不能救库帕帕，只能看我们了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "我们上…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "切，这家伙，似乎能化为虚影，我的突然攻击也无法袭击到她。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "不行，查梅洛。她操控库帕帕挡着我，我没法靠近她。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "夜使·库帕帕",
+                                "npcID": 4141,
+                                "dialogArr": "…杀了我吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "夜使·库帕帕",
+                                "npcID": 4141,
+                                "dialogArr": "没关系的，快杀了我吧，不然，是不会结束的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "别冲动，塞泽丝！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "就让库帕帕解脱吧…",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "面板3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "佩德…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "团长，为什么会在这里？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "噗…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "哈哈哈哈哈——！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "太笨了，这种话都相信！什么“杀了我吧”哈哈哈！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "这可是我操控他说出来的话呀哈哈哈！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "什么…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "傀儡可是要多少有多少，况且这些傀儡早就已经没有生命了，只能任我摆布。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "这个傀儡，好像是你们称之为团长的傀儡，哼哼。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "灵魂收割者·黛",
+                                "npcID": 4290,
+                                "dialogArr": "我就用这个来了结你们吧！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "可恶，被她摆了一道。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "塞泽丝，我用我的能力来掩护你，到时候你把握时机。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "塞泽丝…？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "我…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "魔剪·塞泽丝",
+                                "npcID": 4109,
+                                "dialogArr": "已经忍无可忍了！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "面板3"
+                    }
+                ],
+                "activityID": 40,
+                "name": "主线任务22-03-11"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "卡托娜",
+                            "npcID": 4324,
+                            "dialogArr": "前置剧情待补充，黄金史莱姆国王在永恒星的发现。永恒树，永恒果",
+                            "questionArr": "…"
+                        },
+                        "id": 1,
+                        "name": "剧情引导"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "卡托娜",
+                            "npcID": 4324,
+                            "dialogArr": "前置剧情待补充，黄金史莱姆国王在永恒星的发现。永恒树，永恒果",
+                            "questionArr": "…"
+                        },
+                        "id": 2,
+                        "name": "玩法说明"
+                    }
+                ],
+                "activityID": 41,
+                "name": "20220318帕图考核记"
             }
         ]
     }
