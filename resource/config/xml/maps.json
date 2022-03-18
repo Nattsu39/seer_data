@@ -44578,6 +44578,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1542,
+                "Name": "暮光纪念塔",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -52153,26 +52159,69 @@
             {
                 "ID": 3272,
                 "Name": "守护部落",
-                "InitX": 315,
-                "InitY": 410
+                "InitX": 502,
+                "InitY": 484
             },
             {
                 "ID": 3273,
                 "Name": "封印之境",
                 "InitX": 150,
                 "InitY": 360
+            },
+            {
+                "ID": 3274,
+                "Name": "泰若星晶石山谷",
+                "InitX": 150,
+                "InitY": 300
+            },
+            {
+                "ID": 3275,
+                "Name": "丛林之境",
+                "InitX": 100,
+                "InitY": 100
+            },
+            {
+                "ID": 3276,
+                "Name": "冰封洞窟",
+                "InitX": 100,
+                "InitY": 400
+            },
+            {
+                "ID": 3277,
+                "Name": "神兽谷",
+                "InitX": 150,
+                "InitY": 400
+            },
+            {
+                "ID": 3278,
+                "Name": "深海宫殿",
+                "InitX": 830,
+                "InitY": 255
+            },
+            {
+                "ID": 3279,
+                "Name": "决斗圣地",
+                "InitX": 480,
+                "InitY": 470,
+                "InstanceID": 17
+            },
+            {
+                "ID": 3280,
+                "Name": "圣域之门",
+                "InitX": 119,
+                "InitY": 363
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1541,
+                    "RandMaps": 1542,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1541,
+                    "RandMaps": 1542,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -52184,7 +52233,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220311,
+                "ID": 20220318,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

@@ -561,50 +561,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4343,
-                        "ImageID": 4343,
+                        "ID": 4347,
+                        "ImageID": 4347,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
+                        "Go": "1542;app/SpetCZMJSaiZeSiPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4344,
-                        "ImageID": 4344,
+                        "ID": 4348,
+                        "ImageID": 4348,
                         "Label": 0,
-                        "Redirect": "alarm",
-                        "Go": "挑战《赛尔互通助手》SPT副本限时活动获得！"
+                        "Redirect": "map|module",
+                        "Go": "1542;app/MiYanRuShaWuExchangePanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4345,
-                        "ImageID": 4345,
+                        "ID": 4349,
+                        "ImageID": 4349,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1541;app/SpetSXNHKaTuoNaPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4346,
-                        "ImageID": 4346,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/YaShiLaiMuGrowUpMainPanel"
+                        "Go": "103;app/VIPDiscountByArticle20210806MainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 450,
-                        "MonID": 4340,
-                        "ImageID": 1400450,
+                        "ID": 451,
+                        "MonID": 3540,
+                        "ImageID": 1400451,
                         "Label": 1,
-                        "Redirect": "map",
-                        "Go": 1095
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42174,
                         "Redirect": "map|module",
-                        "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45140,6 +45126,36 @@
                 "Features": "史莱姆一族的新成员芽史莱姆登场！可爱的它会为赛尔们带来怎样的惊喜呢？",
                 "Redirect": "map|module",
                 "Go": "11897;app/YaShiLaiMuGrowUpMainPanel"
+            },
+            {
+                "ID": 4347,
+                "DefName": "裁罪魔剪·塞泽丝",
+                "Type": "战斗 暗影",
+                "Height": 176,
+                "Weight": 56,
+                "Features": "塞泽丝的超进化形态，当复仇的执念愈加浓烈，当心底的怒火熊熊燃烧......伴随着“正义”塔罗牌之力的加持，塞泽丝终于忍无可忍，将会为了自己的信念而战！",
+                "Redirect": "map|module",
+                "Go": "1542;app/SpetCZMJSaiZeSiPanel"
+            },
+            {
+                "ID": 4348,
+                "DefName": "帕图",
+                "Type": "暗影",
+                "Height": 84,
+                "Weight": 35,
+                "Features": "鲍尔斯手下的夜间巡逻兵，对工作尽心尽力，一丝不苟！",
+                "Redirect": "map|module",
+                "Go": "1542;app/MiYanRuShaWuExchangePanel"
+            },
+            {
+                "ID": 4349,
+                "DefName": "沃罗科",
+                "Type": "电 暗影",
+                "Height": 174,
+                "Weight": 64,
+                "Features": "从黑夜中袭来的诡秘术士，强大的雷电魔法让其成为了一个可怕的对手！",
+                "Redirect": "map|module",
+                "Go": "103;app/VIPDiscountByArticle20210806MainPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"
