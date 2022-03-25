@@ -7710,18 +7710,276 @@
                     "RuleID": "6 6 6"
                 },
                 "Stat": {
-                    "Battle": {},
-                    "Exchange": {},
-                    "Task": {
-                        "Easy": {},
-                        "Normal": {},
-                        "Hard": {}
+                    "Battle": {
+                        "Start": 2203180600,
+                        "Finish": 2203180603,
+                        "Abandon": 2203180606
                     },
-                    "Sweep": {},
-                    "Achievement": {}
+                    "Exchange": {
+                        "Mintmark": 2203180610
+                    },
+                    "Task": {
+                        "Easy": {
+                            "Win": 2203180612,
+                            "Fail": 2203180626
+                        },
+                        "Normal": {
+                            "Win": 2203180617,
+                            "Fail": 2203180631
+                        },
+                        "Hard": {
+                            "Win": 2203180621,
+                            "Fail": 2203180635
+                        }
+                    },
+                    "Sweep": {
+                        "Unlock": 2203180640,
+                        "Finish": 2203180643
+                    },
+                    "Achievement": {
+                        "Get": 2203180611
+                    }
                 },
                 "ID": 35,
                 "Desc": "20220318 S裁罪魔剪·塞泽丝"
+            },
+            {
+                "Rules": {
+                    "Rule": [
+                        {
+                            "ID": 1,
+                            "MouldID": 1,
+                            "UserInfo": "202864 202865 202866 202867 202868 202869 202870 202871 202872 202873 202874 202875 202876 202877 202878 202879 202880 202881 202882 202883 202884 202885 202886 202887",
+                            "CheckTips": "本关卡在挑战中，不可重复上阵（出战背包派出过的）精灵"
+                        },
+                        {
+                            "ID": 2,
+                            "MouldID": 2,
+                            "Args": 6,
+                            "CheckTips": "每场battle都需要在6回合内击败BOSS，否则battle按失败结算",
+                            "FailTips": "战斗未在6回合内结束，结算为失败"
+                        },
+                        {
+                            "ID": 3,
+                            "MouldID": 3,
+                            "Args": "3022 3460 3437",
+                            "CheckTips": "本关卡不可使用精灵：王之哈莫、幻境界皇、艾欧丽娅"
+                        },
+                        {
+                            "ID": 4,
+                            "MouldID": 4,
+                            "Args": 100,
+                            "CheckTips": "出战精灵需等于100级"
+                        },
+                        {
+                            "ID": 5,
+                            "MouldID": 5,
+                            "Args": 3,
+                            "UserInfo": 202888,
+                            "CheckTips": "关卡挑战中的对战累计失败次数＞3次，则本轮关卡挑战自动放弃",
+                            "FailTips": "本关卡中对战累计失败次数已大于3次，挑战失败"
+                        },
+                        {
+                            "ID": 6,
+                            "MouldID": 6,
+                            "Args": 3,
+                            "UserInfo": 202889,
+                            "CheckTips": "一天之内连续胜利此难度关卡三次，即可解锁本关卡扫荡功能（需要连续胜利，不可中断 ）"
+                        }
+                    ]
+                },
+                "Achievement": {},
+                "Reward": {
+                    "ItemID": 2400099,
+                    "MonsterID": 4350,
+                    "MintMarkID": 42181,
+                    "MoveID": 1,
+                    "NewSeId": 5843,
+                    "GainValue": 123913
+                },
+                "Configure": {
+                    "Exchange_mintmark": 40,
+                    "Times": 3,
+                    "ProgressValue": 202890,
+                    "TimeValue": 202891,
+                    "FailTimes": 202888,
+                    "ExchangeID": "13645 13646 13647",
+                    "ExchangeProductID": "259460 259463 259461"
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4341,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000502,
+                            "Desc": "【简单的敌人，伤害提升100%】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4294,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1000503,
+                            "Desc": "【简单的敌人，先制+1，伤害提升100%】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4339,
+                            "BattleType": 1,
+                            "Battlelevel": 2,
+                            "BossID": 1000504,
+                            "Desc": "【有点难度的敌人，先制+2，伤害提升200%，每回合随机3项能力提升且附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4231,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1000505,
+                            "Desc": "【有点难度的敌人，先制+3，伤害提升200%，一定程度减伤，每回合使对手随机2项能力下降，每回合恢复一定体力且附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4350,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000506,
+                            "Desc": "【有点难度的敌人，必定先手，免疫瞬杀，伤害提升300%，每回合使对手全能力下降，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 14,
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4294,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1000507,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，免疫物理攻击伤害，体力低于一定程度时体力和PP值回满，每回合附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4339,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000508,
+                            "Desc": "【比较简单的敌人，先制+2，伤害提升200%，免疫特殊攻击伤害，每回合100%令对手烧伤，体力低于一定程度时体力和PP值回满，每回合附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4231,
+                            "BattleType": 1,
+                            "Battlelevel": 4,
+                            "BossID": 1000509,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，可以消除对手能力提升状态，先出手则当回合不会受到攻击伤害，每回合恢复一定体力且附带一定固定伤害】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4350,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000510,
+                            "Desc": "【有点强的敌人，对手无法使用属性技能，一定程度减伤，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 22,
+                    "RuleID": "2 1",
+                    "TaskStyle": 1,
+                    "BattleCnt": 4,
+                    "Desc": "依次战胜Battle1-4即可通关"
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4341,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000511,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，可以消除对手能力提升状态，自身体力每降低一定程度则造成伤害有一定程度的提升，回合结束时若自身体力高于对手则恢复所有体力】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4294,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1000512,
+                            "Desc": "【有点强的敌人，先制+3，伤害提升300%，可以消除对手能力提升状态，自身体力每降低一定程度则造成伤害有一定程度的提升，自身免疫固定伤害和百分比伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4339,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000513,
+                            "Desc": "【较强的敌人，对手无法使用属性技能，可以消除对手能力提升状态，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4231,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1000514,
+                            "Desc": "【较强的敌人，对手无法使用属性技能，使用攻击技能时吸取对手能力强化状态，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4350,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1000515,
+                            "Desc": "【强的敌人，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 42,
+                    "RuleID": "1 3 4 5",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "Sweep": {
+                    "ItemID": "1400153_2500001_1724460 1400153_2500001_1724460 1400153_2500001_1724460",
+                    "ProductID": "0_0_259462 0_0_259462 0_0_259462",
+                    "RuleID": "6 6 6"
+                },
+                "Stat": {
+                    "Battle": {
+                        "Start": 2203250600,
+                        "Finish": 2203250603,
+                        "Abandon": 2203250606
+                    },
+                    "Exchange": {
+                        "Mintmark": 2203250610
+                    },
+                    "Task": {
+                        "Easy": {
+                            "Win": 2203250611,
+                            "Fail": 2203250625
+                        },
+                        "Normal": {
+                            "Win": 2203250616,
+                            "Fail": 2203250630
+                        },
+                        "Hard": {
+                            "Win": 2203250620,
+                            "Fail": 2203250634
+                        }
+                    },
+                    "Sweep": {
+                        "Unlock": 2203250639,
+                        "Finish": 2203250642
+                    },
+                    "Achievement": {}
+                },
+                "ID": 36,
+                "Desc": "20220325 S哈洛兰特"
             }
         ]
     }
