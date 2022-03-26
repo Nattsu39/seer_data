@@ -11289,40 +11289,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4343
-                    },
-                    "ID": 2020,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220311,
-                    "End": 20220325,
-                    "Map": 103,
-                    "Name": "凛锋剑心",
-                    "Title": "凛锋剑心",
-                    "Redirect": "map|module",
-                    "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4344
-                    },
-                    "ID": 2021,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220311,
-                    "End": 20220325,
-                    "Map": 0,
-                    "Name": "潘克多斯",
-                    "Title": "潘克多斯",
-                    "Redirect": "alarm",
-                    "Go": "请前往《赛尔号互助助手》进行全新精灵的获取哦！"
-                },
-                {
-                    "Details": {
                         "mc": 2,
                         "monID": 4342,
                         "Des": "绿色暗潮前的绝望， 迷雾雨夜下的决断。 缓缓盛开的绽放之花， 静静闪耀的不朽之光。 更多内容请锁定本期主线：绽放之光！",
@@ -11338,6 +11304,42 @@
                     "Title": "绽放之光",
                     "Redirect": "map|module",
                     "Go": "1541;app/MainLineTask_3447"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4347
+                    },
+                    "ID": 2029,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220318,
+                    "End": "*",
+                    "Map": 1542,
+                    "Name": "裁罪魔剪·塞泽丝",
+                    "Title": "裁罪魔剪·塞泽丝",
+                    "Redirect": "map|module",
+                    "Go": "1542;app/SpetCZMJSaiZeSiPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2031,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220318,
+                    "End": "*",
+                    "Map": 1542,
+                    "Name": "正义觉醒",
+                    "Title": "正义觉醒",
+                    "Redirect": "map|module",
+                    "Go": "1542;app/MainLineTask_3448"
                 }
             ]
         },
@@ -32867,7 +32869,7 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2019,
+                    "ID": 2008,
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20220203,
@@ -33043,27 +33045,40 @@
                     "Title": "芽史莱姆",
                     "Redirect": "map|module",
                     "Go": "11897;app/YaShiLaiMuGrowUpMainPanel"
-                }
-            ],
-            "_text": "\t.\r\n\t"
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
-                        "mc": 1,
-                        "Des": "契约召唤，羁绊更新！双莲并蒂，盛放觉醒！清芙幽芙，羁绊开启！千万不要错过哦！"
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4343
                     },
-                    "ID": 1995,
+                    "ID": 2020,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220218,
-                    "End": "*",
+                    "Type": 0,
+                    "Start": 20220311,
+                    "End": 20220325,
                     "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "契约召唤更新",
+                    "Name": "凛锋剑心",
+                    "Title": "凛锋剑心",
                     "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                    "Go": "103;app/DaantiaoLinFengJianhaoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4344
+                    },
+                    "ID": 2021,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220311,
+                    "End": 20220325,
+                    "Map": 0,
+                    "Name": "潘克多斯",
+                    "Title": "潘克多斯",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号互助助手》进行全新精灵的获取哦！"
                 },
                 {
                     "Details": {
@@ -33099,6 +33114,67 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4349
+                    },
+                    "ID": 2032,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220318,
+                    "End": 20220325,
+                    "Map": 103,
+                    "Name": "VIP折扣按条-沃罗科",
+                    "Title": "沃罗科",
+                    "Redirect": "map|module",
+                    "Go": "103;app/VIPDiscountByArticle20210806MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 0,
+                        "monID": 4348
+                    },
+                    "ID": 2034,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220318,
+                    "End": 20220325,
+                    "Map": 1542,
+                    "Name": "帕图",
+                    "Title": "帕图",
+                    "Redirect": "map|module",
+                    "Go": "1542;app/MiYanRuShaWuMainPanel"
+                }
+            ],
+            "_text": "\t.\r\n\t"
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1,
+                        "Des": "契约召唤，羁绊更新！双莲并蒂，盛放觉醒！清芙幽芙，羁绊开启！千万不要错过哦！"
+                    },
+                    "ID": 1995,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220218,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 1,
                         "Des": "星河商店全新版本，经典神宠限时回归。天作之合迎新之光，一切尽在星河商店！"
                     },
@@ -33106,7 +33182,7 @@
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20220311,
-                    "End": 20220408,
+                    "End": 20220401,
                     "Map": 103,
                     "Name": "星河商店更新",
                     "Title": "星河商店更新",
@@ -33131,78 +33207,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4347
-                    },
-                    "ID": 2029,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220318,
-                    "End": "*",
-                    "Map": 1542,
-                    "Name": "裁罪魔剪·塞泽丝",
-                    "Title": "裁罪魔剪·塞泽丝",
-                    "Redirect": "map|module",
-                    "Go": "1542;app/SpetCZMJSaiZeSiPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2030,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220318,
-                    "End": 20220325,
-                    "Map": 1542,
-                    "Name": "谜烟入砂雾",
-                    "Title": "谜烟入砂雾",
-                    "Redirect": "map|module",
-                    "Go": "1542;app/MiYanRuShaWuMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2031,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220318,
-                    "End": "*",
-                    "Map": 1542,
-                    "Name": "正义觉醒",
-                    "Title": "正义觉醒",
-                    "Redirect": "map|module",
-                    "Go": "1542;app/MainLineTask_3448"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 1,
-                        "monID": 4349
-                    },
-                    "ID": 2032,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220318,
-                    "End": 20220325,
-                    "Map": 103,
-                    "Name": "VIP折扣按条-沃罗科",
-                    "Title": "沃罗科",
-                    "Redirect": "map|module",
-                    "Go": "103;app/VIPDiscountByArticle20210806MainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2033,
@@ -33221,42 +33225,142 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "icon": 0,
-                        "monID": 4348
+                        "icon": 2,
+                        "monID": 4350
                     },
-                    "ID": 2034,
+                    "ID": 2036,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20220318,
-                    "End": 20220325,
-                    "Map": 11897,
-                    "Name": "帕图",
-                    "Title": "帕图",
+                    "Start": 20220325,
+                    "End": "*",
+                    "Map": 1543,
+                    "Name": "哈洛兰特",
+                    "Title": "哈洛兰特",
                     "Redirect": "map|module",
-                    "Go": "11897;app/MiYanRuShaWuMainPanel"
+                    "Go": "1543;app/SpetHaLuoLanTePanel"
                 },
                 {
                     "Details": {
-                        "mc": 1,
-                        "monID": 4173
+                        "mc": 0,
+                        "icon": 0,
+                        "monID": 4351
                     },
-                    "describe": {
-                        "_cdata": "主题活动：谜烟入砂雾正式开启！\r\n箭如雨落 红光漫天，全新精灵【虹雨·茜尔】登场！\r\n活动时间：2022.3.18-2022.3.24\r\n活动内容：活动期间，参与「风来踏雾」「帕图考核记」「未明事件簿」活动收集道具砂雾之心和谜烟之种，即可前往「砂雾秘宝」兑换精美奖励。\r\n活动奖励：全新精灵「帕图」、限时•星际密令、限时•浩瀚星核、全新砂雾风格基地家具、限时•关卡扫荡券等......\r\n\t\t\r\n赛尔号项目组 \r\n2022年3月\r\n"
-                    },
-                    "ID": 2035,
+                    "ID": 2037,
                     "isNew": 1,
-                    "kinds": 2,
+                    "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20220318,
-                    "End": 20220325,
-                    "Map": 11897,
-                    "Name": "测试",
-                    "Title": "箭如雨落 虹光漫天",
+                    "Start": 20220325,
+                    "End": 20220401,
+                    "Map": 1543,
+                    "Name": "米欧",
+                    "Title": "米欧",
                     "Redirect": "map|module",
-                    "Go": "1474;app/S71HongyuQianerMainPanel"
+                    "Go": "1543;app/PeripheralExplorationMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2038,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220325,
+                    "End": "*",
+                    "Map": 1543,
+                    "Name": "【主线任务】世外幽光",
+                    "Title": "世外幽光",
+                    "Redirect": "alarm",
+                    "Go": "1543;app/MainLineTask_3449"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2039,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220325,
+                    "End": "*",
+                    "Map": 1543,
+                    "Name": "【支线任务】戾夜再临",
+                    "Title": "戾夜再临",
+                    "Redirect": "map|module",
+                    "Go": "1543;app/LiYeZaiLingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2040,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220325,
+                    "End": 20220401,
+                    "Map": 1543,
+                    "Name": "探索灵格星系",
+                    "Title": "探索灵格星系",
+                    "Redirect": "map|module",
+                    "Go": "1543;app/EventCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2041,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220325,
+                    "End": 20220429,
+                    "Map": 103,
+                    "Name": "重生之翼巡回",
+                    "Title": "重生之翼巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2042,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220325,
+                    "End": 20220401,
+                    "Map": 103,
+                    "Name": "巅峰精灵集结售卖",
+                    "Title": "巅峰精灵荣耀返场",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PeakAssemblySaleMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2043,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220325,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
                 },
                 {
                     "Details": {
@@ -33267,8 +33371,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220318,
-                    "End": 20220325,
+                    "Start": 20220325,
+                    "End": 20220401,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -33276,7 +33380,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2029,2030,2032"
+            "Important": "2035,2039,2040,2041,2042"
         }
     }
 }
