@@ -1,0 +1,103 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶",
+            "controller": "AutoOpenAttributeController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "!0",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 2,
+            "moduleId": 58,
+            "actionName": "谱尼挑战",
+            "controller": "AutoOpenAttributeController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "1",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 3,
+            "moduleId": 68,
+            "actionName": "艾欧丽娅艾娅",
+            "controller": "AutoOpenBitsetController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "0",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 4,
+            "moduleId": 68,
+            "actionName": "艾欧丽娅艾娅",
+            "controller": "AutoOpenBitsetController",
+            "state": 0,
+            "param1": "12462",
+            "param2": "1",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 5,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶",
+            "controller": "AutoOpenDailyController",
+            "state": 0,
+            "param1": "wish_bottle",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 6,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶",
+            "controller": "AutoOpenWeeklyController",
+            "state": 0,
+            "param1": "wish_bottle",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 7,
+            "moduleId": 59,
+            "actionName": "星愿漂流瓶 特殊控制",
+            "controller": "AutoOpenWishBottleController",
+            "state": 0,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 8,
+            "moduleId": 142,
+            "actionName": "新手七日礼",
+            "controller": "AutoOpenNewSeerSignController",
+            "state": 0,
+            "param1": "120200,120204,1202008",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 9,
+            "moduleId": 143,
+            "actionName": "2022清明签到",
+            "controller": "AutoOpenDailyController",
+            "state": 1,
+            "param1": "qingMingSign2022",
+            "param2": "",
+            "startTime": "2022,3,1,00,00,00",
+            "endTime": "2022,3,7,00,00,00"
+        }
+    ]
+}

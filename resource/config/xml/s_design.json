@@ -12798,6 +12798,140 @@
                 },
                 "ID": 104,
                 "Desc": "20220211 哀·拉伯克"
+            },
+            {
+                "Cover": {
+                    "Cehua": {
+                        "ZhizunItemID": 1724467
+                    },
+                    "Houtai": {
+                        "SuperEvolveID": 0
+                    }
+                },
+                "Tasks": {
+                    "Mould": [
+                        {
+                            "Qianduan": {
+                                "BossPosX": "0 70 50 57",
+                                "BossPosY": "0 -25 -20 0",
+                                "BossScaleX": "1 1 1 -1",
+                                "BossScaleY": "1 1 1 1"
+                            },
+                            "Cehua": {
+                                "TaskId": 1,
+                                "MouldId": 4,
+                                "MidItems": "1724469 1724468 1724493",
+                                "Args": 3,
+                                "BossId": "4354 4048 4030 4037",
+                                "BossIsBitmap": "0 1 1 1",
+                                "PanelTips": "\\n使用狂沙之主·萨特战胜右侧三个界神，即可通过此关卡。\\n"
+                            },
+                            "Houtai": {
+                                "Forever": 123819,
+                                "Daily": 202909,
+                                "BossStartID": 1157,
+                                "BossEndID": 1159,
+                                "BossStyle": 1,
+                                "StatLog": 2006240100
+                            }
+                        },
+                        {
+                            "Cehua": {
+                                "TaskId": 2,
+                                "MouldId": 26,
+                                "MidItems": "1724470 1724494 1724471",
+                                "Args": 6,
+                                "BossId": "4148 4142 4015 3992 3945 3659 3498 3494 3508 3612"
+                            },
+                            "Houtai": {
+                                "Forever": 123820,
+                                "Daily": 202910,
+                                "BossStartID": 220071,
+                                "BossEndID": 220080,
+                                "BossStyle": 0,
+                                "StatLog": 2006240107
+                            }
+                        },
+                        {
+                            "Qianduan": {
+                                "BossPosX": "0 0 0 0 0",
+                                "BossPosY": "0 0 0 -30 0",
+                                "BossScaleX": "1 1 1 1 1",
+                                "BossScaleY": "1 1 1 1 1"
+                            },
+                            "Cehua": {
+                                "TaskId": 3,
+                                "MouldId": 19,
+                                "Items": "1724473 1724475",
+                                "MidItems": "1724472 1724495 1724476 1722433 1724477 1724474",
+                                "Args": "12 4 4 2 2 6 6 5 1 5 10 10 15",
+                                "BossId": "3247 3398 3503 3360 4354",
+                                "PanelTips": "集齐10个风霾之砾并走至终点战胜精灵即可通关！",
+                                "RuleTips": "1）每轮探险期间内，探险次数为10，还未到达终点时，即判定本轮探索失败，只能获得少量奖励。\\n2）“向前走，别回头”。除了终点列可以往回走一列，其他列只能前进不能后退。\\n3）一轮探索次数达到5才可以重新探索。\\n4）到达终点并通过终点挑战才能拿到本次探险中的奖励哦，未通过终点挑战时探索过程中得到的奖励不算作已拥有。\\n5）只能探索相邻的格子，无法隔着千山万水探索远方的格子哦！"
+                            },
+                            "Houtai": {
+                                "Forever": "123821 123822 123823 123824 123825 123826 123827 123828 123829 123830 123831 123832 123833",
+                                "Daily": 202911,
+                                "BossStartID": 187046,
+                                "BossEndID": 187050,
+                                "BossStyle": 0,
+                                "StatLog": 2006240128
+                            }
+                        },
+                        {
+                            "Qianduan": {
+                                "BossPosX": "-15 3 3 3 10",
+                                "BossPosY": "-48 -43 -44 0 59",
+                                "BossScaleX": "1 1 1 1 1",
+                                "BossScaleY": "1 1 1 1 1"
+                            },
+                            "Cehua": {
+                                "TaskId": 4,
+                                "MouldId": 57,
+                                "MidItems": "1724478 1724479 1724480 1724481",
+                                "Args": "10 1 100 5",
+                                "BossId": "3343 3288 3263 4354 4354",
+                                "PanelTips": "狂沙之主·萨特隐藏在魔阵之中，找到并击败他即可通关！\\n战胜错误的精灵可增加1点感应度，成功率随着感应度而增加，感应度达到100时必定成功！"
+                            },
+                            "Houtai": {
+                                "Forever": 123834,
+                                "Daily": 202912,
+                                "PlayerInfo": 1025,
+                                "BossStartID": 802705,
+                                "BossEndID": 802708,
+                                "BossStyle": 0,
+                                "StatLog": 2006240138
+                            }
+                        }
+                    ],
+                    "Style": 1,
+                    "MonCount": 1,
+                    "TaskCount": 4,
+                    "TaskValue": 123818
+                },
+                "Power": {
+                    "Cehua": {
+                        "PowerID": 2,
+                        "LoadType": 1,
+                        "MonsterID": 4354,
+                        "MintmarkID": 42185,
+                        "NewSeIconId": 1554,
+                        "Args": "2 1 0 1 3 5 8 1 2 5 8 10 15 30 30",
+                        "Items": 1724482,
+                        "MidItems": "1724487 1724483"
+                    },
+                    "Houtai": {
+                        "GainValue": 123817,
+                        "NewSeID": 5848,
+                        "Forever": 123835,
+                        "Daily": 202913,
+                        "BossStartID": 210077,
+                        "BossEndID": 210080,
+                        "StatLog": 2006240144
+                    }
+                },
+                "ID": 105,
+                "Desc": "20220401 S105 狂沙之主·萨特"
             }
         ]
     }

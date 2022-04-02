@@ -7,7 +7,7 @@
             "pageName": "",
             "res": "exchange_award_prompt_view",
             "resEffect": "",
-            "resConfig": "exchange_clt,boxordinary",
+            "resConfig": "exchange_clt,boxordinary,BuyPopup,profilephoto",
             "resXMLConfig": "",
             "currAppDo": 2,
             "values_forever": "",
@@ -2946,6 +2946,28 @@
             "show_loading": 0,
             "isFullScreen": 1,
             "bgMaskAlpha": 0.4,
+            "destroyTime": 5
+        },
+        {
+            "id": 143,
+            "moduleDes": "清明节登录好礼2022",
+            "moduleName": "qingMingSign2022",
+            "pageName": "",
+            "res": "qing_ming_sign2022",
+            "resEffect": "",
+            "resConfig": "",
+            "resXMLConfig": "",
+            "currAppDo": 0,
+            "values_forever": "",
+            "values_daily": "",
+            "values_bitBuf": "",
+            "values_dailybitBuf": "",
+            "values_weekly": "",
+            "values_weekly_bitBuf": "",
+            "values_playerinfo": "",
+            "show_loading": 1,
+            "isFullScreen": 0,
+            "bgMaskAlpha": 0.6,
             "destroyTime": 5
         }
     ]

@@ -561,19 +561,69 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4350,
-                        "ImageID": 4350,
+                        "ID": 4352,
+                        "ImageID": 4352,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1543;app/SpetHaLuoLanTePanel"
+                        "Go": "103;app/MonthlyPetInApril2022Panel"
                     },
                     {
                         "type": 0,
-                        "ID": 4351,
-                        "ImageID": 4351,
+                        "ID": 4353,
+                        "ImageID": 4353,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4354,
+                        "ImageID": 4354,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1430;app/PeripheralExplorationMainPanel"
+                        "Go": "1544;app/S105SaTeMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4355,
+                        "ImageID": 4355,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/DaantiaoHunDunDaTianShiMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 452,
+                        "MonID": 4347,
+                        "ImageID": 1400452,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "1544;app/ZTHDExchangePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 453,
+                        "MonID": 4198,
+                        "ImageID": 1400453,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42187
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42188
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42189
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42190
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -39044,7 +39094,7 @@
                 "DefName": "混沌天使长",
                 "Type": "光 暗影",
                 "Height": 185,
-                "Weight": 75,
+                "Weight": 100,
                 "Features": "混沌大天使超进化形态，光明与黑暗的交融，造就的是更为强大的力量，在善与恶的终点，一双羽翼撕裂宇宙！",
                 "mapID": 1316
             },
@@ -43834,8 +43884,8 @@
                 "ID": 4219,
                 "DefName": "红莲之誓·安卡",
                 "Type": "圣灵 火",
-                "Height": 180,
-                "Weight": 60,
+                "Height": 184,
+                "Weight": 62,
                 "Features": "灵格星系的火之守护者，在永耀星坛重获新生，红莲之火将再次在这片大地上燃起！",
                 "Redirect": "map|module",
                 "Go": "1489;app/S86AnkaMainPanel"
@@ -45159,6 +45209,46 @@
                 "Features": "赛尔们在晶龙洞窟又发现了一只新的龙宝宝，这次它又会为我们带来什么有趣的故事呢？",
                 "Redirect": "map|module",
                 "Go": "1430;app/PeripheralExplorationMainPanel"
+            },
+            {
+                "ID": 4352,
+                "DefName": "艾瑞丽尔",
+                "Type": "水",
+                "Height": 149,
+                "Weight": 43,
+                "Features": "2022年4月包月精灵，十二冠灵之一，能够掌控水之元素，沧流唤灵，碧浪圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInApril2022Panel"
+            },
+            {
+                "ID": 4353,
+                "DefName": "花寅",
+                "Type": "圣灵 战斗",
+                "Height": 156,
+                "Weight": 46,
+                "Features": "2022年4月巅峰圣战精灵，虎之一族的神秘女孩，可不要因为她长相甜美可爱就对她掉以轻心哦，她的战斗力可不容小觑！",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4354,
+                "DefName": "狂沙之主·萨特",
+                "Type": "地面 神秘",
+                "Height": 230,
+                "Weight": 114,
+                "Features": "盖伦星系的守护者，军队出身的他身经百战，拥有着深不可测的实力，面对黑夜的侵袭，萨特有着自己特别的计划和手段，但这一切都随着尘沙起舞，难以捉摸…",
+                "Redirect": "map|module",
+                "Go": "1544;app/S105SaTeMainPanel"
+            },
+            {
+                "ID": 4355,
+                "DefName": "终末大天使",
+                "Type": "光 暗影",
+                "Height": 248,
+                "Weight": 115,
+                "Features": "当波拉克斯的光明之力与卡斯托尔的黑暗元素融合至极致，真正的终末之神将随着天使羽翼的盛放莅临于时之彼端，届时一切是非对错都将失去意义，化为神罚之下的齑粉......",
+                "Redirect": "map|module",
+                "Go": "103;app/DaantiaoHunDunDaTianShiMainPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

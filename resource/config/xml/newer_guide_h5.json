@@ -5,7 +5,6 @@
                 "substep": [
                     {
                         "type": 1,
-                        "sound": "xinshou1.mp3",
                         "swfName": "xinshoumanhua1",
                         "width": 1408,
                         "height": 640,
@@ -47,7 +46,6 @@
                     },
                     {
                         "type": 1,
-                        "sound": "xinshou2.mp3",
                         "swfName": "xinshoumanhua2",
                         "width": 1408,
                         "height": 640,
@@ -59,7 +57,6 @@
                     },
                     {
                         "type": 1,
-                        "sound": "xinshou3.mp3",
                         "swfName": "xinshoumanhua3",
                         "width": 1408,
                         "height": 640,
@@ -496,7 +493,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnMax1",
                         "tipPos": "305,147",
-                        "tip": "点击【Max】，将攻击和速度的学习力分配全部分配至255",
+                        "tip": "点击【MAX】，将攻击和速度的学习力分配全部分配至255",
                         "tipTitle": "分配学习力",
                         "stat": "点击快速提升T2"
                     },
@@ -509,13 +506,13 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnMax5",
                         "tipPos": "305,147",
-                        "tip": "点击【Max】，将攻击和速度的学习力分配全部分配至255",
+                        "tip": "点击【MAX】，将攻击和速度的学习力分配全部分配至255",
                         "tipTitle": "分配学习力",
                         "stat": "点击快速提升T2"
                     },
                     {
                         "type": 5,
-                        "rect": "900,544,171,50",
+                        "rect": "964,557,171,50",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -966,6 +963,7 @@
                     {
                         "type": 5,
                         "rect": "649,177,78,78",
+                        "handOffSet": "24,10",
                         "align": "right",
                         "event": "click_item",
                         "handScaleX": 0.6,
@@ -1598,7 +1596,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "681,205,99,120",
+                        "rect": "683,205,97,120",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1759,7 +1757,7 @@
                         "type": 5,
                         "rect": "1042,568,41",
                         "rectType": 2,
-                        "handOffSet": "0,-94",
+                        "handOffSet": "-18,-105",
                         "androidOffSetX": -60,
                         "align": "right",
                         "handType": 2,
