@@ -35,7 +35,7 @@
                 "ID": 4,
                 "IsClick": 0,
                 "UserInfo": 123515,
-                "BytePos": 1,
+                "BytePos": 2,
                 "ByteValue": 7,
                 "Judge": 0,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
@@ -66,10 +66,30 @@
                 "IsClick": 1,
                 "UserInfo": 121117,
                 "BytePos": 3,
-                "ByteValue": 16,
+                "ByteValue": 17,
                 "Judge": 0,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
+            },
+            {
+                "ID": 8,
+                "IsClick": 1,
+                "UserInfo": 121117,
+                "BytePos": 4,
+                "ByteValue": 3,
+                "Judge": 0,
+                "tips": "最新礼包_【皮肤商城】更新提示红点，点击进入皮肤商城面板后消失",
+                "From": "shopcenter:12|icon:shopcenter_icon"
+            },
+            {
+                "ID": 9,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 1,
+                "ByteValue": 4,
+                "Judge": 0,
+                "tips": "最新礼包_【罗开折扣商店】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:11|icon:shopcenter_icon"
             },
             {
                 "ID": 10,
@@ -82,14 +102,44 @@
                 "From": "shopcenter:3|icon:shopcenter_icon"
             },
             {
+                "ID": 11,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 3,
+                "ByteValue": 3,
+                "Judge": 0,
+                "tips": "最新礼包_【阿尔法熊特训回归】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:9|icon:shopcenter_icon"
+            },
+            {
+                "ID": 12,
+                "IsClick": 1,
+                "UserInfo": 121118,
+                "BytePos": 4,
+                "ByteValue": 2,
+                "Judge": 0,
+                "tips": "最新礼包_【英灵殿契约召唤】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:10|icon:shopcenter_icon"
+            },
+            {
+                "ID": 17,
+                "IsClick": 1,
+                "UserInfo": 121222,
+                "BytePos": 1,
+                "ByteValue": 6,
+                "Judge": 0,
+                "tips": "最新礼包_【终末大天使】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:8|icon:shopcenter_icon"
+            },
+            {
                 "ID": 14,
                 "IsClick": 1,
                 "UserInfo": 121221,
                 "BytePos": 2,
-                "ByteValue": 5,
+                "ByteValue": 6,
                 "Judge": 0,
-                "tips": "最新礼包_【年费套装集合返场】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:9|icon:shopcenter_icon"
+                "tips": "最新礼包_【4月专属VIP精灵】提示红点，点击进入活动面板后红点消失",
+                "From": "shopcenter:7|icon:shopcenter_icon"
             },
             {
                 "ID": 15,
@@ -110,16 +160,6 @@
                 "Judge": 0,
                 "tips": "最新礼包_【星河商店】提示红点，点击进入活动面板后红点消失",
                 "From": "shopcenter:5|icon:shopcenter_icon"
-            },
-            {
-                "ID": 17,
-                "IsClick": 1,
-                "UserInfo": 121222,
-                "BytePos": 1,
-                "ByteValue": 6,
-                "Judge": 0,
-                "tips": "最新礼包_【终末大天使】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:8|icon:shopcenter_icon"
             }
         ]
     }

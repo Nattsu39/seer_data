@@ -561,69 +561,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4352,
-                        "ImageID": 4352,
+                        "ID": 4356,
+                        "ImageID": 4356,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInApril2022Panel"
+                        "Go": "1545;app/SpetSiKeErPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4353,
-                        "ImageID": 4353,
-                        "Label": 0,
+                        "type": 1,
+                        "ID": 454,
+                        "MonID": 4353,
+                        "ImageID": 1400454,
+                        "Label": 1,
                         "Redirect": "map",
                         "Go": 1095
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4354,
-                        "ImageID": 4354,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1544;app/S105SaTeMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4355,
-                        "ImageID": 4355,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/DaantiaoHunDunDaTianShiMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 452,
-                        "MonID": 4347,
-                        "ImageID": 1400452,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1544;app/ZTHDExchangePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 453,
-                        "MonID": 4198,
-                        "ImageID": 1400453,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42187
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42188
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42189
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42190
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45249,6 +45200,16 @@
                 "Features": "当波拉克斯的光明之力与卡斯托尔的黑暗元素融合至极致，真正的终末之神将随着天使羽翼的盛放莅临于时之彼端，届时一切是非对错都将失去意义，化为神罚之下的齑粉......",
                 "Redirect": "map|module",
                 "Go": "103;app/DaantiaoHunDunDaTianShiMainPanel"
+            },
+            {
+                "ID": 4356,
+                "DefName": "斯科尔",
+                "Type": "草 战斗",
+                "Height": 175,
+                "Weight": 76,
+                "Features": "在桑谷的申请下来到向阳村的稻草人，别看它长相呆滞，可是干农活的一把好手！",
+                "Redirect": "map|module",
+                "Go": "1545;app/SpetSiKeErPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

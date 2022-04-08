@@ -1154,23 +1154,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3714
-                    },
-                    "ID": 173,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20180824,
-                    "End": "*",
-                    "Map": 1316,
-                    "Name": "混沌大天使超进化",
-                    "Title": "混沌大天使超进化——混沌天使长",
-                    "Redirect": "map|module",
-                    "Go": "1316;app/HundunTianshiEvoPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2,
                         "Des": "极夜魔镰悄然苏醒，千夜死神再度归来，全民放送！",
                         "Prize": "千夜死神"
@@ -10906,6 +10889,96 @@
                     "Title": "戾夜再临",
                     "Redirect": "map|module",
                     "Go": "1543;app/LiYeZaiLingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 3,
+                        "monID": 4354
+                    },
+                    "ID": 2044,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220401,
+                    "End": "*",
+                    "Map": 1544,
+                    "Name": "S萨特",
+                    "Title": "狂沙之主·萨特",
+                    "Redirect": "map|module",
+                    "Go": "1544;app/S105SaTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2045,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220401,
+                    "End": "*",
+                    "Map": 1544,
+                    "Name": "【主线任务】尘沙掩面",
+                    "Title": "尘沙掩面",
+                    "Redirect": "map|module",
+                    "Go": "1544;app/MainLineTask_3450"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4353
+                    },
+                    "ID": 2046,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220401,
+                    "End": 20220429,
+                    "Map": 1095,
+                    "Name": "4月巅峰联赛",
+                    "Title": "花寅",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4355
+                    },
+                    "ID": 2048,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220401,
+                    "End": 20220415,
+                    "Map": 103,
+                    "Name": "混沌大天使完全体",
+                    "Title": "终末大天使",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaantiaoHunDunDaTianShiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1,
+                        "Des": "本期更新精灵S级精灵：倾国之姿•貂蝉、倾城•虞姬；本期更新精灵A级精灵：大乔、小乔、卞玉儿、步练师"
+                    },
+                    "ID": 2027,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220311,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "星际招募更新",
+                    "Title": "星际招募更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 }
             ]
         },
@@ -33160,6 +33233,76 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3714
+                    },
+                    "ID": 173,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20180824,
+                    "End": "*",
+                    "Map": 1316,
+                    "Name": "混沌大天使超进化",
+                    "Title": "混沌大天使超进化——混沌天使长",
+                    "Redirect": "map|module",
+                    "Go": "1316;app/HundunTianshiEvoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2047,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220401,
+                    "End": 20220408,
+                    "Map": 1544,
+                    "Name": "荷风怜雨殇",
+                    "Title": "荷风怜雨殇",
+                    "Redirect": "map|module",
+                    "Go": "1544;app/ZTHDJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2049,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220401,
+                    "End": 20220408,
+                    "Map": 103,
+                    "Name": "年费套装集合售卖",
+                    "Title": "年费套装回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AnnualFeePackageSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4352
+                    },
+                    "ID": 2050,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220401,
+                    "End": 20220429,
+                    "Map": 1529,
+                    "Name": "4月包月精灵",
+                    "Title": "艾瑞丽尔",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInApril2022Panel"
                 }
             ],
             "_text": [
@@ -33169,22 +33312,6 @@
         },
         "New": {
             "Activity": [
-                {
-                    "Details": {
-                        "mc": 1,
-                        "Des": "本期更新精灵S级精灵：倾国之姿•貂蝉、倾城•虞姬；本期更新精灵A级精灵：大乔、小乔、卞玉儿、步练师"
-                    },
-                    "ID": 2027,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220311,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "星际招募更新",
-                    "Title": "星际招募更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
                 {
                     "Details": {
                         "mc": 1
@@ -33221,133 +33348,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 3,
-                        "monID": 4354
-                    },
-                    "ID": 2044,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220401,
-                    "End": "*",
-                    "Map": 1544,
-                    "Name": "S萨特",
-                    "Title": "狂沙之主·萨特",
-                    "Redirect": "map|module",
-                    "Go": "1544;app/S105SaTeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2045,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220401,
-                    "End": "*",
-                    "Map": 1544,
-                    "Name": "【主线任务】尘沙掩面",
-                    "Title": "尘沙掩面",
-                    "Redirect": "map|module",
-                    "Go": "1544;app/MainLineTask_3450"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4353
-                    },
-                    "ID": 2046,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220401,
-                    "End": 20220429,
-                    "Map": 1095,
-                    "Name": "4月巅峰联赛",
-                    "Title": "花寅",
-                    "Redirect": "alarm",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2047,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220401,
-                    "End": 20220409,
-                    "Map": 1544,
-                    "Name": "荷风怜雨殇",
-                    "Title": "荷风怜雨殇",
-                    "Redirect": "map|module",
-                    "Go": "1544;app/ZTHDJHPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4355
-                    },
-                    "ID": 2048,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220401,
-                    "End": 20220415,
-                    "Map": 103,
-                    "Name": "混沌大天使完全体",
-                    "Title": "混沌大天使完全体",
-                    "Redirect": "map|module",
-                    "Go": "103;app/DaantiaoHunDunDaTianShiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2049,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220401,
-                    "End": 20220409,
-                    "Map": 103,
-                    "Name": "年费套装集合售卖",
-                    "Title": "年费套装回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AnnualFeePackageSalesMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 1,
-                        "monID": 4352
-                    },
-                    "ID": 2050,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220401,
-                    "End": 20220429,
-                    "Map": 1529,
-                    "Name": "4月包月精灵",
-                    "Title": "艾瑞丽尔",
-                    "Redirect": "map|module",
-                    "Go": "1529;app/MonthlyPetInApril2022Panel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2051,
@@ -33361,7 +33361,7 @@
                     "Name": "兑钻消费奖励系统更新",
                     "Title": "兑钻消费奖励系统更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel "
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
@@ -33399,6 +33399,127 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4356
+                    },
+                    "ID": 2054,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220408,
+                    "End": "*",
+                    "Map": 1545,
+                    "Name": "S斯科尔",
+                    "Title": "斯科尔",
+                    "Redirect": "map|module",
+                    "Go": "1545;app/SpetSiKeErPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2055,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220408,
+                    "End": "*",
+                    "Map": 1545,
+                    "Name": "【主线任务】金色稻香",
+                    "Title": "金色稻香",
+                    "Redirect": "map|module",
+                    "Go": "1545;app/MainLineTask_3451"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2056,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220408,
+                    "End": "*",
+                    "Map": 1545,
+                    "Name": "【支线任务】银河之起",
+                    "Title": "银河之起",
+                    "Redirect": "map|module",
+                    "Go": "1545;app/TheGalaxyOriginMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2057,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220408,
+                    "End": 20220415,
+                    "Map": 1545,
+                    "Name": "生机焕发的向阳村",
+                    "Title": "生机焕发的向阳村",
+                    "Redirect": "map|module",
+                    "Go": "1545;app/XiangyangcunJhPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2058,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220408,
+                    "End": 20220422,
+                    "Map": 103,
+                    "Name": "阿尔法熊限时强化",
+                    "Title": "阿尔法熊限时强化",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AlphaBearLimitedTimeUpMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2059,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220408,
+                    "End": 20220415,
+                    "Map": 103,
+                    "Name": "罗开的折扣商城",
+                    "Title": "罗开的折扣商城",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20211119MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2060,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220408,
+                    "End": 20220415,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2,
                         "Des": "闪闪发光的漂流瓶里，蕴藏着无尽的宝藏，快来探索寻找吧！",
                         "Prize": "稀有精灵、培养道具、全能刻印、基地家具等"
@@ -33406,8 +33527,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220401,
-                    "End": 20220409,
+                    "Start": 20220408,
+                    "End": 20220415,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -33415,7 +33536,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2044,2047,2048,2049,2053"
+            "Important": "20454,2057,2058,2059,2060"
         }
     }
 }
