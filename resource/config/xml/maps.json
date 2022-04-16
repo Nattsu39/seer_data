@@ -44602,6 +44602,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1546,
+                "Name": "逆风峡口",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -52281,18 +52287,24 @@
                 "InitX": 110,
                 "InitY": 420,
                 "PrimaryScene": 5
+            },
+            {
+                "ID": 3283,
+                "Name": "熔岩大地",
+                "InitX": 110,
+                "InitY": 420
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1545,
+                    "RandMaps": 1546,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1545,
+                    "RandMaps": 1546,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -52304,7 +52316,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220408,
+                "ID": 20220415,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

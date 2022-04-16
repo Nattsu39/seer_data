@@ -22840,7 +22840,7 @@
                                 "index": 4,
                                 "npcName": "琉彩",
                                 "npcID": 4291,
-                                "dialogArr": "不行，岚的状态并太好，我们快去帮他。",
+                                "dialogArr": "不行，岚的状态不太好，我们快去帮他。",
                                 "questionArr": "…"
                             },
                             {
@@ -23512,7 +23512,7 @@
                                 "index": 1,
                                 "npcName": "熵",
                                 "npcID": 5665,
-                                "dialogArr": "除了彼此对立，应该有更好的选择。",
+                                "dialogArr": "除了彼此对立，我们应该有更好的选择。",
                                 "questionArr": "…"
                             },
                             {
@@ -23950,7 +23950,7 @@
                                 "index": 14,
                                 "npcName": "夜王残魂",
                                 "npcID": 5666,
-                                "dialogArr": "那时候的泰坦有着还拥有者泰坦之斧、泰坦之壁、泰坦之心三件杀器，在所有势力眼中都是巨大的威胁。",
+                                "dialogArr": "那时候的泰坦手中还有着泰坦之斧、泰坦之壁、泰坦之心三件杀器，在所有势力眼中都是巨大的威胁。",
                                 "questionArr": "…"
                             },
                             {
@@ -24124,7 +24124,7 @@
                                 "index": 2,
                                 "npcName": "夜王残魂",
                                 "npcID": 5666,
-                                "dialogArr": "与泰坦之心，已经非常接近了。难怪当时……",
+                                "dialogArr": "与泰坦之心，已经非常接近了。",
                                 "questionArr": "…"
                             },
                             {
@@ -24145,14 +24145,14 @@
                                 "index": 5,
                                 "npcName": "泰坦",
                                 "npcID": 2933,
-                                "dialogArr": "宫主与界主已经在银河星域等了你很久了。",
+                                "dialogArr": "宫主已经将灵兽宫移动到银河星域，界主也在永恒星做好了安排，他们应该等你很久了。",
                                 "questionArr": "…"
                             },
                             {
                                 "index": 6,
                                 "npcName": "泰坦",
                                 "npcID": 2933,
-                                "dialogArr": "拖得越久，溜进银河星域的人就越多。",
+                                "dialogArr": "时间拖得越长，溜进银河星域的人就越多。",
                                 "questionArr": "…"
                             },
                             {
@@ -24174,22 +24174,16 @@
                     {
                         "dialog": [
                             {
-                                "index": 9,
-                                "npcName": "泰坦",
-                                "npcID": 2933,
-                                "dialogArr": "……"
-                            },
-                            {
                                 "index": 1,
                                 "npcName": "泰坦",
                                 "npcID": 2933,
-                                "dialogArr": "看够了吗？"
+                                "dialogArr": "看够了吗？看够了，就滚出来受死！"
                             },
                             {
                                 "index": 2,
                                 "npcName": "泰坦",
                                 "npcID": 2933,
-                                "dialogArr": "看够了，就滚出来受死吧！"
+                                "dialogArr": "只要我还活着，你们就休想前进一步！"
                             },
                             {
                                 "index": 3,
@@ -24214,74 +24208,939 @@
                         "name": "面板6"
                     }
                 ],
-                "dialogs": {
-                    "item": [
-                        {
-                            "dialog": {
-                                "npcName": "茜茜",
-                                "npcID": 5667,
-                                "dialogArr": "喔~小赛尔！快来快来！",
-                                "questionArr": "…"
-                            },
-                            "id": 1,
-                            "name": "前置剧情"
-                        },
-                        {
-                            "dialog": {
-                                "npcName": "纽斯 ",
-                                "npcID": 5667,
-                                "dialogArr": "喔~小赛尔！快来快来！",
-                                "questionArr": "…"
-                            },
-                            "id": 2,
-                            "name": "传送仓"
-                        },
-                        {
-                            "dialog": {
-                                "npcName": "克罗、小克 ",
-                                "npcID": 5667,
-                                "dialogArr": "喔~小赛尔！快来快来！",
-                                "questionArr": "…"
-                            },
-                            "id": 3,
-                            "name": "荣誉大厅"
-                        },
-                        {
-                            "dialog": {
-                                "npcName": "爱丽丝",
-                                "npcID": 5667,
-                                "dialogArr": "喔~小赛尔！快来快来！",
-                                "questionArr": "…"
-                            },
-                            "id": 4,
-                            "name": "资料室"
-                        },
-                        {
-                            "dialog": {
-                                "npcName": "雷蒙",
-                                "npcID": 5667,
-                                "dialogArr": "喔~小赛尔！快来快来！",
-                                "questionArr": "…"
-                            },
-                            "id": 5,
-                            "name": "教官办公室"
-                        },
-                        {
-                            "dialog": {
-                                "npcName": "派特",
-                                "npcID": 5667,
-                                "dialogArr": "喔~小赛尔！快来快来！",
-                                "questionArr": "…"
-                            },
-                            "id": 6,
-                            "name": "精灵中心"
-                        }
-                    ],
-                    "activityID": 53,
-                    "name": "20220415飞船加固计划"
-                },
                 "activityID": 52,
-                "name": "支线任务22-04-15"
+                "name": "支线任务22-04-08"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "茜茜 ",
+                                "npcID": 5589,
+                                "dialogArr": "哦？是小赛尔。欢迎回家~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "茜茜！好久不见！我好想你们！呃……你这是在……刷油漆？为了迎接我回来其实不用这么隆重啦……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜   ",
+                                "npcID": 5589,
+                                "dialogArr": "虽然的确很想为我们的小英雄举办一场欢迎会，可眼下情况紧迫，我正在为舱室涂刷加固涂料。",
+                                "questionArr": "加固涂料？"
+                            },
+                            {
+                                "npcName": "茜茜   ",
+                                "npcID": 5589,
+                                "dialogArr": "赛尔号即将驶入砂雾城，为了安全考量，苏克对飞船进行了一次全面检查。",
+                                "questionArr": "情况如何？"
+                            },
+                            {
+                                "npcName": "茜茜   ",
+                                "npcID": 5589,
+                                "dialogArr": "报告显示，许多舱室都在高强度的星际航行中出现了不同程度的金属疲劳。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "天呐！如果坐视不管，飞船可能在太空解体！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜   ",
+                                "npcID": 5589,
+                                "dialogArr": "没错，幸好我们及时发现了异常。苏克和肖恩博士超负荷运转了好几天，终于在呼叶叶的启发下，研制出了一种高强度纳米涂料，能够最高效、可靠地对这些异常舱室进行加固。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "那我也来帮忙！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜   ",
+                                "npcID": 5589,
+                                "dialogArr": "那真是太谢谢啦，小赛尔！除了目前我正在加固的舱室，其余的5处就交给你啦！0xff00004月15日-4月21日0xffffff期间，每日完成任务就能获得加固型纳米涂料，进行加固。肖恩博士给了我一批莱达宇宙的珍贵物资，正好用来犒劳你~",
+                                "questionArr": "好耶！"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "前置剧情"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "纽斯 ",
+                                "npcID": 5668,
+                                "dialogArr": "小赛尔？好久不见好久不见！还记得我主播纽斯吗！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "怎么能忘记嘛！十二年的旅途中，一直是你为船员们带来最新资讯！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "说起这个……唉……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "怎么了，纽斯，你有什么事放不下？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "时代在发展，赛尔们的需求也在变化，飞船建立了更智能、便捷的资讯系统，航行日志不再需要我来主编了……",
+                                "questionArr": "觉得心里有点空落落的？"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "没有！绝对没有！我可是永远热情的主播纽斯！最近我迷上了网络小说，什么废柴少年被退婚，机缘之下结识了戒中之灵，一路逆袭终成霸业……什么探寻古墓机关重重险象环生……",
+                                "questionArr": "这就是退休养老的考古生活吗……"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "那个，我其实是来……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "哦对了！小赛尔，我最近还自己写了一点故事，要不要听听看？故事的名字威武霸气——《漆黑之勇者成名录》！",
+                                "questionArr": "那个……"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "你看啊……主角是一个浑身漆黑、身披黑袍的孤傲勇者，他在诅咒之龙窟中驯服了被邪魂寄宿的苍白羽兽；在熔火之大地用龙炎焚烬了自外而来的智械邪谋；让沸腾沙海的凋零绿洲重绽生机……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "历经千难万险，他终于来到了旅途的终点————被遗忘的骸骨之地！在腐龙尸骸中，他意外拯救了体内流淌着最后龙族血脉的美丽少女……怎么样？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "这诡异又熟悉的既视感是怎么回事……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "没错！小赛尔，你的一路冒险我都有关注！是你给了我无穷的灵感，还让我收获了一位忠实粉丝！……啊！对了，你来传送仓是有什么任务吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "经过苏克的检修，飞船舱室需要进行紧急加固，我是来给传送仓加固的~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "纽斯   ",
+                                "npcID": 5668,
+                                "dialogArr": "原来是有紧急任务，还听我唠叨了这么多，真是不好意思！！快请快请！",
+                                "questionArr": "好的，不过关于那本书，我们稍后还是聊一下吧……"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "传送仓"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "嗨！克罗，好久不见！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "克——罗——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "喔……喔！是小赛尔！快请快请！有什么事吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "检查发现，飞船内部结构有些老化，受茜茜委托，我来给荣誉大厅进行加固！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "嗯嗯！事关安全，这可是头等大事！我也来帮忙！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "克罗刚刚忙什么呢？我看到了好复杂的图纸",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "哈哈，我正在设计未来的军衔机甲。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "喔！这些图纸都是你画的吗？好厉害！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "哈哈，我可没有这种本事，只是在外观上提出了些修改意见。这些是排线图和电路图，是拜托茜茜帮忙设计的。不愧是飞船上的顶尖机械师，对微电子原理的理解太深刻了，新机甲的性能一定很卓越！",
+                                "questionArr": "听起来很厉害的样子，我们什么时候能和新机甲见面呢？"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "哈哈，这可能需要一段时间。目前还在初步构思的阶段，不过有消息我会通知你的，赛尔！",
+                                "questionArr": "好的授勋官先生！"
+                            },
+                            {
+                                "npcName": "克罗   ",
+                                "npcID": 5614,
+                                "dialogArr": "喔！差点把正事忘了，来吧！赛尔，开始加固工作！",
+                                "questionArr": "好！"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "荣誉大厅"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "小赛尔？稀客稀客！听说你经历了一场奇幻的冒险？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "嘿嘿，还好啦~倒是结识了许多有趣的朋友。好久没来资料室了，还是熟悉的样子，真好",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "能看到你平安归来，我也很开心，梳理资料的心情都变好了呢",
+                                "questionArr": "梳理资料？"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "资料室的服务器每天都要处理赛尔们在各个星球探索的海量信息，并通过AI进行筛选，由我按归类将重要内容整理入册。",
+                                "questionArr": "听起来好辛苦！"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "原先还有纽斯帮忙，他毕竟有着多年的播报经验，信息归纳整理方面他相当拿手。但不知怎的，最近他似乎有些消沉……",
+                                "questionArr": "……"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "问他也不说。虽然不知道该怎么安慰，但我发现他最近在飞船内网论坛里写东西解闷。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "文笔虽然有些浮夸晦涩，但不重要啦，我开了一个匿名账号，每个帖子都去点赞评论！希望……这样可以温暖到他吧~",
+                                "questionArr": "爱丽丝好温柔！"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "啊……差点忘了正事！是这样的，最新检查发现，飞船内部结构老化，需要紧急对舱室进行加固！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "原来如此！事关安全，需要立即行动。纽斯的事我们稍后再聊吧。啊对了……匿名账号的事情，还请替我保密~",
+                                "questionArr": "好的！"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "资料室"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "雷蒙教官 ",
+                                "npcID": 5602,
+                                "dialogArr": "是小赛尔啊！这一路真是辛苦了！可不凑巧，我正在指挥转移古索一族，实在没时间……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "雷蒙教官 ",
+                                "npcID": 5602,
+                                "dialogArr": "……杰特洛！东北方45°500码处有3只古索被风沙困住了！……你也看到了，小赛尔，生命攸关，可否长话短说？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "我是来给教官室加固的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "雷蒙教官 ",
+                                "npcID": 5602,
+                                "dialogArr": "好的，卫兵，来帮小赛尔一起加固！……没错！！西南37°5’，1300码！5只！营救核准！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "雷蒙教官真是辛苦，不如加固完去帮忙一起营救古索一族吧！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "教官办公室"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "小赛尔！你回来啦！太好了！有没有遇到神秘事件，或者带着奇异力量的精灵？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "的确是发生了很多事，不过……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "哦对了！你那位长着龙角的朋友可否愿意过来让我研究一下？听说她不是纯正的龙族，龙类的基因有着极强的侵略性，几乎不愿意与其他物种的基因共存，我对她的身体构造非常感兴趣！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "这……大概有些不礼貌吧……其实我是来……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "你说得有道理！“研究”的确有些生硬了，不如……就说“派特博士”想为她做一次免费的全身体检，如何？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "听起来更奇怪了……好了！我知道了，我会代为转达的！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "喔！那真是太感谢了！原谅我实在是太激动了，你刚刚是不是要说什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "精灵中心内部结构有些老化了，我来帮忙加固一下！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "原来如此，那真是辛苦你了！……别忘了你朋友的事哦！",
+                                "questionArr": "知道啦！"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "精灵中心"
+                    }
+                ],
+                "activityID": 53,
+                "name": "20220415飞船加固计划"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "风沙那么大，只好在这里先落脚了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "不过这里什么时候建造了个这样的基地？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "莫非是这里的居民们为了躲避风沙建造的，我得赶紧通知他们离开这里才行。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "古索",
+                                "npcID": 4267,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "稍等，我马上就找地方给你治疗。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "你是谁？怎么还带着一只古索？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "古索一族竟然已经能够自己建造机器人了吗，还似乎有自我意识，真是了不起啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "工程师苏克",
+                                "npcID": 5590,
+                                "dialogArr": "误会了，我们可不是古索一族制造的，我们是异宇宙来的赛尔机器人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "啊…不好意思，多有冒犯。我叫杰特洛，我正在寻找并帮助那些无家可归的小家伙。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这只古索是我在那边山头发现的，本来我是要带他去砂雾城的，但突然刮起了很大的风沙。我只好…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "原来如此，那快去我们的基地里休息下吧，还有好多古索一族的居民也都在那里。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "好…等下！古索一族的居民也都在？为什么都还躲在这里？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "风沙太大了，而且转移这么多居民很难一蹴而就。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "说的也是。不过我记得好像之前有派卫兵来帮忙转移过一部分居民，难道是当时没有能够全部转移？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我了解了，我会帮助你们一起前往城邦的，现在还留在这片区域太危险了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "工程师苏克",
+                                "npcID": 5590,
+                                "dialogArr": "那真是最好不过了。嗯？稍等，罗杰船长有联络传来了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "苏克，发现什么了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "工程师苏克",
+                                "npcID": 5590,
+                                "dialogArr": "是的，似乎是砂雾城的人，他在帮忙搜救有困难的精灵，我稍后带他一起回船长室。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "好的，先不说这个，卫兵发现了有信号快速从星系外靠近，你那边能看见什么吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "雷蒙教官",
+                                "npcID": 5602,
+                                "dialogArr": "什么，莫非是敌袭？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "不是的，据信号源分析，是我们的…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "工程师苏克",
+                                "npcID": 5590,
+                                "dialogArr": "能看到了！那艘飞船是…！我们能看见飞船了，罗杰船长，但是那个速度好像很危险！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "确实飞的有点快啊，看来需要我帮下忙了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "工程师苏克",
+                                "npcID": 5590,
+                                "dialogArr": "小心，那艘飞船里…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "别担心，交给我吧。呼叶叶！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "呼叶叶",
+                                "npcID": 4357,
+                                "dialogArr": "呼——叶——！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 27,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "该我们表现的时候了！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "太好了，你们平安无事就好。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嘻嘻，多亏了这位大哥，谢谢你。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "别客气。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不过飞船还是损坏了好多，又要麻烦苏克帮忙了嘿嘿。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "现在星系的边缘非常危险，让我帮你们前往城邦吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "只是现在的风沙很大，我们不敢贸然起航。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "没问题的，就交给我和呼叶叶吧，你说呢。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "呼叶叶",
+                                "npcID": 4357,
+                                "dialogArr": "呼——哇——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "不过附近可能还有遗漏的受难居民，我要去寻找他们，到时候就麻烦你们载一程了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "没有问题，你们能帮忙解决风沙的问题，那已经是帮了很大的忙了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "顺便问一句，你认识萨特吗？现在城邦里发生了什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "萨特大人…萨特大人准备把星系边缘的居民们聚集在城邦，然后…对不起，我不能透露更多了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "原来是这样，那这个尘沙究竟是为什么会变得这么猛烈呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这我就不太清楚了，我要先去帮忙了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "看来，更多的情报只能去砂雾城里才知道了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "啊，小赛尔，你还在啊？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "是啊，我要向船长你汇报新的情况。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "你后面这位是…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "这位是特罗斯姐姐，我们在查理星系碰见的，这次也是要送她回盖伦星系。只是没想到正巧赛尔号飞船也在…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "是的，现在来看，盖伦星系是解开异宇宙秘密的关键…",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "琉彩",
+                                "npcID": 4291,
+                                "dialogArr": "你说萨特要认真了是什么意思？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "同时能够驾驭神器和神谕之力的，可不止岚一个人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "萨特拥有盖伦星系的神器星盾的守护，不是普通的攻击就能伤到他的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "但这并不表明萨特只会一味地进行防守，他拥有的皇帝之力才是真正震慑八方的恐怖存在。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "琉彩",
+                                "npcID": 4291,
+                                "dialogArr": "怎么会这样？那岂不是，岚…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "琉彩",
+                                "npcID": 4291,
+                                "dialogArr": "你在干什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "随时准备好出手救他。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "（萨特这家伙，应该不会做到那种地步吧…）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "可恶，他的防守严丝合缝，根本找不到破绽。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "露姆莉亚",
+                                "npcID": 4194,
+                                "dialogArr": "别着急，岚。让我再汇聚一次炽芒与辉光，一定会有机会的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "好！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "（萨特…我是绝对不会原谅背叛者的…）",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "面板3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "岚！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "琉彩",
+                                "npcID": 4291,
+                                "dialogArr": "不行，我们得去帮他。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "狂沙之主·萨特",
+                                "npcID": 4354,
+                                "dialogArr": "我劝你们还是不要插手的好。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "琉彩",
+                                "npcID": 4291,
+                                "dialogArr": "什么…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "狂沙之主·萨特",
+                                "npcID": 4354,
+                                "dialogArr": "如果你们不想，一条人命变成三条人命的话。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "塔威尔",
+                                "npcID": 4299,
+                                "dialogArr": "琉彩，等等。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "琉彩",
+                                "npcID": 4291,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "狂沙之主·萨特",
+                                "npcID": 4354,
+                                "dialogArr": "怎么，这样两下就站不起来了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "狂沙之主·萨特",
+                                "npcID": 4354,
+                                "dialogArr": "（岚…让我看看你的意志到底有多强大吧。不然我可不敢把这个重任托付给你。）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "琉彩，塔威尔…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "别担心，你们不用帮忙，我是不会放弃的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "我答应过母亲，也答应过其他人了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "风之子·岚",
+                                "npcID": 4113,
+                                "dialogArr": "在了解到事情的真相前，我是不会倒下的。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "面板3"
+                    }
+                ],
+                "activityID": 54,
+                "name": "主线任务22-04-15"
             }
         ]
     }

@@ -561,20 +561,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4356,
-                        "ImageID": 4356,
+                        "ID": 4357,
+                        "ImageID": 4357,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1545;app/SpetSiKeErPanel"
+                        "Go": "1546;app/SCSFJHPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4358,
+                        "ImageID": 4358,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1546;app/SpetJieTeLuoPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 454,
-                        "MonID": 4353,
-                        "ImageID": 1400454,
+                        "ID": 455,
+                        "MonID": 4275,
+                        "ImageID": 1400455,
                         "Label": 1,
-                        "Redirect": "map",
-                        "Go": 1095
+                        "Redirect": "map|module",
+                        "Go": "1095;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45207,9 +45215,29 @@
                 "Type": "草 战斗",
                 "Height": 175,
                 "Weight": 76,
-                "Features": "在桑谷的申请下来到向阳村的稻草人，别看它长相呆滞，可是干农活的一把好手！",
+                "Features": "在桑谷的申请下来到向阳村的稻草人，别看它长相乖巧，可是干农活的一把好手！",
                 "Redirect": "map|module",
                 "Go": "1545;app/SpetSiKeErPanel"
+            },
+            {
+                "ID": 4357,
+                "DefName": "呼叶叶",
+                "Type": "机械 超能",
+                "Height": 56,
+                "Weight": 39,
+                "Features": "杰特洛的好伙伴，别看它尺寸不大，小小的风扇可是能有着强劲的马力，能够轻松吹散风沙！",
+                "Redirect": "map|module",
+                "Go": "1546;app/SCSFJHPanel"
+            },
+            {
+                "ID": 4358,
+                "DefName": "杰特洛",
+                "Type": "飞行 超能",
+                "Height": 177,
+                "Weight": 66,
+                "Features": "萨特的手下之一，性格开朗外向，有着很高的机动性，在萨特的指示下前来帮助星系边缘的居民转移至城邦~",
+                "Redirect": "map|module",
+                "Go": "1546;app/SpetJieTeLuoPanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"
