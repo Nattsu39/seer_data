@@ -10947,6 +10947,42 @@
                     "Title": "银河之起",
                     "Redirect": "map|module",
                     "Go": "1545;app/TheGalaxyOriginMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4358
+                    },
+                    "ID": 2061,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220415,
+                    "End": "*",
+                    "Map": 1546,
+                    "Name": "S 杰特洛",
+                    "Title": "杰特洛",
+                    "Redirect": "map|module",
+                    "Go": "1546;app/SpetJieTeLuoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2062,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220415,
+                    "End": "*",
+                    "Map": 1546,
+                    "Name": "【主线任务】呼啸未歇",
+                    "Title": "呼啸未歇",
+                    "Redirect": "map|module",
+                    "Go": "1546;app/MainLineTask_3452"
                 }
             ]
         },
@@ -33407,6 +33443,110 @@
                     "Title": "圣焰·菲格罗亚",
                     "Redirect": "map|module",
                     "Go": "1332;app/ShengyanFeigeluoyaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2065,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220415,
+                    "End": 20220422,
+                    "Map": 1095,
+                    "Name": "巅峰激励开启",
+                    "Title": "巅峰激励开启",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2052,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220401,
+                    "End": 20220429,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2063,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220415,
+                    "End": 20220422,
+                    "Map": 1546,
+                    "Name": "尘沙随风",
+                    "Title": "尘沙随风",
+                    "Redirect": "map|module",
+                    "Go": "1546;app/SCSFJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2066,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220415,
+                    "End": 20220422,
+                    "Map": 103,
+                    "Name": "节日纪念刻印回归",
+                    "Title": "节日纪念刻印回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkLimitedReturnMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4357
+                    },
+                    "ID": 2067,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220415,
+                    "End": 20220422,
+                    "Map": 1546,
+                    "Name": "呼叶叶",
+                    "Title": "呼叶叶",
+                    "Redirect": "map|module",
+                    "Go": "1546;app/SCSFJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2058,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220408,
+                    "End": 20220422,
+                    "Map": 103,
+                    "Name": "阿尔法熊限时强化",
+                    "Title": "阿尔法熊限时强化",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AlphaBearLimitedTimeUpMainPanel"
                 }
             ],
             "_text": [
@@ -33471,23 +33611,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2052,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220401,
-                    "End": 20220429,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2053,
                     "isNew": 1,
                     "kinds": 1,
@@ -33500,59 +33623,6 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4358
-                    },
-                    "ID": 2061,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220415,
-                    "End": "*",
-                    "Map": 1546,
-                    "Name": "S 杰特洛",
-                    "Title": "杰特洛",
-                    "Redirect": "map|module",
-                    "Go": "1546;app/SpetJieTeLuoPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2062,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220415,
-                    "End": "*",
-                    "Map": 1546,
-                    "Name": "【主线任务】呼啸未歇",
-                    "Title": "呼啸未歇",
-                    "Redirect": "map|module",
-                    "Go": "1546;app/MainLineTask_3452"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2063,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220415,
-                    "End": 20220422,
-                    "Map": 1546,
-                    "Name": "尘沙随风",
-                    "Title": "尘沙随风",
-                    "Redirect": "map|module",
-                    "Go": "1546;app/SCSFJHPanel"
                 },
                 {
                     "Details": {
@@ -33573,73 +33643,124 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2065,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220415,
-                    "End": 20220422,
-                    "Map": 1095,
-                    "Name": "巅峰激励开启",
-                    "Title": "巅峰激励开启",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardWeekPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2066,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220415,
-                    "End": 20220422,
-                    "Map": 103,
-                    "Name": "节日纪念刻印回归",
-                    "Title": "节日纪念刻印回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/MarkLimitedReturnMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 0,
-                        "icon": 1,
-                        "monID": 4357
+                        "icon": 2,
+                        "monID": 4359
                     },
-                    "ID": 2067,
+                    "ID": 2068,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20220415,
-                    "End": 20220422,
-                    "Map": 1546,
-                    "Name": "呼叶叶",
-                    "Title": "呼叶叶",
+                    "Start": 20220422,
+                    "End": "*",
+                    "Map": 1547,
+                    "Name": "S隙之门·基卢",
+                    "Title": "S隙之门·基卢",
                     "Redirect": "map|module",
-                    "Go": "1546;app/SCSFJHPanel"
+                    "Go": "1547;app/SpetXZMJiLuPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2069,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220422,
+                    "End": "*",
+                    "Map": 1547,
+                    "Name": "【主线任务】隔世之间",
+                    "Title": "隔世之间",
+                    "Redirect": "map|module",
+                    "Go": "1547;app/MainLineTask_3453"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2070,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220422,
+                    "End": "*",
+                    "Map": 1547,
+                    "Name": "【支线任务】至圣之哀",
+                    "Title": "至圣之哀",
+                    "Redirect": "map|module",
+                    "Go": "1547;app/ShengZhiZhiAiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2071,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220422,
+                    "End": 20220429,
+                    "Map": 11897,
+                    "Name": "繁春絮语时",
+                    "Title": "繁春絮语时",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/SpringTourWelfareMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2058,
+                    "ID": 2072,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20220408,
-                    "End": 20220422,
+                    "Start": 20220422,
+                    "End": 20220429,
                     "Map": 103,
-                    "Name": "阿尔法熊限时强化",
-                    "Title": "阿尔法熊限时强化",
+                    "Name": "经典萌宠大集结",
+                    "Title": "经典萌宠大集结",
                     "Redirect": "map|module",
-                    "Go": "103;app/AlphaBearLimitedTimeUpMainPanel"
+                    "Go": "103;app/IndianaSpirit0505MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2073,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220422,
+                    "End": 20220429,
+                    "Map": 103,
+                    "Name": "巅峰精灵回归",
+                    "Title": "巅峰精灵回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PeakAssemblySaleNO2MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2074,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220422,
+                    "End": 20220520,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -33650,8 +33771,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220415,
-                    "End": 20220422,
+                    "Start": 20220422,
+                    "End": 20220429,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -33659,7 +33780,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2061,2063,2065,2066,2064"
+            "Important": "2068,2071,2072,2073,2074"
         }
     }
 }
