@@ -558,14 +558,57 @@
         },
         "Hotspot": {
             "item": {
-                "place": {
-                    "type": 0,
-                    "ID": 4359,
-                    "ImageID": 4359,
-                    "Label": 0,
-                    "Redirect": "map|module",
-                    "Go": "1547;app/SpetXZMJiLuPanel"
-                },
+                "place": [
+                    {
+                        "type": 0,
+                        "ID": 4360,
+                        "ImageID": 4360,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/MonthlyPetInMay2022Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4361,
+                        "ImageID": 4361,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/DaantiaoLuoJiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4362,
+                        "ImageID": 4362,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4363,
+                        "ImageID": 4363,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1548;app/MainLineExchange_FalseCountry"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4364,
+                        "ImageID": 4364,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1548;app/SpetYouLiMiTePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 456,
+                        "MonID": 3564,
+                        "ImageID": 1400456,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    }
+                ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -40188,9 +40231,9 @@
                 "ID": 3842,
                 "DefName": "丝萝",
                 "Type": "草 超能",
-                "Height": 155,
-                "Weight": 40,
-                "Features": "丝萝从大自然中孕育而生，性格天真烂漫，拥有着常人所不能及的治愈能力！",
+                "Height": 156,
+                "Weight": 42,
+                "Features": "2018年4月巅峰圣战精灵......“你就是我的紫罗兰，而哈娜星也是我们的哈娜星，不是我的哈娜星，对吧？”",
                 "mapID": 1095
             },
             {
@@ -45229,6 +45272,56 @@
                 "Features": "虚幻之殿中现身的神秘之门，潜藏了拉伯克的潜意识，它的出现似乎是为了传达某些信息......",
                 "Redirect": "map|module",
                 "Go": "1547;app/SpetXZMJiLuPanel"
+            },
+            {
+                "ID": 4360,
+                "DefName": "贝利嘉德",
+                "Type": "冰",
+                "Height": 176,
+                "Weight": 56,
+                "Features": "2022年5月包月精灵，十二冠灵之一，能够掌控冰之元素，银雪冽风，寒晶圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInMay2022Panel"
+            },
+            {
+                "ID": 4361,
+                "DefName": "洛基",
+                "Type": "虚空",
+                "Height": 196,
+                "Weight": 81,
+                "Features": "继诸神的天父奥丁莅临数年之后，又一位北欧之神终于从遥远的神域中苏醒，黄昏已然到来，末日无可避免，万千宵小皆将在诡计之神的神罚之下迎接自己既定的宿命......",
+                "Redirect": "map|module",
+                "Go": "103;app/DaantiaoLuoJiMainPanel"
+            },
+            {
+                "ID": 4362,
+                "DefName": "松茑",
+                "Type": "草 暗影",
+                "Height": 172,
+                "Weight": 52,
+                "Features": "2022年5月巅峰圣战精灵......“你说得对，哈娜星是我们的哈娜星，你也是姐姐的蒲公英。”",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4363,
+                "DefName": "伊米",
+                "Type": "神秘",
+                "Height": 85,
+                "Weight": 39,
+                "Features": "侍奉尤莉米特的小管家，别看她身材娇小，各项礼仪可是样样精通！",
+                "Redirect": "map|module",
+                "Go": "1548;app/MainLineExchange_FalseCountry"
+            },
+            {
+                "ID": 4364,
+                "DefName": "尤莉米特",
+                "Type": "光 神秘",
+                "Height": 166,
+                "Weight": 49,
+                "Features": "芳花不散，群星不熄，弥馨殷红，缀满她誓约守护的净土，天际星屑，落向他不曾触及的和平。",
+                "Redirect": "map|module",
+                "Go": "1548;app/SpetYouLiMiTePanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"
