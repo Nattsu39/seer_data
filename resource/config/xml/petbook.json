@@ -561,52 +561,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4360,
-                        "ImageID": 4360,
+                        "ID": 4365,
+                        "ImageID": 4365,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInMay2022Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4361,
-                        "ImageID": 4361,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/DaantiaoLuoJiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4362,
-                        "ImageID": 4362,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1095
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4363,
-                        "ImageID": 4363,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1548;app/MainLineExchange_FalseCountry"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4364,
-                        "ImageID": 4364,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1548;app/SpetYouLiMiTePanel"
+                        "Go": "1549;app/SpetHuanGePanel"
                     },
                     {
                         "type": 1,
-                        "ID": 456,
-                        "MonID": 3564,
-                        "ImageID": 1400456,
+                        "ID": 457,
+                        "MonID": 4362,
+                        "ImageID": 1400457,
                         "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Redirect": "map",
+                        "Go": 1095
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -40233,7 +40201,7 @@
                 "Type": "草 超能",
                 "Height": 156,
                 "Weight": 42,
-                "Features": "2018年4月巅峰圣战精灵......“你就是我的紫罗兰，而哈娜星也是我们的哈娜星，不是我的哈娜星，对吧？”",
+                "Features": "2019年4月巅峰圣战精灵......“你就是我的紫罗兰，而哈娜星也是我们的哈娜星，不是我的哈娜星，对吧？”",
                 "mapID": 1095
             },
             {
@@ -45322,6 +45290,16 @@
                 "Features": "芳花不散，群星不熄，弥馨殷红，缀满她誓约守护的净土，天际星屑，落向他不曾触及的和平。",
                 "Redirect": "map|module",
                 "Go": "1548;app/SpetYouLiMiTePanel"
+            },
+            {
+                "ID": 4365,
+                "DefName": "环·格",
+                "Type": "机械 邪灵",
+                "Height": 159,
+                "Weight": 46,
+                "Features": "莫蒂博士的初代机甲，它的身上似乎蕴含了这个男人的初心，但发生的一切早已无可挽回......",
+                "Redirect": "map|module",
+                "Go": "1549;app/SpetHuanGePanel"
             }
         ],
         "_text": "\t -->\t\r\n\t\t\r\n\t"

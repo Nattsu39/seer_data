@@ -21,7 +21,7 @@
                 "id": 3,
                 "type": 1,
                 "title": "特性生成晶片礼包",
-                "picture": 56,
+                "picture": 79,
                 "sort": 15,
                 "start": 20211105,
                 "mouseClickFunc": "app:SupermarketPanel",
@@ -76,7 +76,7 @@
                 "type": 1,
                 "title": "星际奖池精灵更新",
                 "picture": 75,
-                "sort": 6,
+                "sort": 12,
                 "start": 20220429,
                 "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
                 "Tag": 2
@@ -86,7 +86,7 @@
                 "type": 1,
                 "title": "5月专属VIP精灵",
                 "picture": 76,
-                "sort": 8,
+                "sort": 11,
                 "start": 20220429,
                 "end": 20220527,
                 "mouseClickFunc": "app:MonthlyPetInMay2022Panel",
@@ -112,6 +112,28 @@
                 "start": 20220422,
                 "end": 20220513,
                 "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
+                "Tag": 2
+            },
+            {
+                "id": 12,
+                "type": 1,
+                "title": "赛尔座驾折扣汇总",
+                "picture": 78,
+                "sort": 9,
+                "start": 20220506,
+                "end": 20220513,
+                "mouseClickFunc": "app:CoSeatSaleMainPanel",
+                "Tag": 2
+            },
+            {
+                "id": 13,
+                "type": 1,
+                "title": "一键极品限时折扣",
+                "picture": 80,
+                "sort": 6,
+                "start": 20220506,
+                "end": 20220513,
+                "mouseClickFunc": "app:PeakAssemblySaleNO2MainPanel",
                 "Tag": 2
             }
         ]
