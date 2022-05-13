@@ -11022,6 +11022,78 @@
                     "Title": "星际奖池精灵更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 3,
+                        "monID": 4364
+                    },
+                    "ID": 2078,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220429,
+                    "End": "*",
+                    "Map": 1548,
+                    "Name": "盖伦之光 奇迹的传承",
+                    "Title": "尤莉米特",
+                    "Redirect": "map|module",
+                    "Go": "1548;app/SpetYouLiMiTePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4365
+                    },
+                    "ID": 2088,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220506,
+                    "End": "*",
+                    "Map": 1549,
+                    "Name": "S环·格",
+                    "Title": "环·格",
+                    "Redirect": "map|module",
+                    "Go": "1549;app/SpetHuanGePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2089,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220506,
+                    "End": "*",
+                    "Map": 1549,
+                    "Name": "【主线任务】终末之环",
+                    "Title": "终末之环",
+                    "Redirect": "map|module",
+                    "Go": "1549;app/MainLineTask_3455"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2092,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220506,
+                    "End": "*",
+                    "Map": 1549,
+                    "Name": "【支线任务】铭刻之史",
+                    "Title": "铭刻之史",
+                    "Redirect": "map|module",
+                    "Go": "1549;app/KeYinZhiShiMainPanel"
                 }
             ]
         },
@@ -33843,15 +33915,7 @@
                     "Title": "商城礼包更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -33873,25 +33937,6 @@
                     "Details": {
                         "mc": 0,
                         "icon": 3,
-                        "monID": 4364
-                    },
-                    "ID": 2078,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220429,
-                    "End": "*",
-                    "Map": 1548,
-                    "Name": "盖伦之光 奇迹的传承",
-                    "Title": "尤莉米特",
-                    "Redirect": "map|module",
-                    "Go": "1548;app/SpetYouLiMiTePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 3,
                         "monID": 4361
                     },
                     "ID": 2075,
@@ -33906,40 +33951,6 @@
                     "Title": "诡计之神-洛基",
                     "Redirect": "map|module",
                     "Go": "1548;app/DaantiaoLuoJiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2077,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220429,
-                    "End": 20220527,
-                    "Map": 103,
-                    "Name": "圣殿英雄团",
-                    "Title": "天启帝君",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2080,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220429,
-                    "End": 20220512,
-                    "Map": 1548,
-                    "Name": "汗涔化甘露",
-                    "Title": "汗涔化甘露",
-                    "Redirect": "map|module",
-                    "Go": "1548;app/HCHGLJHPanel"
                 },
                 {
                     "Details": {
@@ -33979,59 +33990,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2086,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220429,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "契约召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4365
-                    },
-                    "ID": 2088,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220506,
-                    "End": "*",
-                    "Map": 1549,
-                    "Name": "S环·格",
-                    "Title": "环·格",
-                    "Redirect": "map|module",
-                    "Go": "1549;app/SpetHuanGePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2089,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220506,
-                    "End": "*",
-                    "Map": 1549,
-                    "Name": "【主线任务】终末之环",
-                    "Title": "终末之环",
-                    "Redirect": "map|module",
-                    "Go": "1549;app/MainLineTask_3455"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2090,
                     "isNew": 1,
                     "kinds": 1,
@@ -34044,6 +34002,82 @@
                     "Title": "星际座驾特惠",
                     "Redirect": "map|module",
                     "Go": "103;app/CoSeatSaleMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2093,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220506,
+                    "End": 20220513,
+                    "Map": 103,
+                    "Name": "一键极品限时折扣",
+                    "Title": "一键极品限时折扣",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2080,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220429,
+                    "End": 20220513,
+                    "Map": 1548,
+                    "Name": "汗涔化甘露",
+                    "Title": "汗涔化甘露",
+                    "Redirect": "map|module",
+                    "Go": "1548;app/HCHGLJHPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2077,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220429,
+                    "End": 20220527,
+                    "Map": 103,
+                    "Name": "圣殿英雄团",
+                    "Title": "天启帝君",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2086,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220429,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
                 },
                 {
                     "Details": {
@@ -34066,35 +34100,105 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2092,
+                    "ID": 2094,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220506,
+                    "Start": 20220513,
                     "End": "*",
-                    "Map": 1549,
-                    "Name": "【支线任务】铭刻之史",
-                    "Title": "铭刻之史",
+                    "Map": 1550,
+                    "Name": "【主线任务】静若蝉鸣",
+                    "Title": "静若蝉鸣",
                     "Redirect": "map|module",
-                    "Go": "1549;app/KeYinZhiShiMainPanel"
+                    "Go": "1550;app/MainLineTask_3456"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4366
+                    },
+                    "ID": 2095,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220513,
+                    "End": "*",
+                    "Map": 1550,
+                    "Name": "库乐芭",
+                    "Title": "库乐芭",
+                    "Redirect": "map|module",
+                    "Go": "1550;app/SpetKuLeBaPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2096,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220513,
+                    "End": 20220520,
+                    "Map": 1550,
+                    "Name": "飕飗微风",
+                    "Title": "飕飗微风",
+                    "Redirect": "map|module",
+                    "Go": "1550;app/AWhistlingBreezeMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2093,
+                    "ID": 2097,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20220506,
-                    "End": 20220513,
+                    "Start": 20220513,
+                    "End": 20220527,
                     "Map": 103,
-                    "Name": "一键极品限时折扣",
-                    "Title": "一键极品限时折扣",
+                    "Name": "兌钻消费奖励系统更新",
+                    "Title": "兌钻消费奖励系统更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2098,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220513,
+                    "End": 20220603,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2099,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220513,
+                    "End": 20220520,
+                    "Map": 103,
+                    "Name": "秘宝车队回归",
+                    "Title": "秘宝车队回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SecretTreasureCarTeamMainPanel"
                 },
                 {
                     "Details": {
@@ -34105,8 +34209,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220506,
-                    "End": 20220513,
+                    "Start": 20220513,
+                    "End": 20220520,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -34114,7 +34218,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2075,2078,2077,2080,2083"
+            "Important": "2094,2095,2096,2098,2099"
         }
     }
 }
