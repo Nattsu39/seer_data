@@ -44632,6 +44632,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1551,
+                "Name": "腐朽滩泽",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -52575,18 +52581,36 @@
                 "Name": "水月洞壁",
                 "InitX": 430,
                 "InitY": 274
+            },
+            {
+                "ID": 3293,
+                "Name": "烟水迷阵",
+                "InitX": 800,
+                "InitY": 450
+            },
+            {
+                "ID": 3294,
+                "Name": "麦田村",
+                "InitX": 350,
+                "InitY": 400
+            },
+            {
+                "ID": 3295,
+                "Name": "翡翠山谷",
+                "InitX": 850,
+                "InitY": 400
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1550,
+                    "RandMaps": 1551,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1550,
+                    "RandMaps": 1551,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -52598,7 +52622,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220513,
+                "ID": 20220520,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

@@ -561,20 +561,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4366,
-                        "ImageID": 4366,
+                        "ID": 4367,
+                        "ImageID": 4367,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1550;app/SpetKuLeBaPanel"
+                        "Go": "103;app/HelpingGodPetTailesiMianPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 458,
-                        "MonID": 4258,
-                        "ImageID": 1400458,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4368,
+                        "ImageID": 4368,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1551;app/SpetMaSiKePanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4369,
+                        "ImageID": 4369,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1429;app/SangGuOfPracticeMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -21368,7 +21375,7 @@
                 "Type": "普通",
                 "Height": 121,
                 "Weight": 56,
-                "Features": "泰勒斯的超进化终极形态泰尼亚，聪明的他在危机之中利用自己的才智帮助龙王子战胜了艾辛格，同时在般若星上凝结出来的智慧之光让他完成了超进化，成为了更具智慧的精灵泰尼亚！",
+                "Features": "泰勒斯的超进化形态泰尼亚，聪明的他在危机之中利用自己的才智帮助龙王子战胜了艾辛格，同时在般若星上凝结出来的智慧之光让他完成了超进化，成为了更具智慧的精灵泰尼亚！",
                 "mapID": 481
             },
             {
@@ -29052,7 +29059,7 @@
                 "Height": 165,
                 "Weight": 64,
                 "Features": "四九战将，无比犀利！",
-                "mapID": 1
+                "mapID": 1184
             },
             {
                 "ID": 2588,
@@ -35208,8 +35215,8 @@
                 "ID": 3284,
                 "DefName": "泰勒斯特",
                 "Type": "普通",
-                "Height": 180,
-                "Weight": 80,
+                "Height": 176,
+                "Weight": 82,
                 "Features": "泰勒斯的完全体形态，头上的尖角具备超级强大的破坏力，可以突破各种壁垒！",
                 "mapID": 1
             },
@@ -41213,7 +41220,7 @@
                 "Type": "圣灵 火",
                 "Height": 168,
                 "Weight": 49,
-                "Features": "联赛圣战月度更新，主场精灵再度替换。专属神宠枫眠登场，激情不断，火力全开！",
+                "Features": "2019年11月巅峰圣战精灵......“秋天来了，故乡的枫叶也红了......战争过去这么久了，真希望有朝一日还能再见你们一面呀。”",
                 "mapID": 1095
             },
             {
@@ -45310,8 +45317,37 @@
                 "Features": "留风街的施工队长，强壮有力的肌肉女子，在艾希丝的邀请下负责会场的建筑工作。",
                 "Redirect": "map|module",
                 "Go": "1550;app/SpetKuLeBaPanel"
+            },
+            {
+                "ID": 4367,
+                "DefName": "本原·泰勒斯",
+                "Type": "普通",
+                "Height": 198,
+                "Weight": 90,
+                "Features": "“还记得那次你二连预判电石先后击杀碟子和大鸟，然后强化先手推队么？”“早就忘了，时间会改变很多东西的。”泰勒斯看了看手里的那本《普通人》，笑着摇了摇头。",
+                "Redirect": "map|module",
+                "Go": "103;app/HelpingGodPetTailesiMianPanel"
+            },
+            {
+                "ID": 4368,
+                "DefName": "玛斯克",
+                "Type": "混沌 邪灵",
+                "Height": 183,
+                "Weight": 81,
+                "Features": "带着面具的黑夜臣仆，在鬼面阎罗的召唤下从腐朽滩泽现身，拥有着强大的进攻能力！",
+                "Redirect": "map|module",
+                "Go": "1551;app/SpetMaSiKePanel"
+            },
+            {
+                "ID": 4369,
+                "DefName": "田田",
+                "Type": "自然",
+                "Height": 24,
+                "Weight": 11,
+                "Features": "土土的好朋友，和他一同生活在向阳村，最爱吃的食物是胡萝卜！",
+                "Redirect": "map|module",
+                "Go": "1492;app/SangGuOfPracticeMainPanel"
             }
-        ],
-        "_text": "\t -->\t\r\n\t\t\r\n\t"
+        ]
     }
 }

@@ -11094,6 +11094,42 @@
                     "Title": "铭刻之史",
                     "Redirect": "map|module",
                     "Go": "1549;app/KeYinZhiShiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2094,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220513,
+                    "End": "*",
+                    "Map": 1550,
+                    "Name": "【主线任务】静若蝉鸣",
+                    "Title": "静若蝉鸣",
+                    "Redirect": "map|module",
+                    "Go": "1550;app/MainLineTask_3456"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4366
+                    },
+                    "ID": 2095,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220513,
+                    "End": "*",
+                    "Map": 1550,
+                    "Name": "库乐芭",
+                    "Title": "库乐芭",
+                    "Redirect": "map|module",
+                    "Go": "1550;app/SpetKuLeBaPanel"
                 }
             ]
         },
@@ -34036,6 +34072,40 @@
                     "Title": "汗涔化甘露",
                     "Redirect": "map|module",
                     "Go": "1548;app/HCHGLJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2096,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220513,
+                    "End": 20220520,
+                    "Map": 1550,
+                    "Name": "飕飗微风",
+                    "Title": "飕飗微风",
+                    "Redirect": "map|module",
+                    "Go": "1550;app/AWhistlingBreezeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2099,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220513,
+                    "End": 20220520,
+                    "Map": 103,
+                    "Name": "秘宝车队回归",
+                    "Title": "秘宝车队回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SecretTreasureCarTeamMainPanel"
                 }
             ],
             "_text": [
@@ -34098,56 +34168,20 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 2094,
+                    "ID": 2098,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
+                    "Type": 1,
                     "Start": 20220513,
-                    "End": "*",
-                    "Map": 1550,
-                    "Name": "【主线任务】静若蝉鸣",
-                    "Title": "静若蝉鸣",
+                    "End": 20220603,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
                     "Redirect": "map|module",
-                    "Go": "1550;app/MainLineTask_3456"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4366
-                    },
-                    "ID": 2095,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220513,
-                    "End": "*",
-                    "Map": 1550,
-                    "Name": "库乐芭",
-                    "Title": "库乐芭",
-                    "Redirect": "map|module",
-                    "Go": "1550;app/SpetKuLeBaPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2096,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220513,
-                    "End": 20220520,
-                    "Map": 1550,
-                    "Name": "飕飗微风",
-                    "Title": "飕飗微风",
-                    "Redirect": "map|module",
-                    "Go": "1550;app/AWhistlingBreezeMainPanel"
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -34168,37 +34202,145 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
+                        "mc": 2,
+                        "icon": 2,
+                        "monID": 4368
                     },
-                    "ID": 2098,
+                    "ID": 2100,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220513,
-                    "End": 20220603,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
+                    "Type": 0,
+                    "Start": 20220520,
+                    "End": "*",
+                    "Map": 1551,
+                    "Name": "S玛斯克",
+                    "Title": "玛斯克",
                     "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                    "Go": "1551;app/SpetMaSiKePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4367
+                    },
+                    "ID": 2101,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220520,
+                    "End": 20220528,
+                    "Map": 103,
+                    "Name": "本原·泰勒斯",
+                    "Title": "本原·泰勒斯",
+                    "Redirect": "map|module",
+                    "Go": "1551;app/HelpingGodPetTailesiMianPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2,
+                        "icon": 0,
+                        "monID": 4369
+                    },
+                    "ID": 2102,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220520,
+                    "End": 20220527,
+                    "Map": 11897,
+                    "Name": "田田",
+                    "Title": "田田",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/SangGuOfPracticeMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2099,
+                    "ID": 2103,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220520,
+                    "End": "*",
+                    "Map": 1551,
+                    "Name": "【主线任务】静若蝉鸣",
+                    "Title": "静若蝉鸣",
+                    "Redirect": "map|module",
+                    "Go": "1551;app/MainLineTask_3457"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2104,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220520,
+                    "End": "*",
+                    "Map": 1551,
+                    "Name": "【支线任务】创世遗音",
+                    "Title": "创世遗音",
+                    "Redirect": "map|module",
+                    "Go": "1551;app/ChuanShiYiYinMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2105,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220520,
+                    "End": 20220527,
+                    "Map": 11897,
+                    "Name": "原野夏日",
+                    "Title": "原野夏日",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/EventCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2106,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220520,
+                    "End": 20220527,
+                    "Map": 1095,
+                    "Name": "巅峰激励开启",
+                    "Title": "巅峰激励赛开启",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2107,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20220513,
-                    "End": 20220520,
+                    "Start": 20220520,
+                    "End": 20220527,
                     "Map": 103,
-                    "Name": "秘宝车队回归",
-                    "Title": "秘宝车队回归",
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/SecretTreasureCarTeamMainPanel"
+                    "Go": "103;app/SkinShopMainPanel"
                 },
                 {
                     "Details": {
@@ -34209,8 +34351,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220513,
-                    "End": 20220520,
+                    "Start": 20220520,
+                    "End": 20220527,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -34218,7 +34360,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2094,2095,2096,2098,2099"
+            "Important": "2100,2101,2105,2106,2107"
         }
     }
 }

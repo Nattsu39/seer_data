@@ -86,7 +86,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3456"
+                "mouseClickFunc": "app:MainLineTask_3457"
             },
             {
                 "direction": "right",
@@ -105,6 +105,15 @@
                 "ui": "announcement_icon",
                 "tips": "公告中心",
                 "mouseClickFunc": "app:NoticeCenterMainPanel"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "13zhounian_icon",
+                "tips": "13周年",
+                "mouseClickFunc": "app:ZTZYLMainPanel"
             },
             {
                 "direction": "right_side",
