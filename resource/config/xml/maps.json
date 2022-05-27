@@ -44638,6 +44638,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1552,
+                "Name": "四象会议室",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -52599,18 +52605,36 @@
                 "Name": "翡翠山谷",
                 "InitX": 850,
                 "InitY": 400
+            },
+            {
+                "ID": 3296,
+                "Name": "幽暗洞穴",
+                "InitX": 45,
+                "InitY": 350
+            },
+            {
+                "ID": 3297,
+                "Name": "流沙地洞",
+                "InitX": 790,
+                "InitY": 414
+            },
+            {
+                "ID": 3298,
+                "Name": "雾气石林",
+                "InitX": 565,
+                "InitY": 500
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1551,
+                    "RandMaps": 1552,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1551,
+                    "RandMaps": 1552,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -52622,7 +52646,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220520,
+                "ID": 20220527,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

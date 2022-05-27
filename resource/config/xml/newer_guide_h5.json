@@ -5,6 +5,7 @@
                 "substep": [
                     {
                         "type": 1,
+                        "sound": "xinshou1.mp3",
                         "swfName": "xinshoumanhua1",
                         "width": 1408,
                         "height": 640,
@@ -46,6 +47,7 @@
                     },
                     {
                         "type": 1,
+                        "sound": "xinshou2.mp3",
                         "swfName": "xinshoumanhua2",
                         "width": 1408,
                         "height": 640,
@@ -57,6 +59,7 @@
                     },
                     {
                         "type": 1,
+                        "sound": "xinshou3.mp3",
                         "swfName": "xinshoumanhua3",
                         "width": 1408,
                         "height": 640,
@@ -512,7 +515,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "964,557,171,50",
+                        "rect": "808,542,171,50",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1491,7 +1494,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "679,205,99,120",
+                        "rect": "680,205,99,120",
                         "startEvent": "pet_bag_init_completed",
                         "align": "right",
                         "event": "select_pet",
@@ -1826,6 +1829,10 @@
             {
                 "substep": [
                     {
+                        "type": 10,
+                        "eventType": "PAUSE_SHOW_ACHIEVE_NOTICE"
+                    },
+                    {
                         "type": 3,
                         "talkGroupId": 50
                     },
@@ -1834,6 +1841,10 @@
                         "param": "41392:1:25",
                         "outputPanel": 131,
                         "stat": "打开输出08面板"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "RESUME_SHOW_ACHIEVE_NOTICE"
                     }
                 ],
                 "step": 25,
@@ -1993,7 +2004,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "679,68,103,258",
+                        "rect": "680,68,102,258",
                         "handOffSet": "7,59",
                         "align": "right",
                         "event": "select_pet",
@@ -2007,7 +2018,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "679,68,103,258",
+                        "rect": "680,68,102,258",
                         "handType": 4,
                         "align": "right",
                         "event": "set_default",
