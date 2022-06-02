@@ -561,20 +561,43 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4370,
-                        "ImageID": 4370,
+                        "ID": 4371,
+                        "ImageID": 4371,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1552;app/SpetSengXingPanel"
+                        "Go": "1553;app/SpetDeLaMoSiPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 459,
-                        "MonID": 4343,
-                        "ImageID": 1400459,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4372,
+                        "ImageID": 4372,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/DaantiaoSuLiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4373,
+                        "ImageID": 4373,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4374,
+                        "ImageID": 4374,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/MonthlyPetInJune2022Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4375,
+                        "ImageID": 4375,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1553;app/MainLineExchange_FalseCountry"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -37235,7 +37258,7 @@
                 "Type": "火 超能",
                 "Height": 165,
                 "Weight": 50,
-                "Features": "拥有着迷人外表的狐族精灵，看似单纯，但是却善于无形之中迷惑人心。",
+                "Features": "拥有着迷人外表的狐族精灵，她的美貌让无数的精灵为之倾倒，可代价却是一个无法逃脱的死循环......",
                 "mapID": 103
             },
             {
@@ -37296,7 +37319,7 @@
             },
             {
                 "ID": 3515,
-                "DefName": "玄冥魂者·奥斯兰",
+                "DefName": "玄冥之魂·奥斯兰",
                 "Type": "神秘",
                 "Height": 180,
                 "Weight": 70,
@@ -45029,7 +45052,7 @@
                 "Weight": 50,
                 "Features": "作战实验室中现身的神秘精灵，天性活泼的她掌握着各种各样的对战技巧，据说只要能够完成她的重重考验，就有机会与她成为伙伴哦！",
                 "Redirect": "alarm",
-                "Go": "作战实验室专属精灵，暂未开放，敬请期待！"
+                "Go": "新版作战实验室专属精灵，请前往《赛尔互通助手》获得！"
             },
             {
                 "ID": 4339,
@@ -45350,6 +45373,56 @@
                 "Features": "静心定神，守境为念，一觉众生。有他守护在身边，不知不觉你也会平静下来。",
                 "Redirect": "map|module",
                 "Go": "1552;app/SpetSengXingPanel"
+            },
+            {
+                "ID": 4371,
+                "DefName": "德拉莫斯",
+                "Type": "混沌 龙",
+                "Height": 975,
+                "Weight": 668,
+                "Features": "迪斯博德使用从库莱姆斯身上提取的力量造出的堕恶之龙，拥有着恐怖的破坏力，所到之处都在它的龙怒之下化为了一片焦土！",
+                "Redirect": "map|module",
+                "Go": "1553;app/SpetDeLaMoSiPanel"
+            },
+            {
+                "ID": 4372,
+                "DefName": "幻魅灵狐·苏璃",
+                "Type": "火 超能",
+                "Height": 171,
+                "Weight": 53,
+                "Features": "“千年以来因你失心之人数不胜数，可你却仍未迷失自己的本心，或许这便是修得九尾的答案吧，璃。”少年最后回头看了一眼那个救他性命的漂亮女孩，便转身走向了山林深处。",
+                "Redirect": "map|module",
+                "Go": "103;app/DaantiaoSuLiMainPanel"
+            },
+            {
+                "ID": 4373,
+                "DefName": "龙焉",
+                "Type": "战斗 龙",
+                "Height": 178,
+                "Weight": 59,
+                "Features": "2022年6月巅峰圣战精灵，被剥夺了原本的名字，从此成为战争的祭品，至此以后，复仇成为了唯一让她选择活下去的理由。",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4374,
+                "DefName": "普拉薇安",
+                "Type": "草",
+                "Height": 164,
+                "Weight": 48,
+                "Features": "2022年6月包月精灵，十二冠灵之一，能够掌控花之元素，绕藤穿叶，碧枝圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInJune2022Panel"
+            },
+            {
+                "ID": 4375,
+                "DefName": "小雏",
+                "Type": "草 超能",
+                "Height": 69,
+                "Weight": 32,
+                "Features": "在留风街巷子里孤立无援的小女孩，头戴着小雏菊的发饰，无助的眼神让岚想起了曾经的一些回忆......",
+                "Redirect": "map|module",
+                "Go": "1553;app/MainLineExchange_FalseCountry"
             }
         ]
     }

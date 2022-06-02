@@ -44644,6 +44644,24 @@
                 "InitY": 400
             },
             {
+                "ID": 1553,
+                "Name": "春息广场",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
+                "ID": 1554,
+                "Name": "灵籁泳馆",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
+                "ID": 1555,
+                "Name": "星璨舞台",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -52623,18 +52641,114 @@
                 "Name": "雾气石林",
                 "InitX": 565,
                 "InitY": 500
+            },
+            {
+                "ID": 3299,
+                "Name": "盘树天堂",
+                "InitX": 266,
+                "InitY": 416
+            },
+            {
+                "Bosses": {
+                    "Boss": [
+                        {
+                            "BossMon": {
+                                "MonID": 824,
+                                "Hp": 0,
+                                "Lv": 0,
+                                "LvHpMatchUser": 2
+                            },
+                            "AppearTime": "10 12",
+                            "BossVisible": 0,
+                            "Name": "地穴蜘蛛"
+                        },
+                        {
+                            "BossMon": {
+                                "MonID": 1160,
+                                "Hp": 0,
+                                "Lv": 0,
+                                "LvHpMatchUser": 2
+                            },
+                            "AppearTime": "10 12",
+                            "BossVisible": 0,
+                            "Name": "特拉修斯"
+                        }
+                    ]
+                },
+                "ID": 3300,
+                "Name": "千藤洞窟",
+                "InitX": 650,
+                "InitY": 440
+            },
+            {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 1157,
+                            "Lv": "14 16"
+                        },
+                        {
+                            "ID": 1157,
+                            "Lv": "14 16"
+                        },
+                        {
+                            "ID": 1157,
+                            "Lv": "14 16"
+                        },
+                        {
+                            "ID": 1157,
+                            "Lv": "14 16"
+                        },
+                        {
+                            "ID": 1158,
+                            "Lv": "42 45"
+                        },
+                        {
+                            "ID": 1158,
+                            "Lv": "42 45"
+                        },
+                        {
+                            "ID": 1158,
+                            "Lv": "42 45"
+                        },
+                        {
+                            "ID": 1158,
+                            "Lv": "42 45"
+                        },
+                        {
+                            "ID": 1158,
+                            "Lv": "42 45"
+                        }
+                    ]
+                },
+                "ID": 3301,
+                "Name": "云层之径",
+                "InitX": 131,
+                "InitY": 407
+            },
+            {
+                "ID": 3302,
+                "Name": "上古神殿",
+                "InitX": 275,
+                "InitY": 460
+            },
+            {
+                "ID": 3303,
+                "Name": "星辰龙境",
+                "InitX": 131,
+                "InitY": 407
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1552,
+                    "RandMaps": 1553,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1552,
+                    "RandMaps": 1553,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -52646,7 +52760,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220527,
+                "ID": 20220602,
                 "Desc": "每次发版需同步更新版本号"
             }
         }
