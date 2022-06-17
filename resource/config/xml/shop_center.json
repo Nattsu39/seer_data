@@ -22,7 +22,7 @@
                 "type": 1,
                 "title": "特性生成晶片礼包",
                 "picture": 88,
-                "sort": 11,
+                "sort": 15,
                 "start": 20211105,
                 "mouseClickFunc": "app:SupermarketPanel",
                 "Tag": 2
@@ -32,7 +32,7 @@
                 "type": 1,
                 "title": "全新钻石奖励",
                 "picture": 93,
-                "sort": 6,
+                "sort": 16,
                 "start": 20200527,
                 "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
                 "Tag": 1
@@ -44,7 +44,7 @@
                 "picture": 91,
                 "sort": 3,
                 "start": 20200527,
-                "end": 20220701,
+                "end": 20220708,
                 "mouseClickFunc": "app:A13MarkShopPanel",
                 "Tag": 1
             },
@@ -55,7 +55,7 @@
                 "picture": 95,
                 "sort": 4,
                 "start": 20220527,
-                "end": 20220701,
+                "end": 20220708,
                 "mouseClickFunc": "app:SkinSell0610Panel",
                 "Tag": 1
             },
@@ -64,7 +64,7 @@
                 "type": 1,
                 "title": "启灵元神限时回归",
                 "picture": 92,
-                "sort": 5,
+                "sort": 7,
                 "start": 20220527,
                 "end": 20220624,
                 "mouseClickFunc": "app:ReturnOfYuanShenMainPanel",
@@ -86,7 +86,7 @@
                 "type": 1,
                 "title": "6月专属VIP精灵",
                 "picture": 90,
-                "sort": 12,
+                "sort": 14,
                 "start": 20220602,
                 "end": 20220702,
                 "mouseClickFunc": "app:MonthlyPetInJune2022Panel",
@@ -95,46 +95,79 @@
             {
                 "id": 10,
                 "type": 1,
-                "title": "幻魅灵狐",
-                "picture": 87,
-                "sort": 9,
-                "start": 20220602,
-                "end": 20220617,
-                "mouseClickFunc": "app:DaantiaoSuLiMainPanel",
-                "Tag": 1
-            },
-            {
-                "id": 11,
-                "type": 1,
                 "title": "浩瀚召唤更新",
                 "picture": 94,
-                "sort": 7,
+                "sort": 11,
                 "start": 20220513,
                 "end": 20220708,
                 "mouseClickFunc": "app:MarkJackpotPermanentMainPanel",
                 "Tag": 1
             },
             {
-                "id": 12,
+                "id": 11,
                 "type": 1,
-                "title": "周年庆典商城",
+                "title": "幻彩留声奇货铺",
                 "picture": 96,
-                "sort": 8,
+                "sort": 12,
                 "start": 20220513,
                 "end": 20220708,
                 "mouseClickFunc": "app:AnniversaryBingoMainPanel",
                 "Tag": 2
             },
             {
+                "id": 12,
+                "type": 1,
+                "title": "泳池主题刻印来袭",
+                "picture": 98,
+                "sort": 5,
+                "start": 20200527,
+                "end": 20220708,
+                "mouseClickFunc": "app:A13MarkShopPanel_part2",
+                "Tag": 1
+            },
+            {
                 "id": 13,
                 "type": 1,
-                "title": "星河商店更新",
-                "picture": 89,
+                "title": "泳池主题皮肤登场",
+                "picture": 100,
+                "sort": 6,
+                "start": 20220527,
+                "end": 20220708,
+                "mouseClickFunc": "app:SkinSell0617Panel",
+                "Tag": 1
+            },
+            {
+                "id": 14,
+                "type": 1,
+                "title": "周年限定心愿单",
+                "picture": 97,
+                "sort": 9,
+                "start": 20220527,
+                "end": 20220708,
+                "mouseClickFunc": "app:WishlistByPetMainPanel",
+                "Tag": 1
+            },
+            {
+                "id": 15,
+                "type": 1,
+                "title": "能力套装回归",
+                "picture": 99,
+                "sort": 8,
+                "start": 20220527,
+                "end": 20220708,
+                "mouseClickFunc": "app:BattleSuitCollectionSaleMainPanel",
+                "Tag": 1
+            },
+            {
+                "id": 16,
+                "type": 1,
+                "title": "星际招募福利回馈",
+                "picture": 101,
                 "sort": 13,
-                "start": 20220513,
-                "end": 20220617,
+                "start": 20220527,
+                "end": 20220708,
                 "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
-                "Tag": 2
+                "Tag": 1
             }
         ]
     }
