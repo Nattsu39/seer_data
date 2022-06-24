@@ -561,107 +561,79 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4384,
-                        "ImageID": 4384,
+                        "ID": 4385,
+                        "ImageID": 4385,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1557;app/SpetWZBYPanel"
+                        "Go": "1558;app/SpetGLJXPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4386,
+                        "ImageID": 4386,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1554;app/DaantiaoDiShengMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 467,
-                        "MonID": 4377,
-                        "ImageID": 1400467,
+                        "ID": 475,
+                        "MonID": 4386,
+                        "ImageID": 1400475,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "1554;app/SkinSell0617Panel"
+                        "Go": "1554;app/DiShengSkinPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 468,
-                        "MonID": 3613,
-                        "ImageID": 1400468,
+                        "ID": 476,
+                        "MonID": 3631,
+                        "ImageID": 1400476,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "1554;app/SkinSell0617Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 469,
-                        "MonID": 3711,
-                        "ImageID": 1400469,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1554;app/SkinSell0617Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 470,
-                        "MonID": 4068,
-                        "ImageID": 1400470,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1554;app/SkinSell0617Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 471,
-                        "MonID": 4219,
-                        "ImageID": 1400471,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1554;app/SkinSell0617Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 472,
-                        "MonID": 4377,
-                        "ImageID": 1400472,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1555;app/DiDuoOfWardrobeMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 473,
-                        "MonID": 4377,
-                        "ImageID": 1400473,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1555;app/DiDuoOfWardrobeMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 474,
-                        "MonID": 4377,
-                        "ImageID": 1400474,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1555;app/DiDuoOfWardrobeMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     },
                     {
                         "type": 3,
-                        "ID": 42232
+                        "ID": 42240
                     },
                     {
                         "type": 3,
-                        "ID": 42233
+                        "ID": 42241
                     },
                     {
                         "type": 3,
-                        "ID": 42234
+                        "ID": 42242
                     },
                     {
                         "type": 3,
-                        "ID": 42235
+                        "ID": 42243
                     },
                     {
                         "type": 3,
-                        "ID": 42236
+                        "ID": 42244
                     },
                     {
                         "type": 3,
-                        "ID": 42237
+                        "ID": 42245
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42246
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42247
+                    },
+                    {
+                        "type": 2,
+                        "ID": 430,
+                        "Label": 1
+                    },
+                    {
+                        "type": 2,
+                        "ID": 431,
+                        "Label": 1
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45577,6 +45549,26 @@
                 "Features": "神罗的秘密武器，拥有着强大的作战能力和自爆的特殊功能，威力十分恐怖！",
                 "Redirect": "map|module",
                 "Go": "1557;app/SpetWZBYPanel"
+            },
+            {
+                "ID": 4385,
+                "DefName": "光灵巨像",
+                "Type": "光 飞行",
+                "Height": 676,
+                "Weight": 0,
+                "Features": "巨大的光之衍生物，在阿特洛波斯的召唤下从圣洛之河现身，它们不会放过任何对神明有心存妄念的敌人......",
+                "Redirect": "map|module",
+                "Go": "1558;app/SpetGLJXPanel"
+            },
+            {
+                "ID": 4386,
+                "DefName": "缔笙",
+                "Type": "次元",
+                "Height": 194,
+                "Weight": 118,
+                "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！",
+                "Redirect": "map|module",
+                "Go": "1554;app/DaantiaoDiShengMainPanel"
             }
         ]
     }

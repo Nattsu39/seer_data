@@ -11187,7 +11187,7 @@
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20220602,
-                    "End": 20220701,
+                    "End": 20220708,
                     "Map": 1554,
                     "Name": "13周年庆活动导览",
                     "Title": "13周年庆活动导览",
@@ -11246,6 +11246,42 @@
                     "Title": "御风圣子",
                     "Redirect": "map|module",
                     "Go": "1556;app/MainLineTask_3460"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4384
+                    },
+                    "ID": 2137,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220617,
+                    "End": "*",
+                    "Map": 1557,
+                    "Name": "S王左兵右",
+                    "Title": "王左兵右",
+                    "Redirect": "map|module",
+                    "Go": "1557;app/SpetWZBYPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2139,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220617,
+                    "End": "*",
+                    "Map": 1557,
+                    "Name": "【主线任务】黯世星沉",
+                    "Title": "黯世星沉",
+                    "Redirect": "map|module",
+                    "Go": "1557;app/MainLineTask_3461"
                 }
             ]
         },
@@ -34636,6 +34672,91 @@
                     "Title": "星河长明商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2141,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220617,
+                    "End": 20220624,
+                    "Map": 103,
+                    "Name": "战斗套装限时回归",
+                    "Title": "战斗套装限时回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/BattleSuitCollectionSaleMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2142,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220617,
+                    "End": 20220708,
+                    "Map": 1554,
+                    "Name": "奇妙之夏Chapter3清凉时刻",
+                    "Title": "清凉时刻",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/WonderfulOfSummerAggregatePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2143,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220617,
+                    "End": 20220624,
+                    "Map": 1554,
+                    "Name": "音潮计划",
+                    "Title": "音潮计划第二辑",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/SoundTidePlanMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2129,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220610,
+                    "End": 20220708,
+                    "Map": 103,
+                    "Name": "兌钻消费奖励系统更新",
+                    "Title": "兌钻消费奖励系统更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2133,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220610,
+                    "End": 20220617,
+                    "Map": 1555,
+                    "Name": "音潮计划",
+                    "Title": "音潮计划",
+                    "Redirect": "map|module",
+                    "Go": "1555;app/SoundTidePlanMainPanel"
                 }
             ],
             "_text": [
@@ -34736,23 +34857,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2129,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220610,
-                    "End": 20220708,
-                    "Map": 103,
-                    "Name": "兌钻消费奖励系统更新",
-                    "Title": "兌钻消费奖励系统更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2130,
                     "isNew": 1,
                     "kinds": 1,
@@ -34802,23 +34906,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2133,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220610,
-                    "End": 20220617,
-                    "Map": 1555,
-                    "Name": "音潮计划",
-                    "Title": "音潮计划",
-                    "Redirect": "map|module",
-                    "Go": "1555;app/SoundTidePlanMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 0,
                         "icon": 3,
                         "monID": 4377
@@ -34835,25 +34922,6 @@
                     "Title": "蒂朵",
                     "Redirect": "map|module",
                     "Go": "1555;app/AnniversaryBingoMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4384
-                    },
-                    "ID": 2137,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220617,
-                    "End": "*",
-                    "Map": 1557,
-                    "Name": "S王左兵右",
-                    "Title": "王左兵右",
-                    "Redirect": "map|module",
-                    "Go": "1557;app/SpetWZBYPanel"
                 },
                 {
                     "Details": {
@@ -34874,23 +34942,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2139,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220617,
-                    "End": "*",
-                    "Map": 1557,
-                    "Name": "【主线任务】黯世星沉",
-                    "Title": "黯世星沉",
-                    "Redirect": "map|module",
-                    "Go": "1557;app/MainLineTask_3461"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2140,
@@ -34905,57 +34956,6 @@
                     "Title": "泳池主题刻印来袭",
                     "Redirect": "map|module",
                     "Go": "103;app/A13MarkShopPanel_part2"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2141,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220617,
-                    "End": 20220624,
-                    "Map": 103,
-                    "Name": "战斗套装限时回归",
-                    "Title": "战斗套装限时回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/BattleSuitCollectionSaleMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2142,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220617,
-                    "End": 20220708,
-                    "Map": 1554,
-                    "Name": "奇妙之夏Chapter3清凉时刻",
-                    "Title": "清凉时刻",
-                    "Redirect": "map|module",
-                    "Go": "1554;app/WonderfulOfSummerAggregatePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2143,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220617,
-                    "End": 20220624,
-                    "Map": 1554,
-                    "Name": "音潮计划",
-                    "Title": "音潮计划第二辑",
-                    "Redirect": "map|module",
-                    "Go": "1554;app/SoundTidePlanMainPanel"
                 },
                 {
                     "Details": {
@@ -35027,6 +35027,197 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4385
+                    },
+                    "ID": 2148,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220624,
+                    "End": "*",
+                    "Map": 1558,
+                    "Name": "S光灵巨像",
+                    "Title": "光灵巨像",
+                    "Redirect": "map|module",
+                    "Go": "1558;app/SpetGLJXPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 3,
+                        "monID": 4386
+                    },
+                    "ID": 2149,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 103,
+                    "Name": "周年限定精灵——缔笙",
+                    "Title": "缔笙",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaantiaoDiShengMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2150,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": "*",
+                    "Map": 1558,
+                    "Name": "【主线任务】夜游圣河",
+                    "Title": "夜游圣河",
+                    "Redirect": "map|module",
+                    "Go": "1558;app/MainLineTask_3462"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2151,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 1554,
+                    "Name": "奇妙之夏Chapter4盛夏咏叹",
+                    "Title": "盛夏咏叹",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/WonderfulOfSummerAggregatePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2152,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 1554,
+                    "Name": "破解夏夜奇咒",
+                    "Title": "破解夏夜奇咒",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/BreakSpellMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2153,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 1554,
+                    "Name": "周年庆纪念商城",
+                    "Title": "周年庆纪念商城",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/Seer13thAnniversaryMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2154,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 103,
+                    "Name": "十三周年冠名刻印",
+                    "Title": "十三周年冠名刻印",
+                    "Redirect": "map|module",
+                    "Go": "103;app/Seer13thAnniversaryMarkMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2155,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 103,
+                    "Name": "至尊养成礼包售卖",
+                    "Title": "至尊养成 战力飞升",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupremeCultivateGiftBagMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2156,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 1554,
+                    "Name": "缔笙周年限定皮肤",
+                    "Title": "缔笙周年限定皮肤",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/DiShengSkinPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2157,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220624,
+                    "End": 20220708,
+                    "Map": 103,
+                    "Name": "钻石奖励系统更新",
+                    "Title": "钻石奖励系统更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2158,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": 20220701,
+                    "Map": 1554,
+                    "Name": "音潮计划",
+                    "Title": "音潮计划第三辑",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/SoundTidePlanMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2,
                         "Des": "闪闪发光的漂流瓶里，蕴藏着无尽的宝藏，快来探索寻找吧！",
                         "Prize": "稀有精灵、培养道具、全能刻印、基地家具等"
@@ -35034,8 +35225,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220617,
-                    "End": 20220624,
+                    "Start": 20220624,
+                    "End": 20220701,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -35043,7 +35234,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2136,2137,2138,2140,2143"
+            "Important": "2136,2149,2138,2154,2155"
         }
     }
 }

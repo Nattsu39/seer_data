@@ -44714,6 +44714,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1558,
+                "Name": "圣洛之河",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -52701,32 +52707,6 @@
                 "InitY": 416
             },
             {
-                "Bosses": {
-                    "Boss": [
-                        {
-                            "BossMon": {
-                                "MonID": 824,
-                                "Hp": 0,
-                                "Lv": 0,
-                                "LvHpMatchUser": 2
-                            },
-                            "AppearTime": "10 12",
-                            "BossVisible": 0,
-                            "Name": "地穴蜘蛛"
-                        },
-                        {
-                            "BossMon": {
-                                "MonID": 1160,
-                                "Hp": 0,
-                                "Lv": 0,
-                                "LvHpMatchUser": 2
-                            },
-                            "AppearTime": "10 12",
-                            "BossVisible": 0,
-                            "Name": "特拉修斯"
-                        }
-                    ]
-                },
                 "ID": 3300,
                 "Name": "千藤洞窟",
                 "InitX": 650,
@@ -52780,7 +52760,7 @@
             },
             {
                 "ID": 3302,
-                "Name": "上古神殿",
+                "Name": "上古龙殿",
                 "InitX": 275,
                 "InitY": 460
             },
@@ -52812,7 +52792,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220617,
+                "ID": 20220624,
                 "Desc": "每次发版需同步更新版本号"
             }
         }
