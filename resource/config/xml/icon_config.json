@@ -30,7 +30,7 @@
                 "exMapList": 50000,
                 "ui": "shengdianyingxiongtuan_icon",
                 "tips": "圣殿英雄团",
-                "mouseClickFunc": "app:TempleHeroAltarPrePanel"
+                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel"
             },
             {
                 "direction": "left",
@@ -95,7 +95,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3462"
+                "mouseClickFunc": "app:MainLineTask_3463"
             },
             {
                 "direction": "right",
@@ -123,6 +123,16 @@
                 "ui": "13zhounian_icon",
                 "tips": "13周年庆",
                 "mouseClickFunc": "app:Anniversary13thCollectionPanel"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 6,
+                "exMapList": 50000,
+                "ui": "seer13thGift_Icon",
+                "tips": "邮政联名礼盒每日放送！",
+                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:seer13thGiftIconInit",
+                "mouseClickFunc": "app:Serr13thAnniversaryHelpsGetGiftMainPanel"
             },
             {
                 "direction": "right_side",

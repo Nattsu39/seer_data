@@ -11282,6 +11282,42 @@
                     "Title": "黯世星沉",
                     "Redirect": "map|module",
                     "Go": "1557;app/MainLineTask_3461"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4385
+                    },
+                    "ID": 2148,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220624,
+                    "End": "*",
+                    "Map": 1558,
+                    "Name": "S光灵巨像",
+                    "Title": "光灵巨像",
+                    "Redirect": "map|module",
+                    "Go": "1558;app/SpetGLJXPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2150,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": "*",
+                    "Map": 1558,
+                    "Name": "【主线任务】夜游圣河",
+                    "Title": "夜游圣河",
+                    "Redirect": "map|module",
+                    "Go": "1558;app/MainLineTask_3462"
                 }
             ]
         },
@@ -34757,15 +34793,24 @@
                     "Title": "音潮计划",
                     "Redirect": "map|module",
                     "Go": "1555;app/SoundTidePlanMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2128,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220610,
+                    "End": 20220624,
+                    "Map": 103,
+                    "Name": "启灵元神限时返场",
+                    "Title": "启灵元神限时回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ReturnOfYuanShenMainPanel"
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -34783,6 +34828,31 @@
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPrePanel"
                 },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2158,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220624,
+                    "End": 20220701,
+                    "Map": 1554,
+                    "Name": "音潮计划",
+                    "Title": "音潮计划第三辑",
+                    "Redirect": "map|module",
+                    "Go": "1554;app/SoundTidePlanMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 1
@@ -34835,23 +34905,6 @@
                     "Title": "乐队主题刻印来袭",
                     "Redirect": "map|module",
                     "Go": "103;app/A13MarkShopPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2128,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220610,
-                    "End": 20220624,
-                    "Map": 103,
-                    "Name": "启灵元神限时返场",
-                    "Title": "启灵元神限时回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ReturnOfYuanShenMainPanel"
                 },
                 {
                     "Details": {
@@ -35028,25 +35081,6 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "icon": 2,
-                        "monID": 4385
-                    },
-                    "ID": 2148,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220624,
-                    "End": "*",
-                    "Map": 1558,
-                    "Name": "S光灵巨像",
-                    "Title": "光灵巨像",
-                    "Redirect": "map|module",
-                    "Go": "1558;app/SpetGLJXPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
                         "icon": 3,
                         "monID": 4386
                     },
@@ -35062,23 +35096,6 @@
                     "Title": "缔笙",
                     "Redirect": "map|module",
                     "Go": "103;app/DaantiaoDiShengMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2150,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220624,
-                    "End": "*",
-                    "Map": 1558,
-                    "Name": "【主线任务】夜游圣河",
-                    "Title": "夜游圣河",
-                    "Redirect": "map|module",
-                    "Go": "1558;app/MainLineTask_3462"
                 },
                 {
                     "Details": {
@@ -35201,20 +35218,164 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4387
                     },
                     "ID": 2158,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220624,
-                    "End": 20220701,
-                    "Map": 1554,
-                    "Name": "音潮计划",
-                    "Title": "音潮计划第三辑",
+                    "Type": 0,
+                    "Start": 20220701,
+                    "End": "*",
+                    "Map": 1559,
+                    "Name": "S坦普瑞",
+                    "Title": "坦普瑞",
                     "Redirect": "map|module",
-                    "Go": "1554;app/SoundTidePlanMainPanel"
+                    "Go": "1559;app/SpetTanPuRuiPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2159,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220701,
+                    "End": "*",
+                    "Map": 1559,
+                    "Name": "【主线任务】炽光涌现",
+                    "Title": "炽光涌现",
+                    "Redirect": "map|module",
+                    "Go": "1559;app/MainLineTask_3463"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4389
+                    },
+                    "ID": 2160,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220701,
+                    "End": 20220729,
+                    "Map": 1529,
+                    "Name": "7月包月精灵",
+                    "Title": "莎尓索斯",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInJuly2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2161,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220701,
+                    "End": 20220826,
+                    "Map": 103,
+                    "Name": "刻印抽奖机暑假版",
+                    "Title": "刻印抽奖机暑假版",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkMachine0707Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2162,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220701,
+                    "End": 20220708,
+                    "Map": 1555,
+                    "Name": "音潮计划",
+                    "Title": "音潮计划 最终辑",
+                    "Redirect": "map|module",
+                    "Go": "1555;app/SoundTidePlanMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2163,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220701,
+                    "End": 20220708,
+                    "Map": 103,
+                    "Name": "《圣殿英雄团——全回归》",
+                    "Title": "圣殿英雄团集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPreAllBackPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2,
+                        "icon": 2,
+                        "monID": 4258
+                    },
+                    "ID": 2164,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220701,
+                    "End": 20220715,
+                    "Map": 1497,
+                    "Name": "环·零第二形态",
+                    "Title": "环之起源",
+                    "Redirect": "map|module",
+                    "Go": "1497;app/NewFormOfRingZeroMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2165,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220701,
+                    "End": "*",
+                    "Map": 1559,
+                    "Name": "【支线任务】暗潮",
+                    "Title": "暗潮",
+                    "Redirect": "map|module",
+                    "Go": "1559;app/BranchLineTask_AnChaoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4388
+                    },
+                    "ID": 2166,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220701,
+                    "End": 20220729,
+                    "Map": 1095,
+                    "Name": "7月巅峰联赛",
+                    "Title": "阿琳",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                 },
                 {
                     "Details": {
@@ -35225,8 +35386,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220624,
-                    "End": 20220701,
+                    "Start": 20220701,
+                    "End": 20220708,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -35234,7 +35395,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2136,2149,2138,2154,2155"
+            "Important": "2136,2149,2138,2154,2152"
         }
     }
 }

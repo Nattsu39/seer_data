@@ -561,79 +561,43 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4385,
-                        "ImageID": 4385,
+                        "ID": 4387,
+                        "ImageID": 4387,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1558;app/SpetGLJXPanel"
+                        "Go": "1559;app/SpetTanPuRuiPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4386,
-                        "ImageID": 4386,
+                        "ID": 4388,
+                        "ImageID": 4388,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4389,
+                        "ImageID": 4389,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1554;app/DaantiaoDiShengMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 475,
-                        "MonID": 4386,
-                        "ImageID": 1400475,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1554;app/DiShengSkinPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 476,
-                        "MonID": 3631,
-                        "ImageID": 1400476,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/MonthlyPetInJuly2022Panel"
                     },
                     {
                         "type": 3,
-                        "ID": 42240
+                        "ID": 42252
                     },
                     {
                         "type": 3,
-                        "ID": 42241
+                        "ID": 42253
                     },
                     {
                         "type": 3,
-                        "ID": 42242
+                        "ID": 42254
                     },
                     {
                         "type": 3,
-                        "ID": 42243
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42244
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42245
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42246
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42247
-                    },
-                    {
-                        "type": 2,
-                        "ID": 430,
-                        "Label": 1
-                    },
-                    {
-                        "type": 2,
-                        "ID": 431,
-                        "Label": 1
+                        "ID": 42255
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -33111,7 +33075,7 @@
                 "Type": "电",
                 "Height": 66,
                 "Weight": 11.3,
-                "Features": "穿上唐装的雷小伊充满着春节的气息，带小赛尔们带来春天的祝福！",
+                "Features": "穿上唐装的雷小伊充满着春节的气息，给小赛尔们带来春天的祝福！",
                 "mapID": 1167
             },
             {
@@ -33120,7 +33084,7 @@
                 "Type": "超能",
                 "Height": 65,
                 "Weight": 31,
-                "Features": "穿上唐装的缪小斯充满着春节的气息，带小赛尔们带来春天的祝福！",
+                "Features": "穿上唐装的缪小斯充满着春节的气息，给小赛尔们带来春天的祝福！",
                 "mapID": 1167
             },
             {
@@ -33129,7 +33093,7 @@
                 "Type": "地面 暗影",
                 "Height": 67,
                 "Weight": 31,
-                "Features": "穿上唐装的卡小修充满着春节的气息，带小赛尔们带来春天的祝福！",
+                "Features": "穿上唐装的卡小修充满着春节的气息，给小赛尔们带来春天的祝福！",
                 "mapID": 1167
             },
             {
@@ -33138,7 +33102,7 @@
                 "Type": "暗影",
                 "Height": 67,
                 "Weight": 31,
-                "Features": "穿上唐装的布小克充满着春节的气息，带小赛尔们带来春天的祝福！",
+                "Features": "穿上唐装的布小克充满着春节的气息，给小赛尔们带来春天的祝福！",
                 "mapID": 1167
             },
             {
@@ -43796,7 +43760,7 @@
                 "Type": "次元",
                 "Height": 175,
                 "Weight": 52,
-                "Features": "四月巅峰圣战精灵，莉姿是穿梭于各个世界的异次元精灵，经常给大家讲述自己的冒险经历！",
+                "Features": "2021年4月巅峰圣战精灵。秉初心而前进的少女啊，反抗扭曲的荣耀将她阻止吧！你已不是孩子，你已不再迷茫，只有你有希望拯救恩师。",
                 "Redirect": "map",
                 "Go": 1095
             },
@@ -45569,6 +45533,36 @@
                 "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！",
                 "Redirect": "map|module",
                 "Go": "1554;app/DaantiaoDiShengMainPanel"
+            },
+            {
+                "ID": 4387,
+                "DefName": "坦普瑞",
+                "Type": "虫",
+                "Height": 179,
+                "Weight": 67,
+                "Features": "神秘的“节制”塔罗牌终于展露了自己的真面目，他能通过与别人签订契约来实现愿望，而这愿望所对应的代价......",
+                "Redirect": "map|module",
+                "Go": "1559;app/SpetTanPuRuiPanel"
+            },
+            {
+                "ID": 4388,
+                "DefName": "阿琳",
+                "Type": "机械 邪灵",
+                "Height": 176,
+                "Weight": 64,
+                "Features": "2022年7月巅峰圣战精灵。被血肉所束缚的傀儡啊，抛弃荒唐的尊严随我进化吧！你不应被蒙蔽，你不能被限制，没有谁有资格止步无知。",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4389,
+                "DefName": "莎尓索斯",
+                "Type": "地面",
+                "Height": 166,
+                "Weight": 51,
+                "Features": "2022年7月包月精灵，十二冠灵之一，能够掌控地之元素，青山不改，磐岩圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInJuly2022Panel"
             }
         ]
     }
