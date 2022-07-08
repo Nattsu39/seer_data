@@ -561,43 +561,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4387,
-                        "ImageID": 4387,
+                        "ID": 4390,
+                        "ImageID": 4390,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1559;app/SpetTanPuRuiPanel"
+                        "Go": "1560;app/SpetJiuLiNaPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4388,
-                        "ImageID": 4388,
+                        "ID": 4391,
+                        "ImageID": 4391,
                         "Label": 0,
+                        "Redirect": "alarm",
+                        "Go": "前往《赛尔互通助手》签到获得！"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 477,
+                        "MonID": 4388,
+                        "ImageID": 1400477,
+                        "Label": 1,
                         "Redirect": "map",
                         "Go": 1095
                     },
                     {
-                        "type": 0,
-                        "ID": 4389,
-                        "ImageID": 4389,
-                        "Label": 0,
+                        "type": 1,
+                        "ID": 478,
+                        "MonID": 3823,
+                        "ImageID": 1400478,
+                        "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInJuly2022Panel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42252
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42253
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42254
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42255
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45441,8 +45435,8 @@
                 "Height": 168,
                 "Weight": 49,
                 "Features": "“嘿，我是蒂朵，在一家游泳馆里担任经理。如果你也想要享受这个盛夏的欢乐，那就快来找我吧！”",
-                "Redirect": "map|module",
-                "Go": "1554;app/AnniversaryBingoMainPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4378,
@@ -45451,8 +45445,8 @@
                 "Height": 153,
                 "Weight": 67,
                 "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”",
-                "Redirect": "map|module",
-                "Go": "1554;app/SpetQTPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4379,
@@ -45461,8 +45455,8 @@
                 "Height": 50,
                 "Weight": 23,
                 "Features": "K13星的原生物种，愤怒的红色章鱼！",
-                "Redirect": "map",
-                "Go": 1554
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4380,
@@ -45471,8 +45465,8 @@
                 "Height": 50,
                 "Weight": 23,
                 "Features": "K13星的原生物种，爱哭的蓝色章鱼！",
-                "Redirect": "map",
-                "Go": 1554
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4381,
@@ -45481,8 +45475,8 @@
                 "Height": 50,
                 "Weight": 23,
                 "Features": "K13星的原生物种，爱耍酷的粉色章鱼！",
-                "Redirect": "map",
-                "Go": 1554
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4382,
@@ -45491,8 +45485,8 @@
                 "Height": 50,
                 "Weight": 23,
                 "Features": "K13星的原生物种，呆滞的橙色章鱼！",
-                "Redirect": "map",
-                "Go": 1554
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4383,
@@ -45501,8 +45495,8 @@
                 "Height": 60,
                 "Weight": 28,
                 "Features": "K13星的原生物种，章鱼一族的小头目，是个看起来很凶的家伙！",
-                "Redirect": "map|module",
-                "Go": "1554;app/AnniversaryBingoMainPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4384,
@@ -45531,8 +45525,8 @@
                 "Height": 194,
                 "Weight": 118,
                 "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！",
-                "Redirect": "map|module",
-                "Go": "1554;app/DaantiaoDiShengMainPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4387,
@@ -45556,13 +45550,33 @@
             },
             {
                 "ID": 4389,
-                "DefName": "莎尓索斯",
+                "DefName": "莎尔索斯",
                 "Type": "地面",
                 "Height": 166,
                 "Weight": 51,
                 "Features": "2022年7月包月精灵，十二冠灵之一，能够掌控地之元素，青山不改，磐岩圣冕！",
                 "Redirect": "map|module",
                 "Go": "103;app/MonthlyPetInJuly2022Panel"
+            },
+            {
+                "ID": 4390,
+                "DefName": "玖莉娜",
+                "Type": "水 超能",
+                "Height": 164,
+                "Weight": 48,
+                "Features": "晶能基站的研究员，性格温和，在尤莉米特的安排下帮助开展对跃迁计划的研究工作~",
+                "Redirect": "map|module",
+                "Go": "1560;app/SpetJiuLiNaPanel"
+            },
+            {
+                "ID": 4391,
+                "DefName": "西斯里",
+                "Type": "地面 战斗",
+                "Height": 167,
+                "Weight": 50,
+                "Features": "2022年H5暑假月签精灵，相传她代表了某种沙漠之神的信仰！",
+                "Redirect": "alarm",
+                "Go": "前往《赛尔互通助手》签到获得！"
             }
         ]
     }

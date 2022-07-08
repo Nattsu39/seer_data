@@ -37,9 +37,9 @@
                 "shownewseer": 0,
                 "priority": 4,
                 "exMapList": 50000,
-                "ui": "Wishpet_icon",
-                "tips": "十三周年限定精灵心愿单",
-                "mouseClickFunc": "app:WishlistByPetMainPanel"
+                "ui": "monthlycard",
+                "tips": "2022暑假尊享特权钻石月卡",
+                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel"
             },
             {
                 "direction": "left_side",
@@ -95,7 +95,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3463"
+                "mouseClickFunc": "app:MainLineTask_3464"
             },
             {
                 "direction": "right",
@@ -119,15 +119,6 @@
                 "direction": "right",
                 "shownewseer": 0,
                 "priority": 5,
-                "exMapList": 50000,
-                "ui": "13zhounian_icon",
-                "tips": "13周年庆",
-                "mouseClickFunc": "app:Anniversary13thCollectionPanel"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 6,
                 "exMapList": 50000,
                 "ui": "seer13thGift_Icon",
                 "tips": "邮政联名礼盒每日放送！",
