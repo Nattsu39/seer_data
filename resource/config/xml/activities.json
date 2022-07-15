@@ -11260,9 +11260,64 @@
                     "End": 20220729,
                     "Map": 1529,
                     "Name": "7月包月精灵",
-                    "Title": "莎尓索斯",
+                    "Title": "莎尔索斯",
                     "Redirect": "map|module",
                     "Go": "1529;app/MonthlyPetInJuly2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4390
+                    },
+                    "ID": 2167,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220708,
+                    "End": "*",
+                    "Map": 1560,
+                    "Name": "玖莉娜",
+                    "Title": "玖莉娜",
+                    "Redirect": "map|module",
+                    "Go": "1560;app/SpetJiuLiNaPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4391
+                    },
+                    "ID": 2173,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220708,
+                    "End": 20220805,
+                    "Map": 1,
+                    "Name": "暑假签到",
+                    "Title": "西斯里",
+                    "Redirect": "map|module",
+                    "Go": "1;app/WinterVacationMonthlyVisaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2168,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220708,
+                    "End": "*",
+                    "Map": 1560,
+                    "Name": "【主线任务】跃迁计划",
+                    "Title": "跃迁计划",
+                    "Redirect": "map|module",
+                    "Go": "1560;app/MainLineTask_3464"
                 }
             ]
         },
@@ -35281,15 +35336,7 @@
                     "Title": "梦想鸣奏",
                     "Redirect": "map|module",
                     "Go": "1555;app/WonderfulOfSummerAggregatePanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -35307,6 +35354,67 @@
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel"
                 },
+                {
+                    "Details": {
+                        "mc": 2,
+                        "icon": 2,
+                        "monID": 4258
+                    },
+                    "ID": 2164,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220701,
+                    "End": 20220715,
+                    "Map": 1497,
+                    "Name": "环·零第二形态",
+                    "Title": "环之起源",
+                    "Redirect": "map|module",
+                    "Go": "1497;app/NewFormOfRingZeroMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2169,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220708,
+                    "End": 20220715,
+                    "Map": 1560,
+                    "Name": "忙碌的晶能基站",
+                    "Title": "忙碌的晶能基站",
+                    "Redirect": "map|module",
+                    "Go": "1560;app/ActivityCollection0708Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2171,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220708,
+                    "End": 20220715,
+                    "Map": 103,
+                    "Name": "一键极品限时优惠",
+                    "Title": "一键极品限时优惠",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 1
@@ -35343,78 +35451,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2,
-                        "icon": 2,
-                        "monID": 4258
-                    },
-                    "ID": 2164,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220701,
-                    "End": 20220715,
-                    "Map": 1497,
-                    "Name": "环·零第二形态",
-                    "Title": "环之起源",
-                    "Redirect": "map|module",
-                    "Go": "1497;app/NewFormOfRingZeroMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4390
-                    },
-                    "ID": 2167,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220708,
-                    "End": "*",
-                    "Map": 1560,
-                    "Name": "玖莉娜",
-                    "Title": "玖莉娜",
-                    "Redirect": "map|module",
-                    "Go": "1560;app/SpetJiuLiNaPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2168,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220708,
-                    "End": "*",
-                    "Map": 1560,
-                    "Name": "【主线任务】跃迁计划",
-                    "Title": "跃迁计划",
-                    "Redirect": "map|module",
-                    "Go": "1560;app/MainLineTask_3464"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2169,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220708,
-                    "End": 20220715,
-                    "Map": 1560,
-                    "Name": "忙碌的晶能基站",
-                    "Title": "忙碌的晶能基站",
-                    "Redirect": "map|module",
-                    "Go": "1560;app/ActivityCollection0708Panel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2170,
@@ -35429,23 +35465,6 @@
                     "Title": "兌钻消费奖励系统更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2171,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220708,
-                    "End": 20220715,
-                    "Map": 103,
-                    "Name": "一键极品限时优惠",
-                    "Title": "一键极品限时优惠",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
                 },
                 {
                     "Details": {
@@ -35467,21 +35486,193 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "icon": 1,
-                        "monID": 4391
+                        "icon": 2,
+                        "monID": 4392
                     },
-                    "ID": 2173,
+                    "ID": 2174,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20220708,
-                    "End": 20220805,
-                    "Map": 1,
-                    "Name": "暑假签到",
-                    "Title": "西斯里",
+                    "Start": 20220715,
+                    "End": "*",
+                    "Map": 1561,
+                    "Name": "S 斯凯普",
+                    "Title": "斯凯普",
                     "Redirect": "map|module",
-                    "Go": "1;app/WinterVacationMonthlyVisaMainPanel"
+                    "Go": "1561;app/SpetSiKaiPuPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2175,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220715,
+                    "End": "*",
+                    "Map": 1561,
+                    "Name": "【主线任务】恶魔低语",
+                    "Title": "恶魔低语",
+                    "Redirect": "map|module",
+                    "Go": "1561;app/MainLineTask_3465"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2176,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220715,
+                    "End": 20220722,
+                    "Map": 103,
+                    "Name": "至序圣华皮肤售卖",
+                    "Title": "至序圣华皮肤登场",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ZhixuShenghuaSkinSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2177,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220715,
+                    "End": 20220722,
+                    "Map": 103,
+                    "Name": "大暗黑天突破",
+                    "Title": "大暗黑天突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaanheitianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2178,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220715,
+                    "End": "*",
+                    "Map": 1561,
+                    "Name": "【支线任务】逆势六芒",
+                    "Title": "逆势六芒",
+                    "Redirect": "map|module",
+                    "Go": "1561;app/BranchLineTask_NiShiLiuMangMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2179,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220715,
+                    "End": 20220722,
+                    "Map": 11884,
+                    "Name": "仲夏火焰节",
+                    "Title": "仲夏火焰节",
+                    "Redirect": "map|module",
+                    "Go": "11884;app/EventCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2180,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220715,
+                    "End": 20220729,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2181,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220715,
+                    "End": 20220722,
+                    "Map": 1095,
+                    "Name": "巅峰圣战奖励周",
+                    "Title": "巅峰圣战奖励周",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2182,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220715,
+                    "End": "*",
+                    "Map": 1,
+                    "Name": "SPT成就更新",
+                    "Title": "SPT成就更新",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔互通助手》SPT挑战副本兑换获得！"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2183,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220715,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4393
+                    },
+                    "ID": 2184,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220715,
+                    "End": 20220722,
+                    "Map": 11897,
+                    "Name": "酱丸号",
+                    "Title": "酱丸号",
+                    "Redirect": "map|module",
+                    "Go": "11884;app/MidsummerFestivalThemeSpriteMainPanel"
                 },
                 {
                     "Details": {
@@ -35492,8 +35683,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220708,
-                    "End": 20220715,
+                    "Start": 20220715,
+                    "End": 20220722,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -35501,7 +35692,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2167,2169,2170,2171,2172"
+            "Important": "2174,2176,2177,2180,2183"
         }
     }
 }
