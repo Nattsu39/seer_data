@@ -17,7 +17,7 @@
         {
             "id": 2,
             "priority": 1,
-            "truepos": 3,
+            "truepos": 1,
             "isshow": 1,
             "name": "活动中心",
             "isdeadline": 0,
@@ -31,7 +31,7 @@
         {
             "id": 3,
             "priority": 1,
-            "truepos": 7,
+            "truepos": 1,
             "isshow": 0,
             "name": "新手 福利",
             "isdeadline": 0,
@@ -45,8 +45,8 @@
         {
             "id": 4,
             "priority": 1,
-            "truepos": 5,
-            "isshow": 0,
+            "truepos": 1,
+            "isshow": 1,
             "name": "NoNo",
             "isdeadline": 0,
             "isdown": 0,
@@ -55,6 +55,20 @@
             "image": "nono",
             "mapisshow": 0,
             "reddotid": 20
+        },
+        {
+            "id": 5,
+            "priority": 2,
+            "truepos": 0,
+            "isshow": 0,
+            "name": "钻石任务",
+            "isdeadline": 0,
+            "isdown": 0,
+            "finishtime": "",
+            "dest": 149,
+            "image": "diamondTask",
+            "mapisshow": 0,
+            "reddotid": 0
         }
     ]
 }

@@ -5,7 +5,7 @@
                 "substep": [
                     {
                         "type": 1,
-                        "sound": "xinshou1.mp3",
+                        "sound": "xinshou_1.mp3",
                         "swfName": "xinshoumanhua1",
                         "width": 1408,
                         "height": 640,
@@ -47,7 +47,7 @@
                     },
                     {
                         "type": 1,
-                        "sound": "xinshou2.mp3",
+                        "sound": "xinshou_2.mp3",
                         "swfName": "xinshoumanhua2",
                         "width": 1408,
                         "height": 640,
@@ -59,7 +59,7 @@
                     },
                     {
                         "type": 1,
-                        "sound": "xinshou3.mp3",
+                        "sound": "xinshou_3.mp3",
                         "swfName": "xinshoumanhua3",
                         "width": 1408,
                         "height": 640,
@@ -111,13 +111,13 @@
                     {
                         "type": 5,
                         "rect": "1045,525,116,116",
-                        "androidOffSetX": -60,
+                        "handOffSet": "-55,5",
                         "handRotation": 0,
                         "rotation": 45,
                         "startEvent": "new_round",
                         "align": "right",
                         "event": "click_button",
-                        "handScaleX": 0.6,
+                        "handScaleX": -0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnPet",
                         "tipPos": "461,252",
@@ -232,7 +232,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnDetail",
                         "tipPos": "305,147",
-                        "tip": "点击【详情】按钮，查看萌火猴的详细属性。",
+                        "tip": "点击【详情】按钮，查看萌火猴的详细属性",
                         "tipTitle": "提升精灵等级",
                         "stat": "查看萌火猴详情属性T1"
                     },
@@ -302,7 +302,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnClose",
                         "tipPos": "305,147",
-                        "tip": "点击【<】按钮，关闭精灵背包。",
+                        "tip": "点击【<】按钮，关闭精灵背包",
                         "tipTitle": "返回",
                         "stat": "关闭精灵背包T1"
                     }
@@ -462,7 +462,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnDetail",
                         "tipPos": "305,147",
-                        "tip": "点击【详情】按钮，查看萌火猴的详细属性。",
+                        "tip": "点击【详情】按钮，查看萌火猴的详细属性",
                         "tipTitle": "分配学习力",
                         "stat": "点击萌火猴T2"
                     },
@@ -522,7 +522,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnOK",
                         "tipPos": "305,147",
-                        "tip": "点击【确认分配】按钮，完成学习力分配。",
+                        "tip": "点击【确认分配】按钮，完成学习力分配",
                         "tipTitle": "分配学习力",
                         "stat": "点击快速提升T2"
                     },
@@ -664,7 +664,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "0,206,107,54",
+                        "rect": "0,206,130,54",
                         "event": "change_detail_tab",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -698,7 +698,7 @@
                         "tipPos": "305,147",
                         "tip": "将【涛·高压水枪】替换为【涛·剑舞】，首先点击【涛·剑舞】",
                         "tipTitle": "更换精灵技能",
-                        "stat": "将【涛·高压水枪】替换为【涛·剑舞】，首先点击【涛·剑舞】。"
+                        "stat": "将【涛·高压水枪】替换为【涛·剑舞】，首先点击【涛·剑舞】"
                     },
                     {
                         "type": 5,
@@ -967,7 +967,7 @@
                         "type": 5,
                         "rect": "649,177,78,78",
                         "handOffSet": "24,10",
-                        "align": "center",
+                        "align": "right",
                         "event": "click_item",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1369,7 +1369,7 @@
                         "handScaleY": 0.6,
                         "eventArgs": "btnUse",
                         "tipPos": "305,147",
-                        "tip": "点击【使用】按钮。",
+                        "tip": "点击【使用】按钮",
                         "tipTitle": "使用体力上限养成道具",
                         "stat": "点击使用"
                     },
@@ -1622,7 +1622,7 @@
                         "eventArgs": "btnDetail",
                         "condition": "1,11,0",
                         "tipPos": "305,147",
-                        "tip": "点击【详情】按钮，查看几米的详细属性。",
+                        "tip": "点击【详情】按钮，查看几米的详细属性",
                         "tipTitle": "装备刻印",
                         "stat": "点击详细"
                     },
@@ -1815,6 +1815,8 @@
                         "type": 5,
                         "rect": "0,0,55,48",
                         "handOffSet": "22,14",
+                        "androidOffSetX": 37,
+                        "align": "left",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
@@ -1912,6 +1914,9 @@
                     {
                         "type": 5,
                         "rect": "385,123,104,126",
+                        "getRect": 3891,
+                        "align": "left",
+                        "androidOffSetX": 23,
                         "event": "select_pet",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,

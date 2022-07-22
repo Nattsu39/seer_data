@@ -8,7 +8,7 @@
         "Fragment": [
             {
                 "ID": 2400001,
-                "show": 1,
+                "show": 0,
                 "Name": "影月因子",
                 "MonsterID": 4114,
                 "Rarity": 3,
@@ -26,7 +26,7 @@
             },
             {
                 "ID": 2400002,
-                "show": 1,
+                "show": 0,
                 "Name": "糖枫因子",
                 "MonsterID": 4144,
                 "Rarity": 1,
@@ -41,7 +41,7 @@
             },
             {
                 "ID": 2400003,
-                "show": 1,
+                "show": 0,
                 "Name": "龙裔因子",
                 "MonsterID": 3022,
                 "Rarity": 4,
@@ -929,7 +929,7 @@
                 "NewSeIdx": 2690,
                 "effectId": 769,
                 "NewseConsume": 500,
-                "MoveID": 2690,
+                "MoveID": 31215,
                 "MovesConsume": 200,
                 "NeedmonID": 0,
                 "NewMsglogId": 2111190712,
@@ -2370,6 +2370,24 @@
                 "NewMsglogId": 2207150800,
                 "SeMsglog": 2207150801,
                 "EffectMsglog": 2207150802
+            },
+            {
+                "ID": 2400136,
+                "show": 1,
+                "Name": "祭空墟祖因子",
+                "MonsterID": 4394,
+                "Rarity": 3,
+                "PetLimit": 1,
+                "PetConsume": 540,
+                "NewSeIdx": 5904,
+                "effectId": 1612,
+                "NewseConsume": 270,
+                "MoveID": 35990,
+                "MovesConsume": 108,
+                "NeedmonID": 0,
+                "NewMsglogId": 2207220500,
+                "SeMsglog": 2207220501,
+                "EffectMsglog": 2207220502
             }
         ]
     }
