@@ -1941,7 +1941,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "483,225,98,119",
+                        "rect": "263,225,98,119",
                         "align": "center",
                         "rectType": 1,
                         "event": "replace_pet",
@@ -1982,6 +1982,23 @@
                     {
                         "type": 9,
                         "eventType": "close_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "0,0,94,48",
+                        "handOffSet": "22,14",
+                        "event": "click_button",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": "btnClose",
+                        "tipPos": "461,252",
+                        "tip": "点击【<】按钮，关闭精灵背包",
+                        "tipTitle": "返回",
+                        "stat": "关闭精灵背包T1"
+                    },
+                    {
+                        "type": 3,
+                        "talkGroupId": 53
                     }
                 ],
                 "step": 27,
@@ -2037,23 +2054,6 @@
                         "tip": "拖动【未来·伊优】到【萌布布种子】位置",
                         "tipTitle": "设置首发精灵",
                         "stat": "拖动萌伊优S1"
-                    },
-                    {
-                        "type": 5,
-                        "rect": "0,0,94,48",
-                        "handOffSet": "22,14",
-                        "event": "click_button",
-                        "handScaleX": 0.6,
-                        "handScaleY": 0.6,
-                        "eventArgs": "btnClose",
-                        "tipPos": "461,252",
-                        "tip": "点击【<】按钮，关闭精灵背包",
-                        "tipTitle": "返回",
-                        "stat": "关闭精灵背包T1"
-                    },
-                    {
-                        "type": 3,
-                        "talkGroupId": 53
                     }
                 ],
                 "step": 28,

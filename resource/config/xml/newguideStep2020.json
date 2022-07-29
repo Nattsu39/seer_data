@@ -1758,7 +1758,7 @@
                     },
                     {
                         "type": 5,
-                        "parm": "413,171,96,98|70,493,288|0|300,1,461,222,1",
+                        "parm": "225,176,96,98|70,493,288|0|300,1,271,222,1",
                         "pid": 2858,
                         "auto": 0,
                         "waitPanel": "BagStorageSwitchChoosePanel",
@@ -1766,7 +1766,7 @@
                     },
                     {
                         "type": 5,
-                        "parm": "416,261,92,40|71,493,288|463,319,180|0",
+                        "parm": "229,261,84,35|71,493,288|271,319,180|0",
                         "auto": 0,
                         "cltMonitoringDatac": "点击确认替换S5"
                     },
@@ -1775,36 +1775,6 @@
                         "parm": "920,1,40,40|72,472,41|902,24,270|0",
                         "auto": 0,
                         "cltMonitoringDatac": "关闭精灵仓库S5"
-                    }
-                ],
-                "step": 27,
-                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
-                "npcs": "0,1,2,3,11",
-                "auto": 1
-            },
-            {
-                "substep": [
-                    {
-                        "type": 5,
-                        "parm": "778,510,63,49|0|807,496,0|0",
-                        "auto": 1,
-                        "skip": 1
-                    },
-                    {
-                        "type": 5,
-                        "parm": "648,372,98,100|73,418,260|0|300,1,697,422,1",
-                        "pid": "3891,5",
-                        "auto": 0,
-                        "waitPanel": "PetBag2017",
-                        "cltMonitoringDatac": "选中未来伊优S5"
-                    },
-                    {
-                        "type": 5,
-                        "parm": "172,371,576,100|74,246,253|0|0",
-                        "pid": 3891,
-                        "playEff": "pet:5:0",
-                        "auto": 0,
-                        "cltMonitoringDatac": "将未来伊优设为首发S5"
                     },
                     {
                         "type": 5,
@@ -1884,6 +1854,42 @@
                         "side": 1,
                         "auto": 1,
                         "cltMonitoringDatac": "完成对话框139-150"
+                    }
+                ],
+                "step": 27,
+                "tool": "helper:friendBtn:shopBtn:homeBtn:cultureBtn:starMapBtn:mailMc:showChatBtn",
+                "npcs": "0,1,2,3,11",
+                "auto": 1
+            },
+            {
+                "substep": [
+                    {
+                        "type": 5,
+                        "parm": "778,510,63,49|0|807,496,0|0",
+                        "auto": 1,
+                        "skip": 1
+                    },
+                    {
+                        "type": 5,
+                        "parm": "648,372,98,100|73,418,260|0|300,1,697,422,1",
+                        "pid": "3891,5",
+                        "auto": 0,
+                        "waitPanel": "PetBag2017",
+                        "cltMonitoringDatac": "选中未来伊优S5"
+                    },
+                    {
+                        "type": 5,
+                        "parm": "172,371,576,100|74,246,253|0|0",
+                        "pid": 3891,
+                        "playEff": "pet:5:0",
+                        "auto": 0,
+                        "cltMonitoringDatac": "将未来伊优设为首发S5"
+                    },
+                    {
+                        "type": 5,
+                        "parm": "917,2,40,40|75,410,5|897,25,270|0",
+                        "auto": 0,
+                        "cltMonitoringDatac": "关闭精灵背包S5"
                     }
                 ],
                 "step": 28,

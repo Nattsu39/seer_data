@@ -44686,56 +44686,28 @@
                 "InitY": 400
             },
             {
+                "ID": 1563,
+                "Name": "流沙阱坑",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
                 "InitY": 400
             },
             {
-                "Bosses": {
-                    "Boss": [
-                        {
-                            "BossMon": {
-                                "MonID": 10,
-                                "Hp": 13,
-                                "Lv": 2
-                            },
-                            "Id": 1,
-                            "BossCatchable": 1,
-                            "BossVisible": 0,
-                            "AppearTime": "0 23",
-                            "Name": "皮皮"
-                        },
-                        {
-                            "BossMon": {
-                                "MonID": 164,
-                                "Hp": 13,
-                                "Lv": 2
-                            },
-                            "Id": 2,
-                            "BossCatchable": 1,
-                            "BossVisible": 0,
-                            "AppearTime": "0 23",
-                            "Name": "闪光皮皮"
-                        },
-                        {
-                            "BossMon": {
-                                "MonID": 166,
-                                "Hp": 15,
-                                "Lv": 2
-                            },
-                            "Id": 3,
-                            "BossCatchable": 0,
-                            "BossVisible": 0,
-                            "AppearTime": "0 23",
-                            "Name": "闪光波克尔"
-                        }
-                    ]
-                },
-                "ID": 2002,
-                "Name": "克洛斯星",
-                "InitX": 500,
-                "InitY": 400
+                "ID": 2007,
+                "Name": "发明室",
+                "InitX": 300,
+                "InitY": 270
+            },
+            {
+                "ID": 2008,
+                "Name": "荣誉大厅",
+                "InitX": 830,
+                "InitY": 430
             },
             {
                 "Bosses": {
@@ -52921,18 +52893,77 @@
                 "Name": "海盗决斗场",
                 "InitX": 480,
                 "InitY": 450
+            },
+            {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 1243,
+                            "Lv": "13 16"
+                        },
+                        {
+                            "ID": 1243,
+                            "Lv": "13 16"
+                        },
+                        {
+                            "ID": 1243,
+                            "Lv": "13 16"
+                        },
+                        {
+                            "ID": 1244,
+                            "Lv": "20 23"
+                        },
+                        {
+                            "ID": 667,
+                            "Lv": "20 20"
+                        },
+                        {
+                            "ID": 667,
+                            "Lv": "20 20"
+                        },
+                        {
+                            "ID": 667,
+                            "Lv": "20 20"
+                        },
+                        {
+                            "ID": 667,
+                            "Lv": "20 20"
+                        },
+                        {
+                            "ID": 667,
+                            "Lv": "20 20"
+                        }
+                    ]
+                },
+                "ID": 3315,
+                "Name": "幻梦迷境",
+                "InitX": 725,
+                "InitY": 494,
+                "PrimaryScene": 3
+            },
+            {
+                "ID": 3316,
+                "Name": "幻影迷阵",
+                "InitX": 497,
+                "InitY": 313
+            },
+            {
+                "ID": 3317,
+                "Name": "比巴卜秘境",
+                "InitX": 659,
+                "InitY": 475
             }
         ],
         "DefaultMaps": {
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1562,
+                    "RandMaps": 1563,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1562,
+                    "RandMaps": 1563,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -52944,7 +52975,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220722,
+                "ID": 20220729,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

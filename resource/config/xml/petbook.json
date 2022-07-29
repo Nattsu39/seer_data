@@ -561,20 +561,35 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4394,
-                        "ImageID": 4394,
+                        "ID": 4395,
+                        "ImageID": 4395,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1562;app/SpetJiKongXuZuPanel"
+                        "Go": "1563;app/SpetHTKHWMPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 480,
-                        "MonID": 4007,
-                        "ImageID": 1400480,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4396,
+                        "ImageID": 4396,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1563;app/SpetKTLYPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4397,
+                        "ImageID": 4397,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4398,
+                        "ImageID": 4398,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/MonthlyPetInAugust2022Panel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -41377,9 +41392,9 @@
                 "ID": 3972,
                 "DefName": "伊莱",
                 "Type": "邪灵 暗影",
-                "Height": 900,
-                "Weight": 30,
-                "Features": "联赛圣战月度更新，主场精灵再度替换。专属神宠伊莱登场，激情不断，火力全开！",
+                "Height": 176,
+                "Weight": 54,
+                "Features": "2019年12月巅峰圣战精灵。殉汝之身，铸吾之魂！",
                 "mapID": 1095
             },
             {
@@ -45590,6 +45605,46 @@
                 "Features": "神秘的魔盒主人终于展现出了自己真正的姿态，它知晓着关于莱达宇宙的许多秘密......",
                 "Redirect": "map|module",
                 "Go": "1562;app/SpetJiKongXuZuPanel"
+            },
+            {
+                "ID": 4395,
+                "DefName": "海棠教皇·未明",
+                "Type": "冰 神秘",
+                "Height": 188,
+                "Weight": 72,
+                "Features": "未明的超进化形态，海棠未眠，寒中绽放。一直以来困扰着未明的诅咒，终于在关键时刻化身为他的力量。教皇高声吟唱，宽恕那些罪恶之人的忏悔。",
+                "Redirect": "map|module",
+                "Go": "1563;app/SpetHTKHWMPanel"
+            },
+            {
+                "ID": 4396,
+                "DefName": "苦痛龙魇",
+                "Type": "暗影 龙",
+                "Height": 182,
+                "Weight": 75,
+                "Features": "古龙的力量被“节制”的契约提炼，这个被制造出来的怪物已经完全忘却了曾经的身世和记忆，他在释放罪恶的同时也承受着苦痛。",
+                "Redirect": "map|module",
+                "Go": "1563;app/SpetKTLYPanel"
+            },
+            {
+                "ID": 4397,
+                "DefName": "沐怜",
+                "Type": "冰 暗影",
+                "Height": 169,
+                "Weight": 48,
+                "Features": "2022年8月巅峰圣战精灵。以身殉葬，换彼永生！",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4398,
+                "DefName": "帕尔妮兹",
+                "Type": "电",
+                "Height": 178,
+                "Weight": 57,
+                "Features": "2022年8月包月精灵，十二冠灵之一，能够掌控雷电元素，飞云掣电，奔雷圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInAugust2022Panel"
             }
         ]
     }
