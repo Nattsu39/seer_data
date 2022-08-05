@@ -561,35 +561,54 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4395,
-                        "ImageID": 4395,
+                        "ID": 4400,
+                        "ImageID": 4400,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1563;app/SpetHTKHWMPanel"
+                        "Go": "1529;app/HalfAYearPetOutputPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4396,
-                        "ImageID": 4396,
+                        "ID": 4401,
+                        "ImageID": 4401,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1563;app/SpetKTLYPanel"
+                        "Go": "1564;app/SpetTeLuoSiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4397,
-                        "ImageID": 4397,
+                        "ID": 4402,
+                        "ImageID": 4402,
                         "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1564;app/WarTeamBossMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 481,
+                        "MonID": 4401,
+                        "ImageID": 481,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "1564;app/TanXunYouSuoGoToMapPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 482,
+                        "MonID": 4397,
+                        "ImageID": 482,
+                        "Label": 1,
                         "Redirect": "map",
                         "Go": 1095
                     },
                     {
-                        "type": 0,
-                        "ID": 4398,
-                        "ImageID": 4398,
-                        "Label": 0,
+                        "type": 1,
+                        "ID": 483,
+                        "MonID": 3661,
+                        "ImageID": 483,
+                        "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInAugust2022Panel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -19691,7 +19710,7 @@
                 "Type": "暗影",
                 "Height": 85,
                 "Weight": 42,
-                "Features": "暗之神能，赋予了撒格利加超进化的力量。脚踏绿色暗火，周身散发出毁灭一切生灵的气场。萨格诺恩不计较正邪，只在乎胜负。即使忘记自己的过去，它也记得自己生存的目标——成为胜者。",
+                "Features": "暗之神能，赋予了撒格利加超进化的力量。脚踏绿色暗火，周身散发出毁灭一切的气场。它不计较正邪，只在乎胜负，即使忘记自己的过去，也记得自己生存的目标——成为胜者。",
                 "mapID": 80
             },
             {
@@ -45645,6 +45664,36 @@
                 "Features": "2022年8月包月精灵，十二冠灵之一，能够掌控雷电元素，飞云掣电，奔雷圣冕！",
                 "Redirect": "map|module",
                 "Go": "103;app/MonthlyPetInAugust2022Panel"
+            },
+            {
+                "ID": 4400,
+                "DefName": "圣律剑灵",
+                "Type": "圣灵 神秘",
+                "Height": 1500,
+                "Weight": 800,
+                "Features": "圣剑诛敌之日，至序永生之时！",
+                "Redirect": "map|module",
+                "Go": "1529;app/HalfAYearPetOutputPanel"
+            },
+            {
+                "ID": 4401,
+                "DefName": "破世之拳·特罗斯",
+                "Type": "战斗 龙",
+                "Height": 177,
+                "Weight": 59,
+                "Features": "古龙的传承在血脉中涌现，残酷的记忆让特罗斯不得不接受洗礼......炽红的怒火褪去，幽蓝的魅焰再燃，毁天灭地的“力量”凝聚，这一拳，为了新生！",
+                "Redirect": "map|module",
+                "Go": "1564;app/SpetTeLuoSiMainPanel"
+            },
+            {
+                "ID": 4402,
+                "DefName": "冥炎·撒格利加",
+                "Type": "火 暗影",
+                "Height": 148,
+                "Weight": 48,
+                "Features": "曾是族群中羸弱的一支，无法随部族远行、未曾获得暗之神能的它们却在苦修中领悟了沉眠于血脉的冥炎之力！浴火长嗥，夜荧拂晓，重燃的鬼火将再度焚烬夜与光的边界…",
+                "Redirect": "map|module",
+                "Go": "1564;app/WarTeamBossMainPanel"
             }
         ]
     }

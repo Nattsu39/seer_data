@@ -13,7 +13,8 @@
             "image": "wish",
             "mapisshow": 0,
             "reddotid": 0,
-            "controller": ""
+            "controller": "",
+            "dailyRed": 0
         },
         {
             "id": 2,
@@ -28,7 +29,8 @@
             "image": "center",
             "mapisshow": 0,
             "reddotid": 0,
-            "controller": ""
+            "controller": "",
+            "dailyRed": 0
         },
         {
             "id": 3,
@@ -42,8 +44,9 @@
             "dest": 141,
             "image": "dailyTask",
             "mapisshow": 0,
-            "reddotid": 1,
-            "controller": ""
+            "reddotid": 0,
+            "controller": "NewSeerRedDotController",
+            "dailyRed": 0
         },
         {
             "id": 4,
@@ -57,8 +60,9 @@
             "dest": 84,
             "image": "nono",
             "mapisshow": 0,
-            "reddotid": 20,
-            "controller": ""
+            "reddotid": 0,
+            "controller": "VipGiftRedDotController",
+            "dailyRed": 0
         },
         {
             "id": 5,
@@ -73,7 +77,8 @@
             "image": "diamondTask",
             "mapisshow": 0,
             "reddotid": 0,
-            "controller": "DiamondTaskController"
+            "controller": "DiamondTaskController",
+            "dailyRed": 0
         }
     ]
 }

@@ -1,0 +1,205 @@
+{
+    "BattleEffects": {
+        "BattleEffect": [
+            {
+                "SubEffect": [
+                    {
+                        "ID": 0,
+                        "Name": "麻痹",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 1,
+                        "Name": "中毒",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 2,
+                        "Name": "烧伤",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 3,
+                        "Name": "寄生对手",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 4,
+                        "Name": "寄生",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 5,
+                        "Name": "冻伤",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 6,
+                        "Name": "害怕",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 7,
+                        "Name": "疲惫",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 8,
+                        "Name": "睡眠",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 9,
+                        "Name": "石化",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 10,
+                        "Name": "混乱",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 11,
+                        "Name": "衰弱",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 12,
+                        "Name": "山神守护",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 13,
+                        "Name": "易燃",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 14,
+                        "Name": "狂暴",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 15,
+                        "Name": "冰封",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 16,
+                        "Name": "流血",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 17,
+                        "Name": "免疫",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 18,
+                        "Name": "免疫",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 19,
+                        "Name": "瘫痪",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 20,
+                        "Name": "失明",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 21,
+                        "Name": "异常免疫",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 22,
+                        "Name": "焚烬",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 23,
+                        "Name": "诅咒",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 24,
+                        "Name": "烈焰诅咒",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 25,
+                        "Name": "致命诅咒",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 26,
+                        "Name": "虚弱诅咒",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 27,
+                        "Name": "感染",
+                        "Efftype": 0
+                    },
+                    {
+                        "ID": 28,
+                        "Name": "束缚",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 29,
+                        "Name": "失神",
+                        "Efftype": 1
+                    },
+                    {
+                        "ID": 30,
+                        "Name": "沉默",
+                        "Efftype": 1
+                    }
+                ],
+                "Type": 0,
+                "Name": "异常状态"
+            },
+            {
+                "SubEffect": [
+                    {
+                        "ID": 1,
+                        "Name": "攻击"
+                    },
+                    {
+                        "ID": 2,
+                        "Name": "防御"
+                    },
+                    {
+                        "ID": 3,
+                        "Name": "特攻"
+                    },
+                    {
+                        "ID": 4,
+                        "Name": "特防"
+                    },
+                    {
+                        "ID": 5,
+                        "Name": "速度"
+                    },
+                    {
+                        "ID": 6,
+                        "Name": "命中"
+                    }
+                ],
+                "Type": 1,
+                "Name": "战斗能力变化"
+            },
+            {
+                "SubEffect": {
+                    "ID": 1,
+                    "Name": "印记"
+                },
+                "Type": 2,
+                "Name": "印记"
+            }
+        ]
+    }
+}

@@ -11128,44 +11128,6 @@
                     "Details": {
                         "mc": 0,
                         "icon": 2,
-                        "monID": 4388
-                    },
-                    "ID": 2166,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220701,
-                    "End": 20220729,
-                    "Map": 1095,
-                    "Name": "7月巅峰联赛",
-                    "Title": "阿琳",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 1,
-                        "monID": 4389
-                    },
-                    "ID": 2160,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220701,
-                    "End": 20220729,
-                    "Map": 1529,
-                    "Name": "7月包月精灵",
-                    "Title": "莎尔索斯",
-                    "Redirect": "map|module",
-                    "Go": "1529;app/MonthlyPetInJuly2022Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
                         "monID": 4390
                     },
                     "ID": 2167,
@@ -11305,6 +11267,99 @@
                     "Title": "魔盒起源",
                     "Redirect": "map|module",
                     "Go": "1562;app/MainLineTask_3466"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2191,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220729,
+                    "End": "*",
+                    "Map": 1563,
+                    "Name": "【主线任务】龙魇伏沙",
+                    "Title": "龙魇伏沙",
+                    "Redirect": "map|module",
+                    "Go": "1563;app/MainLineTask_3467"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4396
+                    },
+                    "ID": 2192,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220729,
+                    "End": "*",
+                    "Map": 1563,
+                    "Name": "S苦痛龙魇",
+                    "Title": "苦痛龙魇",
+                    "Redirect": "map|module",
+                    "Go": "1563;app/SpetKTLYPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4395
+                    },
+                    "ID": 2193,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220729,
+                    "End": "*",
+                    "Map": 1563,
+                    "Name": "S海棠教皇·未明",
+                    "Title": "海棠教皇·未明",
+                    "Redirect": "map|module",
+                    "Go": "1563;app/SpetHTKHWMPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4398
+                    },
+                    "ID": 2194,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220729,
+                    "End": 20220902,
+                    "Map": 1529,
+                    "Name": "8月包月精灵",
+                    "Title": "帕尔妮兹",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInAugust2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4397
+                    },
+                    "ID": 2195,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220729,
+                    "End": 20220902,
+                    "Map": 1095,
+                    "Name": "8月巅峰联赛开启",
+                    "Title": "沐怜",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                 }
             ]
         },
@@ -35667,6 +35722,95 @@
                     "Title": "无治奇",
                     "Redirect": "map|module",
                     "Go": "1345;app/WuZhiQiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4388
+                    },
+                    "ID": 2166,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220701,
+                    "End": 20220729,
+                    "Map": 1095,
+                    "Name": "7月巅峰联赛",
+                    "Title": "阿琳",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4389
+                    },
+                    "ID": 2160,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220701,
+                    "End": 20220729,
+                    "Map": 1529,
+                    "Name": "7月包月精灵",
+                    "Title": "莎尔索斯",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInJuly2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2189,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220722,
+                    "End": 20220805,
+                    "Map": 103,
+                    "Name": "钻石奖励系统更新",
+                    "Title": "钻石奖励系统更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2196,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220729,
+                    "End": 20220805,
+                    "Map": 1529,
+                    "Name": "圣律剑灵即将登场",
+                    "Title": "圣律剑灵即将登场",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/HalfAYearPetPreheatingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2197,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220729,
+                    "End": 20220805,
+                    "Map": 11897,
+                    "Name": "暑期主题游乐园",
+                    "Title": "暑期主题游乐园",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/AmusementParkThemeMainPanel"
                 }
             ],
             "_text": [
@@ -35748,23 +35892,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2189,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220722,
-                    "End": 20220805,
-                    "Map": 103,
-                    "Name": "钻石奖励系统更新",
-                    "Title": "钻石奖励系统更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2190,
                     "isNew": 1,
                     "kinds": 1,
@@ -35777,133 +35904,6 @@
                     "Title": "星河商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2191,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220729,
-                    "End": "*",
-                    "Map": 1563,
-                    "Name": "【主线任务】龙魇伏沙",
-                    "Title": "龙魇伏沙",
-                    "Redirect": "map|module",
-                    "Go": "1563;app/MainLineTask_3467"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4396
-                    },
-                    "ID": 2192,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220729,
-                    "End": "*",
-                    "Map": 1563,
-                    "Name": "S苦痛龙魇",
-                    "Title": "苦痛龙魇",
-                    "Redirect": "map|module",
-                    "Go": "1563;app/SpetKTLYPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4395
-                    },
-                    "ID": 2193,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220729,
-                    "End": "*",
-                    "Map": 1563,
-                    "Name": "S海棠教皇·未明",
-                    "Title": "海棠教皇·未明",
-                    "Redirect": "map|module",
-                    "Go": "1563;app/SpetHTKHWMPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 1,
-                        "monID": 4398
-                    },
-                    "ID": 2194,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220729,
-                    "End": 20220902,
-                    "Map": 1529,
-                    "Name": "8月包月精灵",
-                    "Title": "帕尔妮兹",
-                    "Redirect": "map|module",
-                    "Go": "1529;app/MonthlyPetInAugust2022Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4397
-                    },
-                    "ID": 2195,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220729,
-                    "End": 20220902,
-                    "Map": 1095,
-                    "Name": "8月巅峰联赛开启",
-                    "Title": "沐怜",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2196,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220729,
-                    "End": 20220805,
-                    "Map": 1529,
-                    "Name": "圣律剑灵即将登场",
-                    "Title": "圣律剑灵即将登场",
-                    "Redirect": "map|module",
-                    "Go": "1529;app/HalfAYearPetPreheatingMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2197,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220729,
-                    "End": 20220805,
-                    "Map": 11897,
-                    "Name": "暑期主题游乐园",
-                    "Title": "暑期主题游乐园",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/AmusementParkThemeMainPanel"
                 },
                 {
                     "Details": {
@@ -35924,6 +35924,148 @@
                 },
                 {
                     "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2199,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220805,
+                    "End": "*",
+                    "Map": 1564,
+                    "Name": "【主线任务】逆鳞之怒",
+                    "Title": "逆鳞之怒",
+                    "Redirect": "map|module",
+                    "Go": "1564;app/MainLineTask_3468"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2200,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220805,
+                    "End": 20220812,
+                    "Map": 1564,
+                    "Name": "探寻幽所",
+                    "Title": "探寻幽所",
+                    "Redirect": "map|module",
+                    "Go": "1564;app/TanXunYouSuoGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 3,
+                        "monID": 4401
+                    },
+                    "ID": 2201,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220805,
+                    "End": "*",
+                    "Map": 1564,
+                    "Name": "S-破世之拳·特罗斯",
+                    "Title": "破世之拳·特罗斯",
+                    "Redirect": "map|module",
+                    "Go": "1564;app/SpetTeLuoSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2202,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220805,
+                    "End": 20220819,
+                    "Map": 103,
+                    "Name": "兌钻消费奖励系统更新",
+                    "Title": "兌钻消费奖励系统更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 3,
+                        "monID": 4400
+                    },
+                    "ID": 2203,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220805,
+                    "End": 20220819,
+                    "Map": 1529,
+                    "Name": "圣律剑灵",
+                    "Title": "圣律剑灵",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/HalfAYearPetOutputPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4402
+                    },
+                    "ID": 2204,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220805,
+                    "End": 20220819,
+                    "Map": 1,
+                    "Name": "冥炎·撒格利加",
+                    "Title": "冥炎·撒格利加",
+                    "Redirect": "module",
+                    "Go": "app/WarTeamBossMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2205,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220805,
+                    "End": 20220819,
+                    "Map": 1,
+                    "Name": "战队物资官抵达",
+                    "Title": "战队物资官抵达",
+                    "Redirect": "module",
+                    "Go": "app/TeamBusinessMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2206,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220805,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2,
                         "Des": "闪闪发光的漂流瓶里，蕴藏着无尽的宝藏，快来探索寻找吧！",
                         "Prize": "稀有精灵、培养道具、全能刻印、基地家具等"
@@ -35931,8 +36073,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220729,
-                    "End": 20220805,
+                    "Start": 20220805,
+                    "End": 20220812,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -35940,7 +36082,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2193,2194,2196,2197,2198"
+            "Important": "2200,2201,2203,2205,2206"
         }
     }
 }

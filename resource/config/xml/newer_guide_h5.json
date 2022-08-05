@@ -268,7 +268,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -528,7 +528,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -993,7 +993,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -1120,7 +1120,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -1247,7 +1247,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -1375,7 +1375,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -1675,7 +1675,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "handOffSet": "35,12",
                         "event": "click_button",
@@ -1913,7 +1913,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "385,123,104,126",
+                        "rect": "424,130,106,126",
                         "getRect": 3891,
                         "align": "left",
                         "androidOffSetX": 23,
@@ -1928,20 +1928,20 @@
                     },
                     {
                         "type": 5,
-                        "rect": "634,575,108,38",
+                        "rect": "707,539,85,33",
                         "align": "right",
                         "event": "click_button",
                         "handScaleX": 0.6,
                         "handScaleY": 0.6,
                         "eventArgs": "btnInBag",
                         "tipPos": "285,561",
-                        "tip": "点击【放入背包】按钮",
+                        "tip": "点击【加入背包】按钮",
                         "tipTitle": "从仓库取精灵",
                         "stat": "点击放入背包"
                     },
                     {
                         "type": 5,
-                        "rect": "263,225,98,119",
+                        "rect": "232,160,98,119",
                         "align": "center",
                         "rectType": 1,
                         "event": "replace_pet",
@@ -1955,7 +1955,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "594,361,127,40",
+                        "rect": "593,354,127,40",
                         "align": "center",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -1968,7 +1968,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "0,0,94,48",
+                        "rect": "14,6,142,37",
                         "handOffSet": "22,14",
                         "event": "click_button",
                         "handScaleX": 0.6,
@@ -2002,61 +2002,6 @@
                     }
                 ],
                 "step": 27,
-                "toolbar": "btnPet,btnInfo",
-                "npcs": "2,3,4,5,13"
-            },
-            {
-                "substep": [
-                    {
-                        "type": 5,
-                        "rect": "378,596,96,36",
-                        "handOffSet": "0,-94",
-                        "androidOffSetX": -60,
-                        "align": "right",
-                        "rectType": 1,
-                        "handType": 2,
-                        "condition": "1,10,0",
-                        "event": "click_button",
-                        "handScaleX": 0.6,
-                        "handScaleY": 0.6,
-                        "eventArgs": "btnPet",
-                        "stat": "点击精灵背包T3"
-                    },
-                    {
-                        "type": 9,
-                        "eventType": "open_module",
-                        "condition": "1,10,0"
-                    },
-                    {
-                        "type": 5,
-                        "rect": "680,68,102,258",
-                        "handOffSet": "7,59",
-                        "align": "right",
-                        "event": "select_pet",
-                        "handScaleX": 0.6,
-                        "handScaleY": 0.6,
-                        "eventArgs": 3891,
-                        "tipPos": "305,147",
-                        "tip": "首先需要选中你需要设为首发的精灵，点击：【未来·伊优】",
-                        "tipTitle": "设置首发精灵",
-                        "stat": "点击未来伊优S1"
-                    },
-                    {
-                        "type": 5,
-                        "rect": "680,68,102,258",
-                        "handType": 4,
-                        "align": "right",
-                        "event": "set_default",
-                        "handScaleX": 0.6,
-                        "handScaleY": 0.6,
-                        "eventArgs": 3891,
-                        "tipPos": "305,147",
-                        "tip": "拖动【未来·伊优】到【萌布布种子】位置",
-                        "tipTitle": "设置首发精灵",
-                        "stat": "拖动萌伊优S1"
-                    }
-                ],
-                "step": 28,
                 "toolbar": "btnPet,btnInfo",
                 "npcs": "2,3,4,5,13"
             }
