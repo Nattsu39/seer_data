@@ -561,54 +561,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4400,
-                        "ImageID": 4400,
+                        "ID": 4403,
+                        "ImageID": 4403,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1529;app/HalfAYearPetOutputPanel"
+                        "Go": "1565;app/SpetJuShiJingMoMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4401,
-                        "ImageID": 4401,
+                        "ID": 4404,
+                        "ImageID": 4404,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1564;app/SpetTeLuoSiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4402,
-                        "ImageID": 4402,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1564;app/WarTeamBossMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 481,
-                        "MonID": 4401,
-                        "ImageID": 481,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1564;app/TanXunYouSuoGoToMapPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 482,
-                        "MonID": 4397,
-                        "ImageID": 482,
-                        "Label": 1,
                         "Redirect": "map",
-                        "Go": 1095
+                        "Go": 1565
                     },
                     {
-                        "type": 1,
-                        "ID": 483,
-                        "MonID": 3661,
-                        "ImageID": 483,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4405,
+                        "ImageID": 4405,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1565;app/SpetSaLuoKeMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -32300,7 +32273,7 @@
             },
             {
                 "ID": 2950,
-                "DefName": "愤怒之神安格瑞",
+                "DefName": "安格瑞",
                 "Type": "地面 暗影",
                 "Height": 210,
                 "Weight": 180,
@@ -45694,6 +45667,36 @@
                 "Features": "曾是族群中羸弱的一支，无法随部族远行、未曾获得暗之神能的它们却在苦修中领悟了沉眠于血脉的冥炎之力！浴火长嗥，夜荧拂晓，重燃的鬼火将再度焚烬夜与光的边界…",
                 "Redirect": "map|module",
                 "Go": "1564;app/WarTeamBossMainPanel"
+            },
+            {
+                "ID": 4403,
+                "DefName": "巨噬晶魔",
+                "Type": "远古 邪灵",
+                "Height": 1332,
+                "Weight": 2458,
+                "Features": "潜藏于晶灵之渊深处的怪物，被喧闹的噪音所惊醒，发狂并开始四处破坏！",
+                "Redirect": "map|module",
+                "Go": "1565;app/SpetJuShiJingMoMainPanel"
+            },
+            {
+                "ID": 4404,
+                "DefName": "马里诺",
+                "Type": "战斗",
+                "Height": 58,
+                "Weight": 21,
+                "Features": "瓦普特号船员，别看他身材矮小，实力可不容小觑！",
+                "Redirect": "map",
+                "Go": 1565
+            },
+            {
+                "ID": 4405,
+                "DefName": "萨洛科",
+                "Type": "水 战斗",
+                "Height": 183,
+                "Weight": 75,
+                "Features": "瓦普特号先驱队队长，为人爽朗大方，擅长用锚作为武器，熟练的技艺让他每次都能精准命中目标！",
+                "Redirect": "map|module",
+                "Go": "1565;app/SpetSaLuoKeMainPanel"
             }
         ]
     }

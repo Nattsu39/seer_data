@@ -8,6 +8,7 @@
                 "BytePos": 0,
                 "ByteValue": 0,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_星愿漂流瓶可否许愿红点",
                 "From": "shopcenter:1|icon:shopcenter_icon"
             },
@@ -18,6 +19,7 @@
                 "BytePos": 0,
                 "ByteValue": 1,
                 "Judge": 1,
+                "forwhat": 1,
                 "tips": "最新礼包_刻印抽奖机页签红点,消耗掉每日赛尔豆抽取次数后消失",
                 "From": "shopcenter:2|icon:shopcenter_icon"
             },
@@ -28,16 +30,18 @@
                 "BytePos": 0,
                 "ByteValue": 0,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "主界面_【钻石任务】无每日任务/奖励待领取的情况下，则不显示",
                 "From": "icon:SeerTrainLog_icon"
             },
             {
                 "ID": 4,
                 "IsClick": 0,
-                "UserInfo": 125001,
-                "BytePos": 2,
-                "ByteValue": 6,
+                "UserInfo": 123520,
+                "BytePos": 4,
+                "ByteValue": 9,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "主界面_主线剧情提醒红点，完成当期主线剧情后消失",
                 "From": "icon:task_main_icon"
             },
@@ -48,8 +52,20 @@
                 "BytePos": 1,
                 "ByteValue": 8,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "主界面_【英雄圣殿巡回】更新提示红点，点击进入prepanel面板后消失",
                 "From": "icon:shengdianyingxiongtuan_icon"
+            },
+            {
+                "ID": 5,
+                "IsClick": 1,
+                "UserInfo": 121117,
+                "BytePos": 2,
+                "ByteValue": 18,
+                "Judge": 0,
+                "forwhat": 1,
+                "tips": "最新礼包_【一键极品限时优惠】更新提示红点，点击进入对应面板后消失",
+                "From": "shopcenter:4|icon:shopcenter_icon"
             },
             {
                 "ID": 7,
@@ -58,6 +74,7 @@
                 "BytePos": 3,
                 "ByteValue": 30,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "主界面_【公告中心】更新提示红点，点击进入公告中心面板后消失",
                 "From": "icon:announcement_icon"
             },
@@ -68,18 +85,20 @@
                 "BytePos": 4,
                 "ByteValue": 8,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "主界面_【尊享特权钻石月卡】更新提示红点，点击进入对应面板后消失",
-                "From": "shopcenter:10|icon:shopcenter_icon"
+                "From": "shopcenter:11|icon:shopcenter_icon"
             },
             {
                 "ID": 9,
                 "IsClick": 1,
                 "UserInfo": 121118,
                 "BytePos": 1,
-                "ByteValue": 15,
+                "ByteValue": 16,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【星河商店更新】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:8|icon:shopcenter_icon"
+                "From": "shopcenter:3|icon:shopcenter_icon"
             },
             {
                 "ID": 10,
@@ -88,8 +107,9 @@
                 "BytePos": 2,
                 "ByteValue": 8,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【铸魂羁绊开启】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:5|icon:shopcenter_icon"
+                "From": "shopcenter:7|icon:shopcenter_icon"
             },
             {
                 "ID": 11,
@@ -98,8 +118,9 @@
                 "BytePos": 3,
                 "ByteValue": 9,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【商城礼包更新】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:9|icon:shopcenter_icon"
+                "From": "shopcenter:10|icon:shopcenter_icon"
             },
             {
                 "ID": 12,
@@ -108,8 +129,9 @@
                 "BytePos": 4,
                 "ByteValue": 7,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【圣律剑灵降临】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:3|icon:shopcenter_icon"
+                "From": "shopcenter:5|icon:shopcenter_icon"
             },
             {
                 "ID": 13,
@@ -118,8 +140,9 @@
                 "BytePos": 1,
                 "ByteValue": 14,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【全新钻石奖励】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:4|icon:shopcenter_icon"
+                "From": "shopcenter:6|icon:shopcenter_icon"
             },
             {
                 "ID": 21,
@@ -128,8 +151,9 @@
                 "BytePos": 1,
                 "ByteValue": 2,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【圣殿英雄团归位】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:6|icon:shopcenter_icon"
+                "From": "shopcenter:8|icon:shopcenter_icon"
             },
             {
                 "ID": 22,
@@ -138,13 +162,20 @@
                 "BytePos": 1,
                 "ByteValue": 2,
                 "Judge": 0,
+                "forwhat": 1,
                 "tips": "最新礼包_【8月专属VIP精灵】提示红点，点击进入活动面板后红点消失",
-                "From": "shopcenter:7|icon:shopcenter_icon"
+                "From": "shopcenter:9|icon:shopcenter_icon"
+            },
+            {
+                "ID": 1001,
+                "IsClick": 1,
+                "UserInfo": 121224,
+                "BytePos": 2,
+                "ByteValue": 1,
+                "Judge": 0,
+                "forwhat": 2,
+                "tips": "H5_【星河长明商店】提示红点，点击进入活动面板后红点消失"
             }
-        ],
-        "_text": [
-            "  -->\r\n\t",
-            " -->\r\n\t\r\n\t"
         ]
     }
 }
