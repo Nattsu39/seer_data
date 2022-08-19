@@ -561,27 +561,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4403,
-                        "ImageID": 4403,
+                        "ID": 4406,
+                        "ImageID": 4406,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1565;app/SpetJuShiJingMoMainPanel"
+                        "Go": "1566;app/LostScoutMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4404,
-                        "ImageID": 4404,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1565
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4405,
-                        "ImageID": 4405,
+                        "ID": 4407,
+                        "ImageID": 4407,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1565;app/SpetSaLuoKeMainPanel"
+                        "Go": "1566;app/SpetCHXFMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 484,
+                        "MonID": 4347,
+                        "ImageID": 484,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45697,6 +45698,26 @@
                 "Features": "瓦普特号先驱队队长，为人爽朗大方，擅长用锚作为武器，熟练的技艺让他每次都能精准命中目标！",
                 "Redirect": "map|module",
                 "Go": "1565;app/SpetSaLuoKeMainPanel"
+            },
+            {
+                "ID": 4406,
+                "DefName": "赤虹凤灵",
+                "Type": "火",
+                "Height": 162,
+                "Weight": 37,
+                "Features": "赤虹仙凤为了节省气力并隐藏自己所退化而成的小形态，她跨越星河，为的是传达关键的情报和道具......",
+                "Redirect": "map|module",
+                "Go": "1566;app/LostScoutMainPanel"
+            },
+            {
+                "ID": 4407,
+                "DefName": "赤虹仙凤",
+                "Type": "火 飞行",
+                "Height": 196,
+                "Weight": 44,
+                "Features": "「太阳」的力量在安卡体内觉醒爆发，仙凤从红莲之火的燃烧中诞生！仙凤的出现代表了安卡不灭的意志，也揭示了安卡抗争的决心。",
+                "Redirect": "map|module",
+                "Go": "1566;app/SpetCHXFMainPanel"
             }
         ]
     }
