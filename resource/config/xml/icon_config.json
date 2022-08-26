@@ -95,7 +95,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3470"
+                "mouseClickFunc": "app:MainLineTask_3471"
             },
             {
                 "direction": "right",
@@ -114,16 +114,6 @@
                 "ui": "announcement_icon",
                 "tips": "公告中心",
                 "mouseClickFunc": "app:NoticeCenterMainPanel"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "seer13thGift_Icon",
-                "tips": "邮政联名礼盒每日放送！",
-                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:seer13thGiftIconInit",
-                "mouseClickFunc": "app:Serr13thAnniversaryHelpsGetGiftMainPanel"
             },
             {
                 "direction": "right_side",
@@ -150,7 +140,16 @@
                 "exMapList": 50000,
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
-                "mouseClickFunc": "app:DiamondTask201806MainPanel"
+                "mouseClickFunc": "app:DiamondTask2022MainPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "exchangemedal_icon",
+                "tips": "勋章兑换",
+                "mouseClickFunc": "app:DiamondTask201806AwardPanel"
             },
             {
                 "direction": "right_side",

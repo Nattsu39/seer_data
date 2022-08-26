@@ -11402,6 +11402,58 @@
                     "Title": "萨洛科",
                     "Redirect": "map|module",
                     "Go": "1565;app/SpetSaLuoKeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4407
+                    },
+                    "ID": 2213,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220819,
+                    "End": "*",
+                    "Map": 1566,
+                    "Name": "S-赤虹仙凤",
+                    "Title": "赤虹仙凤",
+                    "Redirect": "map|module",
+                    "Go": "1566;app/SpetCHXFMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2214,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220819,
+                    "End": "*",
+                    "Map": 1566,
+                    "Name": "【主线任务】失落红莲",
+                    "Title": "失落红莲",
+                    "Redirect": "map|module",
+                    "Go": "1566;app/MainLineTask_3470"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2215,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220819,
+                    "End": "*",
+                    "Map": 1566,
+                    "Name": "【支线任务】来自费尤",
+                    "Title": "来自费尤",
+                    "Redirect": "map|module",
+                    "Go": "1566;app/LaiZiYouFeiMainPanel"
                 }
             ]
         },
@@ -36093,15 +36145,7 @@
                     "Title": "伽玛·悍刀",
                     "Redirect": "map|module",
                     "Go": "1374;app/GammaKnivesMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -36123,23 +36167,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2183,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220715,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2198,
                     "isNew": 1,
                     "kinds": 1,
@@ -36152,92 +36179,6 @@
                     "Title": "圣殿英雄更新",
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2211,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220812,
-                    "End": 20220916,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4407
-                    },
-                    "ID": 2213,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220819,
-                    "End": "*",
-                    "Map": 1566,
-                    "Name": "S-赤虹仙凤",
-                    "Title": "赤虹仙凤",
-                    "Redirect": "map|module",
-                    "Go": "1566;app/SpetCHXFMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2214,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220819,
-                    "End": "*",
-                    "Map": 1566,
-                    "Name": "【主线任务】失落红莲",
-                    "Title": "失落红莲",
-                    "Redirect": "map|module",
-                    "Go": "1566;app/MainLineTask_3470"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2215,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220819,
-                    "End": "*",
-                    "Map": 1566,
-                    "Name": "【支线任务】来自费尤",
-                    "Title": "来自费尤",
-                    "Redirect": "map|module",
-                    "Go": "1566;app/LaiZiYouFeiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2216,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220819,
-                    "End": 20220902,
-                    "Map": 1566,
-                    "Name": "星海的研究",
-                    "Title": "星海的研究",
-                    "Redirect": "map|module",
-                    "Go": "1566;app/ResearchOnXinghaiMainPanel"
                 },
                 {
                     "Details": {
@@ -36258,6 +36199,83 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "monID": 4406
+                    },
+                    "ID": 2219,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220819,
+                    "End": 20220826,
+                    "Map": 1566,
+                    "Name": "赤虹凤灵",
+                    "Title": "赤虹凤灵",
+                    "Redirect": "map|module",
+                    "Go": "1566;app/Aggregate20220819MianPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2183,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220715,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2211,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220812,
+                    "End": 20220916,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2216,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220819,
+                    "End": 20220902,
+                    "Map": 1566,
+                    "Name": "星海的研究",
+                    "Title": "星海的研究",
+                    "Redirect": "map|module",
+                    "Go": "1566;app/ResearchOnXinghaiMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 1
                     },
                     "ID": 2218,
@@ -36275,21 +36293,124 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4406
+                        "mc": 2
                     },
-                    "ID": 2219,
+                    "ID": 2220,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220826,
+                    "End": 20220902,
+                    "Map": 1567,
+                    "Name": "初登瓦普特号",
+                    "Title": "初登瓦普特号",
+                    "Redirect": "map|module",
+                    "Go": "1567;app/ChuDengWaPuTeGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4410
+                    },
+                    "ID": 2221,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20220819,
-                    "End": 20220826,
-                    "Map": 1566,
-                    "Name": "赤虹凤灵",
-                    "Title": "赤虹凤灵",
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 1153,
+                    "Name": "功勋商城神宠来袭",
+                    "Title": "墨锋",
                     "Redirect": "map|module",
-                    "Go": "1566;app/Aggregate20220819MianPanel"
+                    "Go": "1153;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2222,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220826,
+                    "End": 20220902,
+                    "Map": 1095,
+                    "Name": "巅峰圣战激励赛",
+                    "Title": "巅峰圣战激励赛",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2223,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220826,
+                    "End": 20220902,
+                    "Map": 103,
+                    "Name": "绝版萌宠大集结",
+                    "Title": "绝版萌宠大集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/IndianaSpirit0505MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2224,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 1567,
+                    "Name": "【主线任务】星间航行",
+                    "Title": "星间航行",
+                    "Redirect": "map|module",
+                    "Go": "1567;app/MainLineTask_3471"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4408
+                    },
+                    "ID": 2225,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 1567,
+                    "Name": "S-派利尔",
+                    "Title": "派利尔",
+                    "Redirect": "map|module",
+                    "Go": "1567;app/SpetPLEMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2226,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "天启帝君巡回",
+                    "Title": "天启帝君巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
                 },
                 {
                     "Details": {
@@ -36300,8 +36421,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220819,
-                    "End": 20220826,
+                    "Start": 20220826,
+                    "End": 20220902,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -36309,7 +36430,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2213,2214,2215,22116,2217"
+            "Important": "2220,2222,2223,2225"
         }
     }
 }

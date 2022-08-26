@@ -561,28 +561,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4406,
-                        "ImageID": 4406,
+                        "ID": 4408,
+                        "ImageID": 4408,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1566;app/LostScoutMainPanel"
+                        "Go": "1567;app/SpetPLEMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4407,
-                        "ImageID": 4407,
+                        "ID": 4409,
+                        "ImageID": 4409,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1566;app/SpetCHXFMainPanel"
+                        "Redirect": "map",
+                        "Go": 1567
                     },
                     {
-                        "type": 1,
-                        "ID": 484,
-                        "MonID": 4347,
-                        "ImageID": 484,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4410,
+                        "ImageID": 4410,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1147;app/PveRewardMallMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45687,7 +45686,7 @@
                 "Weight": 21,
                 "Features": "瓦普特号船员，别看他身材矮小，实力可不容小觑！",
                 "Redirect": "map",
-                "Go": 1565
+                "Go": 1567
             },
             {
                 "ID": 4405,
@@ -45718,6 +45717,36 @@
                 "Features": "「太阳」的力量在安卡体内觉醒爆发，仙凤从红莲之火的燃烧中诞生！仙凤的出现代表了安卡不灭的意志，也揭示了安卡抗争的决心。",
                 "Redirect": "map|module",
                 "Go": "1566;app/SpetCHXFMainPanel"
+            },
+            {
+                "ID": 4408,
+                "DefName": "派利尔",
+                "Type": "光 超能",
+                "Height": 52,
+                "Weight": 23,
+                "Features": "瓦普特号的护航员，工作认真负责的他每天都会按时在飞船周围巡视，确保航线上一切正常。",
+                "Redirect": "map|module",
+                "Go": "1567;app/SpetPLEMainPanel"
+            },
+            {
+                "ID": 4409,
+                "DefName": "诺拉",
+                "Type": "电 冰",
+                "Height": 68,
+                "Weight": 26,
+                "Features": "来自盖伦星系的住民，为了逃难跟随大部队登上了瓦普特号，一般会在晚上的时候前往顶层甲板活动。",
+                "Redirect": "map",
+                "Go": 1567
+            },
+            {
+                "ID": 4410,
+                "DefName": "墨锋",
+                "Type": "暗影 神秘",
+                "Height": 187,
+                "Weight": 74,
+                "Features": "全新的功勋兑换精灵，原本只是一介平民，现在以笔为刃为正纲常，用墨水记录世道炎凉与家国兴衰。",
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel"
             }
         ]
     }
