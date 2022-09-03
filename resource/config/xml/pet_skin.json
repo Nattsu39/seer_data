@@ -8021,9 +8021,61 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "魔剪·塞泽丝",
-                "Go": 103,
-                "GoType": "map"
+                "Name": "魔剪·塞泽丝"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 485,
+                "MonID": 4387,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "盗月假面·坦普瑞",
+                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 486,
+                "MonID": 4061,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 9,
+                "Name": "图书委员·法莉",
+                "Go": "11897;app/SchoolOpensGoToMapPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 487,
+                "MonID": 3465,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "美味盛典·缪斯",
+                "Go": "1;app/BurgerKinglinkageMianPanel",
+                "GoType": "map|module"
             }
         ]
     }

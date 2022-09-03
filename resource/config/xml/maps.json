@@ -42967,8 +42967,8 @@
             {
                 "ID": 1423,
                 "Name": "裂缝边界",
-                "InitX": 500,
-                "InitY": 400
+                "InitX": 267,
+                "InitY": 429
             },
             {
                 "ID": 1424,
@@ -44769,14 +44769,50 @@
                 "InitY": 400
             },
             {
+                "ID": 1568,
+                "Name": "狭间船廊",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
                 "InitY": 400
             },
             {
+                "ID": 2002,
+                "Name": "船长室",
+                "InitX": 104,
+                "InitY": 446
+            },
+            {
+                "ID": 2003,
+                "Name": "精灵中心",
+                "InitX": 707,
+                "InitY": 429
+            },
+            {
+                "ID": 2004,
+                "Name": "传送舱",
+                "InitX": 496,
+                "InitY": 304
+            },
+            {
+                "ID": 2005,
+                "Name": "瞭望舱",
+                "InitX": 56,
+                "InitY": 330
+            },
+            {
+                "ID": 2006,
+                "Name": "瞭望露台",
+                "InitX": 200,
+                "InitY": 460
+            },
+            {
                 "ID": 2007,
-                "Name": "发明室",
+                "Name": "VIP殿堂",
                 "InitX": 300,
                 "InitY": 270
             },
@@ -44787,26 +44823,46 @@
                 "InitY": 430
             },
             {
-                "Bosses": {
-                    "Boss": {
-                        "BossMon": {
-                            "MonID": 16,
-                            "Hp": 200,
-                            "Lv": 50,
-                            "Name": "仙人球"
-                        },
-                        "Id": 1,
-                        "AppearTime": "0 23",
-                        "PkFlag": 1,
-                        "BossCatchable": 1,
-                        "BossVisible": 0,
-                        "WinBonusId": 3488
-                    }
-                },
-                "ID": 2003,
-                "Name": "克洛斯沼泽",
-                "InitX": 500,
-                "InitY": 400
+                "ID": 2009,
+                "Name": "活动中心",
+                "InitX": 280,
+                "InitY": 440
+            },
+            {
+                "ID": 2010,
+                "Name": "能源中心",
+                "InitX": 237,
+                "InitY": 432
+            },
+            {
+                "ID": 2011,
+                "Name": "机械室",
+                "InitX": 456,
+                "InitY": 143
+            },
+            {
+                "ID": 2012,
+                "Name": "资料室",
+                "InitX": 156,
+                "InitY": 358
+            },
+            {
+                "ID": 2013,
+                "Name": "暂未开放（星际银行）",
+                "InitX": 0,
+                "InitY": 0
+            },
+            {
+                "ID": 2014,
+                "Name": "放映厅",
+                "InitX": 226,
+                "InitY": 458
+            },
+            {
+                "ID": 2015,
+                "Name": "教官办公室",
+                "InitX": 800,
+                "InitY": 249
             },
             {
                 "Monsters": {
@@ -53739,8 +53795,8 @@
             {
                 "ID": 3422,
                 "Name": "裂缝边界",
-                "InitX": 500,
-                "InitY": 400
+                "InitX": 267,
+                "InitY": 429
             },
             {
                 "ID": 3423,
@@ -54191,12 +54247,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1567,
+                    "RandMaps": 1568,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1567,
+                    "RandMaps": 1568,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -54208,7 +54264,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20220826,
+                "ID": 20220902,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

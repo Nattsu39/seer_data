@@ -11454,6 +11454,59 @@
                     "Title": "来自费尤",
                     "Redirect": "map|module",
                     "Go": "1566;app/LaiZiYouFeiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4410
+                    },
+                    "ID": 2221,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 1153,
+                    "Name": "功勋商城神宠来袭",
+                    "Title": "墨锋",
+                    "Redirect": "map|module",
+                    "Go": "1153;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2224,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 1567,
+                    "Name": "【主线任务】星间航行",
+                    "Title": "星间航行",
+                    "Redirect": "map|module",
+                    "Go": "1567;app/MainLineTask_3471"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4408
+                    },
+                    "ID": 2225,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220826,
+                    "End": "*",
+                    "Map": 1567,
+                    "Name": "S-派利尔",
+                    "Title": "派利尔",
+                    "Redirect": "map|module",
+                    "Go": "1567;app/SpetPLEMainPanel"
                 }
             ]
         },
@@ -36214,48 +36267,6 @@
                     "Title": "赤虹凤灵",
                     "Redirect": "map|module",
                     "Go": "1566;app/Aggregate20220819MianPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2183,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220715,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2211,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220812,
-                    "End": 20220916,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -36310,24 +36321,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4410
-                    },
-                    "ID": 2221,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220826,
-                    "End": "*",
-                    "Map": 1153,
-                    "Name": "功勋商城神宠来袭",
-                    "Title": "墨锋",
-                    "Redirect": "map|module",
-                    "Go": "1153;app/PveRewardMallMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2222,
@@ -36359,41 +36352,48 @@
                     "Title": "绝版萌宠大集结",
                     "Redirect": "map|module",
                     "Go": "103;app/IndianaSpirit0505MainPanel"
-                },
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 2224,
+                    "ID": 2183,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220826,
+                    "Type": 1,
+                    "Start": 20220715,
                     "End": "*",
-                    "Map": 1567,
-                    "Name": "【主线任务】星间航行",
-                    "Title": "星间航行",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
                     "Redirect": "map|module",
-                    "Go": "1567;app/MainLineTask_3471"
+                    "Go": "103;app/SupermarketPanel"
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4408
+                        "mc": 1
                     },
-                    "ID": 2225,
+                    "ID": 2211,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220826,
-                    "End": "*",
-                    "Map": 1567,
-                    "Name": "S-派利尔",
-                    "Title": "派利尔",
+                    "Type": 1,
+                    "Start": 20220812,
+                    "End": 20220916,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
                     "Redirect": "map|module",
-                    "Go": "1567;app/SpetPLEMainPanel"
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -36405,12 +36405,134 @@
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20220826,
-                    "End": "*",
+                    "End": 20220930,
                     "Map": 103,
                     "Name": "天启帝君巡回",
                     "Title": "天启帝君巡回",
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2233,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220902,
+                    "End": "*",
+                    "Map": 1568,
+                    "Name": "【主线任务】时空漫游",
+                    "Title": "时空漫游",
+                    "Redirect": "map|module",
+                    "Go": "1568;app/MainLineTask_3472"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4411
+                    },
+                    "ID": 2227,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220902,
+                    "End": "*",
+                    "Map": 1568,
+                    "Name": "S-巴尔奇",
+                    "Title": "巴尔奇",
+                    "Redirect": "map|module",
+                    "Go": "1568;app/SpetBaErQiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4413
+                    },
+                    "ID": 2228,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220902,
+                    "End": 20220930,
+                    "Map": 1529,
+                    "Name": "9月包月精灵",
+                    "Title": "玛奇尤姆",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInSeptember2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4412
+                    },
+                    "ID": 2229,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220902,
+                    "End": 20220930,
+                    "Map": 1095,
+                    "Name": "9月巅峰联赛开启",
+                    "Title": "沙娅",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2230,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220902,
+                    "End": 20220909,
+                    "Map": 11897,
+                    "Name": "喜迎开学季",
+                    "Title": "喜迎开学季",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/SchoolOpensGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2231,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220902,
+                    "End": 20220909,
+                    "Map": 11897,
+                    "Name": "[开学送皮肤]寻找迷路的精灵",
+                    "Title": "寻找迷路的精灵",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/FindLostStudentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2232,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220902,
+                    "End": 20220916,
+                    "Map": 103,
+                    "Name": "兌钻奖励系统更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
@@ -36421,8 +36543,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220826,
-                    "End": 20220902,
+                    "Start": 20220902,
+                    "End": 20220909,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -36430,7 +36552,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2220,2222,2223,2225"
+            "Important": "2227,2229,2230,2231,2232"
         }
     }
 }

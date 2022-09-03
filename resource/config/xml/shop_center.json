@@ -20,31 +20,33 @@
             {
                 "id": 3,
                 "type": 1,
-                "title": "绝版萌宠大集结",
-                "picture": 128,
+                "title": "全新钻石奖励",
+                "picture": 131,
                 "sort": 3,
-                "start": 20200527,
-                "mouseClickFunc": "app:IndianaSpirit0505MainPanel",
+                "start": 20220902,
+                "end": 20220916,
+                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
                 "Tag": 1
             },
             {
                 "id": 4,
                 "type": 1,
-                "title": "天启帝君巡回",
-                "picture": 129,
+                "title": "9月专属VIP精灵",
+                "picture": 132,
                 "sort": 4,
-                "start": 20200527,
-                "mouseClickFunc": "app:TempleHeroAltarPrePanel",
-                "Tag": 1
+                "start": 20220902,
+                "end": 20220930,
+                "mouseClickFunc": "app:MonthlyPetInSeptember2022Panel",
+                "Tag": 2
             },
             {
                 "id": 5,
                 "type": 1,
-                "title": "全新钻石奖励",
-                "picture": 127,
+                "title": "天启帝君巡回",
+                "picture": 129,
                 "sort": 5,
                 "start": 20200527,
-                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
+                "mouseClickFunc": "app:TempleHeroAltarPrePanel",
                 "Tag": 1
             },
             {
@@ -70,20 +72,9 @@
             {
                 "id": 8,
                 "type": 1,
-                "title": "8月专属VIP精灵",
-                "picture": 121,
-                "sort": 8,
-                "start": 20220729,
-                "end": 20220902,
-                "mouseClickFunc": "app:MonthlyPetInAugust2022Panel",
-                "Tag": 2
-            },
-            {
-                "id": 9,
-                "type": 1,
                 "title": "商城礼包更新",
                 "picture": 115,
-                "sort": 9,
+                "sort": 8,
                 "start": 20211105,
                 "mouseClickFunc": "app:SupermarketPanel",
                 "Tag": 2
