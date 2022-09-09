@@ -561,54 +561,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4411,
-                        "ImageID": 4411,
+                        "ID": 4414,
+                        "ImageID": 4414,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1568;app/SpetBaErQiMainPanel"
+                        "Go": "1569;app/SpetWaPuTeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4412,
-                        "ImageID": 4412,
+                        "ID": 4415,
+                        "ImageID": 4415,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1095
+                        "Redirect": "map|module",
+                        "Go": "11897;app/ZTHDExchangePanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4413,
-                        "ImageID": 4413,
+                        "ID": 4416,
+                        "ImageID": 4416,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInSeptember2022Panel"
+                        "Go": "11897;app/ZTHDExchangePanel"
                     },
                     {
                         "type": 1,
-                        "ID": 485,
-                        "MonID": 4387,
-                        "ImageID": 485,
+                        "ID": 488,
+                        "MonID": 4327,
+                        "ImageID": 488,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/WarKingMixedDarkCuteLeatherSalesMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 486,
-                        "MonID": 4061,
-                        "ImageID": 486,
+                        "ID": 489,
+                        "MonID": 3941,
+                        "ImageID": 489,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "11897;app/SchoolOpensGoToMapPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 487,
-                        "MonID": 3465,
-                        "ImageID": 487,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1;app/BurgerKinglinkageMianPanel"
+                        "Go": "103;app/WarKingMixedDarkCuteLeatherSalesMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45804,6 +45795,36 @@
                 "Features": "2022年9月包月精灵，十二冠灵之一，能够掌控超能元素，三相聚能，幻念圣冕！",
                 "Redirect": "map|module",
                 "Go": "103;app/MonthlyPetInSeptember2022Panel"
+            },
+            {
+                "ID": 4414,
+                "DefName": "瓦普特",
+                "Type": "圣灵 次元",
+                "Height": 178,
+                "Weight": 59,
+                "Features": "瓦普特号的船长终于现身！星辰后裔，威仪一方，故乡在另一个“莱达宇宙”的她，身上究竟还知晓着多少秘密......",
+                "Redirect": "map|module",
+                "Go": "1569;app/SpetWaPuTeMainPanel"
+            },
+            {
+                "ID": 4415,
+                "DefName": "月光·阿尔达拉",
+                "Type": "光 飞行",
+                "Height": 142,
+                "Weight": 64,
+                "Features": "在满月女神的赐福下，月光一族获得了源自神庭的强大力量。率先觉醒的阿尔达拉，因此进化到了全新的形态！",
+                "Redirect": "map|module",
+                "Go": "11897;app/ZTHDExchangePanel"
+            },
+            {
+                "ID": 4416,
+                "DefName": "月影·阿德莱特",
+                "Type": "暗影",
+                "Height": 181,
+                "Weight": 80,
+                "Features": "潘神的灵魂占据了阿德莱特之躯，月影军团不复存在。但月光一族的宿敌并未消失，月影•阿德莱特将为它们带来更深的恐惧！",
+                "Redirect": "map|module",
+                "Go": "11897;app/ZTHDExchangePanel"
             }
         ]
     }

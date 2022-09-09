@@ -2556,23 +2556,6 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "icon": 2,
-                        "monID": 3895
-                    },
-                    "ID": 614,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20190628,
-                    "End": "*",
-                    "Map": 1386,
-                    "Name": "尼尔尼奥兄弟合体",
-                    "Title": "艾斯德诺",
-                    "Redirect": "map|module",
-                    "Go": "1386;app/NiErNiAoBrotherMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
                         "icon": 1,
                         "monID": 3897
                     },
@@ -4089,23 +4072,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4017
-                    },
-                    "ID": 955,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20200228,
-                    "End": "*",
-                    "Map": 1422,
-                    "Name": "S20辰星石守护者",
-                    "Title": "圣辰之铠",
-                    "Redirect": "map|module",
-                    "Go": "1422;app/S20ChenxingStoneGuardianMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2,
                         "Des": "因果，冥冥之中自有定数，轮回，死亡过后亦有新生。迷途的猫儿，是否还有希望追逐？残破的魔界，是否还有道路可寻？锁定本周更新主线，一起来揭秘！",
                         "Prize": "特攻学习力注入剂Ω、十万经验券、泰坦之灵、萌萌猫爪"
@@ -5236,23 +5202,6 @@
                     "Title": "喋血·哀影疾风",
                     "Redirect": "map|module",
                     "Go": "1443;app/S40AiYingJiFengMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4082
-                    },
-                    "ID": 1142,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20200703,
-                    "End": "*",
-                    "Map": 1443,
-                    "Name": "S41苏格尔",
-                    "Title": "苏格尔",
-                    "Redirect": "map|module",
-                    "Go": "1443;app/S41YanDuoGeerMainPanel"
                 },
                 {
                     "Details": {
@@ -11223,44 +11172,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 1,
-                        "monID": 4398
-                    },
-                    "ID": 2194,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220729,
-                    "End": 20220902,
-                    "Map": 1529,
-                    "Name": "8月包月精灵",
-                    "Title": "帕尔妮兹",
-                    "Redirect": "map|module",
-                    "Go": "1529;app/MonthlyPetInAugust2022Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4397
-                    },
-                    "ID": 2195,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220729,
-                    "End": 20220902,
-                    "Map": 1095,
-                    "Name": "8月巅峰联赛开启",
-                    "Title": "沐怜",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2199,
@@ -11507,6 +11418,77 @@
                     "Title": "派利尔",
                     "Redirect": "map|module",
                     "Go": "1567;app/SpetPLEMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2233,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220902,
+                    "End": "*",
+                    "Map": 1568,
+                    "Name": "【主线任务】时空漫游",
+                    "Title": "时空漫游",
+                    "Redirect": "map|module",
+                    "Go": "1568;app/MainLineTask_3472"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4411
+                    },
+                    "ID": 2227,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220902,
+                    "End": "*",
+                    "Map": 1568,
+                    "Name": "S-巴尔奇",
+                    "Title": "巴尔奇",
+                    "Redirect": "map|module",
+                    "Go": "1568;app/SpetBaErQiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4413
+                    },
+                    "ID": 2228,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220902,
+                    "End": 20220930,
+                    "Map": 1529,
+                    "Name": "9月包月精灵",
+                    "Title": "玛奇尤姆",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInSeptember2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4412
+                    },
+                    "ID": 2229,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220902,
+                    "End": 20220930,
+                    "Map": 1095,
+                    "Name": "9月巅峰联赛开启",
+                    "Title": "沙娅",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                 }
             ]
         },
@@ -36352,15 +36334,45 @@
                     "Title": "绝版萌宠大集结",
                     "Redirect": "map|module",
                     "Go": "103;app/IndianaSpirit0505MainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4398
+                    },
+                    "ID": 2194,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220729,
+                    "End": 20220902,
+                    "Map": 1529,
+                    "Name": "8月包月精灵",
+                    "Title": "帕尔妮兹",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInAugust2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4397
+                    },
+                    "ID": 2195,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220729,
+                    "End": 20220902,
+                    "Map": 1095,
+                    "Name": "8月巅峰联赛开启",
+                    "Title": "沐怜",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -36377,111 +36389,6 @@
                     "Title": "商城礼包更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2211,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220812,
-                    "End": 20220916,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2226,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220826,
-                    "End": 20220930,
-                    "Map": 103,
-                    "Name": "天启帝君巡回",
-                    "Title": "天启帝君巡回",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2233,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220902,
-                    "End": "*",
-                    "Map": 1568,
-                    "Name": "【主线任务】时空漫游",
-                    "Title": "时空漫游",
-                    "Redirect": "map|module",
-                    "Go": "1568;app/MainLineTask_3472"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4411
-                    },
-                    "ID": 2227,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220902,
-                    "End": "*",
-                    "Map": 1568,
-                    "Name": "S-巴尔奇",
-                    "Title": "巴尔奇",
-                    "Redirect": "map|module",
-                    "Go": "1568;app/SpetBaErQiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4413
-                    },
-                    "ID": 2228,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220902,
-                    "End": 20220930,
-                    "Map": 1529,
-                    "Name": "9月包月精灵",
-                    "Title": "玛奇尤姆",
-                    "Redirect": "map|module",
-                    "Go": "1529;app/MonthlyPetInSeptember2022Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4412
-                    },
-                    "ID": 2229,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220902,
-                    "End": 20220930,
-                    "Map": 1095,
-                    "Name": "9月巅峰联赛开启",
-                    "Title": "沙娅",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                 },
                 {
                     "Details": {
@@ -36519,6 +36426,99 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4017
+                    },
+                    "ID": 955,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20200228,
+                    "End": "*",
+                    "Map": 1422,
+                    "Name": "S20辰星石守护者",
+                    "Title": "圣辰之铠",
+                    "Redirect": "map|module",
+                    "Go": "1422;app/S20ChenxingStoneGuardianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3895
+                    },
+                    "ID": 614,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20190628,
+                    "End": "*",
+                    "Map": 1386,
+                    "Name": "尼尔尼奥兄弟合体",
+                    "Title": "艾斯德诺",
+                    "Redirect": "map|module",
+                    "Go": "1386;app/NiErNiAoBrotherMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4082
+                    },
+                    "ID": 1142,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20200703,
+                    "End": "*",
+                    "Map": 1443,
+                    "Name": "S41苏格尔",
+                    "Title": "苏格尔",
+                    "Redirect": "map|module",
+                    "Go": "1443;app/S41YanDuoGeerMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2211,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220812,
+                    "End": 20220916,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2226,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220826,
+                    "End": 20220930,
+                    "Map": 103,
+                    "Name": "天启帝君巡回",
+                    "Title": "天启帝君巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
                         "mc": 1
                     },
                     "ID": 2232,
@@ -36536,6 +36536,145 @@
                 },
                 {
                     "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2234,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 1569,
+                    "Name": "【主线任务】星宿凝聚",
+                    "Title": "星宿凝聚",
+                    "Redirect": "map|module",
+                    "Go": "1569;app/MainLineTask_3473"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4414
+                    },
+                    "ID": 2235,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 1569,
+                    "Name": "S-瓦普特",
+                    "Title": "瓦普特",
+                    "Redirect": "map|module",
+                    "Go": "1569;app/SpetWaPuTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2236,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220909,
+                    "End": 20220916,
+                    "Map": 103,
+                    "Name": "精灵王萌版新装",
+                    "Title": "精灵王萌版新装",
+                    "Redirect": "map|module",
+                    "Go": "103;app/WarKingMixedDarkCuteLeatherSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2237,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220909,
+                    "End": 20220916,
+                    "Map": 11897,
+                    "Name": "夜影伴月圆",
+                    "Title": "夜影伴月圆",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ZTHDJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2238,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4415
+                    },
+                    "ID": 2239,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220909,
+                    "End": 20220916,
+                    "Map": 11897,
+                    "Name": "月光·阿尔达拉",
+                    "Title": "月光·阿尔达拉",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ZTHDJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4416
+                    },
+                    "ID": 2240,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220909,
+                    "End": 20220916,
+                    "Map": 11897,
+                    "Name": "月影·阿德莱特",
+                    "Title": "月影·阿德莱特",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ZTHDJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2241,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220910,
+                    "End": 20220913,
+                    "Map": 11897,
+                    "Name": "中秋签到好礼",
+                    "Title": "中秋签到好礼",
+                    "Redirect": "alarm",
+                    "Go": "请前往赛《赛尔号·巅峰之战》进行签到，领取节日好礼吧！"
+                },
+                {
+                    "Details": {
                         "mc": 2,
                         "Des": "闪闪发光的漂流瓶里，蕴藏着无尽的宝藏，快来探索寻找吧！",
                         "Prize": "稀有精灵、培养道具、全能刻印、基地家具等"
@@ -36543,8 +36682,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220902,
-                    "End": 20220909,
+                    "Start": 20220909,
+                    "End": 20220916,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -36552,7 +36691,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2227,2229,2230,2231,2232"
+            "Important": "2235,2236,2237,2238"
         }
     }
 }
