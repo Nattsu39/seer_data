@@ -1,5 +1,5 @@
 {
-    "version": 1662692992661,
+    "version": 1662778167901,
     "files": {
         "resource": {
             "config": {
@@ -68,7 +68,7 @@
                     "furniture.json": "furniture_7febab02.json",
                     "room.json": "room_b8371e58.json",
                     "new_starmaplist.json": "new_starmaplist_687a3902.json",
-                    "new_starmap.json": "new_starmap_4e643e52.json"
+                    "new_starmap.json": "new_starmap_91116aae.json"
                 },
                 "xml": {
                     "effectInfo.json": "effectInfo_2ce56b2c.json",
@@ -99,7 +99,7 @@
                     "ogre.json": "ogre_bb13e66f.json",
                     "maps.json": "maps_6c35dcf4.json",
                     "effectIcon.json": "effectIcon_5010d7d5.json",
-                    "petbook.json": "petbook_ee8e71d3.json",
+                    "petbook.json": "petbook_636f2613.json",
                     "petbook0131.json": "petbook0131_d10aaf05.json",
                     "pvp_peak_battle_clearing_bonus.json": "pvp_peak_battle_clearing_bonus_705406c2.json",
                     "itemType.json": "itemType_ba58fd0a.json",
@@ -132,7 +132,7 @@
                     "JackPotShop.json": "JackPotShop_3e1fc9c2.json",
                     "pet_anchor.json": "pet_anchor_79da7740.json",
                     "super_design.json": "super_design_6e8b9faa.json",
-                    "Fragment.json": "Fragment_c9a1f433.json",
+                    "Fragment.json": "Fragment_7fc922ff.json",
                     "Wishskin.json": "Wishskin_a708cf1b.json",
                     "Wishrank.json": "Wishrank_d70eefd.json",
                     "ActivityMapEventReward.json": "ActivityMapEventReward_5731fd5.json",
@@ -143,14 +143,14 @@
                     "Wishpart.json": "Wishpart_1b62aa7c.json",
                     "petbagtimeseffect.json": "petbagtimeseffect_bd80369f.json",
                     "new_se.json": "new_se_30b9004d.json",
-                    "new_super_design.json": "new_super_design_9d3f49b1.json",
+                    "new_super_design.json": "new_super_design_73d4c710.json",
                     "item_msg_config.json": "item_msg_config_527f43c5.json",
                     "CEDEventInfo.json": "CEDEventInfo_2f2de03f.json",
                     "meritSystemOnline.json": "meritSystemOnline_386630f5.json",
                     "titanlode.json": "titanlode_3f1282de.json",
                     "NationaltemplecardGroup.json": "NationaltemplecardGroup_cd778172.json",
                     "NationaltemplecardEffect.json": "NationaltemplecardEffect_6bcb4fd3.json",
-                    "dialog.json": "dialog_621f2fa1.json",
+                    "dialog.json": "dialog_f5401c60.json",
                     "gems.json": "gems_7ee1f042.json",
                     "shop_center.json": "shop_center_83b4397c.json",
                     "tuijianjingling.json": "tuijianjingling_b973f0a8.json",
@@ -167,7 +167,7 @@
                     "SpringTaskInfo.json": "SpringTaskInfo_a9a0c80a.json",
                     "redbutton0204.json": "redbutton0204_1e303bc1.json",
                     "OpenSchool2018MainQuestion.json": "OpenSchool2018MainQuestion_f568e6f1.json",
-                    "activities.json": "activities_c34c66b8.json",
+                    "activities.json": "activities_e5366cf3.json",
                     "Battleitem.json": "Battleitem_e96150cb.json",
                     "exchange_act.json": "exchange_act_ac799bf8.json",
                     "loginPopUp.json": "loginPopUp_9198662c.json",
@@ -182,7 +182,8 @@
                     "AdventureChapter.json": "AdventureChapter_dd0f8121.json",
                     "AdventureStory.json": "AdventureStory_95702b7f.json",
                     "diamond_free.json": "diamond_free_810b2a0b.json",
-                    "itemFilter.json": "itemFilter_e6ec3bf4.json"
+                    "itemFilter.json": "itemFilter_e6ec3bf4.json",
+                    "Attirerecycle.json": "Attirerecycle_75953b6e.json"
                 },
                 "cloth_transform.json": "cloth_transform_dd1c2e91.json",
                 "guide.json": "guide_177a2175.json",
@@ -13945,7 +13946,7 @@
                     "roomEditPop.js": "roomEditPop_9cf37169.js"
                 },
                 "mAF2022SignPanel": {
-                    "mAF2022SignPanel.js": "mAF2022SignPanel_a10f2d39.js"
+                    "mAF2022SignPanel.js": "mAF2022SignPanel_edc8b0d2.js"
                 }
             },
             "assets": {
@@ -27339,7 +27340,8 @@
                             },
                             "100374": {
                                 "texture.json": "texture_bf4496e8.json",
-                                "skeleton.json": "skeleton_fb13b064.json"
+                                "skeleton.json": "skeleton_fb13b064.json",
+                                "texture.png": "texture_add5f417.png"
                             },
                             "100377": {
                                 "skeleton.json": "skeleton_3ace98d3.json"
@@ -28152,11 +28154,13 @@
                                 "texture.png": "texture_b70df851.png"
                             },
                             "1300954": {
-                                "skeleton.json": "skeleton_74f0569c.json"
+                                "skeleton.json": "skeleton_34a71de4.json",
+                                "texture.png": "texture_ea8b5e66.png",
+                                "texture.json": "texture_795e3777.json"
                             },
                             "1300971": {
-                                "texture.png": "texture_ddc8e6f1.png",
-                                "skeleton.json": "skeleton_4a033343.json"
+                                "texture.png": "texture_fb7df968.png",
+                                "skeleton.json": "skeleton_dd8c92df.json"
                             },
                             "1300757_1": {
                                 "skeleton.json": "skeleton_89e5c938.json"

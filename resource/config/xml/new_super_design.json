@@ -14275,14 +14275,30 @@
                     "RuleID": "6 6 6"
                 },
                 "Stat": {
-                    "Battle": {},
+                    "Battle": {
+                        "Start": 2209090600,
+                        "Finish": 2209090603,
+                        "Abandon": 2209090606
+                    },
                     "Exchange": {},
                     "Task": {
-                        "Easy": {},
-                        "Normal": {},
-                        "Hard": {}
+                        "Easy": {
+                            "Win": 2209090610,
+                            "Fail": 2209090625
+                        },
+                        "Normal": {
+                            "Win": 2209090615,
+                            "Fail": 2209090630
+                        },
+                        "Hard": {
+                            "Win": 2209090620,
+                            "Fail": 2209090635
+                        }
                     },
-                    "Sweep": {},
+                    "Sweep": {
+                        "Unlock": 2209090640,
+                        "Finish": 2209090643
+                    },
                     "Achievement": {}
                 },
                 "ID": 62,
