@@ -561,45 +561,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4414,
-                        "ImageID": 4414,
+                        "ID": 4417,
+                        "ImageID": 4417,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1569;app/SpetWaPuTeMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4415,
-                        "ImageID": 4415,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/ZTHDExchangePanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4416,
-                        "ImageID": 4416,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/ZTHDExchangePanel"
+                        "Go": "1570;app/SpetJYXFMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 488,
-                        "MonID": 4327,
-                        "ImageID": 488,
+                        "ID": 490,
+                        "MonID": 4412,
+                        "ImageID": 490,
                         "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/WarKingMixedDarkCuteLeatherSalesMainPanel"
+                        "Redirect": "map",
+                        "Go": 1095
                     },
                     {
                         "type": 1,
-                        "ID": 489,
-                        "MonID": 3941,
-                        "ImageID": 489,
+                        "ID": 491,
+                        "MonID": 4345,
+                        "ImageID": 491,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/WarKingMixedDarkCuteLeatherSalesMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45825,6 +45809,16 @@
                 "Features": "潘神的灵魂占据了阿德莱特之躯，月影军团不复存在。但月光一族的宿敌并未消失，月影•阿德莱特将为它们带来更深的恐惧！",
                 "Redirect": "map|module",
                 "Go": "11897;app/ZTHDExchangePanel"
+            },
+            {
+                "ID": 4417,
+                "DefName": "疾翼先锋",
+                "Type": "飞行 神秘",
+                "Height": 197,
+                "Weight": 81,
+                "Features": "疾翼先锋善使双刃，有着强大的机动能力和战斗能力。原本隐匿的他们因为一些意外不得不提前暴露身份展开进攻，目的只有一个，那就是摧毁瓦普特号！",
+                "Redirect": "map|module",
+                "Go": "1570;app/SpetJYXFMainPanel"
             }
         ]
     }

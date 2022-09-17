@@ -3,7 +3,7 @@
         {
             "id": 10101,
             "name": "船长室",
-            "intro": "<font color=0x84b3f3>场景功能</font>_主线剧情\r\n飞船场景传送",
+            "intro": "<font color=0x84b3f3>场景功能</font>_主线剧情\r\n飞船场景传送\r\n《飞船手册》",
             "type": 1,
             "Gotomap": 2002,
             "submap": "2002",
@@ -156,7 +156,7 @@
             "intro": "",
             "type": 1,
             "Gotomap": 2012,
-            "submap": "2011",
+            "submap": "2012",
             "TipType": "1",
             "StarShow": 1,
             "StarContrl": "500_0_50",
@@ -170,21 +170,6 @@
             "name": "暂未开放（星际银行）",
             "intro": "",
             "type": 1,
-            "Gotomap": 2012,
-            "submap": "2012",
-            "TipType": "1",
-            "StarShow": 1,
-            "StarContrl": "500_0_50",
-            "anima": 1,
-            "TipShow": 1,
-            "TipContrl": "500_0_0",
-            "isopen": 0
-        },
-        {
-            "id": 10113,
-            "name": "放映厅",
-            "intro": "",
-            "type": 1,
             "Gotomap": 2013,
             "submap": "2013",
             "TipType": "1",
@@ -196,12 +181,27 @@
             "isopen": 0
         },
         {
+            "id": 10113,
+            "name": "放映厅",
+            "intro": "<font color=0x84b3f3>场景功能</font>_功能建设中…",
+            "type": 1,
+            "Gotomap": 2014,
+            "submap": "2014",
+            "TipType": "1",
+            "StarShow": 1,
+            "StarContrl": "500_0_50",
+            "anima": 1,
+            "TipShow": 1,
+            "TipContrl": "500_0_0",
+            "isopen": 1
+        },
+        {
             "id": 10114,
             "name": "教官办公室",
             "intro": "",
             "type": 1,
-            "Gotomap": 2014,
-            "submap": "2014",
+            "Gotomap": 2015,
+            "submap": "2015",
             "TipType": "1",
             "StarShow": 1,
             "StarContrl": "500_0_50",
@@ -213,7 +213,7 @@
         {
             "id": 20101,
             "name": "赫尔卡星",
-            "intro": "赫尔卡星是一颗机械文明高度发达的星球，过度的开发制造导致了灭亡。超负荷的电力养育了不少电系和机械系的精灵。",
+            "intro": "",
             "type": 2,
             "Gotomap": 3014,
             "submap": "3014_3015_3016_3017_3018_3019",
@@ -1818,7 +1818,7 @@
         {
             "id": 21208,
             "name": "九幽",
-            "intro": "",
+            "intro": "阴寒汇聚之所。坚冰覆盖了九幽的冻土，也覆盖了曾经的凋零。",
             "type": 2,
             "Gotomap": 3482,
             "submap": "3482",
@@ -1828,7 +1828,7 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21207,
@@ -1863,7 +1863,7 @@
         {
             "id": 21301,
             "name": "悲鸣之地",
-            "intro": "悲鸣之地",
+            "intro": "回荡着悲鸣的浮空之土，莹蓝的微光照亮了无边黑暗的一隅。",
             "type": 2,
             "Gotomap": 3483,
             "submap": "3483",
@@ -1873,12 +1873,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21304,
             "name": "洛亚大陆",
-            "intro": "洛亚大陆",
+            "intro": "参天的巨木于此扎根，连同古老的符石与咒文一起，默默守护着此处的一切。",
             "type": 2,
             "Gotomap": 3486,
             "submap": "3486",
@@ -1888,12 +1888,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21303,
             "name": "叹息之地",
-            "intro": "叹息之地",
+            "intro": "叹息之地的石壁前总回荡着谁人的哀叹，一同隐没于风中的往事。",
             "type": 2,
             "Gotomap": 3485,
             "submap": "3485",
@@ -1903,12 +1903,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21302,
             "name": "神殿之丘",
-            "intro": "神殿之丘",
+            "intro": "深嵌于石板中的电路仍散发着微弱的光亮，对立的科技与原始竟在这座神殿中得到了完美的融合。",
             "type": 2,
             "Gotomap": 3484,
             "submap": "3484",
@@ -1918,12 +1918,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21305,
             "name": "末日之泉",
-            "intro": "末日之泉",
+            "intro": "此处遍布无名的泉眼，其中殷红的泉水宛如源自深渊。",
             "type": 2,
             "Gotomap": 3487,
             "submap": "3487",
@@ -1933,12 +1933,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21402,
             "name": "坠雷山崖",
-            "intro": "坠雷山崖",
+            "intro": "坠雷山崖的阴云不断吞吐着狂躁的电流，雷霆坠落之处，岩石崩毁，草木枯灼。",
             "type": 2,
             "Gotomap": 3492,
             "submap": "3492",
@@ -1948,12 +1948,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21401,
             "name": "风语之森",
-            "intro": "风语之森",
+            "intro": "风语之森遍布遮天的绿植与远古的碑石。步行其中甚至还能听到神秘的轻语，顺着清风传至森林的最深处。",
             "type": 2,
             "Gotomap": 3488,
             "submap": "3488_3489_3490_3491",
@@ -1963,12 +1963,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21405,
             "name": "毁灭之海",
-            "intro": "毁灭之海",
+            "intro": "海中旋涡掀起了澎湃而不息的浪潮，如同巨兽警告的低吼，似乎随时都要扑上岸边的岩石。",
             "type": 2,
             "Gotomap": 3496,
             "submap": "3496",
@@ -1978,12 +1978,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21403,
             "name": "痛苦沼泽",
-            "intro": "痛苦沼泽",
+            "intro": "沼泽遍布毒瘴。即便如此恶劣的环境，淤泥中也仍诞出了丰富的植被。",
             "type": 2,
             "Gotomap": 3493,
             "submap": "3493",
@@ -1993,12 +1993,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21404,
             "name": "上古雪峰",
-            "intro": "上古雪峰",
+            "intro": "常年被冰雪覆盖的山峰，坚冰与覆雪似乎从其诞生起就未曾融化。",
             "type": 2,
             "Gotomap": 3494,
             "submap": "3494_3495",
@@ -2008,12 +2008,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21406,
             "name": "赤熔山脉",
-            "intro": "赤熔山脉",
+            "intro": "赤熔山脉地表流淌着危险的熔岩，而在鲜有人至的地下，却遍布着盈满温泉的美丽溶洞。",
             "type": 2,
             "Gotomap": 3575,
             "submap": "3575_3583_3601_3604_3625",
@@ -2023,12 +2023,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21407,
             "name": "钟表领域",
-            "intro": "钟表领域",
+            "intro": "独立于灵格大陆块的神秘领域，藏馆中不断咬合的齿轮正讲述着时间与空间的奥秘。",
             "type": 2,
             "Gotomap": 3555,
             "submap": "3555_3563_3564_3565_3584",
@@ -2038,12 +2038,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21408,
             "name": "永耀之恒",
-            "intro": "永耀之恒",
+            "intro": "永不熄灭的光辉殿堂。浓烈的光明气息充斥着这里的每一寸土地，似是欢呼着神明的降临。",
             "type": 2,
             "Gotomap": 3590,
             "submap": "3590_3617",
@@ -2053,12 +2053,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21409,
             "name": "烬灭荒原",
-            "intro": "烬灭荒原",
+            "intro": "被烈焰焚烬的荒芜之所。曾经的生机不再，只余下无垠的阴燃之土，不断散发着仅有的灼热。",
             "type": 2,
             "Gotomap": 3497,
             "submap": "3497_3498_3499_3500_3551",
@@ -2068,12 +2068,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21410,
             "name": "机械环城",
-            "intro": "机械环城",
+            "intro": "由钢铁堡垒与智能机械构建的城池，具有完备的能源供应与生态循环系统。",
             "type": 2,
             "Gotomap": 3506,
             "submap": "3506_3507_3510_3560_3610",
@@ -2083,12 +2083,12 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_1",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21411,
             "name": "流岩岭",
-            "intro": "流岩岭",
+            "intro": "熔岩流淌的河流似乎永远不会干涸，亦如星坛中生生不息的永耀之炎。",
             "type": 2,
             "Gotomap": 3553,
             "submap": "3553_3580_3586_3616",
@@ -2098,7 +2098,7 @@
             "anima": 0,
             "TipShow": 2,
             "TipContrl": "500_2",
-            "isopen": 0
+            "isopen": 1
         },
         {
             "id": 21412,

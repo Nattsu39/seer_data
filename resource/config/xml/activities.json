@@ -11489,6 +11489,41 @@
                     "Title": "沙娅",
                     "Redirect": "map|module",
                     "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2234,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 1569,
+                    "Name": "【主线任务】星宿凝聚",
+                    "Title": "星宿凝聚",
+                    "Redirect": "map|module",
+                    "Go": "1569;app/MainLineTask_3473"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4414
+                    },
+                    "ID": 2235,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 1569,
+                    "Name": "S-瓦普特",
+                    "Title": "瓦普特",
+                    "Redirect": "map|module",
+                    "Go": "1569;app/SpetWaPuTeMainPanel"
                 }
             ]
         },
@@ -36474,15 +36509,7 @@
                     "Title": "苏格尔",
                     "Redirect": "map|module",
                     "Go": "1443;app/S41YanDuoGeerMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -36504,23 +36531,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2226,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220826,
-                    "End": 20220930,
-                    "Map": 103,
-                    "Name": "天启帝君巡回",
-                    "Title": "天启帝君巡回",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2232,
                     "isNew": 1,
                     "kinds": 1,
@@ -36533,41 +36543,6 @@
                     "Title": "钻石奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2234,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220909,
-                    "End": "*",
-                    "Map": 1569,
-                    "Name": "【主线任务】星宿凝聚",
-                    "Title": "星宿凝聚",
-                    "Redirect": "map|module",
-                    "Go": "1569;app/MainLineTask_3473"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4414
-                    },
-                    "ID": 2235,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220909,
-                    "End": "*",
-                    "Map": 1569,
-                    "Name": "S-瓦普特",
-                    "Title": "瓦普特",
-                    "Redirect": "map|module",
-                    "Go": "1569;app/SpetWaPuTeMainPanel"
                 },
                 {
                     "Details": {
@@ -36602,23 +36577,6 @@
                     "Title": "夜影伴月圆",
                     "Redirect": "map|module",
                     "Go": "11897;app/ZTHDJHPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2238,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220909,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
                 },
                 {
                     "Details": {
@@ -36671,7 +36629,135 @@
                     "Name": "中秋签到好礼",
                     "Title": "中秋签到好礼",
                     "Redirect": "map|module",
-                    "Go": "11897;app/MidAutumnFestivalSignInMainPanel"
+                    "Go": "app/MidAutumnFestivalSignInMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2226,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220826,
+                    "End": 20220930,
+                    "Map": 103,
+                    "Name": "天启帝君巡回",
+                    "Title": "天启帝君巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2238,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2242,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220916,
+                    "End": "*",
+                    "Map": 1570,
+                    "Name": "【主线任务】秘刃隐现",
+                    "Title": "秘刃隐现",
+                    "Redirect": "map|module",
+                    "Go": "1570;app/MainLineTask_3474"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4417
+                    },
+                    "ID": 2243,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220916,
+                    "End": "*",
+                    "Map": 1570,
+                    "Name": "S-疾翼先锋",
+                    "Title": "疾翼先锋",
+                    "Redirect": "map|module",
+                    "Go": "1570;app/SpetJYXFMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2244,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220916,
+                    "End": 20220923,
+                    "Map": 1570,
+                    "Name": "船廊密室",
+                    "Title": "船廊密室",
+                    "Redirect": "map|module",
+                    "Go": "1570;app/ChuanLangMiShiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2245,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220916,
+                    "End": 20220930,
+                    "Map": 103,
+                    "Name": "兌钻消费新奖励",
+                    "Title": "钻石奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2246,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220916,
+                    "End": 20221021,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -36682,8 +36768,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220909,
-                    "End": 20220916,
+                    "Start": 20220916,
+                    "End": 20220923,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -36691,7 +36777,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2235,2236,2237,2238"
+            "Important": "2242,2243,2244,2245"
         }
     }
 }
