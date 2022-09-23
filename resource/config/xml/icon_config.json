@@ -86,7 +86,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3474"
+                "mouseClickFunc": "app:MainLineTask_3475"
             },
             {
                 "direction": "right",
@@ -105,15 +105,6 @@
                 "ui": "announcement_icon",
                 "tips": "公告中心",
                 "mouseClickFunc": "app:NoticeCenterMainPanel"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "seerburgerking_Icon",
-                "tips": "汉堡王联动活动",
-                "mouseClickFunc": "app:BurgerKinglinkageMianPanel"
             },
             {
                 "direction": "right_side",

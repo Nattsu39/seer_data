@@ -11524,6 +11524,41 @@
                     "Title": "瓦普特",
                     "Redirect": "map|module",
                     "Go": "1569;app/SpetWaPuTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2242,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220916,
+                    "End": "*",
+                    "Map": 1570,
+                    "Name": "【主线任务】秘刃隐现",
+                    "Title": "秘刃隐现",
+                    "Redirect": "map|module",
+                    "Go": "1570;app/MainLineTask_3474"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4417
+                    },
+                    "ID": 2243,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220916,
+                    "End": "*",
+                    "Map": 1570,
+                    "Name": "S-疾翼先锋",
+                    "Title": "疾翼先锋",
+                    "Redirect": "map|module",
+                    "Go": "1570;app/SpetJYXFMainPanel"
                 }
             ]
         },
@@ -36630,6 +36665,23 @@
                     "Title": "中秋签到好礼",
                     "Redirect": "map|module",
                     "Go": "app/MidAutumnFestivalSignInMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2244,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220916,
+                    "End": 20220923,
+                    "Map": 1570,
+                    "Name": "船廊密室",
+                    "Title": "船廊密室",
+                    "Redirect": "map|module",
+                    "Go": "1570;app/ChuanLangMiShiGoToMapPanel"
                 }
             ],
             "_text": [
@@ -36675,58 +36727,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2242,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220916,
-                    "End": "*",
-                    "Map": 1570,
-                    "Name": "【主线任务】秘刃隐现",
-                    "Title": "秘刃隐现",
-                    "Redirect": "map|module",
-                    "Go": "1570;app/MainLineTask_3474"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4417
-                    },
-                    "ID": 2243,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20220916,
-                    "End": "*",
-                    "Map": 1570,
-                    "Name": "S-疾翼先锋",
-                    "Title": "疾翼先锋",
-                    "Redirect": "map|module",
-                    "Go": "1570;app/SpetJYXFMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2244,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20220916,
-                    "End": 20220923,
-                    "Map": 1570,
-                    "Name": "船廊密室",
-                    "Title": "船廊密室",
-                    "Redirect": "map|module",
-                    "Go": "1570;app/ChuanLangMiShiGoToMapPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2245,
@@ -36761,6 +36761,128 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "monID": 4418
+                    },
+                    "ID": 2247,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220923,
+                    "End": 20220930,
+                    "Map": 103,
+                    "Name": "全民助力精灵-特雷弗",
+                    "Title": "特雷弗",
+                    "Redirect": "map|module",
+                    "Go": "103;app/HelpingGodPetTeleifuMianPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4420
+                    },
+                    "ID": 2248,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220923,
+                    "End": 20221007,
+                    "Map": 1,
+                    "Name": "战队BOSS来袭",
+                    "Title": "幽冥狼魂",
+                    "Redirect": "map|module",
+                    "Go": "1;app/WarTeamBossGotoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2249,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220923,
+                    "End": 20221007,
+                    "Map": 1,
+                    "Name": "战队军需官抵达",
+                    "Title": "战队军需官抵达",
+                    "Redirect": "map|module",
+                    "Go": "1;app/TeamBusinessMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2250,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220923,
+                    "End": 20221007,
+                    "Map": 103,
+                    "Name": "长缨破阵百战无伤",
+                    "Title": "赵云完全体即将登场",
+                    "Redirect": "map|module",
+                    "Go": "103;app/CompletedZYDiscountPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2251,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220923,
+                    "End": "*",
+                    "Map": 1571,
+                    "Name": "【主线任务】龙吟天穹",
+                    "Title": "龙吟天穹",
+                    "Redirect": "map|module",
+                    "Go": "1571;app/MainLineTask_3475"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4419
+                    },
+                    "ID": 2252,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20220923,
+                    "End": "*",
+                    "Map": 1571,
+                    "Name": "S-波尔莫",
+                    "Title": "波尔莫",
+                    "Redirect": "map|module",
+                    "Go": "1571;app/SpetBoErMoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2253,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20220923,
+                    "End": 20220930,
+                    "Map": 1571,
+                    "Name": "宝藏猎人的邀请",
+                    "Title": "宝藏猎人的邀请",
+                    "Redirect": "map|module",
+                    "Go": "1571;app/InvitationOfTreasureHuntersMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2,
                         "Des": "闪闪发光的漂流瓶里，蕴藏着无尽的宝藏，快来探索寻找吧！",
                         "Prize": "稀有精灵、培养道具、全能刻印、基地家具等"
@@ -36768,8 +36890,8 @@
                     "ID": 2,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20220916,
-                    "End": 20220923,
+                    "Start": 20220923,
+                    "End": 20220930,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -36777,7 +36899,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2242,2243,2244,2245"
+            "Important": "2252,2253,2250,2247,2248"
         }
     }
 }

@@ -561,29 +561,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4417,
-                        "ImageID": 4417,
+                        "ID": 4418,
+                        "ImageID": 4418,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1570;app/SpetJYXFMainPanel"
+                        "Go": "103;app/HelpingGodPetTeleifuMianPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 490,
-                        "MonID": 4412,
-                        "ImageID": 490,
-                        "Label": 1,
-                        "Redirect": "map",
-                        "Go": 1095
-                    },
-                    {
-                        "type": 1,
-                        "ID": 491,
-                        "MonID": 4345,
-                        "ImageID": 491,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4419,
+                        "ImageID": 4419,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1571;app/SpetBoErMoMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4420,
+                        "ImageID": 4420,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1571;app/WarTeamBossGotoPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45819,6 +45817,36 @@
                 "Features": "疾翼先锋善使双刃，有着强大的机动能力和战斗能力。原本隐匿的他们因为一些意外不得不提前暴露身份展开进攻，目的只有一个，那就是摧毁瓦普特号！",
                 "Redirect": "map|module",
                 "Go": "1570;app/SpetJYXFMainPanel"
+            },
+            {
+                "ID": 4418,
+                "DefName": "特雷弗",
+                "Type": "远古 地面",
+                "Height": 178,
+                "Weight": 72,
+                "Features": "一位帅气的星际寻宝人，他认为探寻宝藏是世界上最有趣的事情，据说与他一同参与探险的朋友，都能获得神秘的奖励哦！",
+                "Redirect": "map|module",
+                "Go": "103;app/HelpingGodPetTeleifuMianPanel"
+            },
+            {
+                "ID": 4419,
+                "DefName": "波尔莫",
+                "Type": "龙",
+                "Height": 569,
+                "Weight": 322,
+                "Features": "为了守卫瓦普特号而被派利尔召唤出的巨大星龙，攻击力和防御力都十分强悍，但作战时间却比较有限！",
+                "Redirect": "map|module",
+                "Go": "1571;app/SpetBoErMoMainPanel"
+            },
+            {
+                "ID": 4420,
+                "DefName": "幽冥狼魂",
+                "Type": "暗影 邪灵",
+                "Height": 212,
+                "Weight": 105,
+                "Features": "神秘魔女所圈养的狼魂，其前世是在族群争斗中死去的狼王，在死后被魔女通过骸骨将其从渊狱中召唤而来，复苏的它们只有一个念头，就是将身边的一切尽数摧毁！",
+                "Redirect": "map|module",
+                "Go": "1571;app/WarTeamBossGotoPanel"
             }
         ]
     }

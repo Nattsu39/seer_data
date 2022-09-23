@@ -46867,6 +46867,592 @@
                 ],
                 "activityID": 94,
                 "name": "220916探寻尘封的记忆"
+            },
+            {
+                "item": {
+                    "dialog": {
+                        "npcName": "小赛尔 ",
+                        "npcID": 5545,
+                        "dialogArr": "瓦普特号内竟然有这么大的秘密舱室！",
+                        "questionArr": "…"
+                    },
+                    "id": 1,
+                    "name": "剧情引导"
+                },
+                "activityID": 95,
+                "name": "20220930玖莉娜活动"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "尤莉米特",
+                                "npcID": 4364,
+                                "dialogArr": "你说的…莱达宇宙其实比想象中更加可怕？是什么意思？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "莱达宇宙的轮回命运，并非无法打破。但打破的条件实在过于苛刻。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "尤莉米特",
+                                "npcID": 4364,
+                                "dialogArr": "能够打破轮回…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "嗯，虽然我们身处费尤，但关于莱达宇宙我们一直在潜心研究。关于打破轮回我们尚有一些推论，但都还没有足够的把握。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "我们能确定的是，我们必须解决莱达宇宙轮回的问题，而且是越早越好。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "尤莉米特",
+                                "npcID": 4364,
+                                "dialogArr": "如果有什么能帮忙的地方，我们一定会配合。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "很好的觉悟哈哈哈，其实你们能上船，就已经。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "尤莉米特",
+                                "npcID": 4364,
+                                "dialogArr": "我们能上船？但是，这个条件不是我父亲…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "只是卖你父亲的一个人情罢了。不如说，现在一切都是在计划之中。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "尤莉米特",
+                                "npcID": 4364,
+                                "dialogArr": "什么意思…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "马里诺",
+                                "npcID": 4404,
+                                "dialogArr": "瓦普特船长！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "是不是有什么情况发生了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "马里诺",
+                                "npcID": 4404,
+                                "dialogArr": "有奇怪的家伙从舰船的各个角落出现，正在袭击瓦普特号！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "是什么来头？星际海盗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "马里诺",
+                                "npcID": 4404,
+                                "dialogArr": "不清楚，好像都带着奇怪的发光面具，只听他们说要摧毁这艘舰船。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "尤莉米特，有些事看来只能放到以后说了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "马里诺，我们走。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "派利尔，现在情况如何？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "派利尔",
+                                "npcID": 4408,
+                                "dialogArr": "敌人数量很多，在飞船外游荡，间断性地对飞船进行袭击。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "在飞船外部么…封锁所有区域，让乘客们都不要出房间。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "另外，检查所有区域，确保舰船上没有遗漏的敌人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "马里诺",
+                                "npcID": 4404,
+                                "dialogArr": "是！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "派利尔",
+                                "npcID": 4408,
+                                "dialogArr": "是要用那一招么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "当然，现在也只能靠它了吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "虽然不知道这些家伙是什么来头，但大概能猜到了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "可不能如他们所愿，瓦普特号现在是最不能倒下的时候！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "好！击散他们了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "派利尔",
+                                "npcID": 4408,
+                                "dialogArr": "波尔莫能够战斗的时间有限，尽可能在这段时间里解决他们吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "派利尔",
+                                "npcID": 4408,
+                                "dialogArr": "但为什么敌人数量只增不减，怎么回事？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "是幻影，有些只是他们制造出来的幻影。让波尔莫守护舰船，剩下的我们亲自上吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "尤莉米特",
+                                "npcID": 4364,
+                                "dialogArr": "瓦普特船长，我们也来帮忙。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "你们快进房间躲好，在宇宙航行间的战斗可不是你们擅长的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "况且，我怎么可能让尊贵的客人干这种事情呢。这可是我身为船长的职责。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "派利尔",
+                                "npcID": 4408,
+                                "dialogArr": "侧方桅杆外的船翼有敌人在那里！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "那家伙就交给我吧！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "疾翼先锋",
+                                "npcID": 4417,
+                                "dialogArr": "…！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "这里可没那么容易破坏哦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "疾翼先锋",
+                                "npcID": 4417,
+                                "dialogArr": "切，你是船长，瓦普特？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "说吧，是谁指使的你们，到底有什么目的？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "疾翼先锋",
+                                "npcID": 4417,
+                                "dialogArr": "这种事情你应该心知肚明吧，船长。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "疾翼先锋",
+                                "npcID": 4417,
+                                "dialogArr": "你的船上可载着危险分子啊，那么多来自其他宇宙的居民，你把费尤的安危放在哪里了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "哦~原来是这个理由，所以你要把这艘船上的人都葬送了呀。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "疾翼先锋",
+                                "npcID": 4417,
+                                "dialogArr": "哼，对于费尤来说，这些牺牲是值得的。况且，这一切都是因为你们自作主张。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "看来没有聊下去的必要了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "只有一件事情我要警告你，挑战瓦普特号，你们没有胜算。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "疾翼先锋",
+                                "npcID": 4417,
+                                "dialogArr": "是么？不就是一条巨龙，就想拦住我们所有人？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "说这话前，你要不先回头看看你的同伴。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "面板3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "你已经恢复了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "差不多吧，你在这里还有什么事情？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "没什么，只是习惯了混沌的气息。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "你当初为什么要救下我？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "救你？噢，你说那时候啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "对，你为什么会在那种地方。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "我只是感受到了强大的力量外溢，出于好奇心才过去的。只是没想到…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "呵，没想到我当时会露出那副丑态…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "是因为圣光的力量吧，确实让人怪不舒服的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "但你还是没回答我的问题。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "不是不想回答，只是比较难回答。因为，那有点像是下意识的行为。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "下意识…还有你的力量，能抵挡住圣华的一击，你没有受伤么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "完全没有。那家伙很厉害么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "仔细想想，应该很厉害吧。毕竟我只会被强大的力量所吸引。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "不然就无法解释我为什么会下意识地去和她交战。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "所以，你并不是要救我，而是为了和强大的敌人交手么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "上次见面之后，在你身上是不是发生了什么？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "面板1"
+                    }
+                ],
+                "activityID": 96,
+                "name": "主线任务22-09-23"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "我是特雷弗，遨游于太空之中的寻宝专家。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "既然你收到了我的邀请函，就证明了你的运气足以寻找到传说中的宝藏！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "不过我还要验证下你的实力才可以，我在终点等着你！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "首次进入面板"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "你果然有点本事，这些是你的奖励。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "这些东西你马上就会用到了。我很期待着你之后的表现哦。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "首次完成游戏"
+                    }
+                ],
+                "activityID": 97,
+                "name": "20220923宝藏猎人的邀请"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "npcName": "幽冥狼魂 ",
+                            "npcID": 4420,
+                            "dialogArr": "群狼……背弃我……",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "幽冥狼魂 ",
+                            "npcID": 4420,
+                            "dialogArr": "僭越……必须审判。背叛，必将偿还！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "雷蒙教官 ",
+                            "npcID": 5602,
+                            "dialogArr": "来得正好，赛尔！一只狼型量子幽灵正在汲取战队能源，快召集你的伙伴阻止它！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "剧情引导"
+                },
+                "activityID": 98,
+                "name": "20220923战队BOSS"
             }
         ]
     }
