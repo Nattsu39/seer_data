@@ -137,11 +137,22 @@
             "moduleId": 161,
             "actionName": "2022中秋签到",
             "controller": "AutoOpenDailySignDragonBoat2022",
-            "state": 1,
+            "state": 0,
             "param1": "121535",
             "param2": "",
             "startTime": "2022/9/9",
             "endTime": "2022/9/13"
+        },
+        {
+            "id": 14,
+            "moduleId": 165,
+            "actionName": "2022国庆签到",
+            "controller": "AutoOpenDailySignNationalDay2022",
+            "state": 1,
+            "param1": "121111",
+            "param2": "",
+            "startTime": "2022/9/30",
+            "endTime": "2022/10/8"
         }
     ]
 }

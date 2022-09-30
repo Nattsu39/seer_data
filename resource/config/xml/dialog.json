@@ -46870,12 +46870,50 @@
             },
             {
                 "item": {
-                    "dialog": {
-                        "npcName": "小赛尔 ",
-                        "npcID": 5545,
-                        "dialogArr": "瓦普特号内竟然有这么大的秘密舱室！",
-                        "questionArr": "…"
-                    },
+                    "dialog": [
+                        {
+                            "npcName": "玖莉娜 ",
+                            "npcID": 4390,
+                            "dialogArr": "小赛尔，你来啦！冒险进行得如何了？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "一切顺利！玖莉娜小姐背后这堆是……",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "玖莉娜 ",
+                            "npcID": 4390,
+                            "dialogArr": "是「原石」啦！漫长岁月的产物！",
+                            "questionArr": "喔喔！！"
+                        },
+                        {
+                            "npcName": "玖莉娜 ",
+                            "npcID": 4390,
+                            "dialogArr": "我和特雷弗一起搭了这个小铺子，来帮助冒险者们处理和寄售探险中发现的原石。这样特雷弗也能更快找到潜藏在原石中的“神秘宝藏”~",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "那我也来帮忙！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "玖莉娜 ",
+                            "npcID": 4390,
+                            "dialogArr": "欢迎呀！原石表面通常沉积了厚厚的硬壳，要切开才能知道里面的情况，切开部分的品质决定了原石寄售的价格。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "玖莉娜 ",
+                            "npcID": 4390,
+                            "dialogArr": "喏！送你一块原石，来试试吧！0xff0000我总结了一些经验放在左上角，自取喔~0xffffff",
+                            "questionArr": "好！"
+                        }
+                    ],
                     "id": 1,
                     "name": "剧情引导"
                 },
@@ -47453,6 +47491,3410 @@
                 },
                 "activityID": 98,
                 "name": "20220923战队BOSS"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": {
+                            "npcName": "幽冥狼魂 ",
+                            "npcID": 4420,
+                            "dialogArr": "群狼……背弃我……",
+                            "questionArr": "…"
+                        },
+                        "id": 1,
+                        "name": "剧情引导"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "幽冥狼魂 ",
+                            "npcID": 4420,
+                            "dialogArr": "群狼……背弃我……",
+                            "questionArr": "…"
+                        },
+                        "id": 2,
+                        "name": "第1次结束"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "幽冥狼魂 ",
+                            "npcID": 4420,
+                            "dialogArr": "群狼……背弃我……",
+                            "questionArr": "…"
+                        },
+                        "id": 3,
+                        "name": "第2次结束"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "幽冥狼魂 ",
+                            "npcID": 4420,
+                            "dialogArr": "群狼……背弃我……",
+                            "questionArr": "…"
+                        },
+                        "id": 4,
+                        "name": "第3次结束"
+                    }
+                ],
+                "activityID": 99,
+                "name": "20221021活动"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "雨一直下，没有停歇之时。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "就如同莱达宇宙的轮回，会一直持续下去。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "有人虽然能在屋檐下躲雨，但迟早有被淋湿的一刻。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "要让雨停才行，但…真的能做到么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "又一个人在这叨叨什么呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "基比，有瓦普特号的消息了么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "没有，不过这也没什么好担心的吧，毕竟是瓦普特号。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "总之，等瓦普特号回来，就可以执行后面的计划了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "没想到盟会竟然真的会同意去把琉彩和那个犯人接回来，不像他们的风格。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "只要他们了解到这个风险，就不会不管不问。我了解他们。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "主要还是因为琉彩吧，只是我到现在还不确定，琉彩过去那个宇宙真的是因为意外吗？怕不是你…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "当然，我什么都没做，我从来不和你说谎。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "哼哼—",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "我猜，其他的盟会成员也不会就这样乖乖看着吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "那当然，说不准他们现在已经准备好对瓦普特号施压了。不过瓦普特可不是那种随意低头的女人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "然后，就要看“启明星”他们的了。另外，就是「愚者」…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "吼呀，真的联系上他了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "嗯，用了一些小手段。根据魔盒的研究结果，「愚者」代表着开端，有着十分重要的意义。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "他的到来肯定能让我们对莱达宇宙有更加清晰的认识。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "但愿如此…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "怎么了，基比？看你好像有什么要说的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "基比",
+                                "npcID": 4425,
+                                "dialogArr": "没有啦，我只是想，要是我们没研究出个所以然，但是却把费尤葬送了怎么办？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "哈哈哈，这事情不是一开始就说了么。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "天奔流·东辉",
+                                "npcID": 4422,
+                                "dialogArr": "我们会成功的，我有把握。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "圣华大人！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "至序圣华",
+                                "npcID": 4321,
+                                "dialogArr": "阿特洛波斯的恢复比想象中困难。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "至序圣华",
+                                "npcID": 4321,
+                                "dialogArr": "神罗在她的体内散布了过多的黑夜力量，这力量正在干扰圣光之力的汇聚。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "至序圣华",
+                                "npcID": 4321,
+                                "dialogArr": "克洛托，这附近有什么圣光之力集聚的地方么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "集聚？我想想…说来，阿特洛波斯之前在圣洛之河灌注了许多圣光力量，还从里面召唤出了光灵巨像。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "至序圣华",
+                                "npcID": 4321,
+                                "dialogArr": "就是那里，带我去。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "克洛托",
+                                "npcID": 4231,
+                                "dialogArr": "你的意思是阿特洛波斯她已经准备好了…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "至序圣华",
+                                "npcID": 4321,
+                                "dialogArr": "是的，去迎接我们新的战友吧。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "这个力量…才过了这么点时间，你竟然会有这种成长。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "看来，我当初没有做错决定。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "来到这个宇宙后，才让我知道世界上还存在着这种力量，我真要感谢她。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "难道说…你也受到了那力量的祝福。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "为何不与我联手呢？你说过你也厌恶那圣光的力量吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "我想，你可能对我有些误会。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "我对你们的纷争可不感兴趣。我只要找寻我想要的…世界的奥秘，终焉的力量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "辛",
+                                "npcID": 3964,
+                                "dialogArr": "（天尊，等等！）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "（别拦我，辛！）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "（现在的我，可以对抗他！）",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "面板3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "你……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "辛",
+                                "npcID": 3964,
+                                "dialogArr": "（他的样子很不对劲，我们还是尽快离开吧。）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "（我可不会走。）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "原来你救我，是为了战胜我么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "你为何不在我受伤的时候夺取我的力量？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "我可不会趁人之危。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "哈哈开个玩笑，事实上那也是不可能的事情。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "放心，我会把你留到后面。我的首要敌人仍然是光明之神。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "所以…你一直以来是在演戏？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "演戏？我从来不做那么麻烦的事情。只是之前，觉得没有那么在乎罢了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "你知道么？宇宙的生死，有时候真的只在一刹那。而我们所经历过的一切，也许真的只是沧海一粟。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "但再次见到你之后，让我醒了过来。恍若过去的所有如梦，我重新活在现实。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "你到底…在说什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "可能对你来说，这些事情都不必懂。那我告诉你你想听的吧，关于神存在的意义。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "神…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "辛",
+                                "npcID": 3964,
+                                "dialogArr": "（天尊！）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "混元天尊",
+                                "npcID": 3788,
+                                "dialogArr": "看来事情还不会那么无趣地结束，我会再来找你的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "混元天尊…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "纯粹的追寻力量，也不是件坏事。但妄想支配神的力量，可有点过火了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "面板3"
+                    }
+                ],
+                "activityID": 100,
+                "name": "主线任务22-09-30"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "特雷弗",
+                            "npcID": 4418,
+                            "dialogArr": "据我的调查，总共有八个重要的神奇珍宝散落在这片区域。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "特雷弗",
+                            "npcID": 4418,
+                            "dialogArr": "寻找它们的任务就交给你们了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "特雷弗",
+                            "npcID": 4418,
+                            "dialogArr": "作为奖赏，我托专人根据宝物的样子制作了专属的纪念刻印。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "特雷弗",
+                            "npcID": 4418,
+                            "dialogArr": "只要当你收集到了对应的宝藏就可以来领取获得了。事不宜迟，快行动起来！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "特雷弗",
+                            "npcID": 4418,
+                            "dialogArr": "另外，你身上的四叶草金币，可以去对面尤莉米特那里兑换其他精美奖励哦！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "剧情引导"
+                },
+                "activityID": 101,
+                "name": "20220930宝藏纪念展览馆"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "这里，这里！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "如果你已经准备好了开启寻宝之旅，这个空间传送门会帮你快速前往目的地。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "现在我们能够探索的区域就只有这片广袤的森林，随着探索进度的深入，前方还会有更多的区域供我们探索。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "你要做的事情很简单，选择探索队伍，选择一件探索装备，选择一个探索区域，便可以完成派遣，接着就等待探索队伍明天归来即可。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "探索队伍会带来一些四叶草金币，如果运气好的话，还会发现探索装备，甚至是新的探险队伍。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "当然，我们的最终目标！找回所有的宝藏！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "首次打开面板"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "太棒了，你解锁了第二个区域，现在起可以派遣队伍去湖泊区域探索了。 ",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "已经了解探索寻宝的方式了么？区域越往后，探索的难度就会越大，要做好心理准备哦。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "解锁湖泊"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "第三个区域！干的漂亮！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "火山区域的危险程度会更上一层，一定要注意队伍与装备的选择和搭配。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "解锁火山"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "终于到最后一个区域了，这里十分危险。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "我劝你不要派遣战斗能力较低的探险队伍前往，可能会得不偿失。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "解锁毒狱"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "嘿，伙伴，等等。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "在你开始派遣探险之前，我有必要提醒你，今天是最后一次探险了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "时间有限，所以，好好把握最后的机会。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "1012首次打开面板"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "传送门即将关闭，这场宝藏探险之旅是时候画上句号了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "所有的区域都已经完成了探索，珍宝也收集的差不多了。这一切的成功都离不开你，晚上一起来庆功宴吧。等天亮，我们就该各自出发了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "1013首次打开面板-完整探索度"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "传送门即将关闭，这场宝藏探险之旅是时候画上句号了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "特雷弗",
+                                "npcID": 4418,
+                                "dialogArr": "很可惜，区域还没来得及全部探索，但至少不是没有收获。别伤心，我们或许会再见面的，晚上一起来庆功宴吧。等天亮，我们就该各自出发了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "1013首次打开面板-非完整探索度"
+                    }
+                ],
+                "activityID": 102,
+                "name": "20220930勇往直前！宝藏探险！"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "（看来，只能集结到这些人么…）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "（那个女孩也没有来。）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "各位，感谢你们能来这里，我再说明一下状况。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "你们身上都获得了一份强大的力量，这份力量现在是从无尽轮回里拯救这个宇宙的关键。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "无论是对抗黑暗，还是对抗光明，我们能做的就是用这份神谕力量去击败那些我们本不可能企及到的神明。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "那么大家也互相认识一下对方吧，可以的话也介绍一下自己的能力。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "夜使·库帕帕",
+                                "npcID": 4141,
+                                "dialogArr": "我先说吧，我叫库帕帕，获得的神谕力量是「魔术师」。不过我的神谕力量因为一些特别的原因消散了。所以，有任何其他能帮上忙的，我都会尽力而为。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "接着是我，我是查梅洛，获得的神谕力量是「隐者」，顾名思义，是隐身的能力，战斗方面不是很擅长，请大家多多指教。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "另外，我想问一句。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "塞泽丝她可能还需要一点时间考虑一下。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "是的，她之后又来过我店里一次，她现在…怎么说呢，从她的眼里看不到什么斗志。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "查梅洛尼达",
+                                "npcID": 4167,
+                                "dialogArr": "你是…？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "咳咳，既然说到了，那我就介绍一下自己，我是未明，之前和塞泽丝见过面。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "我的能力，应该是叫「教皇」？很惭愧，我现在还不是很清楚我的能力具体有什么用处。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "坦普瑞，该你了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "奥，我的神谕能力是「节制」，可以通过和别人签订契约实现别人的愿望，但需要契约者付出一定代价。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "最后，我的神谕力量「星星」，具体的能力效果也尚在研究。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "所以很显然，我们这次聚集在这里的目的。就是要清楚地知道自身的能力情况，并且强化自己的能力。此外，我们还要制定作战方案。可以说，以我们现在的状态对上敌人的胜率，几乎为零。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "黑夜之神，有所耳闻。我们联合起来可能抗不下他的一击。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "这…要我们怎么变强啊？根本不可能吧，我们还是走吧，未明。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "坦普瑞？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "况且，我们根本没有什么理由来帮你吧，所以抱歉了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "好强大的能量，你到底是什么人…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "查理星系守护者，启灵元神。还有，你这个问题已经问第三遍了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "嗯？？是么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "圣谕之风·岚",
+                                "npcID": 4376,
+                                "dialogArr": "这份力量，并不普通。之所以叫神谕力量，便是因为它蕴含着能击破神明的潜力，但我们还需要多加修行。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "圣谕之风·岚",
+                                "npcID": 4376,
+                                "dialogArr": "我是岚，「战车」神谕力量的持有者，我能召唤伙伴露姆莉亚和我一起协同作战。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "圣谕之风·岚",
+                                "npcID": 4376,
+                                "dialogArr": "再补充一点，这个力量，是启灵元神的老师用他的生命开启换来的，我们应该珍重它。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "抱歉，是我太轻浮了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "没关系。谢谢你，岚，艾希丝呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "圣谕之风·岚",
+                                "npcID": 4376,
+                                "dialogArr": "她似乎还在寻找其他的神谕力量持有者。她的意思是让我们先开始修炼吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "坦普瑞",
+                                "npcID": 4387,
+                                "dialogArr": "我了解了，但我们该如何变强呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "坦普瑞，你的力量十分重要。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "海棠教皇·未明",
+                                "npcID": 4395,
+                                "dialogArr": "等下，不会是要使用他的契约之力吧。我觉得有待商榷。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "我对你的能力还没有那么了解，但这是一个值得尝试的方向。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "启灵元神",
+                                "npcID": 3986,
+                                "dialogArr": "而且，战斗相关的训练，我们可能还要请教一下这方面的专家才行。另外，就是对敌人能力的情报了，这取决于我们要用什么战术战胜他们。简而言之，这确实不是一件简单的事情。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "圣谕之风·岚",
+                                "npcID": 4376,
+                                "dialogArr": "但我们非做不可。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "面板1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "迪斯伯德。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "哦？神罗大人，看来你恢复的不错。不过告诉你一个坏消息，我们的同盟关系就到此为止。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "无妨，去做你想做的事情吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "这么爽快？现在正是你招贤纳士的时候吧，毕竟敌人的实力那么强劲。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "这不用你担心。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "那个叫混元天尊的家伙，你说服他了么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "看来是失败了，这下就麻烦了，如果说轮回被打破了，这可对你不利啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "说的是，但我最担心的倒不是圣华。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "什么意思？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "在以前，我们的眼里就只有消灭对方这一个目标，利用一切能利用的东西。但时至今日，情况不同以往…宇宙通道的开启，魔盒的力量还有…圣华的一系列计谋。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "但不变的是，我依旧是黑夜之主，那我就要继续履行这个身份的职责。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "迪斯伯德",
+                                "npcID": 4187,
+                                "dialogArr": "看来你终于有些斗志了，真是让人期待。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "不，我向来不喜欢这种没有结果的争斗。只是我讨厌被人轻视的感觉。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "（无论是被圣华，还是被那小子。）",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "这里就是黑狱，一切罪恶的终点。和这里的精灵相处，都要谨慎一点。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "我们唯一确定的，就是他们对黑夜绝对忠诚。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "锢灵·舞",
+                                "npcID": 4208,
+                                "dialogArr": "神罗大人早知道有这样的地方，为什么不早点召集这里的精灵？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "咳咳，不到万不得已，他还确实不会借用这里的力量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "锢灵·舞",
+                                "npcID": 4208,
+                                "dialogArr": "为何？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "这里的精灵们都喜欢独自行动，他们将黑夜之源作为信仰，眼里只有战斗和屠戮。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "锢灵·舞",
+                                "npcID": 4208,
+                                "dialogArr": "如同“兵器”一样的存在…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "是的，如果你了解神罗大人的话，你就会知道为何他不想使用这些力量了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "元素力量在附近逐渐聚集，小心点。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "只要不是黑夜之主神罗大人，其他人都有可能成为他们狩猎的目标。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "面板3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "何事？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "神罗大人需要集结新的力量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "每次都是这个理由，这次他为何不亲自来找我？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "还有，这个小女孩是谁？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "小舞，现在是神罗大人的手下。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "什么？穷途末路了么，竟然找小孩子来帮忙。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "锢灵·舞",
+                                "npcID": 4208,
+                                "dialogArr": "我不是…小孩子。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "我是…无所谓，在这里也很无聊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "看来你们已经找到奥薇纳了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "神…神罗大人，好久不见。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "好久不见，我们需要加快进度，还要找另外几个家伙。如果在黑狱逗留的时间太久，身心会被腐化的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "但是对于神罗大人的话，肯定不用担心这个…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "嗯，我是说小舞，鬼面的话肯定也早就能适应了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "对对，也是啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "锢灵·舞",
+                                "npcID": 4208,
+                                "dialogArr": "（小声）这家伙，和刚刚的态度完全不一样了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "鬼面阎罗",
+                                "npcID": 4238,
+                                "dialogArr": "（小声）这个，奥薇纳她其实一直都是这个样子。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "弑序神罗",
+                                "npcID": 4169,
+                                "dialogArr": "奥薇纳，我也好久没来这里了，帮忙带个路吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "异能元素·奥薇纳",
+                                "npcID": 4426,
+                                "dialogArr": "好！那…我们先去找科萨斯。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "面板3"
+                    }
+                ],
+                "activityID": 103,
+                "name": "主线任务22-10-07"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "老化、磨损、部分短路、熔断……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "虽然有做好心理准备，但是没想到，会坏成这样……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "啊哈哈，所以……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这种程度的损坏，已经不能直接使用铸铁进行强化。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "那可真是太可惜了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "可惜？看看你头顶上那块招牌。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我这儿可是战备中心，主营业务包括不限于维护、升级、修复~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "只是……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "只是什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这个店面怎么说也是面向全冒险者的，每天的时间啦、精力啦都是有限的，你想要我今天给你修好，我可不答应哦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "哎呀，没事没事，我会每天都来，不会一下让你太忙的",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "好。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "啊，还有。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "还有什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我也不是擅长修复所有类型的机械，更何况你们赛尔号的技术也有很多我不了解的地方。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "要是遇到我比较棘手的类型，就交给他们俩吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "虽然总体上来说没杰特洛懂，但是在这船上待久了，还是得会一些的",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "呃，只要把断开的地方捏到一起就可以了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "？"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "？"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "会好起来的，我猜。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "前置对话"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "银翼骑士，哇哦，好拉风的名字。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "唯一的缺点就是没有更像翅膀的翅膀。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "不是非得要长得和你背后拿东西一样的才能叫翅膀。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "呃，我的意思是未来要是有机会，我们可以再做一些优化。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你有这个把握吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "没有。"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "但是如果赛尔能把这个借给我的话，说不定就有了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "它不仅是装备，还是象征，我绝对不会把他拿给你瞎搞的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不过……如果说你是给他再加四把剑的话，我就借给你。"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "四把翅膀样式的剑如何？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "让我考虑一下。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "套装1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "以悬浮为核心理念的装备吗，这是不是太大胆了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "一旦悬浮装置受损，在有重力的领域恐怕就完全失去行动能力了",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这个装备并不是单独作战的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "它的身上有很多隐藏的咬合结构，在需要时展开进行连接。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "应该可以跟复数装甲进行连接？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "是的，这一套是合体的核心部分，是连接的基点。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "合体后的破坏力呈指数上涨呢！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "但是这样一来机动性不就会显著下降吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "不过增加了被命中的可能性，同时牺牲机动性提升破坏力……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "在规模作战中或许能起到很好的效果……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "你们都看着我干什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "没什么，只是想着……"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你懂的比看上去的要多。"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "这就是所谓的战斗本能吗？"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "套装2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "嘶嘶嘶，这个套装漏电？？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "什么意思？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我一碰到他，就感觉麻麻的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "让我试试。"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "哦，麻了麻了，麻起来了！！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "所以这个恐怕我没法修好……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "我也束手无策了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "我没感觉啊？"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "那你往这里用力"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "好了，然后呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这边的线路结构可以梳理到这边来。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "嗯，还有呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "再把这里的能源暂储装置替换一下，然后收纳进安置点就可以了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "嗯，好了，就这样？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "没别的了，不过你真的没有感觉吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "确实没有……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "啊，麻了麻了，开始麻了！！！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "套装3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "好温暖。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "并不是那种机械的温度",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "而是……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "在我们宇宙，曾有人替我们承担了一切。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "这是他的余辉。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "余辉？也就是说……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我们在等他回来。"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "看来宇宙与宇宙的命运并不相通。"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "有的等得到拯救，有的则没有未来。"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "别说的这么悲观，命运总他的出路。"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "只是宇宙不会总是把一切都写在一个看得见的地方。"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "我喜欢那根法杖。"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "总觉得只要看着，就会感到心安"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "这样的感觉往往会出现在一些童话故事里。"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你喜欢看那些？"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "嘿，远航人总需要一些信仰，不然太无聊了不少吗？"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "信仰？"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你没有吗？"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你认真地在问吗？"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "呃……"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "盖伦人不需要神。"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "比起虚无缥缈的东西，我们更相信自己。"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "嘿，看那个法杖的中心，好像有什么东西！"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "让我看看……"
+                            },
+                            {
+                                "index": 27,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "真的诶。"
+                            },
+                            {
+                                "index": 28,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "连你都不知道吗？"
+                            },
+                            {
+                                "index": 29,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "以前应该没有这个，我也不知道是什么时候开始有的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 30,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "好了，那么现在的问题是，怎么拿下来？"
+                            },
+                            {
+                                "index": 31,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "温暖归温暖，我可不太敢把手伸进去，杰特洛你呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 32,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "呃……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 33,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 34,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "你们怎么又都看向我？？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "套装4"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "尖锐而具有攻击性，我很喜欢。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "看上去很酷。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "是个大师之作，不过实战起来如何？"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "他有着强大的进攻能力，但是代价是舍弃了防守能力。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "在我们以前的宇宙，穿上它的，都是追求速度与华丽的佼佼者。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "听上去很特立独行，那你穿过吗？"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嘿嘿，你猜？"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你真是不会卖关子~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "或许我也可以考虑卸下一些防御组件，感觉最近都没怎么受伤了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "然后在遇到体型巨大的怪物时，就能躲得更快了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "体型大的生物往往行动迟缓，比如之前的巨噬晶魔",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "这是偏见。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "套装5"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "这个套装是不是叫恶灵骑士？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "光是看着，就能感觉到一点压迫感",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "它名叫毒液战甲",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "比我想的更可怕一点。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "要说恶灵骑士，之前比较麻人的那一个会更像一些吧？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "有剑有盾，还有重甲。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "那个叫腐蚀者，不过在发生某个意外之前，它叫遗忘者。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "毒液、腐蚀……听上去……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "还挺像的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不不不，完全不一样啦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "一个被遗忘的骑士，在孤独中斩杀了恶魔，却被恶魔的灵魂所腐蚀……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "他又开始了……"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "让他静静吧。"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "套装6"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "他让我想起了小时候。"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "你们宇宙也会堆雪人吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "当然，毕竟雪地里睡不着嘛，也不能回家，对着空气说话总觉得怪怪的，所以就会堆上一个雪人。"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "（我在修理一个雪人？）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "太沉重了吧……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "呜，怎么会有这么狠心的父母啊……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "我只是忘了带钥匙而已……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "那杰特洛呢？盖伦也有雪人吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "当然有，砂雾城时不时也是会下雪的，我这身衣服在雪地里可是隐蔽得很，躲在雪人后面鲍尔斯根本抓不到我。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "哦？那布蕾里克呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "她在当雪人。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 8,
+                        "name": "套装7"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我的天，这流线，这反光，这色泽，太完美了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "就是稍微有些不够锋利。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "机甲可不是单纯为了锋利而存在的，这红与蓝的对立，这双翼，太酷了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "想必在战场上，一定是穿梭于敌我之间，完成闪击战的重要角色。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "他背部刻纹写的好像是……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "别念出来！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "飓风勘探者。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "勘……勘探者……"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不好意思……让你失望了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "没……没事，勘探战况，也是很重要的……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "他好像很失落",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "所以我让你别念出来啊……"
+                            }
+                        ],
+                        "id": 9,
+                        "name": "套装8"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我不想摸带刺的东西。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "别看我，我现在手还麻着呢。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你们看仔细了，这套装备并没有刺，勇敢一些。"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你说的对，那你上。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "他看上去是火属性的，我属水，水火不容。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这套装备并没有着火，勇敢一些。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "如果他手上不是两块盾牌，而是两把武器之类的，我可以考虑一下。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "怎么听都是借口吧……"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你确定？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你要干什么？"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "我看赛尔在笑，我是不是无意间说中了什么。"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "啊哈，没哈有哈啊哈。"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "你哈看哈我哈哪哈里哈在哈笑哈。"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "赛尔没有在笑。"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "这段时间修装备给你修出眼病了？"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "所谓木藏于林，你看到的只是最表层的东西。"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "所以赛尔虽然在笑，但实际上却没在笑？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "别去顺着他说，巴尔奇。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我看过了，这套装备是多搭载可拆卸的，他的背部就有着另外的一套接口，所以……应该是有两套搭载型？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "其实可以更多",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你可别告诉我，这套装备也是能搭载剑的……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 27,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我想是的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 28,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "别那么想当然，盾对应的不见得是剑……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 29,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "只能是剑吧？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 30,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "只能是剑吧？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 31,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "只能是剑吧？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 10,
+                        "name": "套装9"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "庆祝丰收，我听说过，查理星系的枫曳镇也有类似的节日。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "意思是盖伦星系没有咯？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "嗯……也不能叫完全没有。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "盖伦星系的粮食供给已经进入自动化很长的一段时间了，比起丰收，庆祝和平更为重要。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "科技会改变生活，也会改变一些浪漫。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "别说的好像庆祝和平就很冰冷一样。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "和平与丰收，二者同在才是最好的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "你说得对，只是比起丰收，和平要难的太多了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "和平是我们永远的前进方向，在到达之前，我们不会停下脚步的！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 11,
+                        "name": "套装10"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这一套就显得……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "比较工业",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "而且跟之前的不太一样，它加入了莱达的科技。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "倒不如说，本身就是以莱达的晶矿能源作为基础进行制作的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "让我想起了一群人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "你是说……环？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "是的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "那是神罗的手下是吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "比起手下，更应该说是佣兵团。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "改变世界的技术，唯独不应该用于侵略与杀戮。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "杰特洛……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "放轻松点。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "他们不会是你见到的最后一批。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这可让人轻松不起来。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 12,
+                        "name": "套装11"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "也不知道他们现在怎么样了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "他们很厉害吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "说是赛尔他们那个宇宙的位面守护者。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "那一定很可靠。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "可惜并没有与我们同行。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "保护位面比你想象的要重要。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "作为位面的守护者，光是存在本身，就已经至关重要了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "没有重大的危机，位面守护者甚至是不应该出手的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你知道的还挺多的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "费尤也有自己的位面守护者吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "我所知道的都是我上船后听来的。具体的，也不比你了解多少。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "能在灾难到来时站在我们身前的，就是守护者了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "也是。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我更希望永远不会有让他站在我们身前的机会。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 13,
+                        "name": "套装12"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这不对称的美感，这变形结构……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我的天。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "我有点怀疑你的这个战备中心是为了满足你的个人欲望而设立的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你没有证据。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "这样说的往往都是真犯人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "但你并不是侦探。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "莱达也有侦探剧吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "其他星系我不太清楚，但是我们盖伦是有的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "而且广受好评。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "都讲了些什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "一个怪盗与一个侦探的较量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "每集的开头往往都是怪盗盯上达官贵人的珠宝，而侦探会根据预告函推理出怪盗的出手时间与盗窃手法。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "而随着推理，侦探会逐渐发掘珠宝背后的存在的某种腐败与恶行。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "最后富商会被送上法庭，侦探成功阻止偷到，怪盗消失的无影无踪。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "大概是这样一个套路。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "真希望能看到。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我的行李里倒是有，不过没想到你会这么感兴趣。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "我曾经也是有侠盗梦的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "直到我一脚踩空从峡谷的一端滚到另一端。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "节哀。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "为过逝去的梦想。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "话又说回来，这套机甲有些不太一样。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "哦？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这里面，有着莱达宇宙的元素力量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "在刚来到盖伦时，我们遇到了泰普斯。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 27,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我们之间产生了一些误会，泰普斯的雷元素进入了环宇机甲，最终导致机甲产生了一些损坏。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 28,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "那你们是怎么解决的？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 29,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我们在盖伦星系采集了莱达宇宙的四象元素。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 30,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "调整了一些搭配后，中和了环宇机甲里的雷元素。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 31,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "不错的想法。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 32,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "如今5种元素依旧还在这套机甲中运转着。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 33,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "不是中和掉了吗。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 34,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "比起中和，更像是相互稳定，让泰普斯的雷元素本身变为环宇机甲的能源。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 35,
+                                "npcName": "杰特洛",
+                                "npcID": 4405,
+                                "dialogArr": "按照这个思路的话，或许环宇机甲的潜力还没有被完全开发。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 36,
+                                "npcName": "赛尔",
+                                "npcID": 4358,
+                                "dialogArr": "有你这么说，等我回到赛尔号，肖恩博士别想睡好觉了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 37,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "机器人也会睡觉吗？",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 14,
+                        "name": "套装13"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "这不是我曾见过的任何一种类型。"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "它的身上除了赛尔宇宙的科技，还有更多的我没见过的……"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "我也没见过。"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "迪恩……"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "看上去这个东西有着一段不得了的故事。"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "这套装备，确实并不全是赛尔号的科技。"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "果然……"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "能说来听听吗？"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "他，来自未来，但为现在而战。"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "未来？"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我们的宇宙，曾有过一个归于虚无的未来。"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "你们宇宙还有这么厉害的家伙？"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "是的，他可坏了。"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "迪恩承载着他的使命，回到了我们的时代。为了阻止大魔王，他甚至做了海盗的卧底。"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "海盗？"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "准确地说，是宇宙海盗。他们在宇宙中无恶不作，是我们赛尔号最难缠的敌人"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "那个归于虚无的未来也是他们导致的吗？"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "也有他们的参与。"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "那还真是灾难。后来呢？"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "迪恩的出现带来了许多变化，间接加快了我们赛尔号科技的进步。"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "决战来临时，我们已不同往日，最终打破了命运。"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "打破了命运吗？"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "萨洛科，我们对于费尤，也算是“来自未来”的人吗？"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "……"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "或许是。"
+                            },
+                            {
+                                "index": 27,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "不过，并不是所有人都认为你们会带来希望。"
+                            },
+                            {
+                                "index": 28,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "我想也是。"
+                            },
+                            {
+                                "index": 29,
+                                "npcName": "巴尔奇",
+                                "npcID": 4411,
+                                "dialogArr": "但反过来，你们之所以在这里，也就说明有人相信你们是反击的号角。"
+                            },
+                            {
+                                "index": 30,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "谢谢你，巴尔奇。"
+                            },
+                            {
+                                "index": 31,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "不管怎么说，有一点我们是可以肯定的。"
+                            },
+                            {
+                                "index": 32,
+                                "npcName": "萨洛科",
+                                "npcID": 4405,
+                                "dialogArr": "来自未来的你们，会带来全新的“变数”。这个“变数”，是打破“命运”的开始。"
+                            },
+                            {
+                                "index": 33,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "（那么如果连我们败了的话……）"
+                            },
+                            {
+                                "index": 34,
+                                "npcName": "杰特洛",
+                                "npcID": 4358,
+                                "dialogArr": "（又由谁，来为我们而战呢？）"
+                            }
+                        ],
+                        "id": 15,
+                        "name": "套装14"
+                    }
+                ],
+                "activityID": 104,
+                "name": "杰特洛的战备中心"
             }
         ]
     }

@@ -33,6 +33,15 @@
                 "mouseClickFunc": "app:TempleHeroAltarPrePanel"
             },
             {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "diamondCard_icon",
+                "tips": "国庆钻石金卡",
+                "mouseClickFunc": "app:NationalDayDimandCardMainPanel"
+            },
+            {
                 "direction": "left_side",
                 "shownewseer": 0,
                 "priority": 1,
@@ -86,7 +95,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3475"
+                "mouseClickFunc": "app:MainLineTaskNav"
             },
             {
                 "direction": "right",

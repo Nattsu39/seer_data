@@ -558,32 +558,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4418,
-                        "ImageID": 4418,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/HelpingGodPetTeleifuMianPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4419,
-                        "ImageID": 4419,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1571;app/SpetBoErMoMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4420,
-                        "ImageID": 4420,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1571;app/WarTeamBossGotoPanel"
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4426,
+                    "ImageID": 4426,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1574;app/SpetYNYSAoWeiNaMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -30396,7 +30378,7 @@
                 "Height": 133,
                 "Weight": 23,
                 "Features": "精灵王小形态。从宇宙最初的火种中诞生的至纯火元素幻化而成！",
-                "mapID": 1074
+                "mapID": 1151
             },
             {
                 "ID": 2738,
@@ -30405,7 +30387,7 @@
                 "Height": 153,
                 "Weight": 48,
                 "Features": "小神焱进化而成。已经开始熟练的控制各种类型的火焰，逐步展露火元素之王的尊荣！",
-                "mapID": 1074
+                "mapID": 1151
             },
             {
                 "ID": 2739,
@@ -30414,7 +30396,7 @@
                 "Height": 183,
                 "Weight": 96,
                 "Features": "精灵王的究极形态。世间至纯之火的拥有者，掌控火焰的一切形态。嫉恶如仇，只想焚尽天下妖魔！",
-                "mapID": 1074
+                "mapID": 1151
             },
             {
                 "ID": 2740,
@@ -30820,7 +30802,7 @@
                 "Height": 123,
                 "Weight": 15,
                 "Features": "光系精灵王小形态。从宇宙最初的光芒中诞生的至纯光元素幻化而成!",
-                "mapID": 1089
+                "mapID": 1151
             },
             {
                 "ID": 2786,
@@ -30829,7 +30811,7 @@
                 "Height": 152,
                 "Weight": 38,
                 "Features": "小丽进化而成。已经开始熟练的控制各种类型的光芒，逐步展露光元素之王的尊荣!",
-                "mapID": 1089
+                "mapID": 1151
             },
             {
                 "ID": 2787,
@@ -30838,7 +30820,7 @@
                 "Height": 173,
                 "Weight": 86,
                 "Features": "光系精灵王的究极形态。世间至纯之光的拥有者，掌控光芒的一切形态。勇敢善良，只为给世间带来曙光!",
-                "mapID": 1089
+                "mapID": 1151
             },
             {
                 "ID": 2788,
@@ -45825,8 +45807,8 @@
                 "Height": 178,
                 "Weight": 72,
                 "Features": "一位帅气的星际寻宝人，他认为探寻宝藏是世界上最有趣的事情，据说与他一同参与探险的朋友，都能获得神秘的奖励哦！",
-                "Redirect": "map|module",
-                "Go": "103;app/HelpingGodPetTeleifuMianPanel"
+                "Redirect": "map",
+                "Go": 103
             },
             {
                 "ID": 4419,
@@ -45847,6 +45829,66 @@
                 "Features": "神秘魔女所圈养的狼魂，其前世是在族群争斗中死去的狼王，在死后被魔女通过骸骨将其从渊狱中召唤而来，复苏的它们只有一个念头，就是将身边的一切尽数摧毁！",
                 "Redirect": "map|module",
                 "Go": "1571;app/WarTeamBossGotoPanel"
+            },
+            {
+                "ID": 4421,
+                "DefName": "赤胆游龙·赵云",
+                "Type": "光 次元",
+                "Height": 191,
+                "Weight": 82,
+                "Features": "龙胆天神的完全体形态，赤心天铸，万邪不侵，当阳龙魂佑，破敌胆气豪！",
+                "Redirect": "map|module",
+                "Go": "103;app/ZhaoYunCompletePanel"
+            },
+            {
+                "ID": 4422,
+                "DefName": "天奔流·东辉",
+                "Type": "水 次元",
+                "Height": 197,
+                "Weight": 98,
+                "Features": "普兰多区域的领主，身材魁梧的他擅长使用空间类与雨水相关的战斗技能。他总是眯着眼睛微笑待人，但身边的人都会感受到无形的压力。",
+                "Redirect": "map|module",
+                "Go": "1573;app/SpetTBLDongHuiMainPanel"
+            },
+            {
+                "ID": 4423,
+                "DefName": "可灿",
+                "Type": "光 火",
+                "Height": 171,
+                "Weight": 53,
+                "Features": "2022年10月巅峰圣战精灵，对光与火的力量已经掌控得炉火纯青，能轻易眩惑对手！",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4424,
+                "DefName": "萨普戴伊",
+                "Type": "战斗",
+                "Height": 163,
+                "Weight": 48,
+                "Features": "2022年10月包月精灵，十二冠灵之一，能够掌控战斗元素，朝星光斩，极战圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInOctober2022Panel"
+            },
+            {
+                "ID": 4425,
+                "DefName": "基比",
+                "Type": "飞行 暗影",
+                "Height": 57,
+                "Weight": 21,
+                "Features": "东辉的小跟班，能在雨夜都市里使用影子形态肆意穿梭。偶尔会调侃严肃的东辉，但大部分时候都十分可靠。",
+                "Redirect": "map|module",
+                "Go": "1573;app/MainLineExchange_FalseCountry"
+            },
+            {
+                "ID": 4426,
+                "DefName": "异能元素·奥薇纳",
+                "Type": "冰 火",
+                "Height": 174,
+                "Weight": 55,
+                "Features": "黑狱中的元素法师，平日里十分高冷，但在见到弑序神罗后就会像变了一个人一样，这可能也和她能够使用多变的元素法术有关吧......",
+                "Redirect": "map|module",
+                "Go": "1574;app/SpetYNYSAoWeiNaMainPanel"
             }
         ]
     }
