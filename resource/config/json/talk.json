@@ -1220,7 +1220,7 @@
             "groupId": 48,
             "npcId": 19,
             "dir": 0,
-            "msg": "每只精灵身上有3个刻印孔，意味着每只精灵最多装载3枚刻印。其中精灵的第3个刻印孔不是默认开启的，需要使用通用刻印激活水晶才会开启。",
+            "msg": "每只精灵身上有3个刻印孔，意味着每只精灵最多装载3枚刻印。其中精灵的第3个刻印孔不是默认开启的，需要使用【通用刻印激活水晶】才会开启。",
             "answer": "",
             "deal": ""
         },
@@ -1682,6 +1682,816 @@
             "msg": "Hi，<font color=\"0xffd325\">${nick}</font>！我是特派队员叽里呱啦，很高兴认识你！",
             "answer": "查看精灵学习计划|暂且离去",
             "deal": "1_168|"
+        },
+        {
+            "id": 188,
+            "groupId": 64,
+            "npcId": 33,
+            "dir": 0,
+            "msg": "你好，<font color=\"0xffd325\">${nick}</font>。我是派特博士，有任何精灵相关的问题都可以来问我。你要一直记得，精灵永远是我们最好的伙伴。",
+            "answer": "我要孵化精元|暂且离去",
+            "deal": "1_26_type:1|"
+        },
+        {
+            "id": 189,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "嘿，你是今天被派来帮忙的临时工吗？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 190,
+            "groupId": 65,
+            "npcId": 11,
+            "dir": 1,
+            "msg": "我？不是，那个…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 191,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "先换上衣服吧，我们现在人手紧缺。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 192,
+            "groupId": 65,
+            "npcId": 11,
+            "dir": 1,
+            "msg": "好吧，要帮忙也不是不可以。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 193,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "时空快递局，专门帮忙运送快递包裹，作为其中一员，你必须遵守两个准则。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 194,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "第一准则，按时把包裹完好无损地交给客户。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 195,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "第二准则，工作中永远保持中立，我们只是快递员。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 196,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "衣服穿好了么？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 197,
+            "groupId": 65,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "这衣服怎么这么大啊，好奇怪。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 198,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "这件衣服会帮助你严格遵守我刚刚说的两条准则。你穿上了快递员服装后，就不会被自己的感情和记忆干扰到工作，并且还能清晰了解包裹的信息。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 199,
+            "groupId": 65,
+            "npcId": 35,
+            "dir": 0,
+            "msg": "加油，总共有5个包裹等待你派送。每天只能派送1个包裹。等你完成5次派送后就可以来领取奖励了。当然，每天的派送补贴不会漏给你的。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 200,
+            "groupId": 65,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "行，交给我了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 201,
+            "groupId": 66,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "您的时空包裹送到了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 202,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "谢谢，麻烦您来这里跑一趟了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 203,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "能问一下，这个快递是什么时候开始派送的么？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 204,
+            "groupId": 66,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "如果用这边的时间算的话，是三个月前了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 205,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "好的，谢谢您。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 206,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "有一封信，还有些吃的东西。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 207,
+            "groupId": 66,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "请确认食物的新鲜程度，虽然我们使用特制容器进行运输，但还是建议您食用前进行确认。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 208,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "嗯，没问题。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 209,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "所以，现在还是不能从这里向外面寄东西么？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 210,
+            "groupId": 66,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "是的，很抱歉。此地业务尚未开通。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 211,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "嗯…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 212,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "还是很美味…艾希丝你做月饼的手艺一点都没有退步。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 213,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "只不过距离上次你寄粽子过来已经有一年多的时间了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 214,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "或许我不该这么挑剔，我还是好好珍惜品尝它的味道吧。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 215,
+            "groupId": 66,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "说的是，我们时空快递的目的就是尽力地创造出这种可能。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 216,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "嗯，上次有咖喱肉粽子，这次竟然也有一个咖喱牛肉陷的月饼。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 217,
+            "groupId": 66,
+            "npcId": 36,
+            "dir": 0,
+            "msg": "真想写封信告诉她，我现在已经不太喜欢吃咖喱了哈哈哈。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 218,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "您的时空包裹送到了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 219,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "请问有人在吗？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 220,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "是你回来了吗？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 221,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "嗯？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 222,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "啊，抱歉，是快递啊，我以为是我认识的人。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 223,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "咳咳，请签收，是拉伯克先生寄来的信件包裹。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 224,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "拉伯克…好，谢谢你。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 225,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "那我就先告辞了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 226,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "（打开信封）等等…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 227,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "他现在在哪里？是这个叫长夜星河的地方吗？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 228,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "抱歉，我并没有亲眼见过寄件人，这个包裹只是按照要求进行派送的。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 229,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "嗯？为什么…拉伯克他…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 230,
+            "groupId": 67,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "额，请问…你需要帮忙么？好像你的情绪不是很稳定？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 231,
+            "groupId": 67,
+            "npcId": 37,
+            "dir": 0,
+            "msg": "没，没事，谢谢你…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 232,
+            "groupId": 68,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "您的时空包裹送到了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 233,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "好，麻烦放在桌子上吧。沃奇，帮忙签收一下。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 234,
+            "groupId": 68,
+            "npcId": 39,
+            "dir": 0,
+            "msg": "好叻~",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 235,
+            "groupId": 68,
+            "npcId": 39,
+            "dir": 0,
+            "msg": "这个包裹长得样子好奇怪啊。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 236,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "能稍等下么，我想先确认一下这个包裹的内容。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 237,
+            "groupId": 68,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "请便，不如说，您最好先检查一下。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 238,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "没有寄件人？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 239,
+            "groupId": 68,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "是的，时空包裹允许匿名投递。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 240,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "等下，我怎么有种不好的预感…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 241,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "果然…迪斯伯德这家伙，莫名其妙寄张自拍照过来干嘛。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 242,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "看来不要想理解这家伙的脑回路。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 243,
+            "groupId": 68,
+            "npcId": 39,
+            "dir": 0,
+            "msg": "好像背后有写东西诶。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 244,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "这个是…时钟诛机？他总算说点有用的东西了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 245,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "沃奇，把这个拿到桌子上去，把我的咖啡也拿过去。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 246,
+            "groupId": 68,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "那个…我可以走了么？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 247,
+            "groupId": 68,
+            "npcId": 38,
+            "dir": 0,
+            "msg": "啊，当然，还是说你要留下来喝杯咖啡么？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 248,
+            "groupId": 68,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "不用了，谢谢，再见。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 249,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "呼，总算找到了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 250,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "（警觉）",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 251,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "您的时空包裹送到了！",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 252,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "包裹…那是什么？放在那里就好了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 253,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "原来…你拿剪刀出来不是要拆包裹的啊…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 254,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "你走吧。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 255,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "请在这里确认签收一下…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 256,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "怎么这么麻烦？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 257,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "抱歉抱歉…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 258,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "诶，难得这么安静的气氛都被你破坏了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 259,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "抱歉，我马上走…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 260,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "辛苦了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 261,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "诶？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 262,
+            "groupId": 69,
+            "npcId": 40,
+            "dir": 0,
+            "msg": "谢谢你，因为这是我的好友给我寄的东西。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 263,
+            "groupId": 69,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "嗯…我先告辞了~",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 264,
+            "groupId": 70,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "好冷…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 265,
+            "groupId": 70,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "快递，您的快递送到了！",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 266,
+            "groupId": 70,
+            "npcId": 41,
+            "dir": 0,
+            "msg": "快递？我的？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 267,
+            "groupId": 70,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "是两位的。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 268,
+            "groupId": 70,
+            "npcId": 42,
+            "dir": 0,
+            "msg": "看看吧。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 269,
+            "groupId": 70,
+            "npcId": 41,
+            "dir": 0,
+            "msg": "谁会用这种方式联系我们呢？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 270,
+            "groupId": 70,
+            "npcId": 42,
+            "dir": 0,
+            "msg": "而且是知道我俩现在还在一起行动的人。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 271,
+            "groupId": 70,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "打开包裹的时候请当心，包裹上施加了特殊的保护力量。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 272,
+            "groupId": 70,
+            "npcId": 41,
+            "dir": 0,
+            "msg": "嗯…",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 273,
+            "groupId": 70,
+            "npcId": 42,
+            "dir": 0,
+            "msg": "这个是…难道是他寄来的？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 274,
+            "groupId": 70,
+            "npcId": 41,
+            "dir": 0,
+            "msg": "不会错的。但是他为什么会知道？而且他提到的“轮回”是…？",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 275,
+            "groupId": 70,
+            "npcId": 42,
+            "dir": 0,
+            "msg": "这个等下再说吧。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 276,
+            "groupId": 70,
+            "npcId": 42,
+            "dir": 0,
+            "msg": "谢谢你，确认无误了。",
+            "answer": "",
+            "deal": ""
+        },
+        {
+            "id": 277,
+            "groupId": 70,
+            "npcId": 34,
+            "dir": 1,
+            "msg": "好的好的，再见~",
+            "answer": "",
+            "deal": ""
         }
     ]
 }

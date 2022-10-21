@@ -1389,23 +1389,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3745
-                    },
-                    "ID": 248,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20181012,
-                    "End": "*",
-                    "Map": 1324,
-                    "Name": "萨奥森混沌化",
-                    "Title": "混沌法师萨里奥森",
-                    "Redirect": "map|module",
-                    "Go": "1324;app/HundunSaaosenMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2,
                         "Des": "太空站重获新生，功勋奖励激情放送！",
                         "Prize": "绝版成就“万夫莫敌”、“横扫千军”等"
@@ -3227,23 +3210,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3947
-                    },
-                    "ID": 760,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20191018,
-                    "End": "*",
-                    "Map": 1402,
-                    "Name": "奥德迪尔超进化",
-                    "Title": "奥德迪斯",
-                    "Redirect": "map|module",
-                    "Go": "1402;app/AodedierSuperEvoMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2,
                         "Des": "不速之客突然造访， 昔日和平瞬间消逝。 魔界突然对飓风星云动手， 究竟蕴藏着什么密谋？锁定本周更新主线，一起来揭秘！",
                         "Prize": "特性重组剂Ω、特防学习力注入剂Ω、泰坦之灵"
@@ -3292,23 +3258,6 @@
                     "Title": "余罪魔女",
                     "Redirect": "map|module",
                     "Go": "1403;app/YuZuiSorceressMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3953
-                    },
-                    "ID": 782,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20191101,
-                    "End": "*",
-                    "Map": 1404,
-                    "Name": "S3噬雷狂兽",
-                    "Title": "噬雷狂兽",
-                    "Redirect": "map|module",
-                    "Go": "1404;app/PhagocyticBeastMainPanel"
                 },
                 {
                     "Details": {
@@ -11631,6 +11580,59 @@
                     "Title": "异能元素·奥薇纳",
                     "Redirect": "map|module",
                     "Go": "1574;app/SpetYNYSAoWeiNaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2275,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221014,
+                    "End": "*",
+                    "Map": 1575,
+                    "Name": "【主线任务】冰原号角",
+                    "Title": "冰原号角",
+                    "Redirect": "map|module",
+                    "Go": "1575;app/MainLineTask_3478"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4427
+                    },
+                    "ID": 2276,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221014,
+                    "End": "*",
+                    "Map": 1575,
+                    "Name": "S-金古德",
+                    "Title": "金古德",
+                    "Redirect": "map|module",
+                    "Go": "1575;app/SpetJinGuDeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2277,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221014,
+                    "End": "*",
+                    "Map": 1575,
+                    "Name": "【支线任务】盛世纪元",
+                    "Title": "盛世纪元",
+                    "Redirect": "map|module",
+                    "Go": "1575;app/BranchLineTask1014MainPanel"
                 }
             ]
         },
@@ -37166,31 +37168,57 @@
                     "Title": "战队军需官抵达",
                     "Redirect": "map|module",
                     "Go": "1;app/TeamBusinessMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
-                        "mc": 1
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3745
                     },
-                    "ID": 2238,
-                    "isNew": 1,
-                    "kinds": 1,
+                    "ID": 248,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220909,
+                    "Type": 0,
+                    "Start": 20181012,
                     "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
+                    "Map": 1324,
+                    "Name": "萨奥森混沌化",
+                    "Title": "混沌法师萨里奥森",
                     "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
+                    "Go": "1324;app/HundunSaaosenMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3947
+                    },
+                    "ID": 760,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20191018,
+                    "End": "*",
+                    "Map": 1402,
+                    "Name": "奥德迪尔超进化",
+                    "Title": "奥德迪斯",
+                    "Redirect": "map|module",
+                    "Go": "1402;app/AodedierSuperEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3953
+                    },
+                    "ID": 782,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20191101,
+                    "End": "*",
+                    "Map": 1404,
+                    "Name": "S3噬雷狂兽",
+                    "Title": "噬雷狂兽",
+                    "Redirect": "map|module",
+                    "Go": "1404;app/PhagocyticBeastMainPanel"
                 },
                 {
                     "Details": {
@@ -37208,93 +37236,6 @@
                     "Title": "星河商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2269,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20221007,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "桃园三杰回归",
-                    "Title": "桃园三杰回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TaoyuanBetrothalTripodMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2275,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221014,
-                    "End": "*",
-                    "Map": 1575,
-                    "Name": "【主线任务】冰原号角",
-                    "Title": "冰原号角",
-                    "Redirect": "map|module",
-                    "Go": "1575;app/MainLineTask_3478"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4427
-                    },
-                    "ID": 2276,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20221014,
-                    "End": "*",
-                    "Map": 1575,
-                    "Name": "S-金古德",
-                    "Title": "金古德",
-                    "Redirect": "map|module",
-                    "Go": "1575;app/SpetJinGuDeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2277,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221014,
-                    "End": "*",
-                    "Map": 1575,
-                    "Name": "【支线任务】盛世纪元",
-                    "Title": "盛世纪元",
-                    "Redirect": "map|module",
-                    "Go": "1575;app/BranchLineTask1014MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2278,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20221014,
-                    "End": 20221028,
-                    "Map": 103,
-                    "Name": "兌钻消费奖励系统更新",
-                    "Title": "兌钻消费奖励系统更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
@@ -37332,6 +37273,84 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4429
+                    },
+                    "ID": 2282,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221014,
+                    "End": 20221021,
+                    "Map": 11893,
+                    "Name": "泰姆雷",
+                    "Title": "泰姆雷",
+                    "Redirect": "map|module",
+                    "Go": "11893;app/HarvestDayCollectionPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2238,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2269,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221007,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "桃园三杰回归",
+                    "Title": "桃园三杰回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TaoyuanBetrothalTripodMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2278,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221014,
+                    "End": 20221028,
+                    "Map": 103,
+                    "Name": "兌钻消费奖励系统更新",
+                    "Title": "兌钻消费奖励系统更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
                     "ID": 2281,
@@ -37349,22 +37368,109 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 1,
-                        "monID": 4429
+                        "mc": 2
                     },
-                    "ID": 2282,
+                    "ID": 2283,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221021,
+                    "End": "*",
+                    "Map": 1576,
+                    "Name": "【主线任务】浮光跃金",
+                    "Title": "浮光跃金",
+                    "Redirect": "map|module",
+                    "Go": "1576;app/MainLineTask_3479"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4430
+                    },
+                    "ID": 2284,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20221014,
-                    "End": 20221021,
-                    "Map": 11893,
-                    "Name": "泰姆雷",
-                    "Title": "泰姆雷",
+                    "Start": 20221021,
+                    "End": "*",
+                    "Map": 1576,
+                    "Name": "S-极光仙子",
+                    "Title": "极光仙子",
                     "Redirect": "map|module",
-                    "Go": "11893;app/HarvestDayCollectionPanel"
+                    "Go": "1576;app/SpetJGXZMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2285,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221021,
+                    "End": 20221028,
+                    "Map": 1576,
+                    "Name": "保卫瓦普特号",
+                    "Title": "保卫瓦普特号",
+                    "Redirect": "map|module",
+                    "Go": "1576;app/DefendThePoirotMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4431
+                    },
+                    "ID": 2286,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221021,
+                    "End": 20221028,
+                    "Map": 1576,
+                    "Name": "凯帕",
+                    "Title": "凯帕",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号巅峰之战》参与活动哦！"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2287,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221021,
+                    "End": 20221028,
+                    "Map": 103,
+                    "Name": "艾欧丽娅战力觉醒",
+                    "Title": "艾欧丽娅战力觉醒",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AoliaFeatureUpgradeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2288,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221021,
+                    "End": 20221124,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -37376,7 +37482,7 @@
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20221014,
-                    "End": 20221021,
+                    "End": 20231021,
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
