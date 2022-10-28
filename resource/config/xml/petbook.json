@@ -561,19 +561,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4430,
-                        "ImageID": 4430,
+                        "ID": 4432,
+                        "ImageID": 4432,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1576;app/SpetJGXZMainPanel"
+                        "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4431,
-                        "ImageID": 4431,
-                        "Label": 0,
-                        "Redirect": "alarm",
-                        "Go": "请前往《赛尔号巅峰之战》参与限时活动获得！"
+                        "type": 1,
+                        "ID": 497,
+                        "MonID": 3741,
+                        "ImageID": 1400497,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45949,6 +45950,16 @@
                 "Features": "时空快递局的快递员，专门负责莱达宇宙的快递投送，他们的任务是按时安全地将包裹送到收件人的手中。",
                 "Redirect": "alarm",
                 "Go": "请前往《赛尔号巅峰之战》参与限时活动获得！"
+            },
+            {
+                "ID": 4432,
+                "DefName": "恶咒巫师·科萨斯",
+                "Type": "混沌 暗影",
+                "Height": 186,
+                "Weight": 68,
+                "Features": "徜徉在花海中的少年，善用诅咒之力。当灰白色花朵散出的幽香浸入体内后，幻觉也随之而来，接下来便是诅咒带来的死亡倒计时。",
+                "Redirect": "map|module",
+                "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
             }
         ]
     }

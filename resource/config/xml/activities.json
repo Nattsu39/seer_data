@@ -11633,6 +11633,42 @@
                     "Title": "盛世纪元",
                     "Redirect": "map|module",
                     "Go": "1575;app/BranchLineTask1014MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2283,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221021,
+                    "End": "*",
+                    "Map": 1576,
+                    "Name": "【主线任务】浮光跃金",
+                    "Title": "浮光跃金",
+                    "Redirect": "map|module",
+                    "Go": "1576;app/MainLineTask_3479"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4430
+                    },
+                    "ID": 2284,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221021,
+                    "End": "*",
+                    "Map": 1576,
+                    "Name": "S-极光仙子",
+                    "Title": "极光仙子",
+                    "Redirect": "map|module",
+                    "Go": "1576;app/SpetJGXZMainPanel"
                 }
             ]
         },
@@ -37289,48 +37325,6 @@
                     "Title": "泰姆雷",
                     "Redirect": "map|module",
                     "Go": "11893;app/HarvestDayCollectionPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2238,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220909,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2269,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20221007,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "桃园三杰回归",
-                    "Title": "桃园三杰回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TaoyuanBetrothalTripodMainPanel"
                 },
                 {
                     "Details": {
@@ -37348,59 +37342,6 @@
                     "Title": "兌钻消费奖励系统更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2281,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221014,
-                    "End": 20221118,
-                    "Map": 1427,
-                    "Name": "能源研究站",
-                    "Title": "能源研究站更新",
-                    "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2283,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221021,
-                    "End": "*",
-                    "Map": 1576,
-                    "Name": "【主线任务】浮光跃金",
-                    "Title": "浮光跃金",
-                    "Redirect": "map|module",
-                    "Go": "1576;app/MainLineTask_3479"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4430
-                    },
-                    "ID": 2284,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20221021,
-                    "End": "*",
-                    "Map": 1576,
-                    "Name": "S-极光仙子",
-                    "Title": "极光仙子",
-                    "Redirect": "map|module",
-                    "Go": "1576;app/SpetJGXZMainPanel"
                 },
                 {
                     "Details": {
@@ -37454,6 +37395,65 @@
                     "Title": "艾欧丽娅战力觉醒",
                     "Redirect": "map|module",
                     "Go": "103;app/AoliaFeatureUpgradeMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2238,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2269,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221007,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "桃园三杰回归",
+                    "Title": "桃园三杰回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TaoyuanBetrothalTripodMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2281,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221014,
+                    "End": 20221118,
+                    "Map": 1427,
+                    "Name": "能源研究站",
+                    "Title": "能源研究站更新",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
                 },
                 {
                     "Details": {
@@ -37476,6 +37476,127 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 2289,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221028,
+                    "End": "*",
+                    "Map": 1577,
+                    "Name": "【主线任务】恶咒之花",
+                    "Title": "恶咒之花",
+                    "Redirect": "map|module",
+                    "Go": "1577;app/MainLineTask_3480"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4432
+                    },
+                    "ID": 2290,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221028,
+                    "End": "*",
+                    "Map": 1577,
+                    "Name": "S-恶咒巫师·科萨斯",
+                    "Title": "恶咒巫师·科萨斯",
+                    "Redirect": "map|module",
+                    "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2291,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221028,
+                    "End": 20221104,
+                    "Map": 11895,
+                    "Name": "万圣节主题活动",
+                    "Title": "奇妙万圣夜",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HalloweenAggregateMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2292,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221028,
+                    "End": 20221104,
+                    "Map": 103,
+                    "Name": "通用刻印激活水晶",
+                    "Title": "刻印水晶折扣来袭",
+                    "Redirect": "map|module",
+                    "Go": "103;app/UniversalEngravingCrystalMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2293,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221028,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2294,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221028,
+                    "End": 20221111,
+                    "Map": 103,
+                    "Name": "钻石奖励系统更新",
+                    "Title": "钻石奖励系统更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2295,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221028,
+                    "End": 20221111,
+                    "Map": 103,
+                    "Name": "弑神猎皇神谕进阶",
+                    "Title": "弑神猎皇神谕进阶",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3514"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 2274,
                     "isNew": 1,
                     "kinds": 1,
@@ -37490,7 +37611,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2276,2278,2279,2280,2281"
+            "Important": "2290,2291,2292,2294,2295"
         }
     }
 }
