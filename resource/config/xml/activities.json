@@ -11669,6 +11669,42 @@
                     "Title": "极光仙子",
                     "Redirect": "map|module",
                     "Go": "1576;app/SpetJGXZMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2289,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221028,
+                    "End": "*",
+                    "Map": 1577,
+                    "Name": "【主线任务】恶咒之花",
+                    "Title": "恶咒之花",
+                    "Redirect": "map|module",
+                    "Go": "1577;app/MainLineTask_3480"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4432
+                    },
+                    "ID": 2290,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221028,
+                    "End": "*",
+                    "Map": 1577,
+                    "Name": "S-恶咒巫师·科萨斯",
+                    "Title": "恶咒巫师·科萨斯",
+                    "Redirect": "map|module",
+                    "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
                 }
             ]
         },
@@ -37395,6 +37431,40 @@
                     "Title": "艾欧丽娅战力觉醒",
                     "Redirect": "map|module",
                     "Go": "103;app/AoliaFeatureUpgradeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2291,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221028,
+                    "End": 20221104,
+                    "Map": 11895,
+                    "Name": "万圣节主题活动",
+                    "Title": "奇妙万圣夜",
+                    "Redirect": "map|module",
+                    "Go": "11895;app/HalloweenAggregateMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2292,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221028,
+                    "End": 20221104,
+                    "Map": 103,
+                    "Name": "通用刻印激活水晶",
+                    "Title": "刻印水晶折扣来袭",
+                    "Redirect": "map|module",
+                    "Go": "103;app/UniversalEngravingCrystalMainPanel"
                 }
             ],
             "_text": [
@@ -37474,76 +37544,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2289,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221028,
-                    "End": "*",
-                    "Map": 1577,
-                    "Name": "【主线任务】恶咒之花",
-                    "Title": "恶咒之花",
-                    "Redirect": "map|module",
-                    "Go": "1577;app/MainLineTask_3480"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4432
-                    },
-                    "ID": 2290,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20221028,
-                    "End": "*",
-                    "Map": 1577,
-                    "Name": "S-恶咒巫师·科萨斯",
-                    "Title": "恶咒巫师·科萨斯",
-                    "Redirect": "map|module",
-                    "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2291,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221028,
-                    "End": 20221104,
-                    "Map": 11895,
-                    "Name": "万圣节主题活动",
-                    "Title": "奇妙万圣夜",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/HalloweenAggregateMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2292,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20221028,
-                    "End": 20221104,
-                    "Map": 103,
-                    "Name": "通用刻印激活水晶",
-                    "Title": "刻印水晶折扣来袭",
-                    "Redirect": "map|module",
-                    "Go": "103;app/UniversalEngravingCrystalMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2293,
@@ -37586,12 +37586,137 @@
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20221028,
-                    "End": 20221111,
+                    "End": 20221118,
                     "Map": 103,
                     "Name": "弑神猎皇神谕进阶",
                     "Title": "弑神猎皇神谕进阶",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetMainPanel_3514"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2296,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221104,
+                    "End": "*",
+                    "Map": 1578,
+                    "Name": "【主线任务】浩瀚夜空",
+                    "Title": "浩瀚夜空",
+                    "Redirect": "map|module",
+                    "Go": "1578;app/MainLineTask_3481"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4435
+                    },
+                    "ID": 2297,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221104,
+                    "End": "*",
+                    "Map": 1578,
+                    "Name": "S-蛮龙之戟·赫比德",
+                    "Title": "蛮龙之戟·赫比德",
+                    "Redirect": "map|module",
+                    "Go": "1578;app/SpetMLZJHeBiDeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4433
+                    },
+                    "ID": 2298,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221104,
+                    "End": 20221202,
+                    "Map": 1095,
+                    "Name": "11月巅峰联赛",
+                    "Title": "谧娜",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2299,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221104,
+                    "End": 20221111,
+                    "Map": 1578,
+                    "Name": "苍穹守护",
+                    "Title": "苍穹守护",
+                    "Redirect": "map|module",
+                    "Go": "1578;app/TheBattleOfBuRui"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2300,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221104,
+                    "End": 20221111,
+                    "Map": 103,
+                    "Name": "蜜雪儿皮肤售卖",
+                    "Title": "蜜雪儿全新皮肤",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MichelleSkinMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 1,
+                        "monID": 4434
+                    },
+                    "ID": 2301,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221104,
+                    "End": 20221202,
+                    "Map": 1529,
+                    "Name": "11月包月精灵",
+                    "Title": "库托里希",
+                    "Redirect": "map|module",
+                    "Go": "1529;app/MonthlyPetInNovember2022Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2302,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221104,
+                    "End": 20221202,
+                    "Map": 103,
+                    "Name": "圣殿英雄巡回",
+                    "Title": "混元天尊",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
                 },
                 {
                     "Details": {
@@ -37611,7 +37736,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2290,2291,2292,2294,2295"
+            "Important": "2297,2298,2299,2300,2302"
         }
     }
 }

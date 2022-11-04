@@ -1,0 +1,82 @@
+{
+    "root": {
+        "Default": {
+            "ComparePanel": {
+                "PetIcon": {
+                    "Scale": 1.25
+                },
+                "OldEffect": {
+                    "Id": 822
+                },
+                "AdvEffect": {
+                    "Id": 822,
+                    "Des": "this is <font color='#FF7751'>new</font> Icon html text"
+                }
+            },
+            "InfoPanel": {
+                "PetIcon": {
+                    "Scale": 1
+                },
+                "AdvEffect": {
+                    "Id": 822
+                }
+            },
+            "ChallengePanel": {
+                "PetIcon": {
+                    "Scale": 0.7
+                },
+                "Glow": {
+                    "Color": "0xFF4500",
+                    "Alpha": 40,
+                    "Blur": 12
+                },
+                "Tips": {
+                    "Text": "<font color='#FF7751'>【活动规则】：</font><br>1、$START-$END期间可以通过试炼获取专属神谕之证<br>2、每天拥有5次试炼机会，每场战斗胜利后，可能获取5~7个专属神谕之证<br>3、实战试炼为1V1单精灵作战，且仅能使用弑神猎皇完成挑战<br>4、消耗专属神谕之证，解锁<font color='#FF7751'>全部4个组件</font>即可完成神谕进阶，解锁每个组件需要消耗85个神谕之证<br>5、已完成神谕进阶后可以继续进行实战试炼，照常获得专属神谕之证<br>6、试炼关闭后，剩余的专属神谕之证可以在活动结束前<font color='#FF7751'>手动转换</font>为通用神谕之证，在返场商城强化错过的精灵<br>（返场商城活动将在后续更新开启，敬请期待）"
+                },
+                "Time": {
+                    "Id": 346
+                }
+            }
+        },
+        "Task": {
+            "MainPanel": {
+                "FreeTime": {
+                    "Id": 346
+                },
+                "PayTime": {
+                    "Id": 344
+                }
+            },
+            "ComparePanel": {
+                "OldEffect": {
+                    "Id": 822
+                },
+                "AdvEffect": {
+                    "Id": 1646,
+                    "Des": "自身每次使用攻击技能后都会获得1支<font color='#FF7751'>灭神之箭</font>；回合开始时若自身体力高于对手则当回合所有技能先制+1且直至下回合开始时免疫所有异常状态（下场后保留），回合结束时若自身体力低于对手则{吸取}对手最大{体力}的1/3（<font color='#FF7751'>灭神之箭</font>下场后保留，最多可获得5支，boss无效）<br><font color='#FF7751'>灭神之箭</font>：使用攻击技能时忽略对手双防值的8%并附加40点固定伤害"
+                }
+            },
+            "InfoPanel": {
+                "PetIcon": {
+                    "Offset": "0_30",
+                    "Scale": 1.1
+                },
+                "AdvEffect": {
+                    "Id": 1646
+                }
+            },
+            "ChallengePanel": {
+                "Time": {
+                    "Id": 346
+                }
+            },
+            "ID": 1,
+            "PetID": 3514,
+            "OldEffID": 1108,
+            "NewEffID": 2032,
+            "Jump": "ShiShenLieHuangMainPanel",
+            "StatDes1": "1028神谕进阶-弑神猎皇",
+            "StatDes2": "2022运营活动"
+        }
+    }
+}

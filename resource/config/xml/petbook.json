@@ -561,20 +561,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4432,
-                        "ImageID": 4432,
+                        "ID": 4433,
+                        "ImageID": 4433,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4434,
+                        "ImageID": 4434,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
+                        "Go": "103;app/MonthlyPetInNovember2022Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4435,
+                        "ImageID": 4435,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1578;app/SpetMLZJHeBiDeMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 497,
-                        "MonID": 3741,
-                        "ImageID": 1400497,
+                        "ID": 498,
+                        "MonID": 4007,
+                        "ImageID": 1400498,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/MichelleSkinMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45897,7 +45913,7 @@
                 "Type": "冰 火",
                 "Height": 174,
                 "Weight": 55,
-                "Features": "黑狱中的元素法师，平日里十分高冷，但在见到弑序神罗后就会像变了一个人一样，这可能也和她能够使用多变的元素法术有关吧......",
+                "Features": "黑狱中的元素法师，平日里十分高冷，但在见到弑序神罗后就会像变了一个人一样，这可能也和她能够使用多变的元素法术有关吧。",
                 "Redirect": "map|module",
                 "Go": "1574;app/SpetYNYSAoWeiNaMainPanel"
             },
@@ -45960,6 +45976,36 @@
                 "Features": "徜徉在花海中的少年，善用诅咒之力。当灰白色花朵散出的幽香浸入体内后，幻觉也随之而来，接下来便是诅咒带来的死亡倒计时。",
                 "Redirect": "map|module",
                 "Go": "1577;app/SpetEZWSKeSaSiMainPanel"
+            },
+            {
+                "ID": 4433,
+                "DefName": "谧娜",
+                "Type": "神秘 超能",
+                "Height": 163,
+                "Weight": 45,
+                "Features": "2022年11月巅峰圣战精灵，她的眼睛早已看穿了敌人的一切！",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4434,
+                "DefName": "库托里希",
+                "Type": "龙",
+                "Height": 157,
+                "Weight": 44,
+                "Features": "2022年11月包月精灵，十二冠灵之一，能够掌控龙之元素，凌姿炫舞，龙华圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInNovember2022Panel"
+            },
+            {
+                "ID": 4435,
+                "DefName": "蛮龙之戟·赫比德",
+                "Type": "邪灵 龙",
+                "Height": 191,
+                "Weight": 78,
+                "Features": "极身黩武的原王国勇士，破坏与拼杀是他仅存的追求。魔障内长戟破空声日夜回响，是为了凌驾更强的恶敌还是为了击溃曾经的自己不得而知。",
+                "Redirect": "map|module",
+                "Go": "1578;app/SpetMLZJHeBiDeMainPanel"
             }
         ]
     }
