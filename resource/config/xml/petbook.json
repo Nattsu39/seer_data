@@ -561,36 +561,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4433,
-                        "ImageID": 4433,
+                        "ID": 4436,
+                        "ImageID": 4436,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1579;app/SpetYHHaiDengMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4437,
+                        "ImageID": 4437,
                         "Label": 0,
                         "Redirect": "map",
-                        "Go": 1095
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4434,
-                        "ImageID": 4434,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInNovember2022Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4435,
-                        "ImageID": 4435,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1578;app/SpetMLZJHeBiDeMainPanel"
+                        "Go": 1579
                     },
                     {
                         "type": 1,
-                        "ID": 498,
-                        "MonID": 4007,
-                        "ImageID": 1400498,
+                        "ID": 499,
+                        "MonID": 3668,
+                        "ImageID": 1400499,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/MichelleSkinMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 500,
+                        "MonID": 4433,
+                        "ImageID": 1400500,
+                        "Label": 1,
+                        "Redirect": "map",
+                        "Go": 1095
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -32246,11 +32247,11 @@
             },
             {
                 "ID": 2946,
-                "DefName": "嫉妒之神哲利斯",
+                "DefName": "哲利斯",
                 "Type": "神秘 暗影",
-                "Height": 181,
-                "Weight": 92,
-                "Features": "七罪之神中的第二位。在它看来，所有比它强大的都要被毁灭，那些强大的力量终究会为他所用！",
+                "Height": 171,
+                "Weight": 52,
+                "Features": "七罪之神中的第二位。在她看来，所有比她强大的都要被毁灭，那些强大的力量终究会为她所用！",
                 "mapID": 1134
             },
             {
@@ -32345,7 +32346,7 @@
             },
             {
                 "ID": 2957,
-                "DefName": "邪念之神拉斯特",
+                "DefName": "拉斯特",
                 "Type": "神秘暗影",
                 "Height": 200,
                 "Weight": 186,
@@ -37312,7 +37313,7 @@
             },
             {
                 "ID": 3515,
-                "DefName": "玄冥之魂·奥斯兰",
+                "DefName": "玄冥魂者·奥斯兰",
                 "Type": "神秘",
                 "Height": 180,
                 "Weight": 70,
@@ -46006,6 +46007,26 @@
                 "Features": "极身黩武的原王国勇士，破坏与拼杀是他仅存的追求。魔障内长戟破空声日夜回响，是为了凌驾更强的恶敌还是为了击溃曾经的自己不得而知。",
                 "Redirect": "map|module",
                 "Go": "1578;app/SpetMLZJHeBiDeMainPanel"
+            },
+            {
+                "ID": 4436,
+                "DefName": "幽火·海登",
+                "Type": "火 神秘",
+                "Height": 155,
+                "Weight": 44,
+                "Features": "出现在小巷尽头的神秘女子，她的手中可以迸发出幽紫色的火焰，敏锐的眼神中透露出危险的气息。",
+                "Redirect": "map|module",
+                "Go": "1579;app/SpetYHHaiDengMainPanel"
+            },
+            {
+                "ID": 4437,
+                "DefName": "查理斯",
+                "Type": "地面 机械",
+                "Height": 83,
+                "Weight": 56,
+                "Features": "普兰多的智能巡逻机器人，可以解决并满足大部分城市居民的日常需求，是普兰多治安系统中重要的一环。",
+                "Redirect": "map",
+                "Go": 1579
             }
         ]
     }

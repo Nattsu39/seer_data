@@ -33,15 +33,6 @@
                 "mouseClickFunc": "app:TempleHeroAltarPrePanel"
             },
             {
-                "direction": "left",
-                "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
-                "ui": "yongzhezhengcheng_icon",
-                "tips": "勇者征程",
-                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"
-            },
-            {
                 "direction": "left_side",
                 "shownewseer": 0,
                 "priority": 1,
@@ -95,7 +86,7 @@
                 "ui": "task_main_icon",
                 "tips": "主线剧情",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initTask",
-                "mouseClickFunc": "app:MainLineTask_3481"
+                "mouseClickFunc": "app:MainLineAdventureOverview"
             },
             {
                 "direction": "right",
@@ -114,6 +105,15 @@
                 "ui": "announcement_icon",
                 "tips": "公告中心",
                 "mouseClickFunc": "app:NoticeCenterMainPanel"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "yongzhezhengcheng_icon",
+                "tips": "勇者征程",
+                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"
             },
             {
                 "direction": "right_side",
@@ -150,6 +150,15 @@
                 "ui": "exchangemedal_icon",
                 "tips": "勋章兑换",
                 "mouseClickFunc": "app:DiamondTask201806AwardPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "vip13_icon",
+                "tips": "VIP13周年庆典",
+                "mouseClickFunc": "app:VIPAnniversaryEventTrailer2022MainPanel"
             },
             {
                 "direction": "right_side",
