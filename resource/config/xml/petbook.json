@@ -561,37 +561,55 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4436,
-                        "ImageID": 4436,
+                        "ID": 4438,
+                        "ImageID": 4438,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1579;app/SpetYHHaiDengMainPanel"
+                        "Go": "1580;app/SpetAoLeiMoDeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4437,
-                        "ImageID": 4437,
+                        "ID": 4439,
+                        "ImageID": 4439,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1579
+                        "Redirect": "map|module",
+                        "Go": "1407;app/DarkSparkDiceMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4440,
+                        "ImageID": 4440,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1407;app/DarkSparkDiceMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 499,
-                        "MonID": 3668,
-                        "ImageID": 1400499,
+                        "ID": 501,
+                        "MonID": 4222,
+                        "ImageID": 1400501,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/JiTaSkinSell1118Panel"
                     },
                     {
                         "type": 1,
-                        "ID": 500,
-                        "MonID": 4433,
-                        "ImageID": 1400500,
+                        "ID": 502,
+                        "MonID": 4288,
+                        "ImageID": 1400502,
                         "Label": 1,
-                        "Redirect": "map",
-                        "Go": 1095
+                        "Redirect": "map|module",
+                        "Go": "103;app/JiTaSkinSell1118Panel"
+                    },
+                    {
+                        "type": 2,
+                        "ID": 433,
+                        "Label": 1
+                    },
+                    {
+                        "type": 2,
+                        "ID": 434,
+                        "Label": 1
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -28850,8 +28868,8 @@
                 "ID": 2563,
                 "DefName": "震天·猛虎王",
                 "Type": "地面",
-                "Height": 158,
-                "Weight": 100,
+                "Height": 160,
+                "Weight": 600,
                 "Features": "势猛如山，虎啸生风！赛尔号人气精灵猛虎王也超进化了，虎系王者即将诞生！",
                 "mapID": 103
             },
@@ -30619,8 +30637,8 @@
                 "ID": 2761,
                 "DefName": "镇魂·猛虎王",
                 "Type": "地面",
-                "Height": 158,
-                "Weight": 100,
+                "Height": 160,
+                "Weight": 600,
                 "Features": "冥界的镇魂猛兽，看守者无数魂灵不让他们逃出冥界，是幽冥和人间和保卫者。能够轻易让敌人魂飞魄散!",
                 "mapID": 1
             },
@@ -38772,7 +38790,7 @@
                 "DefName": "万兽之尊·猛虎王",
                 "Type": "地面",
                 "Height": 190,
-                "Weight": 90,
+                "Weight": 750,
                 "Features": "猛虎王完全体形态，震撼宇宙的咆哮，曾经的王者终将归来！",
                 "mapID": 103
             },
@@ -46027,6 +46045,46 @@
                 "Features": "普兰多的智能巡逻机器人，可以解决并满足大部分城市居民的日常需求，是普兰多治安系统中重要的一环。",
                 "Redirect": "map",
                 "Go": 1579
+            },
+            {
+                "ID": 4438,
+                "DefName": "银椋·奥雷莫德",
+                "Type": "飞行 电",
+                "Height": 190,
+                "Weight": 78,
+                "Features": "白金执法队的队长，能够召唤出巨大的雷椋鸟进行作战。白色闪光现身之处，任何罪恶都将无处遁行！",
+                "Redirect": "map|module",
+                "Go": "1580;app/SpetAoLeiMoDeMainPanel"
+            },
+            {
+                "ID": 4439,
+                "DefName": "厄塔沃姆",
+                "Type": "机械",
+                "Height": 95,
+                "Weight": 50,
+                "Features": "来自反物质世界的入侵者，再次洞开的暗黑之门让它获得了「现世」的身躯，燃着反物质火焰的扳手将扼杀一切光芒。",
+                "Redirect": "map|module",
+                "Go": "1407;app/DarkSparkDiceMainPanel"
+            },
+            {
+                "ID": 4440,
+                "DefName": "闪光猛虎王",
+                "Type": "地面",
+                "Height": 145,
+                "Weight": 520,
+                "Features": "首只由精灵中心繁育的闪光精灵。强大的血脉延自最初的谜之精元，在闪光能量的加持下必将粉碎一切黑暗与邪谋。",
+                "Redirect": "map|module",
+                "Go": "1407;app/DarkSparkDiceMainPanel"
+            },
+            {
+                "ID": 4441,
+                "DefName": "鲨鱼娘",
+                "Type": "水 战斗",
+                "Height": 164,
+                "Weight": 49,
+                "Features": "斗鱼联动精灵，从异世界穿越而来，据说每一个遇到她的幸运儿都能扫去一天的忧虑与烦恼！",
+                "Redirect": "alarm",
+                "Go": "暂未开放获得，敬请期待！"
             }
         ]
     }
