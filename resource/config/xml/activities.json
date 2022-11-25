@@ -11711,6 +11711,59 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2309,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221118,
+                    "End": "*",
+                    "Map": 1580,
+                    "Name": "【双端】主线任务",
+                    "Title": "意外冲突",
+                    "Redirect": "map|module",
+                    "Go": "1580;app/MainLineAdventureOverview"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2310,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221118,
+                    "End": "*",
+                    "Map": 1580,
+                    "Name": "【双端】主线任务",
+                    "Title": "审判的使者",
+                    "Redirect": "map|module",
+                    "Go": "1580;app/MainLineAdventureOverview"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4438
+                    },
+                    "ID": 2311,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221118,
+                    "End": "*",
+                    "Map": 1580,
+                    "Name": "S-银椋•奥雷莫德",
+                    "Title": "银椋•奥雷莫德",
+                    "Redirect": "map|module",
+                    "Go": "1580;app/SpetAoLeiMoDeMainPanel"
                 }
             ]
         },
@@ -37711,48 +37764,6 @@
                     "Title": "枫曳镇庆典",
                     "Redirect": "map|module",
                     "Go": "11897;app/FengtuoTownAggregateMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2238,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20220909,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2269,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20221007,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "桃园三杰回归",
-                    "Title": "桃园三杰回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TaoyuanBetrothalTripodMainPanel"
                 },
                 {
                     "Details": {
@@ -37770,23 +37781,6 @@
                     "Title": "星河商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2302,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20221104,
-                    "End": 20221202,
-                    "Map": 103,
-                    "Name": "圣殿英雄巡回",
-                    "Title": "混元天尊",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
                 },
                 {
                     "Details": {
@@ -37821,59 +37815,6 @@
                     "Title": "双11特惠宝箱",
                     "Redirect": "map|module",
                     "Go": "103;app/ElevenDoubleGiftBagMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2309,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221118,
-                    "End": "*",
-                    "Map": 1580,
-                    "Name": "【双端】主线任务",
-                    "Title": "意外冲突",
-                    "Redirect": "map|module",
-                    "Go": "1580;app/MainLineAdventureOverview"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2310,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221118,
-                    "End": "*",
-                    "Map": 1580,
-                    "Name": "【双端】主线任务",
-                    "Title": "审判的使者",
-                    "Redirect": "map|module",
-                    "Go": "1580;app/MainLineAdventureOverview"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 4438
-                    },
-                    "ID": 2311,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20221118,
-                    "End": "*",
-                    "Map": 1580,
-                    "Name": "S-银椋•奥雷莫德",
-                    "Title": "银椋•奥雷莫德",
-                    "Redirect": "map|module",
-                    "Go": "1580;app/SpetAoLeiMoDeMainPanel"
                 },
                 {
                     "Details": {
@@ -37966,37 +37907,20 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
                     "ID": 2317,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
+                    "Type": 1,
                     "Start": 20221118,
                     "End": 20221125,
-                    "Map": 1407,
+                    "Map": 103,
                     "Name": "VIP专属商城",
                     "Title": "VIP专属商城",
                     "Redirect": "map|module",
-                    "Go": "1407;app/VIPExclusiveMall2020MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2318,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20221118,
-                    "End": 20221223,
-                    "Map": 1427,
-                    "Name": "道具回收系统更新",
-                    "Title": "道具回收系统第二期",
-                    "Redirect": "map|module",
-                    "Go": "1427;app/app/PropRecoveryS1Panel"
+                    "Go": "103;app/VIPExclusiveMall2020MainPanel"
                 },
                 {
                     "Details": {
@@ -38077,11 +38001,278 @@
                     "Type": 2,
                     "Start": 20221118,
                     "End": 20221125,
-                    "Map": 103,
+                    "Map": 1407,
                     "Name": "闪光精灵VS暗黑精灵",
                     "Title": "闪光精灵VS暗黑精灵",
                     "Redirect": "map|module",
-                    "Go": "103;app/FlashSpiritPvPCopyMainPanel"
+                    "Go": "1407;app/FlashSpiritPvPCopyMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2238,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20220909,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2269,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221007,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "桃园三杰回归",
+                    "Title": "桃园三杰回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TaoyuanBetrothalTripodMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2302,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221104,
+                    "End": 20221202,
+                    "Map": 103,
+                    "Name": "圣殿英雄巡回",
+                    "Title": "混元天尊",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2318,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221118,
+                    "End": 20221223,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统第二期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2324,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221125,
+                    "End": "*",
+                    "Map": 1581,
+                    "Name": "灰色爵刻",
+                    "Title": "迷幻枪手",
+                    "Redirect": "map|module",
+                    "Go": "1581;app/MainLineAdventureOverview"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2325,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221125,
+                    "End": "*",
+                    "Map": 1581,
+                    "Name": "绝境的试炼者",
+                    "Title": "神秘之主",
+                    "Redirect": "map|module",
+                    "Go": "1581;app/MainLineAdventureOverview"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4442
+                    },
+                    "ID": 2326,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221125,
+                    "End": "*",
+                    "Map": 1581,
+                    "Name": "双枪圣游 噬魂之弹",
+                    "Title": "眠降•玛缇娜",
+                    "Redirect": "map|module",
+                    "Go": "1581;app/SpetMJMaTiNaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2327,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221125,
+                    "End": 20221209,
+                    "Map": 1217,
+                    "Name": "淘灵灵的欢乐转盘",
+                    "Title": "淘灵灵的欢乐转盘",
+                    "Redirect": "map|module",
+                    "Go": "1217;app/ExclusivePrintingForTaoleFestivalMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2328,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221125,
+                    "End": 20221211,
+                    "Map": 1217,
+                    "Name": "喜迎淘乐节 签到有惊喜",
+                    "Title": "喜迎淘乐节 签到有惊喜",
+                    "Redirect": "map|module",
+                    "Go": "1217;app/TaoleJieSignPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2329,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221125,
+                    "End": 20221202,
+                    "Map": 11897,
+                    "Name": "感恩节庆祝盛典",
+                    "Title": "感恩节庆祝盛典",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ThanksgivingGoToMapMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2330,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221125,
+                    "End": 20221202,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2331,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221125,
+                    "End": 20230101,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2332,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20221125,
+                    "End": 20221202,
+                    "Map": 1095,
+                    "Name": "巅峰圣战激励开启",
+                    "Title": "巅峰圣战激励开启",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2333,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20221125,
+                    "End": 20221209,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 4441
+                    },
+                    "ID": 2334,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20221125,
+                    "End": 20221211,
+                    "Map": 1217,
+                    "Name": "鲨鱼娘",
+                    "Title": "鲨鱼娘",
+                    "Redirect": "map|module",
+                    "Go": "1217;app/PromotionofTaoleFestivalSpecialStationManPanel"
                 },
                 {
                     "Details": {
@@ -38101,7 +38292,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2305,2306,2307,2308"
+            "Important": "2326,2327,2329,2330,2332"
         }
     }
 }

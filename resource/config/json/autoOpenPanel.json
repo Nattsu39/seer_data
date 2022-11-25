@@ -148,11 +148,22 @@
             "moduleId": 165,
             "actionName": "2022国庆签到",
             "controller": "AutoOpenDailySignNationalDay2022",
-            "state": 1,
+            "state": 0,
             "param1": "121111",
             "param2": "",
             "startTime": "2022/9/30",
             "endTime": "2022/10/8"
+        },
+        {
+            "id": 15,
+            "moduleId": 186,
+            "actionName": "2022淘乐节签到",
+            "controller": "AutoOpenByValue",
+            "state": 1,
+            "param1": "201511",
+            "param2": "",
+            "startTime": "2022/11/25",
+            "endTime": "2022/12/11"
         }
     ]
 }

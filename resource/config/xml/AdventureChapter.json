@@ -68,13 +68,21 @@
             },
             {
                 "ChapterRewardInfo": {
-                    "PassChapterReward": {
-                        "ID": 1,
-                        "NeedPassStoryNum": 2,
-                        "rewardinfo": "1_300065_2",
-                        "NewMsglogId": 2208180110,
-                        "isMore": 1
-                    }
+                    "PassChapterReward": [
+                        {
+                            "ID": 1,
+                            "NeedPassStoryNum": 2,
+                            "rewardinfo": "1_300065_2",
+                            "NewMsglogId": 2211240106
+                        },
+                        {
+                            "ID": 2,
+                            "NeedPassStoryNum": 4,
+                            "rewardinfo": "1_300063_3",
+                            "NewMsglogId": 2208180111,
+                            "isMore": 1
+                        }
+                    ]
                 },
                 "StoryRewardInfo": {
                     "PassStoryReward": [
@@ -82,28 +90,38 @@
                             "ID": 1,
                             "PreUnlockStoryID": 0,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180120
+                            "statlogId": 20221125,
+                            "NewMsglogId": 2211240100
                         },
                         {
                             "ID": 2,
                             "PreUnlockStoryID": 1,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180121
+                            "statlogId": 20221125,
+                            "NewMsglogId": 2211240101
                         },
                         {
                             "ID": 3,
                             "PreUnlockStoryID": 2,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180122,
+                            "statlogId": 20221125,
+                            "NewMsglogId": 2211240102
+                        },
+                        {
+                            "ID": 4,
+                            "PreUnlockStoryID": 3,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "NewMsglogId": 2208180123,
                             "isFuture": 1
                         }
                     ]
                 },
                 "ID": 2,
                 "Title": "灰色爵刻",
-                "TotalLevel": 3,
+                "TotalLevel": 4,
+                "statlogId": 20221125,
                 "Des": "瓦普特号将尤莉米特一行人带到了普兰多，一个霓虹闪烁的雨夜之国。层层叠叠的城市空间布满错综复杂的交通网络，高度发展的科技造就了强大的信息网络。在这里，危险的气息已经在街头巷尾蔓延开来…",
-                "lineInfo": "-422,-59,306,90,0,1|-352,88,152,0,0,1|-282,41,106,90,0,2|-138,-6,299,0,0,2",
+                "lineInfo": "-422,-59,306,90,0,1|-352,88,152,0,0,1|-282,41,106,90,0,2|-138,-6,299,0,0,2|6,-76,152,90,0,3",
                 "ChapterRewardFlagID": 122403,
                 "StoryRewardFlagID": 122404
             },
@@ -113,7 +131,7 @@
                         "ID": 1,
                         "NeedPassStoryNum": 3,
                         "rewardinfo": "1_300075_3",
-                        "NewMsglogId": 2208180150,
+                        "NewMsglogId": 2211240107,
                         "isMore": 1
                     }
                 },
@@ -123,28 +141,38 @@
                             "ID": 1,
                             "PreUnlockStoryID": 0,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180160
+                            "statlogId": 20221125,
+                            "NewMsglogId": 2211240103
                         },
                         {
                             "ID": 2,
                             "PreUnlockStoryID": 1,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180161
+                            "statlogId": 20221125,
+                            "NewMsglogId": 2211240104
                         },
                         {
                             "ID": 3,
                             "PreUnlockStoryID": 2,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180162,
+                            "statlogId": 20221125,
+                            "NewMsglogId": 2211240105
+                        },
+                        {
+                            "ID": 4,
+                            "PreUnlockStoryID": 3,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "NewMsglogId": 2208180163,
                             "isFuture": 1
                         }
                     ]
                 },
                 "ID": 3,
                 "Title": "绝境的试炼者",
-                "TotalLevel": 3,
+                "TotalLevel": 4,
+                "statlogId": 20221125,
                 "Des": "不论是光明之神至序圣华，还是黑夜之神弑序神罗，都在为最后的决战做着准备，而获得魔盒神谕的精灵们却仍然面临着巨大的挑战，集结伙伴，试炼成长…在这绝境中，他们没有选择，只能前进…",
-                "lineInfo": "-422,-133,159,90,0,1|-292,-59,273,0,0,1|-161,27,186,90,0,2",
+                "lineInfo": "-422,-133,159,90,0,1|-292,-59,273,0,0,1|-161,27,186,90,0,2|32,115,400,0,0,3",
                 "ChapterRewardFlagID": 122405,
                 "StoryRewardFlagID": 122406
             }

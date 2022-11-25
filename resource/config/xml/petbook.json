@@ -561,55 +561,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4438,
-                        "ImageID": 4438,
+                        "ID": 4441,
+                        "ImageID": 4441,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1580;app/SpetAoLeiMoDeMainPanel"
+                        "Redirect": "alarm",
+                        "Go": "参与淘乐节专题站活动获得！"
                     },
                     {
                         "type": 0,
-                        "ID": 4439,
-                        "ImageID": 4439,
+                        "ID": 4442,
+                        "ImageID": 4442,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1407;app/DarkSparkDiceMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4440,
-                        "ImageID": 4440,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1407;app/DarkSparkDiceMainPanel"
+                        "Go": "1581;app/SpetMJMaTiNaMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 501,
-                        "MonID": 4222,
-                        "ImageID": 1400501,
+                        "ID": 503,
+                        "MonID": 3945,
+                        "ImageID": 1400503,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/JiTaSkinSell1118Panel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 502,
-                        "MonID": 4288,
-                        "ImageID": 1400502,
+                        "ID": 504,
+                        "MonID": 4376,
+                        "ImageID": 1400504,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/JiTaSkinSell1118Panel"
-                    },
-                    {
-                        "type": 2,
-                        "ID": 433,
-                        "Label": 1
-                    },
-                    {
-                        "type": 2,
-                        "ID": 434,
-                        "Label": 1
+                        "Go": "103;app/SkinShopMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -46063,8 +46045,8 @@
                 "Height": 95,
                 "Weight": 50,
                 "Features": "来自反物质世界的入侵者，再次洞开的暗黑之门让它获得了「现世」的身躯，燃着反物质火焰的扳手将扼杀一切光芒。",
-                "Redirect": "map|module",
-                "Go": "1407;app/DarkSparkDiceMainPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4440,
@@ -46073,8 +46055,8 @@
                 "Height": 145,
                 "Weight": 520,
                 "Features": "首只由精灵中心繁育的闪光精灵。强大的血脉延自最初的谜之精元，在闪光能量的加持下必将粉碎一切黑暗与邪谋。",
-                "Redirect": "map|module",
-                "Go": "1407;app/DarkSparkDiceMainPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4441,
@@ -46084,7 +46066,17 @@
                 "Weight": 49,
                 "Features": "斗鱼联动精灵，从异世界穿越而来，据说每一个遇到她的幸运儿都能扫去一天的忧虑与烦恼！",
                 "Redirect": "alarm",
-                "Go": "暂未开放获得，敬请期待！"
+                "Go": "参与淘乐节专题站活动获得！"
+            },
+            {
+                "ID": 4442,
+                "DefName": "眠降·玛缇娜",
+                "Type": "圣灵 超能",
+                "Height": 174,
+                "Weight": 52,
+                "Features": "白金执法队的一员，擅长追捕和拷问。她的双枪可以发射出特制的子弹，一旦被她抓获，任何情报都将信手拈来。",
+                "Redirect": "map|module",
+                "Go": "1581;app/SpetMJMaTiNaMainPanel"
             }
         ]
     }
