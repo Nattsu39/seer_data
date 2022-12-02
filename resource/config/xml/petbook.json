@@ -561,37 +561,59 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4441,
-                        "ImageID": 4441,
+                        "ID": 4443,
+                        "ImageID": 4443,
                         "Label": 0,
-                        "Redirect": "alarm",
-                        "Go": "参与淘乐节专题站活动获得！"
+                        "Redirect": "map|module",
+                        "Go": "11897;app/IceSnowFestivalPetAMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4442,
-                        "ImageID": 4442,
+                        "ID": 4445,
+                        "ImageID": 4445,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1581;app/SpetMJMaTiNaMainPanel"
+                        "Go": "1582;app/SpetGWPPMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 503,
-                        "MonID": 3945,
-                        "ImageID": 1400503,
-                        "Label": 1,
+                        "type": 0,
+                        "ID": 4446,
+                        "ImageID": 4446,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/MonthlyPetInDecember2022Panel"
                     },
                     {
-                        "type": 1,
-                        "ID": 504,
-                        "MonID": 4376,
-                        "ImageID": 1400504,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/SkinShopMainPanel"
+                        "type": 0,
+                        "ID": 4447,
+                        "ImageID": 4447,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42300
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42301
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42302
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42303
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42304
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42305
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -46077,6 +46099,46 @@
                 "Features": "白金执法队的一员，擅长追捕和拷问。她的双枪可以发射出特制的子弹，一旦被她抓获，任何情报都将信手拈来。",
                 "Redirect": "map|module",
                 "Go": "1581;app/SpetMJMaTiNaMainPanel"
+            },
+            {
+                "ID": 4443,
+                "DefName": "鱿里子",
+                "Type": "冰 超能",
+                "Height": 71,
+                "Weight": 33,
+                "Features": "冰海的咏唱者鱿里子全新登场！长相呆萌的她最大的愿望便是找到一个愿意陪她一同冒险的好朋友，不知道你是否会成为这个幸运儿呢？",
+                "Redirect": "map|module",
+                "Go": "11897;app/IceSnowFestivalPetAMainPanel"
+            },
+            {
+                "ID": 4445,
+                "DefName": "古温婆婆",
+                "Type": "远古 草",
+                "Height": 185,
+                "Weight": 63,
+                "Features": "远离霓虹色的喧嚣，地下旅店里焕发出盎然生机。古温婆婆，这家旅店的主人，用松柏之气息感受并照料每一个来这里歇息的客人。",
+                "Redirect": "map|module",
+                "Go": "1582;app/SpetGWPPMainPanel"
+            },
+            {
+                "ID": 4446,
+                "DefName": "露泽莫尔",
+                "Type": "虫",
+                "Height": 159,
+                "Weight": 46,
+                "Features": "2022年12月包月精灵，十二冠灵之一，能够掌控虫之元素，蜂花雪月，甘饴圣冕！",
+                "Redirect": "map|module",
+                "Go": "103;app/MonthlyPetInDecember2022Panel"
+            },
+            {
+                "ID": 4447,
+                "DefName": "岭妃",
+                "Type": "混沌 地面",
+                "Height": 169,
+                "Weight": 48,
+                "Features": "2022年12月巅峰圣战精灵，能够利用掩埋在大地之下的尸骨，封住对手的行动！",
+                "Redirect": "map",
+                "Go": 1095
             }
         ]
     }

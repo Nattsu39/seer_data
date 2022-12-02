@@ -60,6 +60,7 @@
                 },
                 "ID": 1,
                 "Title": "奇妙之夏",
+                "redID": 0,
                 "TotalLevel": 4,
                 "Des": "K13星，一个科技高度发达的星球。在这里你不但可以体验到最新潮的科技产物，也可以加入潮流文化中成为一名艺术创作者，又或者，你可以两者都是。而蒂朵便是K13星球上灵籁地区的一位普通居民…",
                 "lineInfo": "-422,-69,259,90,0,1|-352,54,152,0,0,1|-282,-16,152,90,0,2|-112,-86,353,0,0,2|59,7,199,90,0,3|146,101,186,0,0,3",
@@ -79,7 +80,7 @@
                             "ID": 2,
                             "NeedPassStoryNum": 4,
                             "rewardinfo": "1_300063_3",
-                            "NewMsglogId": 2208180111,
+                            "NewMsglogId": 2212010202,
                             "isMore": 1
                         }
                     ]
@@ -111,29 +112,45 @@
                             "ID": 4,
                             "PreUnlockStoryID": 3,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180123,
+                            "statlogId": 20221202,
+                            "NewMsglogId": 2212010200
+                        },
+                        {
+                            "ID": 5,
+                            "PreUnlockStoryID": 4,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "NewMsglogId": 0,
                             "isFuture": 1
                         }
                     ]
                 },
                 "ID": 2,
                 "Title": "灰色爵刻",
+                "redID": 2011,
                 "TotalLevel": 4,
                 "statlogId": 20221125,
                 "Des": "瓦普特号将尤莉米特一行人带到了普兰多，一个霓虹闪烁的雨夜之国。层层叠叠的城市空间布满错综复杂的交通网络，高度发展的科技造就了强大的信息网络。在这里，危险的气息已经在街头巷尾蔓延开来…",
-                "lineInfo": "-422,-59,306,90,0,1|-352,88,152,0,0,1|-282,41,106,90,0,2|-138,-6,299,0,0,2|6,-76,152,90,0,3",
+                "lineInfo": "-422,-59,306,90,0,1|-352,88,152,0,0,1|-282,41,106,90,0,2|-138,-6,299,0,0,2|6,-76,152,90,0,3|186,-146,373,0,0,4",
                 "ChapterRewardFlagID": 122403,
                 "StoryRewardFlagID": 122404
             },
             {
                 "ChapterRewardInfo": {
-                    "PassChapterReward": {
-                        "ID": 1,
-                        "NeedPassStoryNum": 3,
-                        "rewardinfo": "1_300075_3",
-                        "NewMsglogId": 2211240107,
-                        "isMore": 1
-                    }
+                    "PassChapterReward": [
+                        {
+                            "ID": 1,
+                            "NeedPassStoryNum": 3,
+                            "rewardinfo": "1_300075_3",
+                            "NewMsglogId": 2211240107
+                        },
+                        {
+                            "ID": 2,
+                            "NeedPassStoryNum": 6,
+                            "rewardinfo": "1_300697_5",
+                            "NewMsglogId": 0,
+                            "isMore": 1
+                        }
+                    ]
                 },
                 "StoryRewardInfo": {
                     "PassStoryReward": [
@@ -162,17 +179,25 @@
                             "ID": 4,
                             "PreUnlockStoryID": 3,
                             "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
-                            "NewMsglogId": 2208180163,
+                            "statlogId": 20221202,
+                            "NewMsglogId": 2212010201
+                        },
+                        {
+                            "ID": 5,
+                            "PreUnlockStoryID": 4,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "NewMsglogId": 0,
                             "isFuture": 1
                         }
                     ]
                 },
                 "ID": 3,
                 "Title": "绝境的试炼者",
+                "redID": 2012,
                 "TotalLevel": 4,
                 "statlogId": 20221125,
                 "Des": "不论是光明之神至序圣华，还是黑夜之神弑序神罗，都在为最后的决战做着准备，而获得魔盒神谕的精灵们却仍然面临着巨大的挑战，集结伙伴，试炼成长…在这绝境中，他们没有选择，只能前进…",
-                "lineInfo": "-422,-133,159,90,0,1|-292,-59,273,0,0,1|-161,27,186,90,0,2|32,115,400,0,0,3",
+                "lineInfo": "-422,-133,159,90,0,1|-292,-59,273,0,0,1|-161,27,186,90,0,2|32,115,400,0,0,3|226,-16,273,90,0,4",
                 "ChapterRewardFlagID": 122405,
                 "StoryRewardFlagID": 122406
             }

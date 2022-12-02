@@ -4,76 +4,97 @@
         "encoding": "UTF-8"
     },
     "root": {
-        "Task": {
-            "Advances": {
-                "Race": {
-                    "OldRace": "165 70 106 132 103 129",
-                    "NewRace": "173 70 110 145 110 132"
+        "Task": [
+            {
+                "Advances": {
+                    "MonsterId": 0
                 },
-                "NewSe": {
-                    "OldSeId": 2747,
-                    "NewSeId": 5937
+                "ID": 0,
+                "TimeFlag": 0,
+                "SubFreeKey": 0,
+                "SubCostKey": 0,
+                "AllProgress": 0,
+                "PerCostCoinA": 0,
+                "OutItemKey": 0,
+                "ExCoinB": 0,
+                "Desc": "End",
+                "StatID": 0
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 70 106 132 103 129",
+                        "NewRace": "173 70 110 145 110 132"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2747,
+                        "NewSeId": 5937
+                    },
+                    "spMove": {
+                        "SpMoves": "36200 28118 36201"
+                    },
+                    "exMove": {},
+                    "AdvEffect": {
+                        "Id": 1646,
+                        "Des": "自身每次使用攻击技能后都会获得1支<font color='#FF7751'>灭神之箭</font>；回合开始时若自身体力高于对手则当回合所有技能先制+1且直至下回合开始时免疫所有异常状态（下场后保留），回合结束时若自身体力低于对手则{吸取}对手最大{体力}的1/3（<font color='#FF7751'>灭神之箭</font>下场后保留，最多可获得5支，boss无效）<br><font color='#FF7751'>灭神之箭</font>：使用攻击技能时忽略对手双防值的8%并附加40点固定伤害"
+                    },
+                    "MonsterId": 3514
                 },
-                "spMove": {
-                    "SpMoves": "36200 28118 36201"
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3406,
+                            "BossID": 1010001,
+                            "Desc": "——偶尔也确实会有让我生理不适的邪恶之辈存在。<br>——我就当是在夸我了。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3396,
+                            "BossID": 1010002,
+                            "Desc": "——在沉如碉堡疾如迅箭的万全准备面前，无论几种元素戏法都只是花架子，可有人总是不明白。<br>——略表同意。"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3414,
+                            "BossID": 1010003,
+                            "Desc": "——魔誓者弑神猎皇，奉斯摩亚蒂大人之命前来交涉。<br>——呵，够嚣张的名字。"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 3456,
+                            "BossID": 1010004,
+                            "Desc": "——套近乎之前不先忏悔一下你干过的好事吗？<br>——不是，只是有点眼熟。"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 3516,
+                            "BossID": 1010005,
+                            "Desc": "——主人之前送的那份大礼，不知道你是否还满意呢？<br>——可惜你没机会听到在那之后发生的故事了。"
+                        }
+                    ],
+                    "OutNum": "5_6_7",
+                    "OutPro": "200_550_250",
+                    "FreeBattleKey": 205990,
+                    "FreeBattleCnt": 5
                 },
-                "exMove": {},
-                "MonsterId": 3514
-            },
-            "Battle": {
-                "Task": [
-                    {
-                        "ID": 1,
-                        "BattleBoss": 3406,
-                        "BossID": 1010001,
-                        "Desc": "——偶尔也确实会有让我生理不适的邪恶之辈存在。<br>——我就当是在夸我了。"
-                    },
-                    {
-                        "ID": 2,
-                        "BattleBoss": 3396,
-                        "BossID": 1010002,
-                        "Desc": "——在沉如碉堡疾如迅箭的万全准备面前，无论几种元素戏法都只是花架子，可有人总是不明白。<br>——略表同意。"
-                    },
-                    {
-                        "ID": 3,
-                        "BattleBoss": 3414,
-                        "BossID": 1010003,
-                        "Desc": "——魔誓者弑神猎皇，奉斯摩亚蒂大人之命前来交涉。<br>——呵，够嚣张的名字。"
-                    },
-                    {
-                        "ID": 4,
-                        "BattleBoss": 3456,
-                        "BossID": 1010004,
-                        "Desc": "——套近乎之前不先忏悔一下你干过的好事吗？<br>——不是，只是有点眼熟。"
-                    },
-                    {
-                        "ID": 5,
-                        "BattleBoss": 3516,
-                        "BossID": 1010005,
-                        "Desc": "——主人之前送的那份大礼，不知道你是否还满意呢？<br>——可惜你没机会听到在那之后发生的故事了。"
-                    }
-                ],
-                "OutNum": "5_6_7",
-                "OutPro": "200_550_250",
-                "FreeBattleKey": 205990,
-                "FreeBattleCnt": 5
-            },
-            "Exchange": {
-                "ItemID": "1724856_1724857_1724858",
-                "ProductID": "259804_259805_259806"
-            },
-            "QianDuan": {},
-            "ID": 1,
-            "TimeFlag": 1058,
-            "SubFreeKey": 1,
-            "SubCostKey": 2,
-            "AllProgress": 4,
-            "PerCostCoinA": 85,
-            "OutItemKey": 123600,
-            "ExCoinB": 5,
-            "Desc": "20220909 神谕进阶-猎皇",
-            "StatID": 2211040100
-        },
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
+                },
+                "QianDuan": {},
+                "ID": 1,
+                "TimeFlag": 1058,
+                "SubFreeKey": 1,
+                "SubCostKey": 2,
+                "AllProgress": 4,
+                "PerCostCoinA": 85,
+                "OutItemKey": 123600,
+                "ExCoinB": 5,
+                "Desc": "20220909 神谕进阶-猎皇",
+                "StatID": 2211040100
+            }
+        ],
         "BackMonsters": {}
     }
 }
