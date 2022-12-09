@@ -8328,9 +8328,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "暴虐之座·毁灭魔神",
-                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
-                "GoType": "map|module"
+                "Name": "暴虐之座·毁灭魔神"
             },
             {
                 "SkinKind": [
@@ -8346,8 +8344,41 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "小岚",
-                "Go": "103;app/SkinShopMainPanel",
+                "Name": "小岚"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 505,
+                "MonID": 4447,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "山傀小魅·岭妃",
+                "Go": 1095,
+                "GoType": "map"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 506,
+                "MonID": 3361,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "炎龙圣皇",
+                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
                 "GoType": "map|module"
             }
         ]

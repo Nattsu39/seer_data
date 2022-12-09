@@ -561,59 +561,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4443,
-                        "ImageID": 4443,
+                        "ID": 4448,
+                        "ImageID": 4448,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/IceSnowFestivalPetAMainPanel"
+                        "Go": "1583;app/SpetLYXMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4445,
-                        "ImageID": 4445,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1582;app/SpetGWPPMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4446,
-                        "ImageID": 4446,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInDecember2022Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4447,
-                        "ImageID": 4447,
-                        "Label": 0,
+                        "type": 1,
+                        "ID": 505,
+                        "MonID": 4447,
+                        "ImageID": 1400505,
+                        "Label": 1,
                         "Redirect": "map",
                         "Go": 1095
                     },
                     {
-                        "type": 3,
-                        "ID": 42300
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42301
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42302
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42303
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42304
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42305
+                        "type": 1,
+                        "ID": 506,
+                        "MonID": 3361,
+                        "ImageID": 1400506,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -41723,7 +41693,7 @@
             },
             {
                 "ID": 4004,
-                "DefName": "圣光·格劳瑞",
+                "DefName": "圣光格劳瑞",
                 "Type": "圣灵 电",
                 "Height": 183,
                 "Weight": 74,
@@ -45068,7 +45038,7 @@
                 "Weight": 50,
                 "Features": "作战实验室中现身的神秘精灵，天性活泼的她掌握着各种各样的对战技巧，据说只要能够完成她的重重考验，就有机会与她成为伙伴哦！",
                 "Redirect": "alarm",
-                "Go": "新版作战实验室专属精灵，请前往《赛尔互通助手》获得！"
+                "Go": "新版作战实验室专属精灵，请前往《赛尔号巅峰之战》获得！"
             },
             {
                 "ID": 4339,
@@ -45128,7 +45098,7 @@
                 "Weight": 0,
                 "Features": "潘多斯的超进化形态，对鬼火元素的运用已经出神入化，任何妄想与其为敌的对手都将被无情焚毁，化为灰烬！",
                 "Redirect": "alarm",
-                "Go": "挑战《赛尔互通助手》SPT副本限时活动获得！"
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4345,
@@ -46108,7 +46078,7 @@
                 "Weight": 33,
                 "Features": "冰海的咏唱者鱿里子全新登场！长相呆萌的她最大的愿望便是找到一个愿意陪她一同冒险的好朋友，不知道你是否会成为这个幸运儿呢？",
                 "Redirect": "map|module",
-                "Go": "11897;app/IceSnowFestivalPetAMainPanel"
+                "Go": "1;app/IceSnowFestivalPetAMainPanel"
             },
             {
                 "ID": 4445,
@@ -46139,6 +46109,16 @@
                 "Features": "2022年12月巅峰圣战精灵，能够利用掩埋在大地之下的尸骨，封住对手的行动！",
                 "Redirect": "map",
                 "Go": 1095
+            },
+            {
+                "ID": 4448,
+                "DefName": "流荧·雪",
+                "Type": "自然 冰",
+                "Height": 167,
+                "Weight": 47,
+                "Features": "「灰爵」的成员之一，年纪虽小却有着不俗的战斗实力，使用随身携带的玲珑球就可以在附近降下鹅毛大雪。",
+                "Redirect": "map|module",
+                "Go": "1583;app/SpetLYXMainPanel"
             }
         ]
     }

@@ -18,7 +18,7 @@
         },
         {
             "id": 2,
-            "priority": 1,
+            "priority": 2,
             "truepos": 1,
             "isshow": 1,
             "name": "活动中心",
@@ -34,7 +34,7 @@
         },
         {
             "id": 3,
-            "priority": 1,
+            "priority": 7,
             "truepos": 1,
             "isshow": 0,
             "name": "新手 福利",
@@ -50,7 +50,7 @@
         },
         {
             "id": 4,
-            "priority": 1,
+            "priority": 4,
             "truepos": 1,
             "isshow": 1,
             "name": "NoNo",
@@ -66,8 +66,8 @@
         },
         {
             "id": 5,
-            "priority": 1,
-            "truepos": 0,
+            "priority": 8,
+            "truepos": 1,
             "isshow": 0,
             "name": "钻石任务",
             "isdeadline": 0,
@@ -82,7 +82,7 @@
         },
         {
             "id": 6,
-            "priority": 1,
+            "priority": 5,
             "truepos": 1,
             "isshow": 1,
             "name": "勇者征程",
@@ -98,8 +98,8 @@
         },
         {
             "id": 7,
-            "priority": 1,
-            "truepos": 0,
+            "priority": 6,
+            "truepos": 1,
             "isshow": 0,
             "name": "圣殿英雄团",
             "isdeadline": 0,
@@ -110,6 +110,22 @@
             "mapisshow": 0,
             "reddotid": 0,
             "controller": "",
+            "dailyRed": 0
+        },
+        {
+            "id": 8,
+            "priority": 3,
+            "truepos": 1,
+            "isshow": 0,
+            "name": "至尊年费",
+            "isdeadline": 0,
+            "isdown": 0,
+            "finishtime": "",
+            "dest": 184,
+            "image": "yearvip",
+            "mapisshow": 0,
+            "reddotid": 0,
+            "controller": "YearVipRedDotController",
             "dailyRed": 0
         }
     ]
