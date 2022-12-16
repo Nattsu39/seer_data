@@ -41,17 +41,22 @@
             {
                 "substep": [
                     {
-                        "type": 8,
-                        "npcs": "2,3,4",
-                        "stat": "首次打开训练营面板"
-                    },
-                    {
                         "type": 1,
                         "sound": "xinshou_2.mp3",
                         "swfName": "xinshoumanhua2",
                         "width": 1408,
                         "height": 640,
                         "stat": "完成过场动画2"
+                    },
+                    {
+                        "type": 14,
+                        "mapId": 2001,
+                        "stat": "切换新手场景"
+                    },
+                    {
+                        "type": 8,
+                        "npcs": "2,3,4",
+                        "stat": "首次打开训练营面板"
                     },
                     {
                         "type": 3,
@@ -81,7 +86,8 @@
                         "stat": "打开输出01面板"
                     }
                 ],
-                "step": 2
+                "step": 2,
+                "npcs": "2,3,4,5,6,7,8"
             },
             {
                 "substep": [
@@ -110,7 +116,7 @@
                     },
                     {
                         "type": 5,
-                        "rect": "1045,525,116,116",
+                        "rect": "1062,532,116,116",
                         "handOffSet": "-55,5",
                         "handRotation": 0,
                         "rotation": 45,
@@ -594,7 +600,7 @@
                         "type": 5,
                         "rect": "5,98,181,109",
                         "handType": 5,
-                        "handOffSet": "50,0",
+                        "handOffSet": "17,-12",
                         "align": "left",
                         "event": "set_default",
                         "handScaleX": 0.6,
@@ -1903,6 +1909,21 @@
                     {
                         "type": 9,
                         "eventType": "open_module"
+                    },
+                    {
+                        "type": 5,
+                        "rect": "424,130,106,126",
+                        "getRect": 3891,
+                        "align": "left",
+                        "androidOffSetX": 0,
+                        "event": "select_pet",
+                        "handScaleX": 0.6,
+                        "handScaleY": 0.6,
+                        "eventArgs": 3891,
+                        "tipPos": "264,521",
+                        "tip": "选中需要放入背包的目标精灵：【未来·伊优】",
+                        "tipTitle": "从仓库取精灵",
+                        "stat": "选中未来伊优"
                     },
                     {
                         "type": 5,

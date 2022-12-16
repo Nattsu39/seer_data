@@ -4,80 +4,150 @@
         "encoding": "UTF-8"
     },
     "root": {
-        "Task": {
-            "Advances": {
-                "Race": {
-                    "OldRace": "165 70 106 132 103 129",
-                    "NewRace": "173 70 110 145 110 132"
+        "Task": [
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 70 106 132 103 129",
+                        "NewRace": "173 70 110 145 110 132"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2747,
+                        "NewSeId": 5937
+                    },
+                    "spMove": {
+                        "SpMoves": "36200 28118 36201"
+                    },
+                    "exMove": {},
+                    "AdvEffect": {
+                        "Id": 1646,
+                        "Des": "自身每次使用攻击技能后都会获得1支<font color='#FF7751'>灭神之箭</font>；回合开始时若自身体力高于对手则当回合所有技能先制+1且直至下回合开始时免疫所有异常状态（下场后保留），回合结束时若自身体力低于对手则{吸取}对手最大{体力}的1/3（<font color='#FF7751'>灭神之箭</font>下场后保留，最多可获得5支，boss无效）\n<font color='#FF7751'>灭神之箭</font>：使用攻击技能会忽略对手双防值的8%，且造成伤害前附加40点固定伤害"
+                    },
+                    "MonsterId": 3514
                 },
-                "NewSe": {
-                    "OldSeId": 2747,
-                    "NewSeId": 5937
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3406,
+                            "BossID": 1010001,
+                            "Desc": "——偶尔也确实会有让我生理不适的邪恶之辈存在。\n——我就当是在夸我了。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3396,
+                            "BossID": 1010002,
+                            "Desc": "——在沉如碉堡疾如迅箭的万全准备面前，无论几种元素戏法都只是花架子，可有人总是不明白。\n——略表同意。"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3414,
+                            "BossID": 1010003,
+                            "Desc": "——魔誓者弑神猎皇，奉斯摩亚蒂大人之命前来交涉。\n——呵，够嚣张的名字。"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 3456,
+                            "BossID": 1010004,
+                            "Desc": "——套近乎之前不先忏悔一下你干过的好事吗？\n——不是，只是有点眼熟。"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 3516,
+                            "BossID": 1010005,
+                            "Desc": "——主人之前送的那份大礼，不知道你是否还满意呢？\n——可惜你没机会听到在那之后发生的故事了。"
+                        }
+                    ],
+                    "OutNum": "5_6_7",
+                    "OutPro": "200_550_250",
+                    "FreeBattleKey": 205990,
+                    "FreeBattleCnt": 5
                 },
-                "spMove": {
-                    "SpMoves": "36200 28118 36201"
+                "Exchange": {
+                    "ItemID": "1724856_1724857_1724858",
+                    "ProductID": "259804_259805_259806"
                 },
-                "exMove": {},
-                "AdvEffect": {
-                    "Id": 1646,
-                    "Des": "自身每次使用攻击技能后都会获得1支<font color='#FF7751'>灭神之箭</font>；回合开始时若自身体力高于对手则当回合所有技能先制+1且直至下回合开始时免疫所有异常状态（下场后保留），回合结束时若自身体力低于对手则{吸取}对手最大{体力}的1/3（<font color='#FF7751'>灭神之箭</font>下场后保留，最多可获得5支，boss无效）<br><font color='#FF7751'>灭神之箭</font>：使用攻击技能会忽略对手双防值的8%，且造成伤害前附加40点固定伤害"
-                },
-                "MonsterId": 3514
+                "QianDuan": {},
+                "ID": 1,
+                "TimeFlag": 1058,
+                "SubFreeKey": 1,
+                "SubCostKey": 2,
+                "AllProgress": 4,
+                "PerCostCoinA": 85,
+                "OutItemKey": 123600,
+                "ExCoinB": 5,
+                "Desc": "20220909 神谕进阶-弑神猎皇",
+                "StatID": 2211040100
             },
-            "Battle": {
-                "Task": [
-                    {
-                        "ID": 1,
-                        "BattleBoss": 3406,
-                        "BossID": 1010001,
-                        "Desc": "——偶尔也确实会有让我生理不适的邪恶之辈存在。<br>——我就当是在夸我了。"
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "169 134 110 70 113 129",
+                        "NewRace": "169 140 113 70 113 135"
                     },
-                    {
-                        "ID": 2,
-                        "BattleBoss": 3396,
-                        "BossID": 1010002,
-                        "Desc": "——在沉如碉堡疾如迅箭的万全准备面前，无论几种元素戏法都只是花架子，可有人总是不明白。<br>——略表同意。"
+                    "NewSe": {
+                        "OldSeId": 2968,
+                        "NewSeId": 5956
                     },
-                    {
-                        "ID": 3,
-                        "BattleBoss": 3414,
-                        "BossID": 1010003,
-                        "Desc": "——魔誓者弑神猎皇，奉斯摩亚蒂大人之命前来交涉。<br>——呵，够嚣张的名字。"
+                    "spMove": {
+                        "SpMoves": "36291 28161"
                     },
-                    {
-                        "ID": 4,
-                        "BattleBoss": 3456,
-                        "BossID": 1010004,
-                        "Desc": "——套近乎之前不先忏悔一下你干过的好事吗？<br>——不是，只是有点眼熟。"
+                    "exMove": {},
+                    "AdvEffect": {
+                        "Id": 1666,
+                        "Des": "回合结束时若对手不处于能力提升状态则{吸取}对手最大{体力}的1/3且下回合自身造成的攻击伤害提升50%，<font color='#FF7751'>若对手免疫百分比伤害则增伤效果提升至100%</font>；\n回合结束时若对手处于能力提升状态则<font color='#FF7751'>100%令对手害怕</font>，若害怕未触发则恢复自身最大体力的1/3并<font color='#FF7751'>造成等量百分比伤害</font>（boss无效）"
                     },
-                    {
-                        "ID": 5,
-                        "BattleBoss": 3516,
-                        "BossID": 1010005,
-                        "Desc": "——主人之前送的那份大礼，不知道你是否还满意呢？<br>——可惜你没机会听到在那之后发生的故事了。"
-                    }
-                ],
-                "OutNum": "5_6_7",
-                "OutPro": "200_550_250",
-                "FreeBattleKey": 205990,
-                "FreeBattleCnt": 5
-            },
-            "Exchange": {
-                "ItemID": "1724856_1724857_1724858",
-                "ProductID": "259804_259805_259806"
-            },
-            "QianDuan": {},
-            "ID": 1,
-            "TimeFlag": 1058,
-            "SubFreeKey": 1,
-            "SubCostKey": 2,
-            "AllProgress": 4,
-            "PerCostCoinA": 85,
-            "OutItemKey": 123600,
-            "ExCoinB": 5,
-            "Desc": "20220909 神谕进阶-猎皇",
-            "StatID": 2211040100
-        },
+                    "MonsterId": 3704
+                },
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3561,
+                            "BossID": 1010006,
+                            "Desc": "——妖族的没落史里最不缺的就是你这种唯利是图的空洞躯壳。\n——而为气节舍命，就是你雌伏的缘由。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4422,
+                            "BossID": 1010007,
+                            "Desc": "——我很欣赏你，要不要来跟着我干。\n——或许你更应该多在乎在乎手下那帮白大褂。"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3683,
+                            "BossID": 1010008,
+                            "Desc": "——你闻不到自己身上的见风使舵有多刺鼻吗？\n——我本来还以为同类之间会有理解万岁的默契的。"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 3672,
+                            "BossID": 1010009,
+                            "Desc": "——请问心灵相通这方面……存在其他的途径吗？\n——憧憬是距离理解最遥远的感情。"
+                        }
+                    ],
+                    "OutNum": "5_6_7",
+                    "OutPro": "200_550_250",
+                    "FreeBattleKey": 205990,
+                    "FreeBattleCnt": 5
+                },
+                "Exchange": {
+                    "ItemID": "1724940_1724941_1724942",
+                    "ProductID": "259875_259876_259877"
+                },
+                "QianDuan": {},
+                "ID": 2,
+                "TimeFlag": 1058,
+                "SubFreeKey": 3,
+                "SubCostKey": 4,
+                "AllProgress": 4,
+                "PerCostCoinA": 85,
+                "OutItemKey": 123601,
+                "ExCoinB": 5,
+                "Desc": "20221216 神谕进阶-狂热之诚·吉罗德",
+                "StatID": 2212160100
+            }
+        ],
         "BackMonsters": {}
     }
 }
