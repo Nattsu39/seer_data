@@ -16,7 +16,7 @@
         },
         {
             "id": 2,
-            "sort": 3,
+            "sort": 4,
             "name": "VIP每月神宠",
             "isshow": 1,
             "dest": 137,
@@ -30,7 +30,7 @@
         },
         {
             "id": 3,
-            "sort": 2,
+            "sort": 3,
             "name": "神谕进阶",
             "isshow": 1,
             "dest": 110,
@@ -41,6 +41,20 @@
             "starttime": "2022_12_16 00:00:00",
             "finishtime": "2023_1_6 00:00:00",
             "statLog": "20221021版本系统功能,最新活动搬迁,点击神谕进阶面板"
+        },
+        {
+            "id": 4,
+            "sort": 2,
+            "name": "圣诞主题活动",
+            "isshow": 1,
+            "dest": 110,
+            "param": "{moduleID: 192}",
+            "image": "ChristmasActivities",
+            "reddotid": 0,
+            "showTag": 1,
+            "starttime": "2022_12_23 00:00:00",
+            "finishtime": "2022_12_30 00:00:00",
+            "statLog": "20221021版本系统功能,最新活动搬迁,点击圣诞主题活动"
         }
     ]
 }

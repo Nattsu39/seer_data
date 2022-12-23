@@ -6740,13 +6740,22 @@
                 "Desc": "其他杂项类称号8"
             },
             {
-                "Rule": {
-                    "ID": 1,
-                    "Threshold": 1,
-                    "AchievementPoint": 10,
-                    "SpeNameBonus": 429,
-                    "Desc": "雷之银椋"
-                },
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 429,
+                        "Desc": "雷之银椋"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 434,
+                        "Desc": "黑暗爵迹"
+                    }
+                ],
                 "ID": 153,
                 "Type": 0,
                 "Desc": "精灵碎片成就-地狱2"

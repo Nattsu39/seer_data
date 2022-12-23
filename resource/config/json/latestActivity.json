@@ -7,7 +7,7 @@
             "tag": 0,
             "showStart": "",
             "showEnd": "",
-            "goto": "2_108_{openPanel:3}"
+            "goto": "2_108_{openPanel:2}"
         },
         {
             "id": 2,
@@ -23,30 +23,39 @@
             "type": 1,
             "pic": 3,
             "tag": 1,
-            "showStart": "2022_11_25 00:00:00",
-            "showEnd": "2022_12_31 00:00:00",
-            "goto": "2_144_{ panelName:\"MALL\" }"
+            "showStart": "2022_12_23 00:00:00",
+            "showEnd": "2022_12_30 00:00:00",
+            "goto": "2_110_{ moduleID: 192}"
         },
         {
             "id": 4,
             "type": 1,
             "pic": 4,
+            "tag": 1,
+            "showStart": "2022_12_23 00:00:00",
+            "showEnd": "2022_12_30 00:00:00",
+            "goto": "2_110_{ moduleID: 194}"
+        },
+        {
+            "id": 5,
+            "type": 2,
+            "pic": 4454,
+            "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:77}"
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "pic": 4449,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:76}"
         },
         {
-            "id": 5,
-            "type": 2,
-            "pic": 4449,
-            "tag": 1,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:76}"
-        },
-        {
-            "id": 6,
+            "id": 7,
             "type": 2,
             "pic": 4448,
             "tag": 0,
@@ -55,22 +64,13 @@
             "goto": "2_151_{Design:75}"
         },
         {
-            "id": 7,
+            "id": 8,
             "type": 2,
             "pic": 4445,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:74}"
-        },
-        {
-            "id": 8,
-            "type": 2,
-            "pic": 4442,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:73}"
         }
     ]
 }
