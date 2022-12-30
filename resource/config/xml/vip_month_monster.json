@@ -120,10 +120,28 @@
                 "YearTimeFlag": 972,
                 "StatLog": 0,
                 "Desc": "2022年vip包月"
+            },
+            {
+                "ID": 8,
+                "CurYear": 2023,
+                "CurMonth": 1,
+                "MonsterID": 4456,
+                "MonthTimeFlag": 975,
+                "NewSeID": 5961,
+                "RechargeMonthInfo": 100750,
+                "Grad": 3,
+                "NotVipNeed": "1 2 3",
+                "VipNeed": "0 1 2",
+                "GotFlagInfo": "100825 100826 100827 100828 100829 100830 100831 100832 100833 100834 100835 100836",
+                "MonstersID": "4456 0 0 0 0 0 0 0 0 0 0 0",
+                "BonusIds": "2275 2276 2277 2278 2279 2280 2281 2282 2283 2284 2285 2286",
+                "YearTimeFlag": 974,
+                "StatLog": 0,
+                "Desc": "2023年vip包月"
             }
         ],
         "CurYearMonth": {
-            "ID": 202212,
+            "ID": 202301,
             "Desc": "包月精灵当前生效年月,包月配表需同步更新"
         },
         "resourse": {
@@ -131,7 +149,7 @@
                 "url": "SeerVipSub"
             },
             "backVip": {
-                "url": "VipMouthPet2020Panel"
+                "url": "VipMouthPet2023Panel"
             },
             "url": "update/monthlyPet/"
         }

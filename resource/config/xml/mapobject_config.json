@@ -3743,6 +3743,12 @@
                     "name": "yearVip2022Eq",
                     "tip": "2022年费精灵至序圣华",
                     "type": "map|module"
+                },
+                {
+                    "_text": "1588;app/Yearvip2023MainPanel",
+                    "name": "yearVip2023Eq",
+                    "tip": "2023年费精灵逐界苍星",
+                    "type": "map|module"
                 }
             ],
             "xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance"
@@ -4167,7 +4173,7 @@
                 {
                     "object": [
                         {
-                            "name": "yearVip2022Eq",
+                            "name": "yearVip2023Eq",
                             "x": 530,
                             "y": 259,
                             "isFlipHorizontally": 0,
@@ -4250,7 +4256,7 @@
                             "scale": 1
                         },
                         {
-                            "name": "yearVip2022Eq",
+                            "name": "yearVip2023Eq",
                             "x": 479,
                             "y": 312,
                             "isFlipHorizontally": 0,
@@ -6185,7 +6191,7 @@
                         "y": 424,
                         "isFlipHorizontally": 0,
                         "scale": 1.3,
-                        "time": "* * 23-30 12 * 2022"
+                        "time": "* * 23-29 12 * 2022"
                     },
                     "id": 1095
                 },
