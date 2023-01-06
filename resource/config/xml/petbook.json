@@ -1131,43 +1131,46 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4450,
-                        "ImageID": 4450,
+                        "ID": 4459,
+                        "ImageID": 4459,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1588;app/Yearvip2023MainPanel"
+                        "Go": "1589;app/SpetEGTuJiaMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4455,
-                        "ImageID": 4455,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1587;app/SpetZYHuanglongMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4456,
-                        "ImageID": 4456,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/MonthlyPetInJanuary2023Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4457,
-                        "ImageID": 4457,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/NewYearsDayThemeMainS1Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4458,
-                        "ImageID": 4458,
+                        "ID": 4460,
+                        "ImageID": 4460,
                         "Label": 0,
                         "Redirect": "map",
+                        "Go": 1589
+                    },
+                    {
+                        "type": 1,
+                        "ID": 514,
+                        "MonID": 4458,
+                        "ImageID": 1400514,
+                        "Label": 1,
+                        "Redirect": "map",
                         "Go": 1095
+                    },
+                    {
+                        "type": 1,
+                        "ID": 515,
+                        "MonID": 3328,
+                        "ImageID": 1400515,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 516,
+                        "MonID": 4450,
+                        "ImageID": 1400516,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "1588;app/TheAgreementOfCangXingMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45451,8 +45454,8 @@
                 "Height": 182,
                 "Weight": 58,
                 "Features": "2022年年费精灵，莱达宇宙的光明之神，光耀涤世，斩破暗夜，圣华神临，唯序至上！",
-                "Redirect": "map|module",
-                "Go": "1529;app/Yearvip2022MainPanel"
+                "Redirect": "map",
+                "Go": 1529
             },
             {
                 "ID": 4322,
@@ -46759,7 +46762,7 @@
                 "DefName": "灼渊煌龙",
                 "Type": "火 龙",
                 "Height": 2672,
-                "Weight": 1833,
+                "Weight": 18330,
                 "Features": "栖息在修缘谷尽头火山群中的巨龙，浑身被熔岩包裹，拥有着恐怖的攻击手段和再生能力，若是在火山外活动太久可能会危及到周边的生态环境。",
                 "Redirect": "map|module",
                 "Go": "1587;app/SpetZYHuanglongMainPanel"
@@ -46793,6 +46796,26 @@
                 "Features": "2023年1月巅峰圣战精灵，手中的巨镰有着令生灵凋亡的恐怖力量！",
                 "Redirect": "map",
                 "Go": 1095
+            },
+            {
+                "ID": 4459,
+                "DefName": "恶鬼·图伽",
+                "Type": "混沌 战斗",
+                "Height": 218,
+                "Weight": 92,
+                "Features": "「灰爵」的成员之一，恶鬼斗技场的霸主，拥有着强大且独特的战斗能力，任何事情都喜欢用拳头说话。",
+                "Redirect": "map|module",
+                "Go": "1589;app/SpetEGTuJiaMainPanel"
+            },
+            {
+                "ID": 4460,
+                "DefName": "兹拉特",
+                "Type": "电 战斗",
+                "Height": 123,
+                "Weight": 37,
+                "Features": "游荡于恶鬼斗技场的混混，性格如同脸上的表情一样并不好惹，最热衷的事情莫过于在八角笼外喝彩助威。",
+                "Redirect": "map",
+                "Go": 1589
             }
         ]
     }

@@ -19,7 +19,7 @@
                     "id": 2,
                     "msg": "这里可以查阅每周的【最新活动】，宇宙间各种奇闻异事等你探秘！",
                     "holeType": 2,
-                    "position": "41,215,39",
+                    "position": "41,235,39",
                     "align": "left",
                     "strokeColor": "0xf6fcff"
                 },
@@ -71,7 +71,7 @@
                     "id": 2,
                     "msg": "这里可以查阅每周的【最新活动】，宇宙间各种奇闻异事等你探秘！",
                     "holeType": 2,
-                    "position": "41,215,39",
+                    "position": "41,235,39",
                     "align": "left",
                     "strokeColor": "0xf6fcff"
                 },
@@ -100,6 +100,31 @@
                     "holeType": 1,
                     "position": "746,409|746,515|1064,555|1064,433",
                     "align": "right",
+                    "strokeColor": "0xf6fcff"
+                }
+            ]
+        },
+        "newerpay": {
+            "pet": {
+                "petId": 5000,
+                "x": 300,
+                "y": 300
+            },
+            "dialog": {
+                "x": 400,
+                "y": 0
+            },
+            "steps": [
+                {
+                    "id": 1,
+                    "msg": "小赛尔，这里就是你的舱室了。我是主播纽斯，会永远给你带来最热最烫最新资讯！"
+                },
+                {
+                    "id": 2,
+                    "msg": "这里可以查阅每周的【刻印之轮】【精灵招募】，宇宙间各种奇闻异事等你探秘！",
+                    "holeType": 2,
+                    "position": "41,235,39",
+                    "align": "left",
                     "strokeColor": "0xf6fcff"
                 }
             ]

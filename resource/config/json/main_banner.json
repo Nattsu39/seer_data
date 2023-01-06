@@ -2,9 +2,10 @@
     "data": [
         {
             "id": 1,
-            "sort": 1,
+            "sort": 3,
             "name": "每周最新因子精灵",
             "isshow": 1,
+            "special": 0,
             "dest": 124,
             "param": "{type:7}",
             "image": "WeeklySpirit",
@@ -16,9 +17,10 @@
         },
         {
             "id": 2,
-            "sort": 4,
+            "sort": 6,
             "name": "VIP每月神宠",
             "isshow": 1,
+            "special": 0,
             "dest": 137,
             "param": "{openFromBanner:true}",
             "image": "VipPet",
@@ -30,9 +32,10 @@
         },
         {
             "id": 3,
-            "sort": 3,
+            "sort": 5,
             "name": "神谕进阶",
             "isshow": 1,
+            "special": 0,
             "dest": 110,
             "param": "{moduleID: 187}",
             "image": "shenyujinjie",
@@ -44,9 +47,10 @@
         },
         {
             "id": 4,
-            "sort": 2,
+            "sort": 4,
             "name": "圣诞主题活动",
             "isshow": 1,
+            "special": 0,
             "dest": 110,
             "param": "{moduleID: 192}",
             "image": "ChristmasActivities",
@@ -58,9 +62,10 @@
         },
         {
             "id": 5,
-            "sort": 5,
+            "sort": 7,
             "name": "元旦签到",
             "isshow": 1,
+            "special": 0,
             "dest": 196,
             "param": "{moduleID: 193}",
             "image": "newYearSign",
@@ -69,6 +74,36 @@
             "starttime": "2022_12_31 00:00:01",
             "finishtime": "2023_1_3 00:00:01",
             "statLog": "20221022版本系统功能,最新活动搬迁,点击圣诞主题活动"
+        },
+        {
+            "id": 6,
+            "sort": 1,
+            "name": "新手首充1",
+            "isshow": 1,
+            "special": 1,
+            "dest": 0,
+            "param": "",
+            "image": "",
+            "reddotid": 0,
+            "showTag": 0,
+            "starttime": "",
+            "finishtime": "",
+            "statLog": ""
+        },
+        {
+            "id": 7,
+            "sort": 2,
+            "name": "新手首充2",
+            "isshow": 1,
+            "special": 1,
+            "dest": 0,
+            "param": "",
+            "image": "",
+            "reddotid": 0,
+            "showTag": 0,
+            "starttime": "",
+            "finishtime": "",
+            "statLog": ""
         }
     ]
 }
