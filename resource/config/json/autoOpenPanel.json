@@ -126,7 +126,7 @@
             "moduleId": 152,
             "actionName": "主线强弹面板",
             "controller": "AutoOpenMainLinePopController",
-            "state": 1,
+            "state": 0,
             "param1": "",
             "param2": "",
             "startTime": "2022/8/19",
@@ -159,7 +159,7 @@
             "moduleId": 186,
             "actionName": "2022淘乐节签到",
             "controller": "AutoOpenByValue",
-            "state": 1,
+            "state": 0,
             "param1": "201511",
             "param2": "",
             "startTime": "2022/11/25",
@@ -170,11 +170,22 @@
             "moduleId": 196,
             "actionName": "元旦签到",
             "controller": "AutoOpenNewYearSignPanelController",
-            "state": 1,
+            "state": 0,
             "param1": "121553,121552",
             "param2": "",
             "startTime": "2022/12/31",
             "endTime": "2023/1/3"
+        },
+        {
+            "id": 17,
+            "moduleId": 0,
+            "actionName": "微信红包推广",
+            "controller": "AutoOpenWechatRedPacketController",
+            "state": 1,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
         }
     ]
 }
