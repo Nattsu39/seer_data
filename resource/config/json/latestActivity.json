@@ -5,48 +5,66 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2022_1_6 00:00:00",
+            "showStart": "2023_1_13 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:2}"
+            "goto": "2_151_{Design:80}"
         },
         {
             "id": 2,
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2022_1_6 00:00:00",
-            "showEnd": "",
-            "goto": "2_108_{openPanel:3}"
+            "showStart": "2023_1_13 00:00:00",
+            "showEnd": "2023_1_27 00:00:00",
+            "goto": "2_56"
         },
         {
             "id": 3,
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2022_1_6 00:00:00",
+            "showStart": "2023_1_13 00:00:00",
             "showEnd": "",
-            "goto": "2_8"
+            "goto": "2_108_{openPanel:2}"
         },
         {
             "id": 4,
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2022_12_30 00:00:00",
-            "showEnd": "2022_2_2 00:00:00",
-            "goto": "2_144_{ panelName:\"MALL\" }"
+            "showStart": "2023_1_13 00:00:00",
+            "showEnd": "",
+            "goto": "2_108_{openPanel:3}"
         },
         {
             "id": 5,
             "type": 2,
-            "pic": 4459,
+            "pic": 4466,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:81}"
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "pic": 4461,
+            "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:80}"
+        },
+        {
+            "id": 7,
+            "type": 2,
+            "pic": 4459,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:79}"
         },
         {
-            "id": 6,
+            "id": 8,
             "type": 2,
             "pic": 4455,
             "tag": 0,
@@ -55,22 +73,13 @@
             "goto": "2_151_{Design:78}"
         },
         {
-            "id": 7,
+            "id": 9,
             "type": 2,
             "pic": 4454,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:77}"
-        },
-        {
-            "id": 8,
-            "type": 2,
-            "pic": 4449,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:76}"
         }
     ]
 }
