@@ -11,8 +11,8 @@
                 "priority": 1,
                 "exMapList": 50000,
                 "ui": "markJackpot_icon",
-                "tips": "刻印之轮",
-                "mouseClickFunc": "app:MarkJackpotPermanentMainPanel"
+                "tips": "刻印之轮-永恒召唤限时开启",
+                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel"
             },
             {
                 "direction": "left",
@@ -30,7 +30,7 @@
                 "exMapList": 50000,
                 "ui": "shengdianyingxiongtuan_icon",
                 "tips": "圣殿英雄团",
-                "mouseClickFunc": "app:TempleHeroAltarPrePanel"
+                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel"
             },
             {
                 "direction": "left",
@@ -68,6 +68,15 @@
                 "tips": "2023年费",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016",
                 "mouseClickFunc": "app:Yearvip2023MainPanel"
+            },
+            {
+                "direction": "left_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "springFeedback_icon",
+                "tips": "新春回馈",
+                "mouseClickFunc": "app:SpringFeedbackVipPanel"
             },
             {
                 "direction": "left_side",
@@ -159,6 +168,15 @@
                 "ui": "exchangemedal_icon",
                 "tips": "勋章兑换",
                 "mouseClickFunc": "app:DiamondTask201806AwardPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "SpringFestivalSummaryIcon",
+                "tips": "萌兔贺岁",
+                "mouseClickFunc": "app:SpringFestivalActivityGoToMainPanel"
             },
             {
                 "direction": "right_side",
