@@ -52,111 +52,100 @@
             {
                 "id": 6,
                 "type": 1,
+                "title": "钻石奖励更新",
+                "picture": 200,
+                "sort": 6,
+                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
+                "Tag": 2
+            },
+            {
+                "id": 7,
+                "type": 1,
+                "title": "2月VIP神宠",
+                "picture": 197,
+                "sort": 7,
+                "mouseClickFunc": "app:MonthlyPetInJanuary2023Panel",
+                "Tag": 2
+            },
+            {
+                "id": 8,
+                "type": 1,
+                "title": "星河长明商店更新",
+                "picture": 199,
+                "sort": 8,
+                "mouseClickFunc": "app:PetJackpotStarRecruitPanel"
+            },
+            {
+                "id": 9,
+                "type": 1,
+                "title": "惊涛海皇神谕进阶",
+                "picture": 198,
+                "sort": 9,
+                "mouseClickFunc": "app:AdvancedPetMainPanel_3506",
+                "Tag": 2
+            },
+            {
+                "id": 10,
+                "type": 1,
+                "title": "皮肤商城更新",
+                "picture": 201,
+                "sort": 10,
+                "mouseClickFunc": "app:SkinShopMainPanel",
+                "Tag": 1
+            },
+            {
+                "id": 11,
+                "type": 1,
                 "title": "通用水晶折扣来袭",
                 "picture": 194,
-                "sort": 6,
+                "sort": 11,
                 "start": 20230127,
                 "end": 20230210,
                 "mouseClickFunc": "app:ShuijinSell1027Panel",
                 "Tag": 2
             },
             {
-                "id": 7,
+                "id": 12,
                 "type": 1,
                 "title": "V10冠名刻印回归",
                 "picture": 195,
-                "sort": 7,
+                "sort": 12,
                 "start": 20230127,
                 "end": 20230210,
-                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel",
+                "mouseClickFunc": "app:V10MarkReturn20230127MianPanel",
                 "Tag": 1
             },
             {
-                "id": 8,
+                "id": 13,
                 "type": 1,
                 "title": "能力装扮特惠回归",
                 "picture": 196,
-                "sort": 8,
+                "sort": 13,
                 "start": 20230127,
                 "end": 20230210,
                 "mouseClickFunc": "app:AbilitySuitSellMainPanel",
                 "Tag": 1
             },
             {
-                "id": 9,
+                "id": 14,
                 "type": 1,
                 "title": "圣殿英雄团",
                 "picture": 188,
-                "sort": 9,
+                "sort": 14,
                 "start": 20230119,
                 "end": 20230224,
                 "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel",
                 "Tag": 2
             },
             {
-                "id": 10,
-                "type": 1,
-                "title": "凶兽刻印永恒召唤",
-                "picture": 189,
-                "sort": 10,
-                "start": 20230119,
-                "end": 20230203,
-                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel",
-                "Tag": 1
-            },
-            {
-                "id": 11,
-                "type": 1,
-                "title": "钻石福袋新春回归",
-                "picture": 190,
-                "sort": 11,
-                "start": 20230119,
-                "end": 20230203,
-                "mouseClickFunc": "app:SpringFestivalDiamond2019MainPanel",
-                "Tag": 1
-            },
-            {
-                "id": 12,
+                "id": 15,
                 "type": 1,
                 "title": "异元时空皮肤登场",
                 "picture": 191,
-                "sort": 12,
+                "sort": 15,
                 "start": 20230119,
                 "end": 20230210,
                 "mouseClickFunc": "app:MetaSkinSalePanel",
-                "Tag": 1
-            },
-            {
-                "id": 13,
-                "type": 1,
-                "title": "始皇帝·嬴政",
-                "picture": 192,
-                "sort": 13,
-                "start": 20230119,
-                "end": 20230203,
-                "mouseClickFunc": "app:GetYingZhenPanel",
-                "Tag": 1
-            },
-            {
-                "id": 14,
-                "type": 1,
-                "title": "弑序神罗回归",
-                "picture": 193,
-                "sort": 14,
-                "start": 20230119,
-                "end": 20230203,
-                "mouseClickFunc": "app:ShiXuShenLuoBackPanel",
-                "Tag": 1
-            },
-            {
-                "id": 15,
-                "type": 1,
-                "title": "抗性新研究",
-                "picture": 186,
-                "sort": 15,
-                "start": 20230119,
-                "end": 20230127,
-                "mouseClickFunc": "app:ResistanceItemShop",
                 "Tag": 1
             },
             {
@@ -171,36 +160,11 @@
             {
                 "id": 17,
                 "type": 1,
-                "title": "钻石奖励更新",
-                "picture": 187,
-                "sort": 17,
-                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
-                "Tag": 1
-            },
-            {
-                "id": 18,
-                "type": 1,
                 "title": "商城礼包更新",
                 "picture": 183,
-                "sort": 18,
+                "sort": 17,
                 "mouseClickFunc": "app:SupermarketPanel",
                 "Tag": 2
-            },
-            {
-                "id": 19,
-                "type": 1,
-                "title": "天兔·乐普斯",
-                "picture": 179,
-                "sort": 19,
-                "mouseClickFunc": "app:MonthlyPetInJanuary2023Panel"
-            },
-            {
-                "id": 20,
-                "type": 1,
-                "title": "星河长明商店更新",
-                "picture": 180,
-                "sort": 20,
-                "mouseClickFunc": "app:PetJackpotStarRecruitPanel"
             }
         ]
     }
