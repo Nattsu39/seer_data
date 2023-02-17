@@ -1139,38 +1139,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4476,
-                        "ImageID": 4476,
+                        "ID": 4477,
+                        "ImageID": 4477,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1595;app/SpetCanXiaoXingWenMainPanel"
+                        "Go": "1596;app/SpetQYYiLuoTeSiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4478,
+                        "ImageID": 4478,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11888;app/OpenSchool2020MainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 520,
-                        "MonID": 3866,
-                        "ImageID": 1400520,
+                        "ID": 523,
+                        "MonID": 3506,
+                        "ImageID": 1400523,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ValentinesDaySkinSales2023MainPanel"
+                        "Go": "103;app/PoseidonSkinSalesMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 521,
-                        "MonID": 3932,
-                        "ImageID": 1400521,
+                        "ID": 524,
+                        "MonID": 4401,
+                        "ImageID": 1400524,
                         "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ValentinesDaySkinSales2023MainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 522,
-                        "MonID": 4474,
-                        "ImageID": 1400522,
-                        "Label": 1,
-                        "Redirect": "map",
-                        "Go": 1095
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -46986,6 +46985,26 @@
                 "Features": "「灰爵」的成员之一，身上散发出的星象之气能够潜移默化影响他人的情绪，常常使用手中的长刀“魁”进行作战，似乎和琉彩有着亲密的关系。",
                 "Redirect": "map|module",
                 "Go": "1595;app/SpetCanXiaoXingWenMainPanel"
+            },
+            {
+                "ID": 4477,
+                "DefName": "启源·伊洛特斯",
+                "Type": "电 次元",
+                "Height": 193,
+                "Weight": 77,
+                "Features": "「启明星」之灰星，伊洛特斯做事从来都我行我素，不拖泥带水，在衣着衣品方面特别的讲究。伊洛特斯最擅长使用霆雷和次元的力量，手中悬浮的“极奥之环”可以创造出雷域结界。",
+                "Redirect": "map|module",
+                "Go": "1596;app/SpetQYYiLuoTeSiMainPanel"
+            },
+            {
+                "ID": 4478,
+                "DefName": "小规",
+                "Type": "机械 战斗",
+                "Height": 96,
+                "Weight": 38,
+                "Features": "圆规化身的机巧少女。行方智圆，明察秋毫，方圆便是我规矩。",
+                "Redirect": "map|module",
+                "Go": "11888;app/OpenSchool2020MainPanel"
             }
         ]
     }

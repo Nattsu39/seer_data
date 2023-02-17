@@ -1,0 +1,344 @@
+{
+    "data": [
+        {
+            "BuffId": 1,
+            "BuffName": "铁壁Ⅰ",
+            "BuffPondID": 1,
+            "BuffDesc": "增加所有精灵%s防御",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/4/200",
+            "BasicValue": "200"
+        },
+        {
+            "BuffId": 2,
+            "BuffName": "魔盾Ⅰ",
+            "BuffPondID": 1,
+            "BuffDesc": "增加所有精灵%s特防",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/5/200",
+            "BasicValue": "200"
+        },
+        {
+            "BuffId": 3,
+            "BuffName": "神速Ⅰ",
+            "BuffPondID": 1,
+            "BuffDesc": "增加所有精灵%s速度",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/3/200",
+            "BasicValue": "200"
+        },
+        {
+            "BuffId": 4,
+            "BuffName": "力量号角Ⅰ",
+            "BuffPondID": 1,
+            "BuffDesc": "增加所有精灵%s攻击",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/1/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 5,
+            "BuffName": "魔法号角Ⅰ",
+            "BuffPondID": 1,
+            "BuffDesc": "增加所有精灵%s特攻",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/2/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 6,
+            "BuffName": "体魄Ⅰ",
+            "BuffPondID": 1,
+            "BuffDesc": "增加所有精灵%s体力",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/6/1000",
+            "BasicValue": "1000"
+        },
+        {
+            "BuffId": 7,
+            "BuffName": "战斗意志",
+            "BuffPondID": 1,
+            "BuffDesc": "战斗开始前，回复所有精灵1/4体力",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 1,
+            "BuffAddAttr": "37462",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 8,
+            "BuffName": "战斗续行",
+            "BuffPondID": 1,
+            "BuffDesc": "战斗结束后，回复所有精灵1/4体力",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 2,
+            "BuffAddAttr": "37462",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 9,
+            "BuffName": "吞噬者",
+            "BuffPondID": 1,
+            "BuffDesc": "每次战斗胜利后，增加所有精灵%s%攻击、特攻",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "2/1/20;2/2/20",
+            "BasicValue": "20"
+        },
+        {
+            "BuffId": 10,
+            "BuffName": "铁骑士",
+            "BuffPondID": 1,
+            "BuffDesc": "每次战斗胜利后，增加所有精灵%s%防御、特防",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "2/4/20;2/5/20",
+            "BasicValue": "20"
+        },
+        {
+            "BuffId": 11,
+            "BuffName": "补给箱",
+            "BuffPondID": 1,
+            "BuffDesc": "战斗结束后，回复所有精灵5点PP",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 2,
+            "BuffAddAttr": "37108",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 12,
+            "BuffName": "铁壁Ⅱ",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s防御",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/4/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 13,
+            "BuffName": "魔盾Ⅱ",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s特防",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/5/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 14,
+            "BuffName": "神速Ⅱ",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s速度",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/3/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 15,
+            "BuffName": "力量号角Ⅱ",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s攻击",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/1/1200",
+            "BasicValue": "1200"
+        },
+        {
+            "BuffId": 16,
+            "BuffName": "魔法号角Ⅱ",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s特攻",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/2/1200",
+            "BasicValue": "1200"
+        },
+        {
+            "BuffId": 17,
+            "BuffName": "体魄Ⅱ",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s体力",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/6/3000",
+            "BasicValue": "3000"
+        },
+        {
+            "BuffId": 18,
+            "BuffName": "小巨人",
+            "BuffPondID": 2,
+            "BuffDesc": "增加所有精灵%s%体力",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "2/6/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 19,
+            "BuffName": "血魔石",
+            "BuffPondID": 2,
+            "BuffDesc": "每次战斗胜利后，增加所有精灵%s体力",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "1/6/1000",
+            "BasicValue": "1000"
+        },
+        {
+            "BuffId": 20,
+            "BuffName": "继承者",
+            "BuffPondID": 2,
+            "BuffDesc": "增加我方战败所有精灵属性总和20%的对应属性",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "0/0/0",
+            "BasicValue": "10"
+        },
+        {
+            "BuffId": 21,
+            "BuffName": "能源补给",
+            "BuffPondID": 2,
+            "BuffDesc": "每次战斗胜利后，回复所有精灵1/4体力、3点PP",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "2/7/25;1/8/3",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 22,
+            "BuffName": "日之石",
+            "BuffPondID": 2,
+            "BuffDesc": "战斗开始前，回复所有精灵1/3体力，若玩家持有月之石，则回复效果翻倍",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 1,
+            "BuffAddAttr": "0/0/0",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 23,
+            "BuffName": "月之石",
+            "BuffPondID": 2,
+            "BuffDesc": "战斗结束后，回复所有精灵5点PP，若玩家持有日之石，则回复效果翻倍",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 2,
+            "BuffAddAttr": "0/0/0",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 24,
+            "BuffName": "铁壁Ⅲ",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s防御",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/4/1500",
+            "BasicValue": "1500"
+        },
+        {
+            "BuffId": 25,
+            "BuffName": "魔盾Ⅲ",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s特防",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/5/1500",
+            "BasicValue": "1500"
+        },
+        {
+            "BuffId": 26,
+            "BuffName": "神速Ⅲ",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s速度",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/3/2000",
+            "BasicValue": "2000"
+        },
+        {
+            "BuffId": 27,
+            "BuffName": "力量号角Ⅲ",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s攻击",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/1/3000",
+            "BasicValue": "3000"
+        },
+        {
+            "BuffId": 28,
+            "BuffName": "魔法号角Ⅲ",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s特攻",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/2/3000",
+            "BasicValue": "3000"
+        },
+        {
+            "BuffId": 29,
+            "BuffName": "体魄Ⅲ",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s体力",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "1/6/10000",
+            "BasicValue": "10000"
+        },
+        {
+            "BuffId": 30,
+            "BuffName": "坚如磐石",
+            "BuffPondID": 3,
+            "BuffDesc": "增加所有精灵%s%防御、特防",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 0,
+            "BuffAddAttr": "2/4/500;2/5/500",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 31,
+            "BuffName": "独行者",
+            "BuffPondID": 3,
+            "BuffDesc": "每次战斗胜利后，增加所有出战精灵10%体力",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "0/0/0",
+            "BasicValue": "500"
+        },
+        {
+            "BuffId": 32,
+            "BuffName": "天使赞歌",
+            "BuffPondID": 3,
+            "BuffDesc": "每次战斗胜利后，随机复活1名已战败的精灵",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "0/0/0",
+            "BasicValue": "1"
+        },
+        {
+            "BuffId": 33,
+            "BuffName": "生命源泉",
+            "BuffPondID": 3,
+            "BuffDesc": "每次战斗胜利后，恢复所有精灵全部体力、PP值",
+            "BuffMaxLayerNum": 1,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "2/7/10000;1/8/100",
+            "BasicValue": "0"
+        },
+        {
+            "BuffId": 34,
+            "BuffName": "死神",
+            "BuffPondID": 3,
+            "BuffDesc": "每次战斗胜利后，增加所有精灵%s点所有属性",
+            "BuffMaxLayerNum": 100,
+            "BuffTriggerType": 3,
+            "BuffAddAttr": "1/1/1000;1/2/1000;1/3/1000;1/4/1000;1/5/1000;1/6/1000;",
+            "BasicValue": "1000"
+        }
+    ]
+}
