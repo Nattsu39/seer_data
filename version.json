@@ -1,5 +1,5 @@
 {
-    "version": 1676538437045,
+    "version": 1676614255991,
     "files": {
         "resource": {
             "config": {
@@ -15,7 +15,7 @@
                     "toolbar.json": "toolbar_a29365fe.json",
                     "scene_wildboss.json": "scene_wildboss_a240c43d.json",
                     "starmap.json": "starmap_adfc32ba.json",
-                    "tables.json": "tables_11c4a285.json",
+                    "tables.json": "tables_ea6244c5.json",
                     "SPTreward.json": "SPTreward_19de4168.json",
                     "map.json": "map_b689027c.json",
                     "pveRewardMall_1.json": "pveRewardMall_1_5d755fba.json",
@@ -32,7 +32,7 @@
                     "profilephoto.json": "profilephoto_fef5e551.json",
                     "Signboard.json": "Signboard_4b74eb42.json",
                     "npc.json": "npc_ef17cd5c.json",
-                    "talk.json": "talk_4c420931.json",
+                    "talk.json": "talk_83be0046.json",
                     "diamon_task.json": "diamon_task_a71882d5.json",
                     "h5_12th_task.json": "h5_12th_task_c802ffed.json",
                     "pet_item.json": "pet_item_a2f68754.json",
@@ -84,7 +84,7 @@
                     "box_choice.json": "box_choice_1d4c3b2c.json",
                     "Startrekbossfight.json": "Startrekbossfight_9be9677f.json",
                     "NewSeerWelfare.json": "NewSeerWelfare_3e4685ff.json",
-                    "Startrekbuffinfo.json": "Startrekbuffinfo_fa5ab2b7.json"
+                    "Startrekbuffinfo.json": "Startrekbuffinfo_2b376b0c.json"
                 },
                 "xml": {
                     "effectInfo.json": "effectInfo_cfd3dfe3.json",
@@ -148,7 +148,7 @@
                     "JackPotShop.json": "JackPotShop_9563410f.json",
                     "pet_anchor.json": "pet_anchor_79da7740.json",
                     "super_design.json": "super_design_6e8b9faa.json",
-                    "Fragment.json": "Fragment_5b5c7947.json",
+                    "Fragment.json": "Fragment_5e0f48b3.json",
                     "Wishskin.json": "Wishskin_a708cf1b.json",
                     "Wishrank.json": "Wishrank_d70eefd.json",
                     "ActivityMapEventReward.json": "ActivityMapEventReward_5731fd5.json",
@@ -10217,12 +10217,12 @@
                         }
                     },
                     "3471": {
-                        "3471.js": "3471_39f48003.js",
+                        "3471.js": "3471_ccd6501c.js",
                         "images": {
                             "3471_atlas_.png": "3471_atlas__bf6f7a70.png",
                             "3471_atlas_2.png": "3471_atlas_2_53fff380.png"
                         },
-                        "3471.html": "3471_79a3c805.html"
+                        "3471.html": "3471_540f3969.html"
                     },
                     "3474": {
                         "3474.js": "3474_16934251.js",
@@ -14591,7 +14591,7 @@
                     "petDetailedInfo.js": "petDetailedInfo_73c3ee60.js"
                 },
                 "petBag": {
-                    "petBag.js": "petBag_990d2962.js"
+                    "petBag.js": "petBag_622dbca2.js"
                 },
                 "petManualInfo": {
                     "petManualInfo.js": "petManualInfo_11791c42.js"
@@ -14699,7 +14699,7 @@
                     "mall.js": "mall_77fac771.js"
                 },
                 "pveEnterPanel": {
-                    "pveEnterPanel.js": "pveEnterPanel_2f12409e.js"
+                    "pveEnterPanel.js": "pveEnterPanel_2130b76e.js"
                 },
                 "bubblerManager": {
                     "bubblerManager.js": "bubblerManager_12eecd8c.js"
@@ -15098,7 +15098,7 @@
                     "taoleFestivalLoginPanel.js": "taoleFestivalLoginPanel_8c55e33c.js"
                 },
                 "blessOfDivineAnimals": {
-                    "blessOfDivineAnimals.js": "blessOfDivineAnimals_13229909.js"
+                    "blessOfDivineAnimals.js": "blessOfDivineAnimals_ef971ea3.js"
                 },
                 "seerFactory": {
                     "seerFactory.js": "seerFactory_b1b020b1.js"
@@ -15150,6 +15150,9 @@
                 },
                 "fightingPetOrBossInfoPop": {
                     "fightingPetOrBossInfoPop.js": "fightingPetOrBossInfoPop_d739d289.js"
+                },
+                "achieveNotice": {
+                    "achieveNotice.js": "achieveNotice_dd8d226b.js"
                 }
             },
             "assets": {
@@ -16013,8 +16016,8 @@
                         "new_seer_welfare_sheet.png": "new_seer_welfare_sheet_663106a2.png"
                     },
                     "backflow": {
-                        "backflow_sheet.png": "backflow_sheet_2a755f5a.png",
-                        "backflow_sheet.json": "backflow_sheet_7e38a935.json",
+                        "backflow_sheet.png": "backflow_sheet_92a74c43.png",
+                        "backflow_sheet.json": "backflow_sheet_3b0dcf6f.json",
                         "outside": {
                             "huiliu_p6.json": "huiliu_p6_428d4698.json",
                             "saierhao.atlas": "saierhao_f76e9229.atlas",
@@ -16025,6 +16028,11 @@
                             "huiliu_p5.json": "huiliu_p5_8d1be25a.json",
                             "saierhao.png": "saierhao_3843b920.png",
                             "huiliu_p1.png": "huiliu_p1_da389d9f.png"
+                        }
+                    },
+                    "achieve_notice": {
+                        "outside": {
+                            "chai.json": "chai_99dca976.json"
                         }
                     }
                 },
