@@ -1136,42 +1136,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4477,
-                        "ImageID": 4477,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1596;app/SpetQYYiLuoTeSiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4478,
-                        "ImageID": 4478,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11888;app/OpenSchool2020MainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 523,
-                        "MonID": 3506,
-                        "ImageID": 1400523,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/PoseidonSkinSalesMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 524,
-                        "MonID": 4401,
-                        "ImageID": 1400524,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4479,
+                    "ImageID": 4479,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1597;app/SpetJiLaTiSiMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -36903,7 +36875,8 @@
                 "Weight": 70,
                 "Features": "王·雷伊获得了圣灵的祝福，体内的雷电力量被授予了圣灵之力变为圣霆，这强大的实力将继续匡扶正义，打击邪恶！",
                 "Label": "1,2",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "1003;app/ShengtingleiyiMainPanel"
             },
             {
                 "ID": 3407,
@@ -47005,7 +46978,18 @@
                 "Features": "圆规化身的机巧少女。行方智圆，明察秋毫，方圆便是我规矩。",
                 "Redirect": "map|module",
                 "Go": "11888;app/OpenSchool2020MainPanel"
+            },
+            {
+                "ID": 4479,
+                "DefName": "吉拉提斯",
+                "Type": "飞行 冰",
+                "Height": 257,
+                "Weight": 1102,
+                "Features": "南霜驯服的珍兽，充满灵性，拥有精神沟通的能力，和南霜缔结了深刻的羁绊，她的翅膀能扬起猛烈的冰雪之风，是冰原上的守护者。",
+                "Redirect": "map|module",
+                "Go": "1597;app/SpetJiLaTiSiMainPanel"
             }
-        ]
+        ],
+        "_text": "\r\n/>\r\n\r\n\t"
     }
 }

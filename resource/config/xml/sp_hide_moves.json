@@ -4,17 +4,31 @@
         "encoding": "UTF-8"
     },
     "config": {
-        "SpMoves": {
-            "id": 1,
-            "monster": 4450,
-            "monstername": "逐界苍星",
-            "moves": 36303,
-            "movesname": "彼空·根源重释",
-            "item": 1724967,
-            "itemname": "魔盒·苍星之理",
-            "itemnumber": 1,
-            "itemtips": "使用后可开启逐界苍星全新第五技能：彼空·根源重释",
-            "movetype": 1
-        }
+        "SpMoves": [
+            {
+                "id": 1,
+                "monster": 4450,
+                "monstername": "逐界苍星",
+                "moves": 36303,
+                "movesname": "彼空·根源重释",
+                "item": 1724967,
+                "itemname": "魔盒·苍星之理",
+                "itemnumber": 1,
+                "itemtips": "使用后可开启逐界苍星全新第五技能：彼空·根源重释",
+                "movetype": 1
+            },
+            {
+                "id": 2,
+                "monster": 4167,
+                "monstername": "查梅洛尼达",
+                "moves": 36471,
+                "movesname": "镜·灼渊龙息",
+                "item": 1725116,
+                "itemname": "熔岩核心",
+                "itemnumber": 3,
+                "itemtips": "使用后可开启查梅洛尼达全新第五技能：镜·灼渊龙息",
+                "movetype": 1
+            }
+        ]
     }
 }

@@ -25,7 +25,8 @@
                 "sort": 3,
                 "start": 20230210,
                 "end": 20230317,
-                "mouseClickFunc": "app:PropRecoveryS1Panel"
+                "mouseClickFunc": "app:PropRecoveryS1Panel",
+                "Tag": 2
             },
             {
                 "id": 4,
@@ -52,64 +53,66 @@
             {
                 "id": 6,
                 "type": 1,
-                "title": "波塞冬校园皮肤",
-                "picture": 206,
-                "sort": 9,
-                "mouseClickFunc": "app:PoseidonSkinSalesMainPanel",
-                "Tag": 1
+                "title": "契约召唤更新",
+                "picture": 208,
+                "sort": 6,
+                "start": 20230224,
+                "end": 20230331,
+                "mouseClickFunc": "app:PartnerEffectResidentMainPanel",
+                "Tag": 2
             },
             {
                 "id": 7,
                 "type": 1,
-                "title": "钻石奖励更新",
-                "picture": 207,
-                "sort": 9,
-                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
+                "title": "圣殿英雄团更新",
+                "picture": 209,
+                "sort": 7,
+                "start": 20230224,
+                "end": 20230303,
+                "mouseClickFunc": "app:TempleHeroAltarPrePanel",
                 "Tag": 2
             },
             {
                 "id": 8,
                 "type": 1,
-                "title": "2月VIP神宠",
-                "picture": 197,
-                "sort": 10,
-                "mouseClickFunc": "app:MonthlyPetInFebruary2023Panel",
-                "Tag": 2
+                "title": "钻石奖励更新",
+                "picture": 207,
+                "sort": 8,
+                "start": 20230217,
+                "end": 20230303,
+                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
+                "Tag": 1
             },
             {
                 "id": 9,
                 "type": 1,
-                "title": "星河长明商店更新",
-                "picture": 199,
-                "sort": 11,
-                "mouseClickFunc": "app:PetJackpotStarRecruitPanel"
+                "title": "2月VIP神宠",
+                "picture": 197,
+                "sort": 9,
+                "start": 20230203,
+                "end": 20230303,
+                "mouseClickFunc": "app:MonthlyPetInFebruary2023Panel",
+                "Tag": 2
             },
             {
                 "id": 10,
                 "type": 1,
-                "title": "惊涛海皇神谕进阶",
-                "picture": 198,
-                "sort": 12,
-                "mouseClickFunc": "app:AdvancedPetMainPanel_3506",
+                "title": "星河长明商店更新",
+                "picture": 199,
+                "sort": 10,
+                "start": 20230203,
+                "end": 20230303,
+                "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
                 "Tag": 2
             },
             {
                 "id": 11,
                 "type": 1,
-                "title": "圣殿英雄团",
-                "picture": 188,
-                "sort": 13,
-                "start": 20230119,
-                "end": 20230224,
-                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel",
-                "Tag": 2
-            },
-            {
-                "id": 12,
-                "type": 1,
                 "title": "商城礼包更新",
                 "picture": 183,
-                "sort": 15,
+                "sort": 11,
+                "start": 20230101,
+                "end": 20231224,
                 "mouseClickFunc": "app:SupermarketPanel",
                 "Tag": 2
             }

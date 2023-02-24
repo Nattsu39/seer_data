@@ -5,81 +5,230 @@
             "StagId": 1,
             "BossType": 11,
             "Weight": 100,
-            "MonsterIds": "2211_2227",
+            "MonsterIds": "2211",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "90_10_0",
+            "WinRewardNum": 10
         },
         {
             "BossfightId": 2,
             "StagId": 1,
-            "BossType": 12,
+            "BossType": 11,
             "Weight": 100,
-            "MonsterIds": "4346",
+            "MonsterIds": "2227",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "90_10_0",
+            "WinRewardNum": 10
         },
         {
             "BossfightId": 3,
+            "StagId": 1,
+            "BossType": 11,
+            "Weight": 100,
+            "MonsterIds": "2285",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "90_10_0",
+            "WinRewardNum": 10
+        },
+        {
+            "BossfightId": 4,
+            "StagId": 1,
+            "BossType": 11,
+            "Weight": 100,
+            "MonsterIds": "2252",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "90_10_0",
+            "WinRewardNum": 10
+        },
+        {
+            "BossfightId": 5,
+            "StagId": 1,
+            "BossType": 12,
+            "Weight": 100,
+            "MonsterIds": "2227_2264_2211",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "75_20_5",
+            "WinRewardNum": 20
+        },
+        {
+            "BossfightId": 6,
+            "StagId": 1,
+            "BossType": 12,
+            "Weight": 100,
+            "MonsterIds": "2285_2253_2252",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "75_20_5",
+            "WinRewardNum": 20
+        },
+        {
+            "BossfightId": 7,
+            "StagId": 1,
+            "BossType": 12,
+            "Weight": 5,
+            "MonsterIds": "4346",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "35_35_30",
+            "WinRewardNum": 99
+        },
+        {
+            "BossfightId": 8,
             "StagId": 1,
             "BossType": 13,
             "Weight": 100,
             "MonsterIds": "3522",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "0_30_70",
+            "WinRewardNum": 100
         },
         {
-            "BossfightId": 4,
+            "BossfightId": 9,
             "StagId": 2,
             "BossType": 11,
             "Weight": 100,
             "MonsterIds": "2949_2955",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "60_30_10",
+            "WinRewardNum": 30
         },
         {
-            "BossfightId": 5,
+            "BossfightId": 10,
+            "StagId": 2,
+            "BossType": 11,
+            "Weight": 100,
+            "MonsterIds": "2949_2952",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "60_30_10",
+            "WinRewardNum": 30
+        },
+        {
+            "BossfightId": 11,
+            "StagId": 2,
+            "BossType": 11,
+            "Weight": 5,
+            "MonsterIds": "4346",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "35_35_30",
+            "WinRewardNum": 99
+        },
+        {
+            "BossfightId": 12,
+            "StagId": 2,
+            "BossType": 11,
+            "Weight": 100,
+            "MonsterIds": "2955_2952",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "60_30_10",
+            "WinRewardNum": 30
+        },
+        {
+            "BossfightId": 13,
+            "StagId": 2,
+            "BossType": 12,
+            "Weight": 100,
+            "MonsterIds": "2949_2955_3952_3956",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "50_35_15",
+            "WinRewardNum": 50
+        },
+        {
+            "BossfightId": 14,
+            "StagId": 2,
+            "BossType": 12,
+            "Weight": 100,
+            "MonsterIds": "3853_3849_3772",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "50_35_15",
+            "WinRewardNum": 50
+        },
+        {
+            "BossfightId": 15,
             "StagId": 2,
             "BossType": 12,
             "Weight": 100,
             "MonsterIds": "3575",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "35_35_30",
+            "WinRewardNum": 50
         },
         {
-            "BossfightId": 6,
+            "BossfightId": 16,
             "StagId": 2,
             "BossType": 13,
             "Weight": 100,
             "MonsterIds": "3960",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "0_10_90",
+            "WinRewardNum": 200
         },
         {
-            "BossfightId": 7,
+            "BossfightId": 17,
             "StagId": 3,
             "BossType": 11,
             "Weight": 100,
             "MonsterIds": "3654_3640",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "40_40_20",
+            "WinRewardNum": 60
         },
         {
-            "BossfightId": 8,
+            "BossfightId": 18,
+            "StagId": 3,
+            "BossType": 11,
+            "Weight": 100,
+            "MonsterIds": "3634_4323",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "40_40_20",
+            "WinRewardNum": 60
+        },
+        {
+            "BossfightId": 19,
+            "StagId": 3,
+            "BossType": 11,
+            "Weight": 100,
+            "MonsterIds": "4264_4264",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "40_40_20",
+            "WinRewardNum": 60
+        },
+        {
+            "BossfightId": 20,
+            "StagId": 3,
+            "BossType": 11,
+            "Weight": 5,
+            "MonsterIds": "4346",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "35_35_30",
+            "WinRewardNum": 99
+        },
+        {
+            "BossfightId": 21,
             "StagId": 3,
             "BossType": 12,
             "Weight": 100,
-            "MonsterIds": "3575",
+            "MonsterIds": "3654_3640_3634_4323_4264",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "20_30_50",
+            "WinRewardNum": 100
         },
         {
-            "BossfightId": 9,
+            "BossfightId": 22,
+            "StagId": 3,
+            "BossType": 12,
+            "Weight": 100,
+            "MonsterIds": "3584",
+            "rewardinfo": "1_1_10",
+            "rewardBuffPondPro": "20_30_50",
+            "WinRewardNum": 100
+        },
+        {
+            "BossfightId": 23,
             "StagId": 3,
             "BossType": 13,
             "Weight": 100,
-            "MonsterIds": "3960",
+            "MonsterIds": "3814",
             "rewardinfo": "1_1_10",
-            "rewardBuffPondPro": "80_15_5"
+            "rewardBuffPondPro": "0_0_100",
+            "WinRewardNum": 300
         }
     ]
 }

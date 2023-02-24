@@ -1865,7 +1865,8 @@
                                         "proicon": 6,
                                         "SpeNameBonus": 3,
                                         "title": "孤傲挑战者",
-                                        "icon": 2
+                                        "icon": 2,
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 7,
@@ -1907,7 +1908,8 @@
                                         "proicon": 11,
                                         "SpeNameBonus": 4,
                                         "title": "龙族盟友",
-                                        "icon": 2
+                                        "icon": 2,
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 12,
@@ -1965,7 +1967,8 @@
                                         "proicon": 206,
                                         "icon": 4,
                                         "SpeNameBonus": 27,
-                                        "title": "烈火之翼"
+                                        "title": "烈火之翼",
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 19,
@@ -2015,7 +2018,8 @@
                                         "proicon": 212,
                                         "icon": 4,
                                         "SpeNameBonus": 43,
-                                        "title": "破空挑战者"
+                                        "title": "破空挑战者",
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 25,
@@ -2025,7 +2029,8 @@
                                         "proicon": 213,
                                         "icon": 4,
                                         "SpeNameBonus": 44,
-                                        "title": "炫彩守护者"
+                                        "title": "炫彩守护者",
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 26,
@@ -2043,7 +2048,8 @@
                                         "proicon": 214,
                                         "icon": 2,
                                         "SpeNameBonus": 53,
-                                        "title": "灭焰勇士"
+                                        "title": "灭焰勇士",
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 28,
@@ -2053,7 +2059,8 @@
                                         "proicon": 215,
                                         "icon": 2,
                                         "SpeNameBonus": 55,
-                                        "title": "光明救赎者"
+                                        "title": "光明救赎者",
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 29,
@@ -2063,7 +2070,8 @@
                                         "proicon": 216,
                                         "icon": 2,
                                         "SpeNameBonus": 56,
-                                        "title": "毁灭者"
+                                        "title": "毁灭者",
+                                        "titleColor": "0xFFFFFF"
                                     },
                                     {
                                         "ID": 30,
@@ -10542,11 +10550,40 @@
                                         "title": "仙境漫游者",
                                         "Desc": "在【仙境奇缘】活动中集齐指定皮肤获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 21,
+                                        "Threshold": 21,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "proicon": 1283,
+                                        "SpeNameBonus": 447,
+                                        "title": "冰原战略家",
+                                        "Desc": "参与【冰原遭遇战】活动获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 152,
                                 "Type": 0,
                                 "Desc": "限定分类8"
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "proicon": 1282,
+                                        "SpeNameBonus": 446,
+                                        "title": "灰色爵刻",
+                                        "Desc": "完成【灰色爵刻】主线章节",
+                                        "titleColor": "0xFFFFFF"
+                                    }
+                                ],
+                                "ID": 154,
+                                "Type": 0,
+                                "Desc": "主线剧情成就"
                             }
                         ],
                         "ID": 44,
