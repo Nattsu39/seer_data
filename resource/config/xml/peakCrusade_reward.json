@@ -27,11 +27,21 @@
                         "restrictions": 21,
                         "exchangeId": 13956,
                         "monappend": "42337_36423_5973"
+                    },
+                    {
+                        "name": "冥霞",
+                        "itemID": 4482,
+                        "price": 600,
+                        "requireLv": 35,
+                        "forever": 123086,
+                        "restrictions": 23,
+                        "exchangeId": 13967,
+                        "monappend": "42341_36470_5985"
                     }
                 ],
                 "name": "专属精灵",
                 "id": 0,
-                "viewNum": 1
+                "viewNum": 2
             },
             {
                 "item": [
@@ -52,94 +62,23 @@
                         "forever": 123086,
                         "restrictions": 22,
                         "exchangeId": 13957
+                    },
+                    {
+                        "name": "3月巅峰精灵皮肤",
+                        "itemID": 0,
+                        "price": 600,
+                        "requireLv": 0,
+                        "forever": 123086,
+                        "restrictions": 24,
+                        "exchangeId": 13968
                     }
                 ],
                 "name": "精灵皮肤",
                 "id": 1,
-                "viewNum": 1
+                "viewNum": 2
             },
             {
                 "item": [
-                    {
-                        "name": "圣战之巅",
-                        "itemID": 41329,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9189
-                    },
-                    {
-                        "name": "圣战之绝",
-                        "itemID": 41330,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9190
-                    },
-                    {
-                        "name": "圣战之锋",
-                        "itemID": 41331,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9191
-                    },
-                    {
-                        "name": "圣战之舞",
-                        "itemID": 41332,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9192
-                    },
-                    {
-                        "name": "圣战之渊",
-                        "itemID": 41333,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9193
-                    },
-                    {
-                        "name": "圣战之鸿",
-                        "itemID": 41334,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9194
-                    },
-                    {
-                        "name": "圣战之界",
-                        "itemID": 41335,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9195
-                    },
-                    {
-                        "name": "圣战之阵",
-                        "itemID": 41336,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9196
-                    },
-                    {
-                        "name": "圣战之究极",
-                        "itemID": 41337,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9197
-                    },
-                    {
-                        "name": "圣战之无限",
-                        "itemID": 41338,
-                        "price": 750,
-                        "requireLv": 0,
-                        "restrictions": 0,
-                        "exchangeId": 9198
-                    },
                     {
                         "name": "圣战之巅α",
                         "itemID": 42310,
@@ -219,6 +158,86 @@
                         "requireLv": 0,
                         "restrictions": 0,
                         "exchangeId": 13936
+                    },
+                    {
+                        "name": "圣战之巅",
+                        "itemID": 41329,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9189
+                    },
+                    {
+                        "name": "圣战之绝",
+                        "itemID": 41330,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9190
+                    },
+                    {
+                        "name": "圣战之锋",
+                        "itemID": 41331,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9191
+                    },
+                    {
+                        "name": "圣战之舞",
+                        "itemID": 41332,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9192
+                    },
+                    {
+                        "name": "圣战之渊",
+                        "itemID": 41333,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9193
+                    },
+                    {
+                        "name": "圣战之鸿",
+                        "itemID": 41334,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9194
+                    },
+                    {
+                        "name": "圣战之界",
+                        "itemID": 41335,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9195
+                    },
+                    {
+                        "name": "圣战之阵",
+                        "itemID": 41336,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9196
+                    },
+                    {
+                        "name": "圣战之究极",
+                        "itemID": 41337,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9197
+                    },
+                    {
+                        "name": "圣战之无限",
+                        "itemID": 41338,
+                        "price": 750,
+                        "requireLv": 0,
+                        "restrictions": 0,
+                        "exchangeId": 9198
                     }
                 ],
                 "name": "最强刻印",
