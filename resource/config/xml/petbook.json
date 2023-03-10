@@ -1147,45 +1147,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4480,
-                        "ImageID": 4480,
+                        "ID": 4483,
+                        "ImageID": 4483,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1588;app/MonthlyPetInMarch2023Panel"
+                        "Go": "1599;app/SpetAiLongDeMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4481,
-                        "ImageID": 4481,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1598;app/SpetWeiGuoErMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4482,
-                        "ImageID": 4482,
-                        "Label": 0,
+                        "type": 1,
+                        "ID": 527,
+                        "MonID": 4482,
+                        "ImageID": 1400527,
+                        "Label": 1,
                         "Redirect": "map|module",
                         "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 525,
-                        "MonID": 4318,
-                        "ImageID": 1400525,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/HappyPrincessMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 526,
-                        "MonID": 3907,
-                        "ImageID": 1400526,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47062,6 +47037,16 @@
                 "Features": "2023年3月巅峰圣战精灵，巨手温柔的触摸，也足以让对手灰飞烟灭。",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4483,
+                "DefName": "艾隆德",
+                "Type": "冰 龙",
+                "Height": 1427,
+                "Weight": 19792,
+                "Features": "艾隆德原本是栖息在弗罗斯特南方的巨型生物，拥有锋利的尾刃和坚硬的皮肤，但不知从何时起，艾隆德的身上逐渐发生了奇怪的变化…",
+                "Redirect": "map|module",
+                "Go": "1599;app/SpetAiLongDeMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

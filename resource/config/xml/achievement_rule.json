@@ -6855,6 +6855,98 @@
                 "ID": 154,
                 "Type": 0,
                 "Desc": "主线剧情成就"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1000,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 5000,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 10000,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 15000,
+                        "AchievementPoint": 15
+                    },
+                    {
+                        "ID": 5,
+                        "Threshold": 20000,
+                        "AchievementPoint": 20,
+                        "SpeNameBonus": 448
+                    }
+                ],
+                "ID": 155,
+                "IsSingle": 1,
+                "Type": 1,
+                "Desc": "战斗力测试精灵PVP十回合平均伤害"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 5000,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 10000,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 20000,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 30000,
+                        "AchievementPoint": 15
+                    },
+                    {
+                        "ID": 5,
+                        "Threshold": 60000,
+                        "AchievementPoint": 20,
+                        "SpeNameBonus": 449
+                    }
+                ],
+                "ID": 156,
+                "IsSingle": 1,
+                "Type": 1,
+                "Desc": "战斗力测试精灵PVP致命一击总伤害"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 3,
+                        "AchievementPoint": 10
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 6,
+                        "AchievementPoint": 15
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 10,
+                        "AchievementPoint": 20,
+                        "SpeNameBonus": 450
+                    }
+                ],
+                "ID": 157,
+                "IsSingle": 1,
+                "Type": 1,
+                "Desc": "战斗力测试PVP达到五万战斗力的精灵数量"
             }
         ]
     }
