@@ -222,61 +222,6 @@
                 "ExCoinB": 6,
                 "Desc": "20230203 神谕进阶-惊涛海皇·波塞冬",
                 "StatID": 2302030100
-            },
-            {
-                "Advances": {
-                    "Race": {
-                        "OldRace": "149 130 106 70 104 126",
-                        "NewRace": "169 140 110 70 110 136"
-                    },
-                    "NewSe": {},
-                    "spMove": {
-                        "SpMoves": 28253
-                    },
-                    "exMove": {
-                        "ExtraMoves": 36483
-                    },
-                    "AdvEffect": {
-                        "Id": 1697,
-                        "Des": "自身使用攻击技能后，若造成的攻击伤害低于300则附加对手<font color='#FF7751'>最大体力</font>1/3的百分比伤害；\n回合开始时若对手处于异常状态则当回合自身造成的攻击伤害提升100%，若对手不处于异常状态则当回合自身<font color='#FF7751'>使用技能后</font>35%令对手害怕，<font color='#FF7751'>未触发则下回合自身攻击技能先制+1</font>\n（boss无效）"
-                    },
-                    "MonsterId": 3388
-                },
-                "Battle": {
-                    "Task": [
-                        {
-                            "ID": 1,
-                            "BossID": 1010015
-                        },
-                        {
-                            "ID": 2,
-                            "BossID": 1010016
-                        },
-                        {
-                            "ID": 3,
-                            "BossID": 1010017
-                        },
-                        {
-                            "ID": 4,
-                            "BossID": 1010018
-                        }
-                    ],
-                    "OutNum": "4_5_6",
-                    "OutPro": "150_550_300",
-                    "FreeBattleKey": 206190,
-                    "FreeBattleCnt": 5
-                },
-                "Exchange": {},
-                "QianDuan": {},
-                "ID": 4,
-                "TimeFlag": 1058,
-                "SubFreeKey": 7,
-                "SubCostKey": 8,
-                "AllProgress": 4,
-                "PerCostCoinA": 70,
-                "OutItemKey": 123603,
-                "ExCoinB": 4,
-                "Desc": "20230317 神谕进阶-昔兰尼加"
             }
         ],
         "BackMonsters": {}
