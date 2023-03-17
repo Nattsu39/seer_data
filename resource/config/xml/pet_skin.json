@@ -8675,9 +8675,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "乞怜之海·炼狱魔神",
-                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
-                "GoType": "map|module"
+                "Name": "乞怜之海·炼狱魔神"
             },
             {
                 "SkinKind": [
@@ -8696,6 +8694,41 @@
                 "Name": "幽色番长·冥霞",
                 "Go": 1095,
                 "GoType": "map"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 528,
+                "MonID": 4345,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "林间漫游·卡托娜",
+                "Go": "103;app/KatonaLegendKkinSalesMainPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 529,
+                "MonID": 3515,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Name": "奥兰",
+                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
+                "GoType": "map|module"
             }
         ]
     }

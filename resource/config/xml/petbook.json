@@ -1147,20 +1147,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4483,
-                        "ImageID": 4483,
+                        "ID": 4484,
+                        "ImageID": 4484,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1599;app/SpetAiLongDeMainPanel"
+                        "Go": "1600;app/SpetKaShaMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 527,
-                        "MonID": 4482,
-                        "ImageID": 1400527,
-                        "Label": 1,
+                        "ID": 528,
+                        "MonID": 4345,
+                        "ImageID": 1400528,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                        "Go": "103;app/KatonaLegendKkinSalesMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 529,
+                        "MonID": 3515,
+                        "ImageID": 1400529,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -7253,7 +7262,11 @@
             },
             {
                 "ID": 505,
-                "Food": "未知",
+                "DefName": "阿瑞斯",
+                "Type": "光 神秘",
+                "Height": 159,
+                "Weight": 120,
+                "Features": "第五星系的守护神兽，与青龙白虎朱雀玄武一样孤高绝世的存在，恶灵兽的终极克星！",
                 "mapID": 73
             },
             {
@@ -19319,15 +19332,6 @@
                 "Weight": 39,
                 "Features": "闪一闪急速奔跑的时候，时速可以达到10000米每秒，一切挡在它路上的障碍都要做好被撞飞的准备！",
                 "mapID": 71
-            },
-            {
-                "ID": 505,
-                "DefName": "麒麟",
-                "Type": "光 神秘",
-                "Height": 159,
-                "Weight": 120,
-                "Features": "第五星系的守护神兽，与青龙白虎朱雀玄武一样孤高绝世的存在，恶灵兽的终极克星！",
-                "mapID": 73
             },
             {
                 "ID": 1531,
@@ -47047,6 +47051,16 @@
                 "Features": "艾隆德原本是栖息在弗罗斯特南方的巨型生物，拥有锋利的尾刃和坚硬的皮肤，但不知从何时起，艾隆德的身上逐渐发生了奇怪的变化…",
                 "Redirect": "map|module",
                 "Go": "1599;app/SpetAiLongDeMainPanel"
+            },
+            {
+                "ID": 4484,
+                "DefName": "卡莎",
+                "Type": "火 电",
+                "Height": 152,
+                "Weight": 41,
+                "Features": "卡莎是奇镰村的村民，擅长使用弓箭进行狩猎，射出的弓箭附着上了火焰和雷电，可以让箭的威力和速度大大提升。",
+                "Redirect": "map|module",
+                "Go": "1600;app/SpetKaShaMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

@@ -148,7 +148,7 @@
                 "PetID": 3506,
                 "OldEffID": 1103,
                 "NewEffID": 2066,
-                "StatDes1": "0203神谕进阶-惊涛海皇·波塞冬",
+                "StatDes1": "0203神谕进阶·波塞冬",
                 "StatDes2": "2023运营活动"
             },
             {
@@ -166,7 +166,10 @@
                     }
                 },
                 "InfoPanel": {
-                    "PetIcon": {},
+                    "PetIcon": {
+                        "Offset": "-35_85",
+                        "Scale": 0.85
+                    },
                     "AdvEffect": {
                         "Id": 1697
                     }
@@ -181,6 +184,9 @@
                 },
                 "ID": 4,
                 "PetID": 3388,
+                "OldEffID": 987,
+                "NewEffID": 2084,
+                "Jump": "Villain1MainPanel",
                 "StatDes1": "0317神谕进阶·昔兰尼加",
                 "StatDes2": "2023运营活动"
             }

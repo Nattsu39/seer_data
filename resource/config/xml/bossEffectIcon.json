@@ -1,0 +1,114 @@
+{
+    "root": {
+        "bossEffect": [
+            {
+                "iconId": 0,
+                "Stat": 1,
+                "Eid": 1261,
+                "Args": "185 139 235",
+                "tips": "免疫异常状态和能力下降状态；所有技能必中且PP值无限",
+                "sort": 1,
+                "rows": 1
+            },
+            {
+                "iconId": 1,
+                "Stat": 1,
+                "Eid": 600,
+                "Args": "1 0",
+                "tips": "所有技能必定先手",
+                "sort": 1,
+                "rows": 1
+            },
+            {
+                "iconId": 2,
+                "Stat": 1,
+                "Eid": 390,
+                "Args": "1 2 2 2 2 2 2",
+                "tips": "每回合自身全属性+1",
+                "sort": 2,
+                "rows": 2
+            },
+            {
+                "iconId": 3,
+                "Stat": 1,
+                "Eid": 113,
+                "Args": "1 1 1 1 1 1",
+                "tips": "每回合对手全属性-1",
+                "sort": 2,
+                "rows": 2
+            },
+            {
+                "iconId": 4,
+                "Stat": 1,
+                "Eid": 792,
+                "Args": "1 0",
+                "tips": "免疫物理攻击伤害",
+                "sort": 2,
+                "rows": 2
+            },
+            {
+                "iconId": 4,
+                "Stat": 1,
+                "Eid": 792,
+                "Args": "2 0",
+                "tips": "免疫特殊攻击伤害",
+                "sort": 2,
+                "rows": 2
+            },
+            {
+                "iconId": 5,
+                "Stat": 1,
+                "Eid": 121,
+                "Args": "100 0",
+                "tips": "100%概率令对手属性技能失效",
+                "sort": 3,
+                "rows": 3
+            },
+            {
+                "iconId": 6,
+                "Stat": 1,
+                "Eid": 77,
+                "Args": "220 0",
+                "tips": "每回合附加220点固定伤害",
+                "sort": 2,
+                "rows": 2
+            },
+            {
+                "iconId": 6,
+                "Stat": 1,
+                "Eid": 77,
+                "Args": "300 0",
+                "tips": "每回合附加300点固定伤害",
+                "sort": 3,
+                "rows": 2
+            },
+            {
+                "iconId": 6,
+                "Stat": 1,
+                "Eid": 77,
+                "Args": "350 0",
+                "tips": "每回合附加350点固定伤害",
+                "sort": 1,
+                "rows": 3
+            },
+            {
+                "iconId": 6,
+                "Stat": 1,
+                "Eid": 77,
+                "Args": "500 0",
+                "tips": "每回合附加500点固定伤害",
+                "sort": 3,
+                "rows": 2
+            },
+            {
+                "iconId": 7,
+                "Stat": 1,
+                "Eid": 1634,
+                "Args": "100 90",
+                "tips": "若对手精灵等级低于100则自身受到的所有伤害降低90%",
+                "sort": 1,
+                "rows": 3
+            }
+        ]
+    }
+}
