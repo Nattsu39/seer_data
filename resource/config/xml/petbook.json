@@ -1147,29 +1147,35 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4484,
-                        "ImageID": 4484,
+                        "ID": 4485,
+                        "ImageID": 4485,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1600;app/SpetKaShaMainPanel"
+                        "Redirect": "module",
+                        "Go": "app/MainLineAdventureOverview"
                     },
                     {
-                        "type": 1,
-                        "ID": 528,
-                        "MonID": 4345,
-                        "ImageID": 1400528,
+                        "type": 0,
+                        "ID": 4486,
+                        "ImageID": 4486,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/KatonaLegendKkinSalesMainPanel"
+                        "Go": "103;app/VIPDiscountByArticle20230324MainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 529,
-                        "MonID": 3515,
-                        "ImageID": 1400529,
+                        "type": 0,
+                        "ID": 4487,
+                        "ImageID": 4487,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1601;app/SpetXiKeLuoMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4488,
+                        "ImageID": 4488,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1601
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47061,6 +47067,46 @@
                 "Features": "卡莎是奇镰村的村民，擅长使用弓箭进行狩猎，射出的弓箭附着上了火焰和雷电，可以让箭的威力和速度大大提升。",
                 "Redirect": "map|module",
                 "Go": "1600;app/SpetKaShaMainPanel"
+            },
+            {
+                "ID": 4485,
+                "DefName": "烛鬼",
+                "Type": "火 暗影",
+                "Height": 113,
+                "Weight": 36,
+                "Features": "烛鬼是生活在烛之山谷的神秘生物，时常在烛影树附近活动，一旦被它身上的鬼焰沾到了就很难扑灭，奇镰村的村民们称其为烛鬼的诅咒。",
+                "Redirect": "module",
+                "Go": "app/MainLineAdventureOverview"
+            },
+            {
+                "ID": 4486,
+                "DefName": "秘尔威缇",
+                "Type": "地面 战斗",
+                "Height": 164,
+                "Weight": 672,
+                "Features": "它既可庇护山川，保佑大地繁荣，也可崩山裂谷，使天地毁于一旦；它历经悠久的岁月，等待着宿命中的神祇，一同做出抉择。",
+                "Redirect": "map|module",
+                "Go": "103;app/VIPDiscountByArticle20230324MainPanel"
+            },
+            {
+                "ID": 4487,
+                "DefName": "希可洛",
+                "Type": "普通",
+                "Height": 187,
+                "Weight": 59,
+                "Features": "奇镰村的现任村长，老村长去世后，希可洛被调任到奇镰村担任村长，希可洛是商人出身，十分了解如何敛财，而他手中的金石之杖拥有特别的意识干扰能力。",
+                "Redirect": "map|module",
+                "Go": "1601;app/SpetXiKeLuoMainPanel"
+            },
+            {
+                "ID": 4488,
+                "DefName": "小镰",
+                "Type": "机械",
+                "Height": 143,
+                "Weight": 42,
+                "Features": "奇镰村的村民，手部的镰刃十分锋利，尾部的镰刀主要是用来保持平衡的，平常不太会使用。",
+                "Redirect": "map",
+                "Go": 1601
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
