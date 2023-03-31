@@ -131,14 +131,14 @@
             "PetID": "3311",
             "PetName": "圣光灵神(援)",
             "PetMove": "30469_30468_17908_30467_25339",
-            "PetNewse": "2951_3216_2533",
+            "PetNewse": "3286_3216_2533",
             "HP": 6375,
             "Atk": 1156,
             "Def": 321,
             "SP_Atk": 595,
             "SP_Def": 318,
             "Spd": 1105,
-            "title": "每回合结束时吸取对手1000HP_受到任何攻击都会反弹伤害给对方"
+            "title": "每回合结束时恢复自身最大体力的1/4并造成等量固定伤害_受到任何攻击都会反弹伤害给对方"
         },
         {
             "GoodsID": 8,
@@ -171,14 +171,14 @@
             "PetID": "4169",
             "PetName": "弑序神罗(援)",
             "PetMove": "34812_34809_34807_34808_27454",
-            "PetNewse": "3128_3643_5654",
+            "PetNewse": "3128_2936_5654",
             "HP": 2040,
             "Atk": 637,
             "Def": 401,
             "SP_Atk": 1317,
             "SP_Def": 401,
             "Spd": 1190,
-            "title": "免疫致命一击伤害_每回合随机吸取对手3项属性-2，并将该属性附加给自己"
+            "title": "免疫致命一击伤害_自身攻击有15%的几率造成10倍伤害"
         },
         {
             "GoodsID": 10,
@@ -218,7 +218,7 @@
             "SP_Atk": 1275,
             "SP_Def": 417,
             "Spd": 1190,
-            "title": "三相之力_自身体力每降低10%则造成的伤害提升100%"
+            "title": "神话之力_自身体力每降低10%则造成的伤害提升100%"
         },
         {
             "GoodsID": 12,
@@ -305,7 +305,7 @@
             "GoodsName": "悲悯神石",
             "GoodsType": 3,
             "GoodsPrice": 50,
-            "GoodsWeight": 10,
+            "GoodsWeight": 30,
             "GoodsBuffType": 0,
             "rewardinfo": "1_1724952_1",
             "PetID": "0",
@@ -325,7 +325,7 @@
             "GoodsName": "轮回神石",
             "GoodsType": 3,
             "GoodsPrice": 50,
-            "GoodsWeight": 20,
+            "GoodsWeight": 50,
             "GoodsBuffType": 0,
             "rewardinfo": "1_1706926_1",
             "PetID": "0",
@@ -384,8 +384,8 @@
             "GoodsID": 20,
             "GoodsName": "通用刻印激活水晶",
             "GoodsType": 3,
-            "GoodsPrice": 1,
-            "GoodsWeight": 1,
+            "GoodsPrice": 50,
+            "GoodsWeight": 10,
             "GoodsBuffType": 0,
             "rewardinfo": "1_300066_1",
             "PetID": "0",
@@ -405,7 +405,7 @@
             "GoodsName": "全能性格转化剂Ω",
             "GoodsType": 3,
             "GoodsPrice": 50,
-            "GoodsWeight": 10,
+            "GoodsWeight": 100,
             "GoodsBuffType": 0,
             "rewardinfo": "1_300136_1",
             "PetID": "0",

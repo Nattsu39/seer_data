@@ -1147,35 +1147,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4485,
-                        "ImageID": 4485,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/MainLineAdventureOverview"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4486,
-                        "ImageID": 4486,
+                        "ID": 4489,
+                        "ImageID": 4489,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/VIPDiscountByArticle20230324MainPanel"
+                        "Go": "1602;app/SpetPuLuXiuTuoMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4487,
-                        "ImageID": 4487,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1601;app/SpetXiKeLuoMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4488,
-                        "ImageID": 4488,
+                        "ID": 4490,
+                        "ImageID": 4490,
                         "Label": 0,
                         "Redirect": "map",
-                        "Go": 1601
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4491,
+                        "ImageID": 4491,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1588;app/MonthlyPetInApril2023Panel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 530,
+                        "MonID": 4186,
+                        "ImageID": 1400530,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ElvenWangMengSkinLimitedReturnMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 531,
+                        "MonID": 3355,
+                        "ImageID": 1400531,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47107,6 +47117,36 @@
                 "Features": "奇镰村的村民，手部的镰刃十分锋利，尾部的镰刀主要是用来保持平衡的，平常不太会使用。",
                 "Redirect": "map",
                 "Go": 1601
+            },
+            {
+                "ID": 4489,
+                "DefName": "普鲁修托",
+                "Type": "光暗影",
+                "Height": 183,
+                "Weight": 74,
+                "Features": "盟会的咒术长老，能够与往生的冥界进行沟通，他随身携带着名为“咒”的卷轴，卷轴中包含了众多强大的咒术，但释放这些咒术都需要进行一定时间的结咒。",
+                "Redirect": "map|module",
+                "Go": "1602;app/SpetPuLuXiuTuoMainPanel"
+            },
+            {
+                "ID": 4490,
+                "DefName": "凯丝",
+                "Type": "次元战斗",
+                "Height": 166,
+                "Weight": 51,
+                "Features": "2023年4月巅峰圣战精灵，卡娜的姐姐，与外热内冷的卡娜恰好相反，凯丝虽然外表高冷，但其实内心活动十分丰富，很喜欢天天跟妹妹黏在一起，这偶尔也会让卡娜感到困扰呢。",
+                "Redirect": "map",
+                "Go": 1095
+            },
+            {
+                "ID": 4491,
+                "DefName": "仙后·卡筱佩娅",
+                "Type": "圣灵神秘",
+                "Height": 173,
+                "Weight": 59,
+                "Features": "2023年4月包月精灵，十二星芒之一，仙后镇邪，星汉璀璨！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInApril2023Panel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

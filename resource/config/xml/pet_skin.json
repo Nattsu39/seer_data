@@ -8709,9 +8709,7 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "林间漫游·卡托娜",
-                "Go": "103;app/KatonaLegendKkinSalesMainPanel",
-                "GoType": "map|module"
+                "Name": "林间漫游·卡托娜"
             },
             {
                 "SkinKind": [
@@ -8726,7 +8724,41 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "奥兰",
+                "Name": "奥兰"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 530,
+                "MonID": 4186,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "萌龙少主",
+                "Go": "103;app/ElvenWangMengSkinLimitedReturnMainPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 531,
+                "MonID": 3355,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "云端少女",
                 "Go": "103;app/ExchangeDiamondRewardSystemPanel",
                 "GoType": "map|module"
             }
