@@ -12282,6 +12282,76 @@
                     "Title": "斯达莱斯",
                     "Redirect": "map|module",
                     "Go": "1603;app/SpetSiDaLaiSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2505,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230414,
+                    "End": "*",
+                    "Map": 1604,
+                    "Name": "无尽冰凌",
+                    "Title": "传承",
+                    "Redirect": "map|module",
+                    "Go": "1604;app/MainLineAdventureChapterPanel&&40006"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4493
+                    },
+                    "ID": 2506,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230414,
+                    "End": "*",
+                    "Map": 1604,
+                    "Name": "S-冰骷使者",
+                    "Title": "冰骷使者",
+                    "Redirect": "map|module",
+                    "Go": "1604;app/SpetBKShiZheMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4494
+                    },
+                    "ID": 2507,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230414,
+                    "End": "*",
+                    "Map": 1604,
+                    "Name": "S-嫉妒·哲利斯",
+                    "Title": "嫉妒·哲利斯",
+                    "Redirect": "map|module",
+                    "Go": "1604;app/SpetJDZeLiSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2511,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230414,
+                    "End": "*",
+                    "Map": 1604,
+                    "Name": "【支线任务】余温",
+                    "Title": "余温",
+                    "Redirect": "map|module",
+                    "Go": "1604;app/BranchLineTask0414MainPanel"
                 }
             ]
         },
@@ -41085,6 +41155,74 @@
                     "Title": "皮肤商城更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2475,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230317,
+                    "End": 20230421,
+                    "Map": 1427,
+                    "Name": "道具回收系统第五期",
+                    "Title": "道具回收系统第五期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2508,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230414,
+                    "End": 20230421,
+                    "Map": 103,
+                    "Name": "艾欧丽娅特性升级",
+                    "Title": "艾欧丽娅战力觉醒",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AoliaFeatureUpgradeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2509,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230414,
+                    "End": 20230421,
+                    "Map": 103,
+                    "Name": "罗开的折扣商店第6弹",
+                    "Title": "罗开的折扣商店",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20220722MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2510,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230414,
+                    "End": 20230421,
+                    "Map": 11897,
+                    "Name": "奇镰新生主题活动",
+                    "Title": "奇镰新生",
+                    "Redirect": "map|module",
+                    "Go": "1600;app/QiLianXinShengGoToMapMainPanel"
                 }
             ],
             "_text": [
@@ -41110,23 +41248,6 @@
                     "Title": "商城礼包更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2475,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230317,
-                    "End": 20230421,
-                    "Map": 1427,
-                    "Name": "道具回收系统第五期",
-                    "Title": "道具回收系统第五期",
-                    "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
                 },
                 {
                     "Details": {
@@ -41181,127 +41302,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2505,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230414,
-                    "End": "*",
-                    "Map": 1604,
-                    "Name": "无尽冰凌",
-                    "Title": "传承",
-                    "Redirect": "map|module",
-                    "Go": "1604;app/MainLineAdventureChapterPanel&&40006"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4493
-                    },
-                    "ID": 2506,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230414,
-                    "End": "*",
-                    "Map": 1604,
-                    "Name": "S-冰骷使者",
-                    "Title": "冰骷使者",
-                    "Redirect": "map|module",
-                    "Go": "1604;app/SpetBKShiZheMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4494
-                    },
-                    "ID": 2507,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230414,
-                    "End": "*",
-                    "Map": 1604,
-                    "Name": "S-嫉妒·哲利斯",
-                    "Title": "嫉妒·哲利斯",
-                    "Redirect": "map|module",
-                    "Go": "1604;app/SpetJDZeLiSiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2508,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230414,
-                    "End": 20230421,
-                    "Map": 103,
-                    "Name": "艾欧丽娅特性升级",
-                    "Title": "艾欧丽娅战力觉醒",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AoliaFeatureUpgradeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2509,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230414,
-                    "End": 20230421,
-                    "Map": 103,
-                    "Name": "罗开的折扣商店第6弹",
-                    "Title": "罗开的折扣商店",
-                    "Redirect": "map|module",
-                    "Go": "103;app/LuoKaiShop20220722MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2510,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230414,
-                    "End": 20230421,
-                    "Map": 11897,
-                    "Name": "奇镰新生主题活动",
-                    "Title": "奇镰新生",
-                    "Redirect": "map|module",
-                    "Go": "1600;app/QiLianXinShengGoToMapMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2511,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230414,
-                    "End": "*",
-                    "Map": 1604,
-                    "Name": "【支线任务】余温",
-                    "Title": "余温",
-                    "Redirect": "map|module",
-                    "Go": "1604;app/BranchLineTask0414MainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2512,
@@ -41321,6 +41321,143 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 2513,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230421,
+                    "End": "*",
+                    "Map": 1605,
+                    "Name": "绝境的试炼者",
+                    "Title": "太阳奇迹",
+                    "Redirect": "map|module",
+                    "Go": "1605;app/MainLineAdventureChapterPanel&&3017"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2514,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230421,
+                    "End": "*",
+                    "Map": 1605,
+                    "Name": "无尽冰凌",
+                    "Title": "寒意",
+                    "Redirect": "map|module",
+                    "Go": "1605;app/MainLineAdventureOverview&&4007"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2515,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230421,
+                    "End": 20230512,
+                    "Map": 103,
+                    "Name": "圣光传承 星月永耀",
+                    "Title": "天马行空 神驹再临",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3670"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2516,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230421,
+                    "End": 20230428,
+                    "Map": 103,
+                    "Name": "精灵抗性的新研究",
+                    "Title": "精灵抗性养成道具",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ResistanceItemShop"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2517,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230421,
+                    "End": 20240422,
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "特性生成晶片特惠礼包",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2518,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230421,
+                    "End": 20230526,
+                    "Map": 1427,
+                    "Name": "道具回收系统第六期",
+                    "Title": "道具回收系统第六期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2519,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230421,
+                    "End": 20230428,
+                    "Map": 11897,
+                    "Name": "繁春絮语时",
+                    "Title": "繁春絮语时",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/SpringTourWelfareMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4495
+                    },
+                    "ID": 2520,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230421,
+                    "End": "*",
+                    "Map": 1605,
+                    "Name": "S-彼尔德",
+                    "Title": "彼尔德",
+                    "Redirect": "map|module",
+                    "Go": "1605;app/SpetBiErDeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 2274,
                     "isNew": 1,
                     "kinds": 1,
@@ -41335,7 +41472,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2506,2507,2508,2509,2510"
+            "Important": "2515,2516,2517,2519,2520"
         }
     }
 }

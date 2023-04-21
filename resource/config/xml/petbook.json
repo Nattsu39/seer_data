@@ -1152,33 +1152,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4493,
-                        "ImageID": 4493,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1604;app/SpetBKShiZheMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4494,
-                        "ImageID": 4494,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1604;app/SpetJDZeLiSiMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 533,
-                        "MonID": 4012,
-                        "ImageID": 1400533,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4495,
+                    "ImageID": 4495,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1605;app/SpetBiErDeMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -47168,6 +47149,16 @@
                 "Features": "充盈的力量流入哲利斯的身体，即使躯壳与灵魂都属于她自己，她也已经没有了幻想驻足于过去的权力。",
                 "Redirect": "map|module",
                 "Go": "1604;app/SpetJDZeLiSiMainPanel"
+            },
+            {
+                "ID": 4495,
+                "DefName": "彼尔德",
+                "Type": "电 冰",
+                "Height": 184,
+                "Weight": 83,
+                "Features": "镇守凌天城的将领，在寒风沙场征战半生的老将，上阵时的果敢英勇与平日的和蔼可靠使他深受下属的爱戴。",
+                "Redirect": "map|module",
+                "Go": "1605;app/SpetBiErDeMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
