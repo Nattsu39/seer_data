@@ -2764,6 +2764,7 @@
                 ],
                 "ID": 79,
                 "IsSingle": 1,
+                "Type": 1,
                 "Desc": "自主派对"
             },
             {
@@ -3116,7 +3117,7 @@
                 },
                 "ID": 85,
                 "IsSingle": 1,
-                "Type": 5,
+                "Type": 3,
                 "Desc": "精灵王争霸赛（裂空)"
             },
             {
@@ -3394,7 +3395,7 @@
                     }
                 ],
                 "ID": 88,
-                "Type": 1,
+                "Type": 0,
                 "Desc": "师徒系统成就"
             },
             {
@@ -3420,34 +3421,6 @@
                 "IsSingle": 1,
                 "Type": 4,
                 "Desc": "训练师之门迷之门"
-            },
-            {
-                "Rule": [
-                    {
-                        "ID": 1,
-                        "Threshold": 5,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 2,
-                        "Threshold": 10,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 3,
-                        "Threshold": 30,
-                        "AchievementPoint": 15
-                    },
-                    {
-                        "ID": 4,
-                        "Threshold": 50,
-                        "AchievementPoint": 20
-                    }
-                ],
-                "ID": 90,
-                "IsSingle": 1,
-                "Type": 5,
-                "Desc": "玄武擂台(青龙擂台2)"
             },
             {
                 "Rule": [
@@ -3586,34 +3559,6 @@
                 "Rule": [
                     {
                         "ID": 1,
-                        "Threshold": 5,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 2,
-                        "Threshold": 10,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 3,
-                        "Threshold": 30,
-                        "AchievementPoint": 15
-                    },
-                    {
-                        "ID": 4,
-                        "Threshold": 50,
-                        "AchievementPoint": 20
-                    }
-                ],
-                "ID": 96,
-                "IsSingle": 1,
-                "Type": 5,
-                "Desc": "白虎擂台(青龙擂台3)"
-            },
-            {
-                "Rule": [
-                    {
-                        "ID": 1,
                         "Threshold": 1,
                         "AchievementPoint": 10
                     },
@@ -3668,40 +3613,6 @@
                 "IsSingle": 1,
                 "Type": 0,
                 "Desc": "精灵王之战之王者的历练"
-            },
-            {
-                "Rule": [
-                    {
-                        "ID": 1,
-                        "Threshold": 20,
-                        "AchievementPoint": 5
-                    },
-                    {
-                        "ID": 2,
-                        "Threshold": 50,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 3,
-                        "Threshold": 100,
-                        "AchievementPoint": 10
-                    },
-                    {
-                        "ID": 4,
-                        "Threshold": 500,
-                        "AchievementPoint": 15
-                    },
-                    {
-                        "ID": 5,
-                        "Threshold": 1000,
-                        "AchievementPoint": 20,
-                        "SpeNameBonus": 110
-                    }
-                ],
-                "ID": 98,
-                "IsSingle": 1,
-                "Type": 5,
-                "Desc": "领地争夺战 战胜对手"
             },
             {
                 "Rule": [
@@ -4231,7 +4142,7 @@
                     "Desc": "螺旋杯霸主"
                 },
                 "ID": 107,
-                "Type": 3,
+                "Type": 5,
                 "Desc": "精灵王争霸赛闭幕式"
             },
             {
@@ -4403,7 +4314,7 @@
                     "Desc": "战斗圣光斗士"
                 },
                 "ID": 112,
-                "Type": 3,
+                "Type": 0,
                 "Desc": "圣光精灵道馆"
             },
             {
@@ -4573,7 +4484,7 @@
                     }
                 ],
                 "ID": 118,
-                "Type": 4,
+                "Type": 3,
                 "Desc": "SPT勇者历险简单模式通关成就"
             },
             {
@@ -4598,7 +4509,7 @@
                     }
                 ],
                 "ID": 119,
-                "Type": 4,
+                "Type": 3,
                 "Desc": "SPT勇者历险困难模式通关成就"
             },
             {
@@ -4871,7 +4782,7 @@
                     "Desc": "雪峰之主"
                 },
                 "ID": 123,
-                "Type": 1,
+                "Type": 0,
                 "Desc": "决战雪峰之巅"
             },
             {
@@ -4962,7 +4873,7 @@
                     }
                 ],
                 "ID": 124,
-                "Type": 1,
+                "Type": 0,
                 "Desc": "职业任务 重建太空站"
             },
             {
@@ -4999,7 +4910,7 @@
                     }
                 ],
                 "ID": 125,
-                "Type": 1,
+                "Type": 0,
                 "Desc": "封神之路"
             },
             {
@@ -5242,7 +5153,7 @@
                     "Desc": "新手任务B----赛尔之星"
                 },
                 "ID": 127,
-                "IsSingle": 1,
+                "IsSingle": 0,
                 "Type": 1,
                 "Desc": "成长之路 -- 完成星际召集令的最终试炼"
             },
@@ -6225,7 +6136,7 @@
                     }
                 ],
                 "ID": 142,
-                "Type": 0,
+                "Type": 3,
                 "Desc": "SPT副本"
             },
             {
@@ -6237,7 +6148,7 @@
                     "Desc": "新新收藏家"
                 },
                 "ID": 143,
-                "Type": 0,
+                "Type": 1,
                 "Desc": "图鉴成就"
             },
             {
@@ -6640,7 +6551,7 @@
                 ],
                 "ID": 150,
                 "IsSingle": 1,
-                "Type": 2,
+                "Type": 1,
                 "Desc": "基地拜访点赞"
             },
             {
