@@ -1154,11 +1154,11 @@
             "item": {
                 "place": {
                     "type": 0,
-                    "ID": 4495,
-                    "ImageID": 4495,
+                    "ID": 4501,
+                    "ImageID": 4501,
                     "Label": 0,
                     "Redirect": "map|module",
-                    "Go": "1605;app/SpetBiErDeMainPanel"
+                    "Go": "1607;app/SpetPuDaGeErMainPanel"
                 },
                 "intro": "全新精灵上线，快来看看吧！"
             }
@@ -47159,6 +47159,56 @@
                 "Features": "镇守凌天城的将领，在寒风沙场征战半生的老将，上阵时的果敢英勇与平日的和蔼可靠使他深受下属的爱戴。",
                 "Redirect": "map|module",
                 "Go": "1605;app/SpetBiErDeMainPanel"
+            },
+            {
+                "ID": 4496,
+                "DefName": "箫澈",
+                "Type": "电 龙",
+                "Height": 164,
+                "Weight": 47,
+                "Features": "2023年5月巅峰圣战精灵，因故离家的少女“箫”，在逃难的路上意外闯入了深渊龙域，并在那里遇到了小龙“澈”。“喜欢我的箫声......么？”",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4497,
+                "DefName": "长蛇·海德拉",
+                "Type": "水 次元",
+                "Height": 186,
+                "Weight": 78,
+                "Features": "2023年5月包月精灵，十二星芒之一，长蛇绞命，星汉涟漪！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInMay2023Panel"
+            },
+            {
+                "ID": 4498,
+                "DefName": "天后·弗丽嘉",
+                "Type": "自然",
+                "Height": 172,
+                "Weight": 52,
+                "Features": "神域天后，掌管爱与丰收的女神，神明为保护万物生灵而存在，万物生灵为保护神明而诞生。",
+                "Redirect": "map|module",
+                "Go": "103;app/BuyDivaFriggaPanel"
+            },
+            {
+                "ID": 4499,
+                "DefName": "德布比特",
+                "Type": "圣灵 轮回",
+                "Height": 188,
+                "Weight": 81,
+                "Features": "盟会的神言长老，长久以来致力于研究宇宙的奥秘与真相，在盟会乃至整个费尤都拥有相当高的话语权。经历过费尤变迁的他面对未来发生的一切都格外谨慎…",
+                "Redirect": "map|module",
+                "Go": "1606;app/SpetDeBuBiTeMainPanel"
+            },
+            {
+                "ID": 4501,
+                "DefName": "普达戈尔",
+                "Type": "光 战斗",
+                "Height": 248,
+                "Weight": 137,
+                "Features": "普达吸收了修缘谷内的仙灵之气，使自身的身体膨胀成为巨大的怪兽——普达戈尔。一旦仙灵之气耗尽，普达戈尔又会变回原先的样子。",
+                "Redirect": "map|module",
+                "Go": "1607;app/SpetPuDaGeErMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
