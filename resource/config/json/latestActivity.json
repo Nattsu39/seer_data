@@ -5,18 +5,18 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2023_5_5 00:00:00",
+            "showStart": "2023_5_12 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:98}"
+            "goto": "2_151_{Design:99}"
         },
         {
             "id": 2,
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2023_5_5 00:00:00",
+            "showStart": "2023_5_12 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"3,18\"}"
+            "goto": "2_108_{openPanel:\"4,9\"}"
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "tag": 0,
             "showStart": "2023_5_5 00:00:00",
             "showEnd": "",
-            "goto": "2_144_{ panelName:\"MALL\" }"
+            "goto": "2_151_{Design:98}"
         },
         {
             "id": 4,
@@ -33,20 +33,29 @@
             "pic": 4,
             "tag": 0,
             "showStart": "2023_4_28 00:00:00",
-            "showEnd": "",
-            "goto": "2_151_{Design:97}"
+            "showEnd": "2023_5_26 00:00:00",
+            "goto": "2_144_{ panelName:\"MALL\" }"
         },
         {
             "id": 5,
             "type": 2,
-            "pic": 4501,
+            "pic": 4502,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:99}"
+        },
+        {
+            "id": 6,
+            "type": 2,
+            "pic": 4501,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:98}"
         },
         {
-            "id": 6,
+            "id": 7,
             "type": 2,
             "pic": 4499,
             "tag": 0,
@@ -55,7 +64,7 @@
             "goto": "2_151_{Design:97}"
         },
         {
-            "id": 7,
+            "id": 8,
             "type": 2,
             "pic": 4495,
             "tag": 0,
@@ -64,22 +73,13 @@
             "goto": "2_151_{Design:96}"
         },
         {
-            "id": 8,
+            "id": 9,
             "type": 2,
             "pic": 4494,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:95}"
-        },
-        {
-            "id": 9,
-            "type": 2,
-            "pic": 4493,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:94}"
         }
     ]
 }

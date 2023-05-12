@@ -12251,6 +12251,129 @@
                     "Title": "彼尔德",
                     "Redirect": "map|module",
                     "Go": "1605;app/SpetBiErDeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2521,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230428,
+                    "End": "*",
+                    "Map": 1606,
+                    "Name": "无尽冰凌",
+                    "Title": "盟会",
+                    "Redirect": "map|module",
+                    "Go": "1606;app/MainLineAdventureChapterPanel&&40008"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4499
+                    },
+                    "ID": 2522,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230428,
+                    "End": "*",
+                    "Map": 1606,
+                    "Name": "S-德布比特",
+                    "Title": "德布比特",
+                    "Redirect": "map|module",
+                    "Go": "1606;app/SpetDeBuBiTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4496
+                    },
+                    "ID": 2525,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230428,
+                    "End": 20230602,
+                    "Map": 1095,
+                    "Name": "2023年5月巅峰联赛",
+                    "Title": "箫澈",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4497
+                    },
+                    "ID": 2532,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230428,
+                    "End": 20230602,
+                    "Map": 1588,
+                    "Name": "5月包月精灵",
+                    "Title": "长蛇·海德拉",
+                    "Redirect": "module",
+                    "Go": "app/MonthlyPetInMay2023Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2534,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230505,
+                    "End": "*",
+                    "Map": 1607,
+                    "Name": "绝境的试炼者",
+                    "Title": "蔓延",
+                    "Redirect": "map|module",
+                    "Go": "1607;app/MainLineAdventureChapterPanel&&30018"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4501
+                    },
+                    "ID": 2535,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230505,
+                    "End": "*",
+                    "Map": 1607,
+                    "Name": "S-普达戈尔",
+                    "Title": "普达戈尔",
+                    "Redirect": "map|module",
+                    "Go": "1607;app/SpetPuDaGeErMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2536,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230505,
+                    "End": "*",
+                    "Map": 1607,
+                    "Name": "幽灯寻途",
+                    "Title": "净界",
+                    "Redirect": "map|module",
+                    "Go": "1607;app/MainLineAdventureChapterPanel&&50001"
                 }
             ]
         },
@@ -41360,31 +41483,6 @@
                     "Title": "极鳞魔兽",
                     "Redirect": "map|module",
                     "Go": "1397;app/JILinDevilWorldMonsterMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2497,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230401,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "契约召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
                 },
                 {
                     "Details": {
@@ -41422,75 +41520,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2517,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230421,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "特性生成晶片特惠礼包",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2518,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230421,
-                    "End": 20230526,
-                    "Map": 1427,
-                    "Name": "道具回收系统第六期",
-                    "Title": "道具回收系统第六期",
-                    "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2521,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230428,
-                    "End": "*",
-                    "Map": 1606,
-                    "Name": "无尽冰凌",
-                    "Title": "盟会",
-                    "Redirect": "map|module",
-                    "Go": "1606;app/MainLineAdventureChapterPanel&&40008"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4499
-                    },
-                    "ID": 2522,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230428,
-                    "End": "*",
-                    "Map": 1606,
-                    "Name": "S-德布比特",
-                    "Title": "德布比特",
-                    "Redirect": "map|module",
-                    "Go": "1606;app/SpetDeBuBiTeMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2523,
@@ -41505,41 +41534,6 @@
                     "Title": "盟会长老的对决",
                     "Redirect": "map|module",
                     "Go": "11897;app/LegionStruggleMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2524,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230428,
-                    "End": 20230505,
-                    "Map": 1095,
-                    "Name": "巅峰圣战奖励周",
-                    "Title": "巅峰圣战激励赛",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardWeekPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4496
-                    },
-                    "ID": 2525,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230428,
-                    "End": 20230602,
-                    "Map": 1095,
-                    "Name": "2023年5月巅峰联赛",
-                    "Title": "箫澈",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                 },
                 {
                     "Details": {
@@ -41629,41 +41623,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 3
-                    },
-                    "ID": 2531,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230428,
-                    "End": 20230526,
-                    "Map": 103,
-                    "Name": "圣殿英雄团更新（天启帝君）",
-                    "Title": "圣殿英雄团",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4497
-                    },
-                    "ID": 2532,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230428,
-                    "End": 20230602,
-                    "Map": 1588,
-                    "Name": "5月包月精灵",
-                    "Title": "长蛇·海德拉",
-                    "Redirect": "module",
-                    "Go": "app/MonthlyPetInMay2023Panel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2533,
@@ -41678,75 +41637,6 @@
                     "Title": "劳动光荣签到有礼",
                     "Redirect": "alarm",
                     "Go": "请前往《赛尔号巅峰之战》完成签到，领取劳动节好礼吧！"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2534,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230505,
-                    "End": "*",
-                    "Map": 1607,
-                    "Name": "绝境的试炼者",
-                    "Title": "蔓延",
-                    "Redirect": "map|module",
-                    "Go": "1607;app/MainLineAdventureChapterPanel&&30018"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4501
-                    },
-                    "ID": 2535,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230505,
-                    "End": "*",
-                    "Map": 1607,
-                    "Name": "S-普达戈尔",
-                    "Title": "普达戈尔",
-                    "Redirect": "map|module",
-                    "Go": "1607;app/SpetPuDaGeErMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2536,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230505,
-                    "End": "*",
-                    "Map": 1607,
-                    "Name": "幽灯寻途",
-                    "Title": "净界",
-                    "Redirect": "map|module",
-                    "Go": "1607;app/MainLineAdventureChapterPanel&&50001"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2537,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230505,
-                    "End": 20230602,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -41786,6 +41676,236 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 2524,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230428,
+                    "End": 20230505,
+                    "Map": 1095,
+                    "Name": "巅峰圣战奖励周",
+                    "Title": "巅峰圣战激励赛",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2497,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230401,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2517,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230421,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "特性生成晶片特惠礼包",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2518,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230421,
+                    "End": 20230526,
+                    "Map": 1427,
+                    "Name": "道具回收系统第六期",
+                    "Title": "道具回收系统第六期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 3
+                    },
+                    "ID": 2531,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230428,
+                    "End": 20230526,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新（天启帝君）",
+                    "Title": "圣殿英雄团",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2537,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230505,
+                    "End": 20230602,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2540,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230512,
+                    "End": "*",
+                    "Map": 1608,
+                    "Name": "无尽冰凌",
+                    "Title": "惊声",
+                    "Redirect": "map|module",
+                    "Go": "1608;app/MainLineAdventureChapterPanel&&40009"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2541,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230512,
+                    "End": 20230526,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2542,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230512,
+                    "End": 20230526,
+                    "Map": 1608,
+                    "Name": "闪光精灵PVP副本",
+                    "Title": "闪光精灵vs暗黑精灵",
+                    "Redirect": "map|module",
+                    "Go": "1608;app/FlashSpiritPvPCopyMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4502
+                    },
+                    "ID": 2543,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230512,
+                    "End": "*",
+                    "Map": 1608,
+                    "Name": "S-迹",
+                    "Title": "迹",
+                    "Redirect": "map|module",
+                    "Go": "1608;app/SpetJiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2544,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230512,
+                    "End": 20230519,
+                    "Map": 11897,
+                    "Name": "母亲节主题活动",
+                    "Title": "母亲节的七彩花",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/MothersDayThemeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2545,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230512,
+                    "End": 20230519,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2546,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230512,
+                    "End": "*",
+                    "Map": 1608,
+                    "Name": "深潜",
+                    "Title": "深潜",
+                    "Redirect": "map|module",
+                    "Go": "1608;app/BranchLineTask_0512"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 2274,
                     "isNew": 1,
                     "kinds": 1,
@@ -41800,7 +41920,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2522,2523,2527,2528,2529"
+            "Important": "2542,2543,2544,2545,2541"
         }
     }
 }
