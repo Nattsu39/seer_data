@@ -1211,29 +1211,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4502,
-                        "ImageID": 4502,
+                        "ID": 4503,
+                        "ImageID": 4503,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1608;app/SpetJiMainPanel"
+                        "Go": "1609;app/SpetKuTanMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4504,
+                        "ImageID": 4504,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/LaborDayThemeSpiritMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 537,
-                        "MonID": 4496,
-                        "ImageID": 1400537,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1095
-                    },
-                    {
-                        "type": 1,
-                        "ID": 538,
-                        "MonID": 3847,
-                        "ImageID": 1400538,
+                        "ID": 539,
+                        "MonID": 3670,
+                        "ImageID": 1400539,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/GoldenTianmaSkinMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47263,8 +47262,8 @@
                 "Height": 172,
                 "Weight": 52,
                 "Features": "神域天后，掌管爱与丰收的女神，神明为保护万物生灵而存在，万物生灵为保护神明而诞生。",
-                "Redirect": "map|module",
-                "Go": "103;app/BuyDivaFriggaPanel"
+                "Redirect": "map",
+                "Go": 103
             },
             {
                 "ID": 4499,
@@ -47295,6 +47294,26 @@
                 "Features": "在寒光堂出现的神秘少年，在他周围能感受到若隐若现的灵气，但这种灵气融在风中、化在烟里，一下子就没了踪迹。",
                 "Redirect": "map|module",
                 "Go": "1608;app/SpetJiMainPanel"
+            },
+            {
+                "ID": 4503,
+                "DefName": "库坦",
+                "Type": "暗影 战斗",
+                "Height": 237,
+                "Weight": 182,
+                "Features": "在凌天城的城门发生爆炸后出现的魁梧兽人，手持巨刃且力大无穷，他的出现预示着弗罗斯特暗藏的危机。",
+                "Redirect": "map|module",
+                "Go": "1609;app/SpetKuTanMainPanel"
+            },
+            {
+                "ID": 4504,
+                "DefName": "阿浣",
+                "Type": "地面 暗影",
+                "Height": 54,
+                "Weight": 32,
+                "Features": "阿浣是一只可爱的小浣熊，他会在初夏期间收集他最爱吃的坚果！",
+                "Redirect": "map|module",
+                "Go": "11897;app/LaborDayThemeSpiritMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

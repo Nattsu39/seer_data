@@ -111,9 +111,9 @@
                 "shownewseer": 0,
                 "priority": 5,
                 "exMapList": 50000,
-                "ui": "yongzhezhengcheng_icon",
-                "tips": "老兵回归福利",
-                "mouseClickFunc": "app/Backflow2023MainPanel"
+                "ui": "classicSeer_icon",
+                "tips": "赛尔怀旧服",
+                "mouseClickFunc": "map:333"
             },
             {
                 "direction": "right_side",
@@ -143,6 +143,15 @@
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
             },
             {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "Anniversary14thIcon",
+                "tips": "14周年庆主题站",
+                "mouseClickFunc": "app:SummaryOf14thAnniversaryFristMianPanel"
+            },
+            {
                 "direction": "right_side",
                 "shownewseer": 0,
                 "priority": 2,
@@ -154,11 +163,12 @@
             {
                 "direction": "right_side",
                 "shownewseer": 0,
-                "priority": 3,
+                "priority": 4,
                 "exMapList": 50000,
-                "ui": "classicSeer_icon",
-                "tips": "赛尔怀旧服",
-                "mouseClickFunc": "map:333"
+                "ui": "ReturnLogin_Icon",
+                "tips": "老兵回归福利",
+                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:seer2023retrun",
+                "mouseClickFunc": "app:Backflow2023MainPanel"
             }
         ]
     }

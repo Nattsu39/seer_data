@@ -597,7 +597,7 @@
         },
         {
             "id": 36,
-            "type": 5,
+            "type": 7,
             "name": "圣霆雷伊",
             "tag": "",
             "sort": 37,
@@ -2222,10 +2222,10 @@
             "moduleid": 151,
             "param": "{Design:99}",
             "statlog": "H5精灵因子关卡系统功能,迹,点击进入关卡",
-            "weekly": 1,
+            "weekly": 0,
             "quality": "s",
             "fightType": 1,
-            "weeklyAdd": 1
+            "weeklyAdd": 0
         },
         {
             "id": 132,
@@ -2506,8 +2506,8 @@
             "tag": "",
             "sort": 17,
             "difficult": 0,
-            "monsterid": "2833",
-            "image": "2833",
+            "monsterid": "2341",
+            "image": "2341",
             "moduleid": 0,
             "param": "",
             "statlog": "战神联盟关卡收藏夜魔之神布莱克",
@@ -2532,6 +2532,23 @@
             "quality": "",
             "fightType": 0,
             "weeklyAdd": 0
+        },
+        {
+            "id": 150,
+            "type": 6,
+            "name": "库坦",
+            "tag": "4_3_2",
+            "sort": 1069,
+            "difficult": 0,
+            "monsterid": "4503",
+            "image": "4503",
+            "moduleid": 151,
+            "param": "{Design:100}",
+            "statlog": "H5精灵因子关卡系统功能,库坦,点击进入关卡",
+            "weekly": 1,
+            "quality": "s",
+            "fightType": 1,
+            "weeklyAdd": 1
         }
     ]
 }
