@@ -1211,28 +1211,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4503,
-                        "ImageID": 4503,
+                        "ID": 4505,
+                        "ImageID": 4505,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1609;app/SpetKuTanMainPanel"
+                        "Go": "1610;app/SpeJieKeLaDeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4504,
-                        "ImageID": 4504,
+                        "ID": 4506,
+                        "ImageID": 4506,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/LaborDayThemeSpiritMainPanel"
+                        "Go": "11897;app/FuliCollectionPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 539,
-                        "MonID": 3670,
-                        "ImageID": 1400539,
+                        "ID": 540,
+                        "MonID": 3815,
+                        "ImageID": 1400540,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/GoldenTianmaSkinMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -27430,7 +27430,7 @@
             {
                 "ID": 2336,
                 "hasSound": 1,
-                "DefName": "波尔蒂加",
+                "DefName": "暗黑波斯蒂加",
                 "Type": "飞行 神秘",
                 "Height": 175,
                 "Weight": 52,
@@ -46852,8 +46852,7 @@
                 "Height": 95,
                 "Weight": 36,
                 "Features": "梅诺西的超进化形态，作为最后一位突破的祖系一族成员，超进化为梅诺西斯的她拥有了更为强劲的实力，对于星之利刃的造诣已经炉火纯青！",
-                "Redirect": "map|module",
-                "Go": "11897;app/NewYearsDayThemeMainS1Panel"
+                "Redirect": "map|module"
             },
             {
                 "ID": 4458,
@@ -47242,8 +47241,8 @@
                 "Height": 164,
                 "Weight": 47,
                 "Features": "2023年5月巅峰圣战精灵，因故离家的少女“箫”，在逃难的路上意外闯入了深渊龙域，并在那里遇到了小龙“澈”。“喜欢我的箫声......么？”",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4497,
@@ -47262,8 +47261,7 @@
                 "Height": 172,
                 "Weight": 52,
                 "Features": "神域天后，掌管爱与丰收的女神，神明为保护万物生灵而存在，万物生灵为保护神明而诞生。",
-                "Redirect": "map",
-                "Go": 103
+                "Redirect": "map"
             },
             {
                 "ID": 4499,
@@ -47302,7 +47300,7 @@
                 "Height": 237,
                 "Weight": 182,
                 "Features": "在凌天城的城门发生爆炸后出现的魁梧兽人，手持巨刃且力大无穷，他的出现预示着弗罗斯特暗藏的危机。",
-                "Redirect": "map|module",
+                "Redirect": "map",
                 "Go": "1609;app/SpetKuTanMainPanel"
             },
             {
@@ -47311,9 +47309,27 @@
                 "Type": "地面 暗影",
                 "Height": 54,
                 "Weight": 32,
-                "Features": "阿浣是一只可爱的小浣熊，他会在初夏期间收集他最爱吃的坚果！",
-                "Redirect": "map|module",
-                "Go": "11897;app/LaborDayThemeSpiritMainPanel"
+                "Features": "阿浣是一只可爱的小浣熊，他会在初夏期间收集他最爱吃的坚果！"
+            },
+            {
+                "ID": 4505,
+                "DefName": "婕克拉德",
+                "Type": "混沌 飞行",
+                "Height": 167,
+                "Weight": 62,
+                "Features": "婕克拉德，在库坦之后出现的又一敌人。当天空中飞翔的黑色阴影张开双翼时，她会将尖利的羽毛连通恐惧一同洒向大地。",
+                "Redirect": "map",
+                "Go": 1609
+            },
+            {
+                "ID": 4506,
+                "DefName": "卡洛兹",
+                "Type": "水 暗影",
+                "Height": 28,
+                "Weight": 24,
+                "Features": "马戏团中负责制作气球的卡洛兹，总是因为锋利的钳子而不小心弄破气球。因此，对于每个成功完成的作品他都会好好珍惜。",
+                "Redirect": "map",
+                "Go": 11897
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

@@ -12273,6 +12273,58 @@
                     "Title": "深潜",
                     "Redirect": "map|module",
                     "Go": "1608;app/BranchLineTask_0512"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2547,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230519,
+                    "End": "*",
+                    "Map": 1609,
+                    "Name": "绝境的试炼者",
+                    "Title": "交锋",
+                    "Redirect": "map|module",
+                    "Go": "1609;app/MainLineAdventureChapterPanel&&30019"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2548,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230519,
+                    "End": "*",
+                    "Map": 1609,
+                    "Name": "无尽冰凌",
+                    "Title": "动乱之始",
+                    "Redirect": "map|module",
+                    "Go": "1609;app/MainLineAdventureChapterPanel&&40010"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4503
+                    },
+                    "ID": 2549,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230519,
+                    "End": "*",
+                    "Map": 1609,
+                    "Name": "S-库坦",
+                    "Title": "库坦",
+                    "Redirect": "map|module",
+                    "Go": "1609;app/SpetKuTanMainPanel"
                 }
             ]
         },
@@ -41774,48 +41826,6 @@
                     "Title": "墨秋",
                     "Redirect": "map|module",
                     "Go": "1490;app/S87MoQiuMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2497,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230401,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "契约召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2517,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230421,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "特性生成晶片特惠礼包",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
                 },
                 {
                     "Details": {
@@ -41855,23 +41865,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2537,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230505,
-                    "End": 20230602,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2541,
                     "isNew": 1,
                     "kinds": 1,
@@ -41901,58 +41894,6 @@
                     "Title": "闪光精灵vs暗黑精灵",
                     "Redirect": "map|module",
                     "Go": "1608;app/FlashSpiritPvPCopyMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2547,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230519,
-                    "End": "*",
-                    "Map": 1609,
-                    "Name": "绝境的试炼者",
-                    "Title": "交锋",
-                    "Redirect": "map|module",
-                    "Go": "1609;app/MainLineAdventureChapterPanel&&30019"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2548,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230519,
-                    "End": "*",
-                    "Map": 1609,
-                    "Name": "无尽冰凌",
-                    "Title": "动乱之始",
-                    "Redirect": "map|module",
-                    "Go": "1609;app/MainLineAdventureChapterPanel&&40010"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4503
-                    },
-                    "ID": 2549,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230519,
-                    "End": "*",
-                    "Map": 1609,
-                    "Name": "S-库坦",
-                    "Title": "库坦",
-                    "Redirect": "map|module",
-                    "Go": "1609;app/SpetKuTanMainPanel"
                 },
                 {
                     "Details": {
@@ -42009,30 +41950,13 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2553,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230519,
-                    "End": 20230609,
-                    "Map": 103,
-                    "Name": "【双端】神谕进阶第6期-冥王·苍月影",
-                    "Title": "银歌夜舞 魅雪残霜",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AdvancedPetMainPanel_3507"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2554,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20230519,
-                    "End": 20230602,
+                    "End": 20230526,
                     "Map": 103,
                     "Name": "圣耀之光·黄金天马传说皮肤",
                     "Title": "未来接触 机甲神驹",
@@ -42056,6 +41980,203 @@
                     "Title": "阿浣",
                     "Redirect": "map|module",
                     "Go": "11897;app/ChuXiaOfJianGuoGoToMapMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2497,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230401,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2517,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230421,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "特性生成晶片特惠礼包",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2537,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230505,
+                    "End": 20230602,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2553,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230519,
+                    "End": 20230609,
+                    "Map": 103,
+                    "Name": "【双端】神谕进阶第6期-冥王·苍月影",
+                    "Title": "银歌夜舞 魅雪残霜",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3507"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2562,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230526,
+                    "End": "*",
+                    "Map": 1610,
+                    "Name": "无尽冰凌",
+                    "Title": "伤",
+                    "Redirect": "map|module",
+                    "Go": "1610;app/MainLineAdventureChapterPanel&&40011"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4505
+                    },
+                    "ID": 2563,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230526,
+                    "End": "*",
+                    "Map": 1610,
+                    "Name": "S-婕克拉德",
+                    "Title": "婕克拉德",
+                    "Redirect": "map|module",
+                    "Go": "1610;app/SpeJieKeLaDeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2564,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230526,
+                    "End": 20230602,
+                    "Map": 11897,
+                    "Name": "儿童节小游戏",
+                    "Title": "惊异马戏团",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/FuliCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2565,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230526,
+                    "End": 20230609,
+                    "Map": 103,
+                    "Name": "兌钻消费奖励系统更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2566,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230526,
+                    "End": 20230630,
+                    "Map": 1427,
+                    "Name": "道具回收系统",
+                    "Title": "能源研究站",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2567,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230526,
+                    "End": 20230623,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新（瀚宇星皇）",
+                    "Title": "圣殿英雄巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4506
+                    },
+                    "ID": 2568,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230526,
+                    "End": 20230602,
+                    "Map": 1610,
+                    "Name": "儿童节小游戏",
+                    "Title": "卡洛兹",
+                    "Redirect": "map|module",
+                    "Go": "1610;app/FuliCollectionPanel"
                 },
                 {
                     "Details": {
@@ -42067,7 +42188,7 @@
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20221014,
-                    "End": 20261021,
+                    "End": "*",
                     "Map": 1,
                     "Name": "星愿漂流瓶",
                     "Title": "星愿漂流瓶",
@@ -42075,7 +42196,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2542,2543,2544,2545,2541"
+            "Important": "2563,2564,2565,2566,2567"
         }
     }
 }
