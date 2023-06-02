@@ -12,7 +12,7 @@
                 "exMapList": 50000,
                 "ui": "markJackpot_icon",
                 "tips": "刻印之轮",
-                "mouseClickFunc": "app:MarkJackpotPermanentMainPanel"
+                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel"
             },
             {
                 "direction": "left",
@@ -150,6 +150,15 @@
                 "ui": "Anniversary14thIcon",
                 "tips": "14周年庆主题站",
                 "mouseClickFunc": "app:SummaryOf14thAnniversaryFristMianPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "FourteenAnniversaryIcon",
+                "tips": "周年庆典",
+                "mouseClickFunc": "app:FourteenAnniversaryMainPanel"
             },
             {
                 "direction": "right_side",

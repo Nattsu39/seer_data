@@ -1211,28 +1211,53 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4505,
-                        "ImageID": 4505,
+                        "ID": 4507,
+                        "ImageID": 4507,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1610;app/SpeJieKeLaDeMainPanel"
+                        "Go": "1614;app/SpetLaTuoAoMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4506,
-                        "ImageID": 4506,
+                        "ID": 4508,
+                        "ImageID": 4508,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/FuliCollectionPanel"
+                        "Go": "1588;app/MonthlyPetInJune2023Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4509,
+                        "ImageID": 4509,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1095
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4510,
+                        "ImageID": 4510,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1611;app/SpetWeiYueMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 540,
-                        "MonID": 3815,
-                        "ImageID": 1400540,
+                        "ID": 541,
+                        "MonID": 4510,
+                        "ImageID": 1400541,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1611;app/ShuiZhongYueSkillMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 542,
+                        "MonID": 4169,
+                        "ImageID": 1400542,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1611;app/LedaGodReturnsMianPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -39582,7 +39607,7 @@
                 "Type": "光 超能",
                 "Height": 170,
                 "Weight": 48,
-                "Features": "全新的巅峰圣战月度精灵——妙法！具有强大的白魔法之力，与魔琪同出一师！",
+                "Features": "2018年8月巅峰圣战精灵，具有强大的白魔法之力，与魔琪同出一师！",
                 "mapID": 1095
             },
             {
@@ -39754,7 +39779,7 @@
                 "Type": "神秘 超能",
                 "Height": 170,
                 "Weight": 50,
-                "Features": "全新的巅峰圣战月度精灵——魔琪！具有强大的黑魔法之力，与妙法同出一师！",
+                "Features": "2018年9月巅峰圣战精灵，具有强大的黑魔法之力，与妙法同出一师！",
                 "mapID": 1095
             },
             {
@@ -42452,9 +42477,7 @@
                 "Type": "水",
                 "Height": 900,
                 "Weight": 30,
-                "Features": "开学季限定萌宠，能文能武百事通晓。",
-                "Redirect": "module",
-                "Go": "app/SchoolThemeWizardOutput2019MainPanel"
+                "Features": "开学季限定萌宠，能文能武百事通晓。"
             },
             {
                 "ID": 4016,
@@ -45521,9 +45544,7 @@
                 "Type": "飞行",
                 "Height": 183,
                 "Weight": 61,
-                "Features": "2022年1月包月精灵，十二冠灵之一，负责掌控天空，长箭破穹，风华圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInJanuary2022Panel"
+                "Features": "2022年1月包月精灵，十二冠灵之一，负责掌控天空，长箭破穹，风华圣冕！"
             },
             {
                 "ID": 4323,
@@ -45581,9 +45602,7 @@
                 "Type": "火",
                 "Height": 174,
                 "Weight": 53,
-                "Features": "2022年2月包月精灵，十二冠灵之一，能够掌控火焰元素，落红烟起，剑随焰光！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInFebruary2022Panel"
+                "Features": "2022年2月包月精灵，十二冠灵之一，能够掌控火焰元素，落红烟起，剑随焰光！"
             },
             {
                 "ID": 4329,
@@ -45721,9 +45740,7 @@
                 "Type": "机械",
                 "Height": 169,
                 "Weight": 51,
-                "Features": "2022年3月包月精灵，十二冠灵之一，能够掌控机械元素，刀影照芙，钢核圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInMarch2022Panel"
+                "Features": "2022年3月包月精灵，十二冠灵之一，能够掌控机械元素，刀影照芙，钢核圣冕！"
             },
             {
                 "ID": 4343,
@@ -45821,9 +45838,7 @@
                 "Type": "水",
                 "Height": 149,
                 "Weight": 43,
-                "Features": "2022年4月包月精灵，十二冠灵之一，能够掌控水之元素，沧流唤灵，碧浪圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInApril2022Panel"
+                "Features": "2022年4月包月精灵，十二冠灵之一，能够掌控水之元素，沧流唤灵，碧浪圣冕！"
             },
             {
                 "ID": 4353,
@@ -45901,9 +45916,7 @@
                 "Type": "冰",
                 "Height": 176,
                 "Weight": 56,
-                "Features": "2022年5月包月精灵，十二冠灵之一，能够掌控冰之元素，银雪冽风，寒晶圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInMay2022Panel"
+                "Features": "2022年5月包月精灵，十二冠灵之一，能够掌控冰之元素，银雪冽风，寒晶圣冕！"
             },
             {
                 "ID": 4361,
@@ -46041,9 +46054,7 @@
                 "Type": "草",
                 "Height": 164,
                 "Weight": 48,
-                "Features": "2022年6月包月精灵，十二冠灵之一，能够掌控花之元素，绕藤穿叶，碧枝圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInJune2022Panel"
+                "Features": "2022年6月包月精灵，十二冠灵之一，能够掌控花之元素，绕藤穿叶，碧枝圣冕！"
             },
             {
                 "ID": 4375,
@@ -46191,9 +46202,7 @@
                 "Type": "地面",
                 "Height": 166,
                 "Weight": 51,
-                "Features": "2022年7月包月精灵，十二冠灵之一，能够掌控地之元素，青山不改，磐岩圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInJuly2022Panel"
+                "Features": "2022年7月包月精灵，十二冠灵之一，能够掌控地之元素，青山不改，磐岩圣冕！"
             },
             {
                 "ID": 4390,
@@ -46281,9 +46290,7 @@
                 "Type": "电",
                 "Height": 178,
                 "Weight": 57,
-                "Features": "2022年8月包月精灵，十二冠灵之一，能够掌控雷电元素，飞云掣电，奔雷圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInAugust2022Panel"
+                "Features": "2022年8月包月精灵，十二冠灵之一，能够掌控雷电元素，飞云掣电，奔雷圣冕！"
             },
             {
                 "ID": 4400,
@@ -46421,9 +46428,7 @@
                 "Type": "超能",
                 "Height": 162,
                 "Weight": 46,
-                "Features": "2022年9月包月精灵，十二冠灵之一，能够掌控超能元素，三相聚能，幻念圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInSeptember2022Panel"
+                "Features": "2022年9月包月精灵，十二冠灵之一，能够掌控超能元素，三相聚能，幻念圣冕！"
             },
             {
                 "ID": 4414,
@@ -46531,9 +46536,7 @@
                 "Type": "战斗",
                 "Height": 163,
                 "Weight": 48,
-                "Features": "2022年10月包月精灵，十二冠灵之一，能够掌控战斗元素，朝星光斩，极战圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInOctober2022Panel"
+                "Features": "2022年10月包月精灵，十二冠灵之一，能够掌控战斗元素，朝星光斩，极战圣冕！"
             },
             {
                 "ID": 4425,
@@ -46631,9 +46634,7 @@
                 "Type": "龙",
                 "Height": 157,
                 "Weight": 44,
-                "Features": "2022年11月包月精灵，十二冠灵之一，能够掌控龙之元素，凌姿炫舞，龙华圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInNovember2022Panel"
+                "Features": "2022年11月包月精灵，十二冠灵之一，能够掌控龙之元素，凌姿炫舞，龙华圣冕！"
             },
             {
                 "ID": 4435,
@@ -46741,9 +46742,7 @@
                 "Type": "虫",
                 "Height": 159,
                 "Weight": 46,
-                "Features": "2022年12月包月精灵，十二冠灵之一，能够掌控虫之元素，蜂花雪月，甘饴圣冕！",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInDecember2022Panel"
+                "Features": "2022年12月包月精灵，十二冠灵之一，能够掌控虫之元素，蜂花雪月，甘饴圣冕！"
             },
             {
                 "ID": 4447,
@@ -46843,7 +46842,7 @@
                 "Weight": 44,
                 "Features": "2023年1月包月精灵，十二星芒之一，天兔澄灵，星汉闪烁！",
                 "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInJanuary2023Panel"
+                "Go": "103;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4457,
@@ -47012,7 +47011,7 @@
                 "Weight": 57,
                 "Features": "2023年2月包月精灵，十二星芒之一，天龙碎骨，星汉呼啸！",
                 "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInFebruary2023Panel"
+                "Go": "103;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4474,
@@ -47082,7 +47081,7 @@
                 "Weight": 57,
                 "Features": "2023年3月包月精灵，十二星芒之一，牧夫锐矛，星汉挑扎！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInMarch2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4481,
@@ -47192,7 +47191,7 @@
                 "Weight": 59,
                 "Features": "2023年4月包月精灵，十二星芒之一，仙后镇邪，星汉璀璨！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInApril2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4492,
@@ -47252,7 +47251,7 @@
                 "Weight": 78,
                 "Features": "2023年5月包月精灵，十二星芒之一，长蛇绞命，星汉涟漪！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInMay2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4498,
@@ -47300,7 +47299,7 @@
                 "Height": 237,
                 "Weight": 182,
                 "Features": "在凌天城的城门发生爆炸后出现的魁梧兽人，手持巨刃且力大无穷，他的出现预示着弗罗斯特暗藏的危机。",
-                "Redirect": "map",
+                "Redirect": "map|module",
                 "Go": "1609;app/SpetKuTanMainPanel"
             },
             {
@@ -47318,8 +47317,8 @@
                 "Height": 167,
                 "Weight": 62,
                 "Features": "婕克拉德，在库坦之后出现的又一敌人。当天空中飞翔的黑色阴影张开双翼时，她会将尖利的羽毛连通恐惧一同洒向大地。",
-                "Redirect": "map",
-                "Go": 1609
+                "Redirect": "map|module",
+                "Go": "1610;app/SpeJieKeLaDeMainPanel"
             },
             {
                 "ID": 4506,
@@ -47327,9 +47326,47 @@
                 "Type": "水 暗影",
                 "Height": 28,
                 "Weight": 24,
-                "Features": "马戏团中负责制作气球的卡洛兹，总是因为锋利的钳子而不小心弄破气球。因此，对于每个成功完成的作品他都会好好珍惜。",
+                "Features": "马戏团中负责制作气球的卡洛兹，总是因为锋利的钳子而不小心弄破气球。因此，对于每个成功完成的作品他都会好好珍惜。"
+            },
+            {
+                "ID": 4507,
+                "DefName": "拉托奥",
+                "Type": "机械",
+                "Height": 172,
+                "Weight": 92,
+                "Features": "拉托奥是夕阳驿站的负责人，年事已高的他习惯坐在自己的机甲上进行工作。随着夕阳驿站的乘客越来越少，他也开始把时间花在捣鼓自己的机械设计上。",
+                "Redirect": "map|module",
+                "Go": "1614;app/SpetLaTuoAoMainPanel"
+            },
+            {
+                "ID": 4508,
+                "DefName": "巨爵·克雷特",
+                "Type": "远古 邪灵",
+                "Height": 184,
+                "Weight": 76,
+                "Features": "2023年6月包月精灵，十二星芒之一，巨爵擎天，星汉黯空！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInJune2023Panel"
+            },
+            {
+                "ID": 4509,
+                "DefName": "梅林",
+                "Type": "超能",
+                "Height": 166,
+                "Weight": 48,
+                "Features": "2023年6月巅峰圣战精灵，传说中的大魔法师，对于魔法的掌控已经出神入化，可以自由改变自己的性别与年龄。“你们两个小姑娘是来拜师的嘛？我是魔法祖师梅林，很高兴认识你们！”",
                 "Redirect": "map",
-                "Go": 11897
+                "Go": 1095
+            },
+            {
+                "ID": 4510,
+                "DefName": "卫岳",
+                "Type": "水 超能",
+                "Height": 168,
+                "Weight": 52,
+                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。",
+                "Redirect": "map|module",
+                "Go": "1611;app/SpetWeiYueMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
