@@ -68909,19 +68909,440 @@
                 "name": "20230512支线任务-深潜"
             },
             {
-                "item": {
-                    "dialog": {
-                        "index": 1,
-                        "npcName": "卡莎",
-                        "npcID": 4484,
-                        "dialogArr": "好耶！",
-                        "questionArr": "…"
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "个人舱室基础设施的升级方案和预算报表…传送仓老兵专属通道的联通坐标更新…调研报告什么的……最头疼了",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "嘿！小赛尔！还在头疼报告的事吗？",
+                                "questionArr": "派特博士很辛苦，我来分担一下！/烦死本长老了！"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "引导对话1-1"
                     },
-                    "id": 1,
-                    "name": "引导"
-                },
+                    {
+                        "dialog": {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "嗯，虽然有些头痛，但一想到派特博士为精灵伙伴们彻夜研究的模样，果然觉得应该分担一下吧",
+                            "questionArr": "…"
+                        },
+                        "id": 2,
+                        "name": "引导对话1-1-a"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "唉呀，派特博士要得很急，我本来都要拒绝的，可他给的实在太多了……啊我是说派特博士为赛尔号的精灵成长提供了巨大的支持，这点小忙我们义不容辞！",
+                            "questionArr": "…"
+                        },
+                        "id": 3,
+                        "name": "引导对话1-1-b"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "别看你小小只的，格局倒是很大的嘛",
+                                "questionArr": "嘿嘿，就当你在夸我了！/你等着！我这就穿上雷神之翼腰带！"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "你真可爱！说起来，报告的事情，我或许可以帮到你喔",
+                                "questionArr": "嗯嗯？/咦咦？"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "你知道的，我会梦到一些未来的事情，瓏域的，赛尔宇宙的，近日的梦总是浸在纷繁景象的碎片里。而昨夜——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "昨夜我恰好梦到了未来时间里，你们的“派特博士”手里恰好有一份研究报告——",
+                                "questionArr": "噢噢噢噢噢噢噢噢噢！！！/咿咿咿咿咿咿咿咿咿！！！"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "公主殿下！！救救孩子吧！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "咳咳！英勇的赛尔怎么可以不劳而获呢!",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "为了考验你的诚心！本公主现在正式向你颁布一道试炼！",
+                                "questionArr": "唔？"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "看到这三枚龙蛋了吗？从中挑选1颗，将它带在身边悉心照料，直到它孵化，就算你试炼成功，怎么样？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "小龙蛋！忽然想到了一位老朋友。放心吧，照顾小精灵，我可是很行！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "哦对了，悄悄告诉你，这些龙蛋都很有活力，挑选的时候不妨和它们0xff0000切磋0xffffff一下，0xff0000活力越强0xffffff的龙蛋，带给你的0xff0000惊喜越大0xffffff喔！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "引导对话1-2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "嗯~你很有眼光嘛！是我的话，也选这颗！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "接下来的事情就很简单啦，龙蛋会跟随在你身边，与你一同经历冒险！在这期间，0xff0000你每进行一场战斗，龙蛋的孵化进度都会增加。0xffffff",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "当然啦，本公主也是很乐意帮点小忙的~我的灵力可以帮你0xff0000更快地孵化龙蛋0xffffff，需要的话，就来找我吧！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "引导对话2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "哇！龙蛋发生了不得的变化！你看到了嘛！里面在动诶！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "加油！鼓劲儿！咱们成功在望啦！",
+                                "questionArr": "你不对劲！"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "明明是我的试炼，怎么感觉你比我还要兴奋！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "引导对话3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "啊……看起来已经完全成熟了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "这样晶莹的龙蛋，我还是第一次见……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "来吧，小赛尔，我们一起见证它的破壳蜕变。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "引导对话4"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "怎么会是……一些礼物？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "理解不能！我的核心芯片要短路啦！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "嘿嘿，竟然会变成这样！卫忠老师的发明真厉害！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "卫忠……老师？所以这根本就不是龙蛋吧喂！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "其实呢，前些日子卫忠老师发明了一种很神奇的宝物，叫做“0xff0000烦恼去去丸0xffffff”，外形看起来就像龙蛋一样，",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "使用者可以把自己的负面情绪和“烦恼去去丸”连接在一起，负面情绪越强烈，蛋的力量也越强大。直到这枚蛋孵化，不开心的情绪也就烟消云散啦~",
+                                "questionArr": "好随意的名字！/好神奇的宝物！"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "嗯哼，我也这么觉得。不过这个宝物还没经过太多验证，所以卫忠老师给我布置了个作业，让我对它进行一系列实验，并给他上交一份“实验报告”……",
+                                "questionArr": "瑞思拜！/真惨，和我一样"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "不过没想到龙蛋孵化出来的竟然会是些我用得着的好东西……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "一定是“烦恼去去丸”在与你朝夕相处的过程中感受到了你的愿望吧！",
+                                "questionArr": "要不还是叫它龙蛋吧……"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "那个……咳咳，还有多余的龙蛋吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "有的哦！你看起来很热情的样子，我真开心！",
+                                "questionArr": "请尽情拜托我！"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "这次远行，我只带了一包“龙蛋”，你已经孵化了其中一颗，剩下的……嗯，我数数……还有0xff0000七0xffffff颗！不过为了得到可靠的研究记录，我对它们进行了分组编号，",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "武心婵 ",
+                                "npcID": 4500,
+                                "dialogArr": "每次你都只能从其中的3枚龙蛋里挑选1颗开启孵化，同一时间也只能孵化1枚龙蛋。0xff0000完成1次孵化后，可以马上找我拿1枚新的龙蛋0xffffff，直到剩余的龙蛋全部孵化完，你觉得怎么样？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "交给我吧！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 8,
+                        "name": "引导对话5"
+                    }
+                ],
                 "activityID": 130,
-                "name": "预开发活动占位"
+                "name": "20230609龙蛋奇缘"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "欢迎来到擂台斗技场，这里经常人声鼎沸，为的就是看这一场激烈的比赛。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "不光光是台上的精彩战斗，台下的斗技较量也同样有看点！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "台下的斗技是什么？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "台下的斗技师们不光会使用能量和台下的勇士们缔结羁绊，还会使用各种招式强化或干扰台上的勇士，为的就是让和自己缔结羁绊的勇士获得胜利。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "外行人看打架，咱们这些内行人，当然还是要看斗技师的博弈了。那小赛尔，我现在就把斗技比赛的规则告诉你。这样你也可以去参加斗技啦~",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "这里展示的是斗技轮数，每个选手会依次行动，每个选手都执行一次行动后则视为一轮结束，比赛在第15轮之后会强制结束。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "这里是勇士的战力标识盘，初始最上方的1号勇士拥有0点战力，中间的2号勇士拥有1点战力，下方的3号勇士则拥有2点战力，在比赛中战力的变化都会展示在上面。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "每一次都会随机选出3位勇士参与比赛，每个勇士还有不一样的特性，需要好好了解才能掌控比赛哦。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "等下，为什么初始的勇士战力不一样啊？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 10,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "咳，那当然是有原因的，这个之后再和你解释。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 11,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "接着，就是斗技师在自己回合的操作了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 12,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "你可以选择使用招式（打出手牌）干扰场上的局势，也可以选择消耗羁绊能量和场上的勇士缔结羁绊。两个行动的时机都很重要，要注意把握！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 13,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "还有一点，当你觉得风向不对的时候，别忘了你也可以选择改变策略哦。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 14,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "顺带一提，你的行动次序与标记颜色都和台上的勇士没有关系！你可以支持任何一个勇士，并和他们缔结羁绊。这是新手斗技师常犯的错误。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 15,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "了解了，那怎么样才算获胜呢？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 16,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "当某个勇士到达15点战力或比赛进行了15轮之后，比赛就算结束了，拥有最高战斗力的勇士，根据其缔结羁绊的情况来决定胜者。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 17,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "原来如此，就是缔结羁绊等级最高的选手获胜！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 18,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "没错，还有一点要注意的是，同样等级羁绊的选手，则最先缔结羁绊的选手获胜。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 19,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "正所谓先来后到嘛~",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 20,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "还有一种情况比较特殊，那就是如果比赛结束有多个勇士获胜的话，按照编号，最小的勇士获得胜利。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 21,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "喔！这就是为什么1号勇士的初始战力比其他人低呀！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 22,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "就是这样，规则介绍的差不多了，你快去练练手吧！如果还没有足够把握的话，可以去看看【擂台图鉴】，那里有所有5个勇士的信息。",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "新手教程"
+                },
+                "activityID": 131,
+                "name": "20230609擂台斗技PVP"
             }
         ]
     }

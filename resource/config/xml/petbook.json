@@ -1211,53 +1211,167 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4507,
-                        "ImageID": 4507,
+                        "ID": 4500,
+                        "ImageID": 4500,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1614;app/SpetLaTuoAoMainPanel"
+                        "Go": "1612;app/SpetWuXinChanImproveMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4508,
-                        "ImageID": 4508,
+                        "ID": 4511,
+                        "ImageID": 4511,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1588;app/MonthlyPetInJune2023Panel"
+                        "Go": "1615;app/SpetBPDNanShuangMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4509,
-                        "ImageID": 4509,
+                        "ID": 4512,
+                        "ImageID": 4512,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1612
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4513,
+                        "ImageID": 4513,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1612
+                    },
+                    {
+                        "type": 1,
+                        "ID": 543,
+                        "MonID": 4509,
+                        "ImageID": 1400543,
                         "Label": 0,
                         "Redirect": "map",
                         "Go": 1095
                     },
                     {
-                        "type": 0,
-                        "ID": 4510,
-                        "ImageID": 4510,
+                        "type": 1,
+                        "ID": 544,
+                        "MonID": 4500,
+                        "ImageID": 1400544,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1611;app/SpetWeiYueMainPanel"
+                        "Go": "1612;app/SellPetSkin_CMDJ"
                     },
                     {
                         "type": 1,
-                        "ID": 541,
-                        "MonID": 4510,
-                        "ImageID": 1400541,
+                        "ID": 545,
+                        "MonID": 3809,
+                        "ImageID": 1400545,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1611;app/ShuiZhongYueSkillMainPanel"
+                        "Go": "1612;app/SellSeriesSkins_CangYinXingHai"
                     },
                     {
                         "type": 1,
-                        "ID": 542,
-                        "MonID": 4169,
-                        "ImageID": 1400542,
+                        "ID": 546,
+                        "MonID": 3022,
+                        "ImageID": 1400546,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1611;app/LedaGodReturnsMianPanel"
+                        "Go": "1612;app/SellSeriesSkins_CangYinXingHai"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 547,
+                        "MonID": 4327,
+                        "ImageID": 1400547,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1612;app/SellSeriesSkins_CangYinXingHai"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 548,
+                        "MonID": 3529,
+                        "ImageID": 1400548,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1612;app/SellSeriesSkins_CangYinXingHai"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 549,
+                        "MonID": 3699,
+                        "ImageID": 1400549,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1612;app/SellSeriesSkins_CangYinXingHai"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 550,
+                        "MonID": 3783,
+                        "ImageID": 1400550,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42353
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42354
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42355
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42356
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42357
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42358
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42359
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42360
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42361
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42362
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42363
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42364
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42365
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42366
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42367
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47367,6 +47481,46 @@
                 "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。",
                 "Redirect": "map|module",
                 "Go": "1611;app/SpetWeiYueMainPanel"
+            },
+            {
+                "ID": 4511,
+                "DefName": "不破帝·南霜",
+                "Type": "冰 暗影",
+                "Height": 174,
+                "Weight": 58,
+                "Features": "风雪乱山深，苍茫远归人。曦见凌天城，迟暮又相逢。无尽飘零的霜，从未倒下的王，将永远守护这片天地。",
+                "Redirect": "map|module",
+                "Go": "1615;app/SpetBPDNanShuangMainPanel"
+            },
+            {
+                "ID": 4500,
+                "DefName": "武心婵",
+                "Type": "圣灵 自然",
+                "Height": 166,
+                "Weight": 46,
+                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。",
+                "Redirect": "map|module",
+                "Go": "1612;app/SpetWuXinChanImproveMainPanel"
+            },
+            {
+                "ID": 4512,
+                "DefName": "采云",
+                "Type": "光",
+                "Height": 134,
+                "Weight": 33,
+                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。",
+                "Redirect": "map",
+                "Go": 1612
+            },
+            {
+                "ID": 4513,
+                "DefName": "采霞",
+                "Type": "光 神秘",
+                "Height": 136,
+                "Weight": 34,
+                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。",
+                "Redirect": "map",
+                "Go": 1612
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

@@ -33,6 +33,24 @@
                 "mouseClickFunc": "app:TempleHeroAltarPrePanel"
             },
             {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "Wishpet_icon",
+                "tips": "十四周年限定精灵心愿单",
+                "mouseClickFunc": "app:WishlistByPetMainPanel"
+            },
+            {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "clothesseer_icon",
+                "tips": "十四周年限定装扮心愿单",
+                "mouseClickFunc": "app:WishlistByEquipMainPanel"
+            },
+            {
                 "direction": "left_side",
                 "shownewseer": 0,
                 "priority": 1,
