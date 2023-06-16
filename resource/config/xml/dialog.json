@@ -38808,44 +38808,44 @@
                     "dialog": [
                         {
                             "index": 1,
-                            "npcName": "玖莉娜",
-                            "npcID": 4390,
-                            "dialogArr": "啊…粉色的文件，绿色的文件，编号为5的文件…？！",
+                            "npcName": "霍光",
+                            "npcID": 4515,
+                            "dialogArr": "这里就是擂台的武器库了，擂台上使用的武器就存放在这里。",
                             "questionArr": "…"
                         },
                         {
                             "index": 2,
                             "npcName": "小赛尔",
                             "npcID": 5545,
-                            "dialogArr": "玖莉娜姐姐，需要帮忙么？这里的文件好像有点乱。",
+                            "dialogArr": "这里的武器好像有点乱...",
                             "questionArr": "…"
                         },
                         {
                             "index": 3,
-                            "npcName": "玖莉娜",
-                            "npcID": 4390,
-                            "dialogArr": "我在进行文件梳理工作，但许多文件都收纳在仓库中没有归类。你能帮帮我么？",
+                            "npcName": "霍光",
+                            "npcID": 4515,
+                            "dialogArr": "因为是士兵们平时训练用的武器，所以都摆放在这里没有归类，要使用的话需要先整理一下这些武器，按照要求整理武器还可以获得奖励哦！",
                             "questionArr": "…"
                         },
                         {
                             "index": 4,
                             "npcName": "小赛尔",
                             "npcID": 5545,
-                            "dialogArr": "乐意效劳！",
+                            "dialogArr": "有奖励！...那需要怎么整理这些武器呢？",
                             "questionArr": "…"
                         },
                         {
                             "index": 5,
-                            "npcName": "玖莉娜",
-                            "npcID": 4390,
-                            "dialogArr": "上面的四个文件是准备提交的文件堆，让它们满足右边的梳理任务要求，就可以提交获得分数啦。",
+                            "npcName": "霍光",
+                            "npcID": 4515,
+                            "dialogArr": "上面的四个武器是准备提交的武器箱，让提交武器的元素种类和能量点数满足右边的整理任务要求，就可以提交获得分数了。",
                             "questionArr": "…"
                         },
                         {
                             "index": 6,
-                            "npcName": "玖莉娜",
-                            "npcID": 4390,
-                            "dialogArr": "交换文件和提交梳理任务都需要消耗次数，一定要在次数用完之前，提交尽量多的任务哦！",
+                            "npcName": "霍光",
+                            "npcID": 4515,
+                            "dialogArr": "交换武器和提交整理任务都需要消耗次数，一定要在次数用完之前，提交尽量多的任务哦！",
                             "questionArr": "…"
                         }
                     ],
@@ -38853,7 +38853,7 @@
                     "name": "规则引导"
                 },
                 "activityID": 77,
-                "name": "0708基站的文件梳理"
+                "name": "0708基站的文件梳理/20230616霍光的武器库"
             },
             {
                 "item": [
@@ -69343,6 +69343,713 @@
                 },
                 "activityID": 131,
                 "name": "20230609擂台斗技PVP"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "宇宙粒子干扰、白矮星辐射波、浮空维修单元返回的修理记录……咦？这个信号……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "检索宇宙讯息库记录，时间跨度：604800s，模式：模糊卷积，check。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "……嗯？真是奇怪",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "对话"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "在困扰着什么吗，爱丽丝？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "啊！是派特博士！还有这位是……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "爱丽丝好~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "这位赛尔的机械系精灵“派派”在进化上遇到了一些障碍，我初步排查了一下，是“派派”的核心代码和精灵转生仓的激活单元产生了严重冲突。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "嗯…精灵转生仓是很老旧的设备了，会有各种奇怪的问题倒也不奇怪…所以博士是来？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "我想来找一下精灵转生仓的“功能图纸”！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "不过“飞船设计图纸”属于绝密资料，申请本地访问的手续可着实叫人头痛，不如直接带着这位赛尔来你这里直接查阅了",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "没问题，不过可以稍微等一下吗？现在检索单元被占用了，我正在筛查一个奇怪的宇宙信号。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "哇！宇宙信号！来自外太空的神秘信息！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "哈哈，一看就是没有在资料室轮值过的小赛尔",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "这……是可以看出来的吗！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "其实，赛尔号每天都会收到上亿条来自宇宙各个角落的各种辐射信号，所以这对我们而言其实并不是什么值得激动的事情。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "那这些信号……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "这些冗杂的信号会被飞船“非通讯信息处理模组”进行多次复合筛选，最后汇总到我的终端，由我来判别是否值得留意的内容——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "——现在激动还太早啦！因为经筛讯息中的大部分还是没有实际价值的“假性讯息”，就像噪点在各种机缘巧合下组成的小调。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "啊……原来是这样……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "当然啦！它们会被我打上各种类别的标签，用于数据库的迭代学习，以提高今后的过滤精度和效率。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "喔，我好像听到小赛尔心碎的声音了。看起来，是有一条“特别”的信号，让爱丽丝你有些头痛？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "嗯，是的。我在处理初筛结果时发现了一个熟悉的信号，于是就把这条信息和宇宙讯息库中近一周的记录比对了一下——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "——我发现同样的信号在记录中反复出现，且出现频率随时间越来越高。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "只是早先由于目标信号并没有被数据库判断为有效信息，在自动化的“复合筛选”阶段就被过滤掉了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "而现在，我正在用检索单元在更广的时间范围上排查，想要定位它首次被接收到的准确时间。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "频繁……或许是求救信息也说不定，数据库对它的译解结果怎么样？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "我也这么认为。但很遗憾，译解失败了。如果这条信息真的有某个信息要传达的话，那它的加密方式也是赛尔号数据库中不存在的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "神秘的宇宙信号，加密的未知讯息……哈哈，我想到了一位老朋友，他或许能帮上你的忙。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "嗯，我也想到了",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "那么事不宜迟，我们现在就出发吧！小赛尔，要跟我们一起吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "嗯嗯？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝   ",
+                                "npcID": 5670,
+                                "dialogArr": "啊，稍等一下……让我设置一下检索完成通知提醒……再拷贝一份信号源的本地储存盘……好啦！我们出发吧！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "所以这是要去哪呀……等……等等我！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "对话"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "一段神秘的宇宙信号么……听起来很有意思！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔     ",
+                                "npcID": 5545,
+                                "dialogArr": "什么嘛！原来是要找肖恩博士……明明就隔着几个舱室，干嘛要说得好像要开启一场盛大的星际旅行啊喂！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝     ",
+                                "npcID": 5670,
+                                "dialogArr": "“喔！我好像听到派特博士心碎的声音了”",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士   ",
+                                "npcID": 5603,
+                                "dialogArr": "咳咳！怎么样肖恩，这就是那个神秘信号，拜托你来破译一下吧。（递出储存盘）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "译解系统启动，手动模式。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "嗯……已知数据库中没有匹配字段……未知语言语法解析失败……让我调整一下解析精度试试……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝     ",
+                                "npcID": 5670,
+                                "dialogArr": "怎么样，肖恩博士，有什么发现吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "目前还很难说，穷举检索失败并不意味着目标不可译，还需要进行深度译解才能有定论。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝     ",
+                                "npcID": 5670,
+                                "dialogArr": "深度译解？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "破译一段被加密的信息，或是一种未知语言，最难的不是列举每个符号或组合的可能性，而是需要一个“锚定物”。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔     ",
+                                "npcID": 5545,
+                                "dialogArr": "铆钉？是……在说我吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士   ",
+                                "npcID": 5603,
+                                "dialogArr": "……正是每位赛尔的存在才定义了我们的赛尔号，你这么理解好像也没问题！我赞成！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "派特你怎么也跟着胡闹……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "密文所传达的语义存在无数种可能，这些杂乱的丝线需要经由“锚定物”的收束，最终汇聚在代表发送者意图的那个唯一的“点”上。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝     ",
+                                "npcID": 5670,
+                                "dialogArr": "原来如此，所以我们才需要通过深度译解，在分析列举各种可能性的基础上，试图从信息的蛛丝马迹中逆向推定“发送者”所希望传达的那一个。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "完全正确。嗯……深度译解程序已经加载完毕了，不过……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "这项研究还在实验阶段，实际分析结果恐怕不会特别稳定，譬如我之前用来解析赫尔卡遗迹碑文，首次运行的解析结果竟然是“茜茜牌机油 买一送一”。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔     ",
+                                "npcID": 5545,
+                                "dialogArr": "还有这种好事？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士   ",
+                                "npcID": 5603,
+                                "dialogArr": "咳咳……新事物总是要尝试才能进步的嘛",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "说得没错！来尝试操作系统译解一下神秘信号吧，赛尔！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔     ",
+                                "npcID": 5545,
+                                "dialogArr": "啥？！我什么也不知道哇！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "别担心，深度译解系统的复杂性是内敛的，人机交互界面上做了非常直观的精简，就像翻翻乐一样！来试试吧，深度译解系统的第一次对外测试！",
+                                "questionArr": "好……"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "对话"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "嗯……？失败了？我连的好像没什么问题呀",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "数据整合方式正确……软件功能也正常……难道是硬件问题？让我检查一下……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "嗯，果然！这台计算机有几个晶体管坏了，应该就是这些损坏导致的数据处理结果异常",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士   ",
+                                "npcID": 5603,
+                                "dialogArr": "换台设备试试？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "恐怕不行，为了兼容译解系统，这台计算机的一些零件都是由茜茜特别定制的……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士   ",
+                                "npcID": 5603,
+                                "dialogArr": "所以……",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "对话"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "茜茜 ",
+                                "npcID": 5589,
+                                "dialogArr": "机械室好久没这么热闹过了，有什么事吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "听说茜茜你研制的高级机油正在打折促销？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜   ",
+                                "npcID": 5589,
+                                "dialogArr": "?",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士 ",
+                                "npcID": 5603,
+                                "dialogArr": "咳咳……茜茜别听他胡说，小赛尔刚刚体验了肖恩博士的新发明，有一些些亢奋——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "茜茜，上次找你特别定制的晶体管还有库存吗？实验遇到了些小意外，需要维修。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜       ",
+                                "npcID": 5589,
+                                "dialogArr": "稍等，我查询一下——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜       ",
+                                "npcID": 5589,
+                                "dialogArr": "啊，有的，库存一盒，应该足够你维修使用了。这是取用秘钥，去拿吧，还有————",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "茜茜       ",
+                                "npcID": 5589,
+                                "dialogArr": "购买机油请去火星港商城咨询罗开，本机械师概不提供！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": "对话"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "发明家肖恩 ",
+                            "npcID": 5675,
+                            "dialogArr": "这下应该没问题了！小赛尔，我们再来实验一次！",
+                            "questionArr": "好耶"
+                        },
+                        "id": 6,
+                        "name": "对话"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "刚刚这是……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士   ",
+                                "npcID": 5603,
+                                "dialogArr": "K13？ ……消失已久的K13星？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔     ",
+                                "npcID": 5545,
+                                "dialogArr": "K13星……蒂朵的星球！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩 ",
+                                "npcID": 5675,
+                                "dialogArr": "重复实验，自动模式，次数设定：1000，开始……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "…………",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "…………",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔       ",
+                                "npcID": 5545,
+                                "dialogArr": "…………",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩   ",
+                                "npcID": 5675,
+                                "dialogArr": "完成了……竟然是精确的解读结果！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "有什么问题吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩   ",
+                                "npcID": 5675,
+                                "dialogArr": "我刚刚运行自动化程序执行了1000次快速深度译解，出人意料的是，这些解读结果——竟然完全一致！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "一幅来自宇宙的神秘图像，上面清晰地标注了K13星，还有……蒂朵的涂鸦？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "难道……K13星重新出现了吗？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩   ",
+                                "npcID": 5675,
+                                "dialogArr": "我们能够定位信号的发射源吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "当然。资料室的信号接收单元有自追溯模块可以自动索寻信号的发射点坐标——",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "——那是一个距离我们遥远光年的地方，飞船的瞭望镜的确观测到有一颗没有记录在星图上的星星——这一切都对上了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "K13星的这则信号……是蒂朵发出的吗？是发给我们的吗？又意味着什么呢……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "这个距离已经超过了星球精确观测的最大距离，无法确认具体情况。看来，只能派遣一队赛尔探索先遣队前往勘察一番了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "那么，先遣队大概多久可以到达目的地呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "按照系统测算的距离，现在出发，顺利的话在秋天就能得到那颗星星的准确情况了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "这么远……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "发明家肖恩   ",
+                                "npcID": 5675,
+                                "dialogArr": "我们可以让先遣队携带折跃传送装置前往目标星球，这个设备负载很小，不会影响航速，这样在先遣队到达目的地后，我们也可以通过传送装置立即前往那里了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "探险家爱丽丝 ",
+                                "npcID": 5670,
+                                "dialogArr": "好，我这就去给罗杰船长打个报告，让先遣队尽快出发。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士     ",
+                                "npcID": 5603,
+                                "dialogArr": "关于K13星我也进行了一些研究，这些情报我也汇总给先遣队吧，希望他们一切顺利！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔       ",
+                                "npcID": 5545,
+                                "dialogArr": "那个……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特＆爱丽丝＆肖恩 ",
+                                "npcID": 5762,
+                                "dialogArr": "嗯？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔             ",
+                                "npcID": 5545,
+                                "dialogArr": "虽然我也很想和K13星的朋友重逢，不过你们是不是忘了什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "派特博士           ",
+                                "npcID": 5603,
+                                "dialogArr": "咦？忘记了什么吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔             ",
+                                "npcID": 5545,
+                                "dialogArr": "派派的进化障碍问题要怎么办啊！喂————！！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "对话"
+                    }
+                ],
+                "activityID": 132,
+                "name": "20230616来自K13星的信号"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "瓏域真有趣，我要去四处逛逛。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "来，先在周边看看吧，这里有一个涂鸦地图。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "什么是涂鸦地图？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "涂鸦地图，使用你手上的涂鸦卡，来打卡去过的地方，涂鸦可以相互覆盖，涂鸦的等级也会在覆盖后提升。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "当然，你可以通过覆盖自己的涂鸦来升级成金色涂鸦，这样你的涂鸦便无法被其他人覆盖了，不过这个涂鸦的等级也就没法提升了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "卫岳",
+                            "npcID": 4510,
+                            "dialogArr": "最后根据涂鸦规则来计算得分，得分最高的就是我们中的瓏域涂鸦冒险王！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "霍光",
+                            "npcID": 4515,
+                            "dialogArr": "哈哈哈有意思，末将就陪大伙儿一起玩乐一下罢。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "哼哼，这可难不倒我！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "武心婵",
+                            "npcID": 4500,
+                            "dialogArr": "远来是客，小赛尔。我们给你额外的第1个回合，你先开始吧！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "新手教程"
+                },
+                "activityID": 133,
+                "name": "20230616瓏域涂鸦冒险"
             }
         ]
     }
