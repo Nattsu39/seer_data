@@ -6812,13 +6812,22 @@
                 "Desc": "精灵碎片成就-地狱2"
             },
             {
-                "Rule": {
-                    "ID": 1,
-                    "Threshold": 1,
-                    "AchievementPoint": 10,
-                    "SpeNameBonus": 446,
-                    "Desc": "灰色爵刻"
-                },
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 446,
+                        "Desc": "灰色爵刻"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 459,
+                        "Desc": "瓏域探险家"
+                    }
+                ],
                 "ID": 154,
                 "Type": 0,
                 "Desc": "主线剧情成就"
