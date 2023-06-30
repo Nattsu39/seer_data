@@ -6015,7 +6015,8 @@
                 ],
                 "ID": 137,
                 "Type": 0,
-                "Desc": "新春盛典"
+                "Desc": "新春盛典",
+                "IsSingle": 1
             },
             {
                 "Rule": {
@@ -6826,6 +6827,13 @@
                         "AchievementPoint": 10,
                         "SpeNameBonus": 459,
                         "Desc": "瓏域探险家"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 460,
+                        "Desc": "绝境的试炼者"
                     }
                 ],
                 "ID": 154,

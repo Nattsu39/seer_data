@@ -176,6 +176,23 @@
                 "ID": 14,
                 "Type": 1,
                 "Kind": 1
+            },
+            {
+                "Head": {
+                    "ID": 41,
+                    "Count": 1,
+                    "type": 1,
+                    "Name": "H5专属头像：圣战·盖亚"
+                },
+                "HeadFrame": {
+                    "ID": 42,
+                    "Count": 1,
+                    "type": 2,
+                    "Name": "H5专属头像框：赛尔收藏家"
+                },
+                "ID": 15,
+                "Type": 1,
+                "Kind": 6
             }
         ],
         "Level": [
@@ -566,10 +583,47 @@
             },
             {
                 "ID": 56,
-                "ExpNeed": 999999,
+                "ExpNeed": 47000,
                 "RewardID": 1,
                 "UseValue": 107555,
                 "UseBit": 24
+            },
+            {
+                "ID": 57,
+                "ExpNeed": 48000,
+                "RewardID": 1,
+                "UseValue": 107555,
+                "UseBit": 25
+            },
+            {
+                "ID": 58,
+                "ExpNeed": 49000,
+                "RewardID": 1,
+                "UseValue": 107555,
+                "UseBit": 26
+            },
+            {
+                "ID": 59,
+                "ExpNeed": 50000,
+                "RewardID": 1,
+                "UseValue": 107555,
+                "UseBit": 27
+            },
+            {
+                "ID": 60,
+                "ExpNeed": 51000,
+                "RewardID": 15,
+                "UseValue": 107555,
+                "UseBit": 28,
+                "action": "alarm",
+                "actionValue": "已成功领取，请前往《赛尔号：巅峰之战》进行查看"
+            },
+            {
+                "ID": 61,
+                "ExpNeed": 999999,
+                "RewardID": 1,
+                "UseValue": 107555,
+                "UseBit": 29
             }
         ]
     }

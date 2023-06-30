@@ -1455,40 +1455,6 @@
                     "Details": {
                         "mc": 0,
                         "icon": 2,
-                        "monID": 3777
-                    },
-                    "ID": 335,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20181207,
-                    "End": "*",
-                    "Map": 1341,
-                    "Name": "尤尼卡完全体",
-                    "Title": "暗裔战狂·尤尼卡",
-                    "Redirect": "map|module",
-                    "Go": "1341;app/RonnieCompleteMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3778
-                    },
-                    "ID": 336,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20181207,
-                    "End": "*",
-                    "Map": 1341,
-                    "Name": "尤米娜完全体",
-                    "Title": "冰幽仙子·尤米娜",
-                    "Redirect": "map|module",
-                    "Go": "1341;app/UminaCompleteBodyMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
                         "monID": 3783
                     },
                     "ID": 345,
@@ -1588,23 +1554,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3803
-                    },
-                    "ID": 399,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20190118,
-                    "End": "*",
-                    "Map": 1348,
-                    "Name": "巨石灵王完全体",
-                    "Title": "天石灵皇·阿洛比斯",
-                    "Redirect": "map|module",
-                    "Go": "1348;app/GiantStoneSpiritKingMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1,
                         "Des": "购买月卡立即返钻！之后每天还能免费领取钻石！同时享受三大尊享特权！"
                     },
@@ -1635,23 +1584,6 @@
                     "Title": "葬生魔莲",
                     "Redirect": "map|module",
                     "Go": "1349;app/BurialLotusSuperMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3804
-                    },
-                    "ID": 410,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20190125,
-                    "End": "*",
-                    "Map": 1349,
-                    "Name": "帕罗狄亚完全体",
-                    "Title": "念力灵尊·帕罗狄亚",
-                    "Redirect": "map|module",
-                    "Go": "1349;app/PaluodiyaEvoMainPanel"
                 },
                 {
                     "Details": {
@@ -1906,40 +1838,6 @@
                     "Title": "泰坦源脉 保底奖励",
                     "Redirect": "map|module",
                     "Go": "1153;app/TitanVeinMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3839
-                    },
-                    "ID": 492,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20190322,
-                    "End": "*",
-                    "Map": 1361,
-                    "Name": "索格迪亚超进化",
-                    "Title": "索格瑞亚",
-                    "Redirect": "map|module",
-                    "Go": "1361;app/SogdiaSuperEvolutionMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3840
-                    },
-                    "ID": 493,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20190322,
-                    "End": "*",
-                    "Map": 1361,
-                    "Name": "战争恐魔超进化",
-                    "Title": "战争猎魔",
-                    "Redirect": "map|module",
-                    "Go": "1361;app/ZhanzhenkongmoEvoMainPanel"
                 },
                 {
                     "Details": {
@@ -12521,6 +12419,58 @@
                     "Title": "擂台决斗",
                     "Redirect": "map|module",
                     "Go": "1613;app/MainLineAdventureChapterPanel&&60003"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2605,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230623,
+                    "End": "*",
+                    "Map": 1617,
+                    "Name": "无尽冰凌",
+                    "Title": "邂逅学者",
+                    "Redirect": "map|module",
+                    "Go": "1617;app/MainLineAdventureChapterPanel&&40015"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4516
+                    },
+                    "ID": 2607,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230623,
+                    "End": "*",
+                    "Map": 1617,
+                    "Name": "好奇目光 活泼的猫咪学者",
+                    "Title": "帕妮丝",
+                    "Redirect": "map|module",
+                    "Go": "1617;app/SpetPaNiSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2611,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230623,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "功勋商店更新",
+                    "Title": "功勋商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
                 }
             ]
         },
@@ -42500,15 +42450,109 @@
                     "Title": "圣殿英雄巡回",
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPrePanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3804
+                    },
+                    "ID": 410,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20190125,
+                    "End": "*",
+                    "Map": 1349,
+                    "Name": "帕罗狄亚完全体",
+                    "Title": "念力灵尊·帕罗狄亚",
+                    "Redirect": "map|module",
+                    "Go": "1349;app/PaluodiyaEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3803
+                    },
+                    "ID": 399,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20190118,
+                    "End": "*",
+                    "Map": 1348,
+                    "Name": "巨石灵王完全体",
+                    "Title": "天石灵皇·阿洛比斯",
+                    "Redirect": "map|module",
+                    "Go": "1348;app/GiantStoneSpiritKingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3777
+                    },
+                    "ID": 335,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20181207,
+                    "End": "*",
+                    "Map": 1341,
+                    "Name": "尤尼卡完全体",
+                    "Title": "暗裔战狂·尤尼卡",
+                    "Redirect": "map|module",
+                    "Go": "1341;app/RonnieCompleteMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3778
+                    },
+                    "ID": 336,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20181207,
+                    "End": "*",
+                    "Map": 1341,
+                    "Name": "尤米娜完全体",
+                    "Title": "冰幽仙子·尤米娜",
+                    "Redirect": "map|module",
+                    "Go": "1341;app/UminaCompleteBodyMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3839
+                    },
+                    "ID": 492,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20190322,
+                    "End": "*",
+                    "Map": 1361,
+                    "Name": "索格迪亚超进化",
+                    "Title": "索格瑞亚",
+                    "Redirect": "map|module",
+                    "Go": "1361;app/SogdiaSuperEvolutionMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3840
+                    },
+                    "ID": 493,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20190322,
+                    "End": "*",
+                    "Map": 1361,
+                    "Name": "战争恐魔超进化",
+                    "Title": "战争猎魔",
+                    "Redirect": "map|module",
+                    "Go": "1361;app/ZhanzhenkongmoEvoMainPanel"
+                },
                 {
                     "Details": {
                         "mc": 2
@@ -42526,6 +42570,31 @@
                     "Redirect": "map|module",
                     "Go": "1427;app/PropRecoveryS1Panel"
                 },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2575,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230602,
+                    "End": 20230630,
+                    "Map": 103,
+                    "Name": "星河长明商店",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 1
@@ -42559,23 +42628,6 @@
                     "Title": "凶兽系列登场",
                     "Redirect": "map|module",
                     "Go": "103;app/MarkJackpotTimeLimitMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2575,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230602,
-                    "End": 20230630,
-                    "Map": 103,
-                    "Name": "星河长明商店",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -42904,23 +42956,6 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2605,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230623,
-                    "End": "*",
-                    "Map": 1617,
-                    "Name": "无尽冰凌",
-                    "Title": "邂逅学者",
-                    "Redirect": "map|module",
-                    "Go": "1617;app/MainLineAdventureChapterPanel&&40015"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
                     "ID": 2606,
                     "isNew": 1,
                     "kinds": 1,
@@ -42933,24 +42968,6 @@
                     "Title": "瓏啸苍天",
                     "Redirect": "map|module",
                     "Go": "1613;app/MainLineAdventureChapterPanel&&60004"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4516
-                    },
-                    "ID": 2607,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230623,
-                    "End": "*",
-                    "Map": 1617,
-                    "Name": "好奇目光 活泼的猫咪学者",
-                    "Title": "帕妮丝",
-                    "Redirect": "map|module",
-                    "Go": "1617;app/SpetPaNiSiMainPanel"
                 },
                 {
                     "Details": {
@@ -43007,23 +43024,6 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2611,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230623,
-                    "End": "*",
-                    "Map": 1147,
-                    "Name": "功勋商店更新",
-                    "Title": "功勋商店更新",
-                    "Redirect": "map|module",
-                    "Go": "1147;app/PveRewardMallMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
                     "ID": 2612,
                     "isNew": 1,
                     "kinds": 1,
@@ -43036,6 +43036,162 @@
                     "Title": "为远航献上祝福",
                     "Redirect": "map|module",
                     "Go": "1613;app/Anniversary14thCelebrationSpeechMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2613,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230630,
+                    "End": "*",
+                    "Map": 1618,
+                    "Name": "绝境的试炼者",
+                    "Title": "契约的力量",
+                    "Redirect": "map|module",
+                    "Go": "1618;app/MainLineAdventureChapterPanel&&30022"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2614,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230630,
+                    "End": "*",
+                    "Map": 1618,
+                    "Name": "无尽冰凌",
+                    "Title": "扩散",
+                    "Redirect": "map|module",
+                    "Go": "1618;app/MainLineAdventureChapterPanel&&40016"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4519
+                    },
+                    "ID": 2615,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230630,
+                    "End": "*",
+                    "Map": 1618,
+                    "Name": "S-里扎德",
+                    "Title": "里扎德",
+                    "Redirect": "map|module",
+                    "Go": "1618;app/SpetLiZhaDeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2616,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230630,
+                    "End": 20230804,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2617,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230630,
+                    "End": 20230721,
+                    "Map": 103,
+                    "Name": "【双端】神谕进阶第7期-枫眠",
+                    "Title": "巅峰战姬 枫眠突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3954"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4517
+                    },
+                    "ID": 2618,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230630,
+                    "End": 20230728,
+                    "Map": 1095,
+                    "Name": "7月巅峰联赛",
+                    "Title": "铃熙",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2619,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230630,
+                    "End": 20230714,
+                    "Map": 1618,
+                    "Name": "神庭破灭 环之起源",
+                    "Title": "神庭破灭 环之起源",
+                    "Redirect": "map|module",
+                    "Go": "1618;app/NewFormOfRingZeroMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4518
+                    },
+                    "ID": 2620,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230630,
+                    "End": 20230728,
+                    "Map": 1588,
+                    "Name": "7月包月精灵",
+                    "Title": "小熊·俄萨梅",
+                    "Redirect": "map|module",
+                    "Go": "1588;app/MonthlyPetInJuly2023Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2621,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230630,
+                    "End": 20230804,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统第八期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
                 },
                 {
                     "Details": {
@@ -43055,7 +43211,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2607,2608,2609,2610,2612"
+            "Important": "2615,2616,2617,2618,2619"
         }
     }
 }

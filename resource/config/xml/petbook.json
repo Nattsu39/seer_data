@@ -1219,20 +1219,35 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4516,
-                        "ImageID": 4516,
+                        "ID": 4517,
+                        "ImageID": 4517,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1617;app/SpetPaNiSiMainPanel"
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 553,
-                        "MonID": 3685,
-                        "ImageID": 1400553,
+                        "type": 0,
+                        "ID": 4518,
+                        "ImageID": 4518,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1588;app/MonthlyPetInJuly2023Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4519,
+                        "ImageID": 4519,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1618;app/SpetLiZhaDeMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4520,
+                        "ImageID": 4520,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1618
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47412,6 +47427,46 @@
                 "Features": "帕妮丝是一位活泼可爱的猫族学者，她从小就对古龙有着很大的兴趣。她常常会溜进凌天图书馆翻阅古籍，挖掘并学习古龙相关的知识。",
                 "Redirect": "map|module",
                 "Go": "1617;app/SpetPaNiSiMainPanel"
+            },
+            {
+                "ID": 4517,
+                "DefName": "铃熙",
+                "Type": "火 战斗",
+                "Height": 175,
+                "Weight": 56,
+                "Features": "2023年7月巅峰圣战精灵，右臂异化而成的长刀锋利无比，每当妖铃响起，就意味着又要有人焚陨于她的利刃之下。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4518,
+                "DefName": "小熊·俄萨梅",
+                "Type": "光 超能",
+                "Height": 153,
+                "Weight": 43,
+                "Features": "2023年7月包月精灵，十二星芒之一，小熊拥抱，星汉软绒！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInJuly2023Panel"
+            },
+            {
+                "ID": 4519,
+                "DefName": "里扎德",
+                "Type": "地面暗影",
+                "Height": 193,
+                "Weight": 88,
+                "Features": "里扎德是长河镇的首领，晶石侵袭了他的肉身，但他却化其为自己的力量，即使常年生活在惬意的长河边上，他的身手依然矫健。",
+                "Redirect": "map|module",
+                "Go": "1618;app/SpetLiZhaDeMainPanel"
+            },
+            {
+                "ID": 4520,
+                "DefName": "扎里里",
+                "Type": "地面",
+                "Height": 96,
+                "Weight": 30,
+                "Features": "扎里里是生活在长河镇的居民，他们经常会沿着水路运输货物，在里里维斯和弗罗斯特的边界进行贸易工作。",
+                "Redirect": "map",
+                "Go": 1618
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

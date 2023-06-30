@@ -427,9 +427,79 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 85,
                 "OutItemKey": 123605,
-                "ExCoinB": 6,
+                "ExCoinB": 5,
                 "Desc": "20230519 神谕进阶-冥王·苍月影",
                 "StatID": 2305190400
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "170 70 107 136 104 133",
+                        "NewRace": "170 70 112 136 112 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 3337,
+                        "NewSeId": 6022
+                    },
+                    "spMove": {
+                        "SpMoves": "28341 36669"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36670
+                    },
+                    "AdvEffect": {
+                        "Id": 1730,
+                        "Des": "回合开始时若对手处于能力提升状态则消除对手能力提升状态，消除成功则100%令对手烧伤，<font color='#FF7751'>未触发则消除对手回合类效果</font>；\n回合开始时若对手不处于能力提升状态则当回合自身攻击技能100%打出致命一击；\n回合结束时若双方任意一方处于异常状态则100%降低对手所有技能2点PP值且<font color='#FF7751'>恢复自身300点体力</font>\n（清PP效果自身体力为0时也可触发，所有特效boss无效）"
+                    },
+                    "MonsterId": 3954
+                },
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 4362,
+                            "BossID": 1010027,
+                            "Desc": "——多年未见，你的身体......怎么会变成这样......\n——别怕，或许战争改变了很多东西，但我依然还是曾经的那个松茑，我们的约定也依旧还在。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3842,
+                            "BossID": 1010028,
+                            "Desc": "——这些年来你姐姐一直不在身边，吃了很多苦吧......\n——没关系的！只要如今大家都能平平安安的，丝萝就心满意足啦！"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3673,
+                            "BossID": 1010029,
+                            "Desc": "——你是，大暗黑天的常长老？为什么你会出现在......"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4219,
+                            "BossID": 1010030,
+                            "Desc": "——姑娘你好，我是灵格星系守护者安卡，希望这份纯粹的圣灵与火之力能够帮到你！\n——好温暖的火焰，感觉浑身都充满了力量！"
+                        }
+                    ],
+                    "OutNum": "4_5_6",
+                    "OutPro": "150_550_300",
+                    "FreeBattleKey": 206190,
+                    "FreeBattleCnt": 5
+                },
+                "Exchange": {
+                    "ItemID": "1725352_1725353_1725354",
+                    "ProductID": "260237_260238_260239"
+                },
+                "QianDuan": {},
+                "ID": 7,
+                "TimeFlag": 1058,
+                "SubFreeKey": 13,
+                "SubCostKey": 14,
+                "AllProgress": 4,
+                "PerCostCoinA": 70,
+                "OutItemKey": 123606,
+                "ExCoinB": 4,
+                "Desc": "20230630 神谕进阶-枫眠",
+                "StatID": 2304230100
             }
         ],
         "BackMonsters": {}
