@@ -12,7 +12,7 @@
                 "exMapList": 50000,
                 "ui": "markJackpot_icon",
                 "tips": "刻印之轮",
-                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel"
+                "mouseClickFunc": "app:MarkJackpotPermanentMainPanel"
             },
             {
                 "direction": "left",
@@ -37,18 +37,9 @@
                 "shownewseer": 0,
                 "priority": 4,
                 "exMapList": 50000,
-                "ui": "Wishpet_icon",
-                "tips": "十四周年限定精灵心愿单",
-                "mouseClickFunc": "app:WishlistByPetMainPanel"
-            },
-            {
-                "direction": "left",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "clothesseer_icon",
-                "tips": "十四周年限定装扮心愿单",
-                "mouseClickFunc": "app:WishlistByEquipMainPanel"
+                "ui": "monthlycard",
+                "tips": "2023暑假尊享特权钻石月卡",
+                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel"
             },
             {
                 "direction": "left_side",
@@ -165,18 +156,9 @@
                 "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "Anniversary14thIcon",
-                "tips": "14周年庆主题站",
-                "mouseClickFunc": "app:SummaryOf14thAnniversaryFristMianPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
-                "ui": "FourteenAnniversaryIcon",
-                "tips": "周年庆典",
-                "mouseClickFunc": "app:FourteenAnniversaryMainPanel"
+                "ui": "monkey_icon",
+                "tips": "大闹天宫联动",
+                "mouseClickFunc": "app:HavocInHeavenGoToMapPanel"
             },
             {
                 "direction": "right_side",

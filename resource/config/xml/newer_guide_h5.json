@@ -729,6 +729,10 @@
                         "stat": "点击技能"
                     },
                     {
+                        "type": 9,
+                        "eventType": "petBag.PetInfoUpdate"
+                    },
+                    {
                         "type": 5,
                         "rect": "0,0,203,49",
                         "align": "left",
@@ -1723,6 +1727,10 @@
                         "stat": "点击确认分配T2"
                     },
                     {
+                        "type": 9,
+                        "eventType": "equipOn"
+                    },
+                    {
                         "type": 5,
                         "rect": "0,0,203,49",
                         "handOffSet": "22,14",
@@ -1872,18 +1880,22 @@
             {
                 "substep": [
                     {
-                        "type": 10,
-                        "eventType": "PAUSE_SHOW_ACHIEVE_NOTICE"
-                    },
-                    {
                         "type": 3,
                         "talkGroupId": 50
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "PAUSE_SHOW_ACHIEVE_NOTICE"
                     },
                     {
                         "type": 4,
                         "param": "41392:1:25",
                         "outputPanel": 131,
                         "stat": "打开输出08面板"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "RESUME_SHOW_ACHIEVE_NOTICE"
                     }
                 ],
                 "step": 25,
@@ -1898,10 +1910,18 @@
                         "talkGroupId": 51
                     },
                     {
+                        "type": 10,
+                        "eventType": "PAUSE_SHOW_ACHIEVE_NOTICE"
+                    },
+                    {
                         "type": 4,
                         "param": "41392:1:26",
                         "outputPanel": 132,
                         "stat": "打开输出09面板"
+                    },
+                    {
+                        "type": 10,
+                        "eventType": "RESUME_SHOW_ACHIEVE_NOTICE"
                     }
                 ],
                 "step": 26,
