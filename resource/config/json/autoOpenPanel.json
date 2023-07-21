@@ -82,7 +82,7 @@
             "moduleId": 142,
             "actionName": "新手七日礼",
             "controller": "AutoOpenNewSeerSignController",
-            "state": 0,
+            "state": 1,
             "param1": "120200,120204,120208",
             "param2": "",
             "startTime": "",
@@ -232,15 +232,15 @@
             "endTime": "2023/7/7"
         },
         {
-            "id": 8,
-            "moduleId": 142,
-            "actionName": "新手七日礼",
-            "controller": "AutoOpenNewSeerSignController",
+            "id": 22,
+            "moduleId": 250,
+            "actionName": "暑假签到",
+            "controller": "AutoOpenSummerSignController",
             "state": 1,
-            "param1": "120200,120204,120208",
+            "param1": "201441,121531",
             "param2": "",
-            "startTime": "",
-            "endTime": ""
+            "startTime": "2023/7/21",
+            "endTime": "2023/8/25"
         }
     ]
 }

@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2023_7_14 00:00:00",
+            "showStart": "2023_7_21 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:110}",
+            "goto": "2_151_{Design:111}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2023_7_14 00:00:00",
+            "showStart": "2023_7_21 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"3,23\"}",
+            "goto": "2_108_{openPanel:\"4,19\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2023_7_14 00:00:00",
-            "showEnd": "",
-            "goto": "2_108_{openPanel:\"4,18\"}",
+            "showStart": "2023_7_21 00:00:00",
+            "showEnd": "2023_8_25 00:00:00",
+            "goto": "2_250",
             "page": 1
         },
         {
@@ -35,9 +35,9 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2023_7_7 00:00:00",
+            "showStart": "2023_7_21 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:109}",
+            "goto": "2_151_{Design:110}",
             "page": 1
         },
         {
@@ -203,15 +203,25 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4523,
+            "pic": 4528,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:111}",
+            "page": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "pic": 4523,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:110}",
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4521,
             "tag": 0,
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 23,
+            "id": 24,
             "type": 2,
             "pic": 4519,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 24,
+            "id": 25,
             "type": 2,
             "pic": 4516,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:107}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4514,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:106}",
             "page": 0
         }
     ]

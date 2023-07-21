@@ -900,23 +900,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3698
-                    },
-                    "ID": 123,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20180727,
-                    "End": "*",
-                    "Map": 1311,
-                    "Name": "阿米尔完全体",
-                    "Title": "至善之心·阿米尔",
-                    "Redirect": "map|module",
-                    "Go": "1311;app/AmierCompleteMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1,
                         "Des": "了解巅峰全新赛季，展开你的征战之旅吧！"
                     },
@@ -968,40 +951,6 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "icon": 2,
-                        "monID": 3705
-                    },
-                    "ID": 148,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20180810,
-                    "End": "*",
-                    "Map": 1314,
-                    "Name": "艾里克超进化",
-                    "Title": "守护者 艾里克",
-                    "Redirect": "map|module",
-                    "Go": "1314;app/EricSuperEvoMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3704
-                    },
-                    "ID": 149,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20180810,
-                    "End": "*",
-                    "Map": 1314,
-                    "Name": "吉罗德完全体",
-                    "Title": "狂热之诚·吉罗德",
-                    "Redirect": "map|module",
-                    "Go": "1314;app/JiluodeEvoMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
                         "icon": 3,
                         "monID": 3711
                     },
@@ -1015,23 +964,6 @@
                     "Title": "圣灵之佑 圣光莫妮卡",
                     "Redirect": "map|module",
                     "Go": "1315;app/NaturalKingHolySpriteMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3709
-                    },
-                    "ID": 160,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20180817,
-                    "End": "*",
-                    "Map": 1315,
-                    "Name": "斯内普完全体",
-                    "Title": "寒光之哀·斯内普",
-                    "Redirect": "map|module",
-                    "Go": "1315;app/PuneisiEvoMainPanel"
                 },
                 {
                     "Details": {
@@ -1927,23 +1859,6 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "icon": 2,
-                        "monID": 3880
-                    },
-                    "ID": 585,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20190531,
-                    "End": "*",
-                    "Map": 1375,
-                    "Name": "伽玛千花",
-                    "Title": "伽玛·千花",
-                    "Redirect": "map|module",
-                    "Go": "1375;app/GamaQianhuaMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
                         "icon": 3,
                         "monID": 3886
                     },
@@ -2646,23 +2561,6 @@
                     "Title": "兵临城下",
                     "Redirect": "map|module",
                     "Go": "1406;app/MainLineTask_3327"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "icon": 2,
-                        "monID": 3966
-                    },
-                    "ID": 813,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20191122,
-                    "End": "*",
-                    "Map": 1408,
-                    "Name": "s7懒惰之神超进化",
-                    "Title": "懒惰·斯洛斯",
-                    "Redirect": "map|module",
-                    "Go": "1408;app/S7LazyGodSuperEvoMainPanel"
                 },
                 {
                     "Details": {
@@ -12612,6 +12510,58 @@
                     "Title": "暴雨过后",
                     "Redirect": "map|module",
                     "Go": "1619;app/MainLineAdventureChapterPanel&&40017"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2632,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230714,
+                    "End": "*",
+                    "Map": 1623,
+                    "Name": "绝境的试炼者",
+                    "Title": "绝命之斗",
+                    "Redirect": "map|module",
+                    "Go": "1623;app/MainLineAdventureChapterPanel&&30023"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2633,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230714,
+                    "End": "*",
+                    "Map": 1623,
+                    "Name": "无尽冰凌",
+                    "Title": "龙缘巧遇",
+                    "Redirect": "map|module",
+                    "Go": "1623;app/MainLineAdventureChapterPanel&&40018"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4523
+                    },
+                    "ID": 2634,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230714,
+                    "End": "*",
+                    "Map": 1623,
+                    "Name": "醇香龙韵 咖啡烘焙师",
+                    "Title": "科德布鲁",
+                    "Redirect": "map|module",
+                    "Go": "1623;app/SpetKeDeBuLuMainPanel"
                 }
             ]
         },
@@ -43203,15 +43153,109 @@
                     "Title": "河岸边的种植园",
                     "Redirect": "map|module",
                     "Go": "1618;app/FireworkSF_NewMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3698
+                    },
+                    "ID": 123,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20180727,
+                    "End": "*",
+                    "Map": 1311,
+                    "Name": "阿米尔完全体",
+                    "Title": "至善之心·阿米尔",
+                    "Redirect": "map|module",
+                    "Go": "1311;app/AmierCompleteMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3705
+                    },
+                    "ID": 148,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20180810,
+                    "End": "*",
+                    "Map": 1314,
+                    "Name": "艾里克超进化",
+                    "Title": "守护者 艾里克",
+                    "Redirect": "map|module",
+                    "Go": "1314;app/EricSuperEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3704
+                    },
+                    "ID": 149,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20180810,
+                    "End": "*",
+                    "Map": 1314,
+                    "Name": "吉罗德完全体",
+                    "Title": "狂热之诚·吉罗德",
+                    "Redirect": "map|module",
+                    "Go": "1314;app/JiluodeEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3709
+                    },
+                    "ID": 160,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20180817,
+                    "End": "*",
+                    "Map": 1315,
+                    "Name": "斯内普完全体",
+                    "Title": "寒光之哀·斯内普",
+                    "Redirect": "map|module",
+                    "Go": "1315;app/PuneisiEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3966
+                    },
+                    "ID": 813,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20191122,
+                    "End": "*",
+                    "Map": 1408,
+                    "Name": "s7懒惰之神超进化",
+                    "Title": "懒惰·斯洛斯",
+                    "Redirect": "map|module",
+                    "Go": "1408;app/S7LazyGodSuperEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "icon": 2,
+                        "monID": 3880
+                    },
+                    "ID": 585,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20190531,
+                    "End": "*",
+                    "Map": 1375,
+                    "Name": "伽玛千花",
+                    "Title": "伽玛·千花",
+                    "Redirect": "map|module",
+                    "Go": "1375;app/GamaQianhuaMainPanel"
+                },
                 {
                     "Details": {
                         "mc": 3
@@ -43233,23 +43277,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2616,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230630,
-                    "End": 20230804,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2617,
                     "isNew": 1,
                     "kinds": 1,
@@ -43262,6 +43289,65 @@
                     "Title": "巅峰战姬 枫眠突破",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetMainPanel_3954"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2628,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230707,
+                    "End": 20230721,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2635,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230714,
+                    "End": 20230721,
+                    "Map": 1623,
+                    "Name": "夏令营飞镖大赛",
+                    "Title": "欢乐夏令营",
+                    "Redirect": "module",
+                    "Go": "app/AmusementParkThemeMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2616,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230630,
+                    "End": 20230804,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -43335,23 +43421,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2628,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230707,
-                    "End": 20230721,
-                    "Map": 103,
-                    "Name": "钻石奖励更新",
-                    "Title": "钻石奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2629,
                     "isNew": 1,
                     "kinds": 1,
@@ -43364,75 +43433,6 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2632,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230714,
-                    "End": "*",
-                    "Map": 1623,
-                    "Name": "绝境的试炼者",
-                    "Title": "绝命之斗",
-                    "Redirect": "map|module",
-                    "Go": "1623;app/MainLineAdventureChapterPanel&&30023"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2633,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230714,
-                    "End": "*",
-                    "Map": 1623,
-                    "Name": "无尽冰凌",
-                    "Title": "龙缘巧遇",
-                    "Redirect": "map|module",
-                    "Go": "1623;app/MainLineAdventureChapterPanel&&40018"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4523
-                    },
-                    "ID": 2634,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230714,
-                    "End": "*",
-                    "Map": 1623,
-                    "Name": "醇香龙韵 咖啡烘焙师",
-                    "Title": "科德布鲁",
-                    "Redirect": "map|module",
-                    "Go": "1623;app/SpetKeDeBuLuMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2635,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230714,
-                    "End": 20230721,
-                    "Map": 1623,
-                    "Name": "夏令营飞镖大赛",
-                    "Title": "欢乐夏令营",
-                    "Redirect": "module",
-                    "Go": "app/AmusementParkThemeMainPanel"
                 },
                 {
                     "Details": {
@@ -43506,6 +43506,128 @@
                 },
                 {
                     "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2640,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230721,
+                    "End": 20230825,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "混元天尊巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2641,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230721,
+                    "End": 20230804,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2642,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230721,
+                    "End": "*",
+                    "Map": 1624,
+                    "Name": "无尽冰凌",
+                    "Title": "夜幕",
+                    "Redirect": "map|module",
+                    "Go": "1624;app/MainLineAdventureChapterPanel&&40019"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2643,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230721,
+                    "End": 20230728,
+                    "Map": 11897,
+                    "Name": "仲夏夜的美食家",
+                    "Title": "仲夏火焰节",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/MidsummerFestivalGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4528
+                    },
+                    "ID": 2644,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230721,
+                    "End": "*",
+                    "Map": 1624,
+                    "Name": "S-古尔伽",
+                    "Title": "古尔伽",
+                    "Redirect": "map|module",
+                    "Go": "1624;app/SpetGuErJiaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4527
+                    },
+                    "ID": 2645,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230721,
+                    "End": 20230825,
+                    "Map": 1624,
+                    "Name": "暑假月签精灵",
+                    "Title": "米洛斯",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号巅峰之战》完成签到，领取暑期签到好礼吧！"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4526
+                    },
+                    "ID": 2646,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230721,
+                    "End": 20230728,
+                    "Map": 1624,
+                    "Name": "仲夏夜的美食家",
+                    "Title": "华夫家族",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/MidsummerFestivalGoToMapPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
                     "ID": 2274,
@@ -43522,7 +43644,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2635,2636,2637,2638,2639"
+            "Important": "2636,2637,2640,2643,2644"
         }
     }
 }
