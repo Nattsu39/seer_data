@@ -1219,36 +1219,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4526,
-                        "ImageID": 4526,
+                        "ID": 4529,
+                        "ImageID": 4529,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1623;app/SpetKeDeBuLuMainPanel"
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4527,
-                        "ImageID": 4527,
+                        "ID": 4530,
+                        "ImageID": 4530,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1621;app/EverChangeDuelPanel"
+                        "Go": "1588;app/MonthlyPetInAuguest2023Panel"
                     },
                     {
                         "type": 0,
-                        "ID": 4528,
-                        "ImageID": 4528,
+                        "ID": 4531,
+                        "ImageID": 4531,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1622;app/GetErLangShenMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 558,
-                        "MonID": 3979,
-                        "ImageID": 1400558,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1625;app/SpetJiEYaoShouMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -23994,7 +23985,8 @@
                 "Height": 530,
                 "Weight": 680,
                 "Features": "哈肯萨经历了无限的磨难后终于回来了，它决心找寻找龙族复仇，报复那些曾经冷落过它的龙族们！",
-                "mapID": 955
+                "Redirect": "map|module",
+                "Go": "1317;app/Squad20180831MainPanel"
             },
             {
                 "ID": 1990,
@@ -36239,7 +36231,7 @@
                 "Type": "冰 超能",
                 "Height": 170,
                 "Weight": 70,
-                "Features": "诞生自冰雪，拥有掌控冰雪的能力，并能轻松通过自身能力改变气候！",
+                "Features": "2017年2月巅峰圣战精灵，诞生自冰雪，拥有着掌控冰雪的能力，并能轻松通过自身能力改变气候！",
                 "mapID": 1095
             },
             {
@@ -40725,7 +40717,7 @@
                 "Type": "飞行 冰",
                 "Height": 165,
                 "Weight": 49,
-                "Features": "和雪慕一样诞生自冰雪之中，拥有着掌控冰雪的能力，和她们同时期诞生的还有另外一位哦！",
+                "Features": "2019年3月巅峰圣战精灵，和雪慕一样诞生自冰雪之中，拥有着掌控冰雪的能力，和她们同时期诞生的还有另外一位哦！",
                 "mapID": 1095
             },
             {
@@ -47056,7 +47048,7 @@
                 "ID": 4479,
                 "DefName": "吉拉提斯",
                 "Type": "飞行 冰",
-                "Height": 257,
+                "Height": 1257,
                 "Weight": 1102,
                 "Features": "南霜驯服的珍兽，充满灵性，拥有精神沟通的能力，和南霜缔结了深刻的羁绊，她的翅膀能扬起猛烈的冰雪之风，是冰原上的守护者。",
                 "Redirect": "map|module",
@@ -47524,8 +47516,7 @@
                 "Height": 163,
                 "Weight": 47,
                 "Features": "米洛斯是魔法学院的低年级学生，虽然魔法能力不强，但调皮捣蛋的他有时也能产生令人意外的影响。",
-                "Redirect": "map|module",
-                "Go": "1621;app/EverChangeDuelPanel"
+                "Redirect": "map|module"
             },
             {
                 "ID": 4528,
@@ -47535,7 +47526,37 @@
                 "Weight": 74,
                 "Features": "滴答滴，滴答滴……让人无法不在意的声音在角落里回荡…炸弹会出现任何意想不到的地方。古尔伽从不逗留在爆炸后的现场，除非他正在准备下一场爆炸。",
                 "Redirect": "map|module",
-                "Go": "1621;app/EverChangeDuelPanel"
+                "Go": "1624;app/SpetGuErJiaMainPanel"
+            },
+            {
+                "ID": 4529,
+                "DefName": "雪姝",
+                "Type": "自然 冰",
+                "Height": 167,
+                "Weight": 48,
+                "Features": "2023年8月巅峰圣战精灵，和雪慕、雪薇同为诞生自冰雪的精灵，可白璧无瑕的她却丝毫未能预知即将到来的命运。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4530,
+                "DefName": "大熊·俄萨米",
+                "Type": "光 神秘",
+                "Height": 163,
+                "Weight": 46,
+                "Features": "2023年8月包月精灵，十二星芒之一，大熊幻歌，星汉常明！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInAuguest2023Panel"
+            },
+            {
+                "ID": 4531,
+                "DefName": "极恶妖兽",
+                "Type": "飞行 暗影",
+                "Height": 1308,
+                "Weight": 1201,
+                "Features": "弗罗斯特传说中的神兽，在封印解开后它进一步吸收了黑暗的力量成长为骇人的猛兽。与迹缔结了契约的他只有一个目的，那就是毁灭这片冰雪之地上的一切，他的存在对弗罗斯特永远是巨大的威胁。",
+                "Redirect": "map|module",
+                "Go": "1625;app/SpetJiEYaoShouMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
