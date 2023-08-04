@@ -12478,24 +12478,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4522
-                    },
-                    "ID": 2631,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230707,
-                    "End": 20230805,
-                    "Map": 1620,
-                    "Name": "东海龙王",
-                    "Title": "东海龙王",
-                    "Redirect": "map|module",
-                    "Go": "1620;app/TreasuresOfTheDragonPalaceMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2622,
@@ -12649,6 +12631,128 @@
                     "Title": "米洛斯",
                     "Redirect": "alarm",
                     "Go": "请前往《赛尔号巅峰之战》完成签到，领取暑期签到好礼吧！"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2647,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230728,
+                    "End": "*",
+                    "Map": 1625,
+                    "Name": "绝境的试炼者",
+                    "Title": "修缘一方",
+                    "Redirect": "map|module",
+                    "Go": "1625;app/MainLineAdventureChapterPanel&&30024"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2648,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230728,
+                    "End": "*",
+                    "Map": 1625,
+                    "Name": "无尽冰凌",
+                    "Title": "不破雪国",
+                    "Redirect": "map|module",
+                    "Go": "1625;app/MainLineAdventureChapterPanel&&40020"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4530
+                    },
+                    "ID": 2649,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230728,
+                    "End": 20230901,
+                    "Map": 1588,
+                    "Name": "8月包月精灵",
+                    "Title": "大熊·俄萨米",
+                    "Redirect": "map|module",
+                    "Go": "1588;app/MonthlyPetInAuguest2023Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4529
+                    },
+                    "ID": 2650,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230728,
+                    "End": "*",
+                    "Map": 1095,
+                    "Name": "2023年8月巅峰联赛",
+                    "Title": "雪姝",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4531
+                    },
+                    "ID": 2652,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230728,
+                    "End": "*",
+                    "Map": 1625,
+                    "Name": "S-极恶妖兽",
+                    "Title": "极恶妖兽",
+                    "Redirect": "map|module",
+                    "Go": "1625;app/SpetJiEYaoShouMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2654,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230728,
+                    "End": "*",
+                    "Map": 1625,
+                    "Name": "幽灯寻途",
+                    "Title": "旋涡",
+                    "Redirect": "map|module",
+                    "Go": "1625;app/MainLineAdventureChapterPanel&&50002"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2655,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230728,
+                    "End": "*",
+                    "Map": 1625,
+                    "Name": "幽灯寻途",
+                    "Title": "光与月",
+                    "Redirect": "map|module",
+                    "Go": "1625;app/MainLineAdventureChapterPanel&&50003"
                 }
             ]
         },
@@ -43462,15 +43566,7 @@
                     "Title": "龙宫的宝藏",
                     "Redirect": "map|module",
                     "Go": "1620;app/TreasuresOfTheDragonPalaceMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -43507,54 +43603,54 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
+                        "mc": 2
                     },
-                    "ID": 2624,
+                    "ID": 2651,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230707,
-                    "End": 20230909,
-                    "Map": 103,
-                    "Name": "2023暑假尊享特权钻石月卡",
-                    "Title": "月卡特权开启",
+                    "Type": 2,
+                    "Start": 20230728,
+                    "End": 20230804,
+                    "Map": 11897,
+                    "Name": "暑期游乐园主题活动",
+                    "Title": "畅游赛尔乐园",
                     "Redirect": "map|module",
-                    "Go": "103;app/DiamondMonthlyCardOf2019MainPanel"
+                    "Go": "11897;app/AmusementParkThemeMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2625,
+                    "ID": 2653,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230707,
-                    "End": 20230901,
+                    "Start": 20230728,
+                    "End": 20230804,
                     "Map": 103,
-                    "Name": "刻印抽奖机",
-                    "Title": "刻印抽奖机暑假版",
+                    "Name": "夏日特惠宝箱",
+                    "Title": "夏日特惠宝箱",
                     "Redirect": "map|module",
-                    "Go": "103;app/MarkMachine0707Panel"
+                    "Go": "103;app/ElevenDoubleGiftBagMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2629,
+                    "ID": 2656,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230707,
-                    "End": "*",
+                    "Start": 20230728,
+                    "End": 20230804,
                     "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "契约召唤更新",
+                    "Name": "启灵元神四季皮肤售卖",
+                    "Title": "四季之光",
                     "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                    "Go": "103;app/QiLingYuanShengSeasonSkinPanel"
                 },
                 {
                     "Details": {
@@ -43625,179 +43721,220 @@
                     "Title": "千变万化的对决",
                     "Redirect": "map|module",
                     "Go": "1622;app/EverChangeDuelPanel"
-                },
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 2647,
+                    "ID": 2624,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230728,
-                    "End": "*",
-                    "Map": 1625,
-                    "Name": "绝境的试炼者",
-                    "Title": "修缘一方",
+                    "Type": 1,
+                    "Start": 20230707,
+                    "End": 20230909,
+                    "Map": 103,
+                    "Name": "2023暑假尊享特权钻石月卡",
+                    "Title": "月卡特权开启",
                     "Redirect": "map|module",
-                    "Go": "1625;app/MainLineAdventureChapterPanel&&30024"
+                    "Go": "103;app/DiamondMonthlyCardOf2019MainPanel"
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 2648,
+                    "ID": 2625,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230728,
-                    "End": "*",
-                    "Map": 1625,
-                    "Name": "无尽冰凌",
-                    "Title": "不破雪国",
-                    "Redirect": "map|module",
-                    "Go": "1625;app/MainLineAdventureChapterPanel&&40020"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4530
-                    },
-                    "ID": 2649,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230728,
+                    "Type": 1,
+                    "Start": 20230707,
                     "End": 20230901,
-                    "Map": 1588,
-                    "Name": "8月包月精灵",
-                    "Title": "大熊·俄萨米",
+                    "Map": 103,
+                    "Name": "刻印抽奖机",
+                    "Title": "刻印抽奖机暑假版",
                     "Redirect": "map|module",
-                    "Go": "1588;app/MonthlyPetInAuguest2023Panel"
+                    "Go": "103;app/MarkMachine0707Panel"
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4529
+                        "mc": 1
                     },
-                    "ID": 2650,
+                    "ID": 2629,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230728,
+                    "Type": 1,
+                    "Start": 20230707,
                     "End": "*",
-                    "Map": 1095,
-                    "Name": "2023年8月巅峰联赛",
-                    "Title": "雪姝",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
                     "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2651,
+                    "ID": 2657,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20230728,
-                    "End": 20230804,
+                    "Start": 20230804,
+                    "End": "*",
+                    "Map": 1626,
+                    "Name": "无尽冰凌",
+                    "Title": "黑雪",
+                    "Redirect": "map|module",
+                    "Go": "1626;app/MainLineAdventureChapterPanel&&40020"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2658,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230804,
+                    "End": 20230811,
                     "Map": 11897,
-                    "Name": "暑期游乐园主题活动",
-                    "Title": "畅游赛尔乐园",
+                    "Name": "夏日美食派对主题活动集合面板",
+                    "Title": "夏日美食派对",
                     "Redirect": "map|module",
-                    "Go": "11897;app/AmusementParkThemeMainPanel"
+                    "Go": "11897;app/SummerArtPartyGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2659,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230804,
+                    "End": 20230811,
+                    "Map": 1095,
+                    "Name": "【双端】巅峰圣战奖励周",
+                    "Title": "巅峰圣战奖励周",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2660,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230804,
+                    "End": 20230908,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统第九期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2661,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230804,
+                    "End": 20230811,
+                    "Map": 103,
+                    "Name": "赤猿碎魂 明王掠阵",
+                    "Title": "赤猿碎魂·大威势明王",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaWeiShiMingWangSkinSalesMianPanel"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4531
+                        "monID": 4532
                     },
-                    "ID": 2652,
+                    "ID": 2662,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20230728,
+                    "Start": 20230804,
                     "End": "*",
-                    "Map": 1625,
-                    "Name": "S-极恶妖兽",
-                    "Title": "极恶妖兽",
+                    "Map": 1626,
+                    "Name": "风绝星移 恶堕无息",
+                    "Title": "堕息·迹",
                     "Redirect": "map|module",
-                    "Go": "1625;app/SpetJiEYaoShouMainPanel"
+                    "Go": "1626;app/SpetDXJiMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2653,
+                    "ID": 2663,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230728,
-                    "End": 20230804,
+                    "Start": 20230804,
+                    "End": 20230908,
                     "Map": 103,
-                    "Name": "夏日特惠宝箱",
-                    "Title": "夏日特惠宝箱",
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/ElevenDoubleGiftBagMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2654,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230728,
-                    "End": "*",
-                    "Map": 1625,
-                    "Name": "幽灯寻途",
-                    "Title": "旋涡",
-                    "Redirect": "map|module",
-                    "Go": "1625;app/MainLineAdventureChapterPanel&&50002"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2655,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230728,
-                    "End": "*",
-                    "Map": 1625,
-                    "Name": "幽灯寻途",
-                    "Title": "光与月",
-                    "Redirect": "map|module",
-                    "Go": "1625;app/MainLineAdventureChapterPanel&&50003"
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2656,
+                    "ID": 2664,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230728,
-                    "End": 20230804,
+                    "Start": 20230804,
+                    "End": 20230818,
                     "Map": 103,
-                    "Name": "启灵元神四季皮肤售卖",
-                    "Title": "四季之光",
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/QiLingYuanShengSeasonSkinPanel"
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4533
+                    },
+                    "ID": 2665,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230804,
+                    "End": 20230811,
+                    "Map": 1626,
+                    "Name": "夏日美食派对主题活动集合面板",
+                    "Title": "豹豹大师",
+                    "Redirect": "map|module",
+                    "Go": "1626;app/SummerArtPartyGoToMapPanel"
                 },
                 {
                     "Details": {
@@ -43817,7 +43954,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2638,2651,2652,2653,2656"
+            "Important": "2658,2659,2661,2662,2664"
         }
     }
 }

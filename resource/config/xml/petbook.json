@@ -1219,27 +1219,46 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4529,
-                        "ImageID": 4529,
+                        "ID": 4532,
+                        "ImageID": 4532,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1626;app/SpetDXJiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4533,
+                        "ImageID": 4533,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/SummerArtPartyGoToMapPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 559,
+                        "MonID": 4529,
+                        "ImageID": 1400559,
                         "Label": 0,
                         "Redirect": "map|module",
                         "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4530,
-                        "ImageID": 4530,
+                        "type": 1,
+                        "ID": 560,
+                        "MonID": 3237,
+                        "ImageID": 1400560,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1588;app/MonthlyPetInAuguest2023Panel"
+                        "Go": "103;app/DaWeiShiMingWangSkinSalesMianPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4531,
-                        "ImageID": 4531,
+                        "type": 1,
+                        "ID": 561,
+                        "MonID": 4376,
+                        "ImageID": 1400561,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1625;app/SpetJiEYaoShouMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47327,7 +47346,7 @@
                 "Weight": 76,
                 "Features": "2023年6月包月精灵，十二星芒之一，巨爵擎天，星汉黯空！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInJune2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4509,
@@ -47427,7 +47446,7 @@
                 "Weight": 43,
                 "Features": "2023年7月包月精灵，十二星芒之一，小熊拥抱，星汉软绒！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInJuly2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4519,
@@ -47465,9 +47484,7 @@
                 "Type": "水",
                 "Height": 212,
                 "Weight": 131,
-                "Features": "东海龙王敖广，为“四海龙王”之首，居于东海的海底水晶宫中。他掌管兴云降雨，与诸天龙王等宣扬正法，普救众生，大雨洪流，应时甘润。",
-                "Redirect": "map|module",
-                "Go": "1620;app/TreasuresOfTheDragonPalaceMainPanel"
+                "Features": "东海龙王敖广，为“四海龙王”之首，居于东海的海底水晶宫中。他掌管兴云降雨，与诸天龙王等宣扬正法，普救众生，大雨洪流，应时甘润。"
             },
             {
                 "ID": 4523,
@@ -47485,9 +47502,7 @@
                 "Type": "火 圣灵",
                 "Height": 139,
                 "Weight": 41,
-                "Features": "齐天大圣孙悟空，是女娲补天所用五彩石中掉落的仙石，因吸收天地之气孕育而生。神通广大、武艺超群，拥有腾云驾雾、七十二变等神功。",
-                "Redirect": "map|module",
-                "Go": "1621;app/EverChangeDuelPanel"
+                "Features": "齐天大圣孙悟空，是女娲补天所用五彩石中掉落的仙石，因吸收天地之气孕育而生。神通广大、武艺超群，拥有腾云驾雾、七十二变等神功。"
             },
             {
                 "ID": 4525,
@@ -47495,9 +47510,7 @@
                 "Type": "次元 圣灵",
                 "Height": 192,
                 "Weight": 78,
-                "Features": "二郎神杨戬，阙庭有神眼，手持三尖两刃刀，为天庭大将，玉帝的外甥，拥有神宠哮天犬。他曾征讨花果山，与孙悟空赌变化，斗输赢。",
-                "Redirect": "map|module",
-                "Go": "1622;app/GetErLangShenMainPanel"
+                "Features": "二郎神杨戬，阙庭有神眼，手持三尖两刃刀，为天庭大将，玉帝的外甥，拥有神宠哮天犬。他曾征讨花果山，与孙悟空赌变化，斗输赢。"
             },
             {
                 "ID": 4526,
@@ -47505,9 +47518,7 @@
                 "Type": "火 超能",
                 "Height": 68,
                 "Weight": 24,
-                "Features": "又到了一年一度的仲夏节，华夫家族这次有备而来。新鲜水果、美味果酱、可口糖霜，再来一颗冰激凌球！目标是仲夏节最受欢迎的美食！",
-                "Redirect": "map|module",
-                "Go": "1623;app/SpetKeDeBuLuMainPanel"
+                "Features": "又到了一年一度的仲夏节，华夫家族这次有备而来。新鲜水果、美味果酱、可口糖霜，再来一颗冰激凌球！目标是仲夏节最受欢迎的美食！"
             },
             {
                 "ID": 4527,
@@ -47554,9 +47565,29 @@
                 "Type": "飞行 暗影",
                 "Height": 1308,
                 "Weight": 1201,
-                "Features": "弗罗斯特传说中的神兽，在封印解开后它进一步吸收了黑暗的力量成长为骇人的猛兽。与迹缔结了契约的他只有一个目的，那就是毁灭这片冰雪之地上的一切，他的存在对弗罗斯特永远是巨大的威胁。",
+                "Features": "弗罗斯特传说中的神兽，在封印解开后它进一步吸收了黑暗的力量成长为骇人的猛兽。与迹缔结了契约的他只有一个目的，那就是毁灭这片冰雪之地上的一切。",
                 "Redirect": "map|module",
                 "Go": "1625;app/SpetJiEYaoShouMainPanel"
+            },
+            {
+                "ID": 4532,
+                "DefName": "堕息·迹",
+                "Type": "混沌 远古",
+                "Height": 178,
+                "Weight": 74,
+                "Features": "自从手背烙上印记的那一刻起，迹不再履行大地之子的职责，混沌之力侵蚀了他的心智，让其癫狂。他的目标是摧毁一切，至于缘由……他再也没有思考过了。",
+                "Redirect": "map|module",
+                "Go": "1626;app/SpetDXJiMainPanel"
+            },
+            {
+                "ID": 4533,
+                "DefName": "豹豹大师",
+                "Type": "战斗",
+                "Height": 76,
+                "Weight": 40,
+                "Features": "热情的豹豹大师对制作美味的汉堡颇有研究。如果在美食节上发现他忙碌的身影，可千万不要错过向他讨教的难得机会哦！",
+                "Redirect": "map|module",
+                "Go": "11897;app/SummerArtPartyGoToMapPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
