@@ -1219,46 +1219,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4532,
-                        "ImageID": 4532,
+                        "ID": 4534,
+                        "ImageID": 4534,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1626;app/SpetDXJiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4533,
-                        "ImageID": 4533,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/SummerArtPartyGoToMapPanel"
+                        "Go": "1627;app/SpetZhiMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 559,
-                        "MonID": 4529,
-                        "ImageID": 1400559,
+                        "ID": 562,
+                        "MonID": 3572,
+                        "ImageID": 1400562,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 560,
-                        "MonID": 3237,
-                        "ImageID": 1400560,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/DaWeiShiMingWangSkinSalesMianPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 561,
-                        "MonID": 4376,
-                        "ImageID": 1400561,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "11920;app/SiJiuHuanXi_BackPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -38493,7 +38467,7 @@
                 "Height": 170,
                 "Weight": 55,
                 "Features": "来自黑森林的精灵魔法师，曾在危难关头救助过受伤的四九战将！",
-                "mapID": 1184
+                "mapID": 11920
             },
             {
                 "ID": 3573,
@@ -47585,9 +47559,17 @@
                 "Type": "战斗",
                 "Height": 76,
                 "Weight": 40,
-                "Features": "热情的豹豹大师对制作美味的汉堡颇有研究。如果在美食节上发现他忙碌的身影，可千万不要错过向他讨教的难得机会哦！",
+                "Features": "热情的豹豹大师对制作美味的汉堡颇有研究。如果在美食节上发现他忙碌的身影，可千万不要错过向他讨教的难得机会哦！"
+            },
+            {
+                "ID": 4534,
+                "DefName": "咫",
+                "Type": "次元",
+                "Height": 172,
+                "Weight": 68,
+                "Features": "作为负责执行审判的特密斯执行官，咫平时都以面具示人。当多个成员协同行动时，就能带来强大的束缚力和压制力。",
                 "Redirect": "map|module",
-                "Go": "11897;app/SummerArtPartyGoToMapPanel"
+                "Go": "1627;app/SpetZhiMainPanel"
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"
