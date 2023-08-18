@@ -1219,20 +1219,64 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4534,
-                        "ImageID": 4534,
+                        "ID": 4535,
+                        "ImageID": 4535,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1627;app/SpetZhiMainPanel"
+                        "Go": "103;app/YoumeiSuperEvolutionMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4536,
+                        "ImageID": 4536,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1628;app/MainLineAdventureChapterPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4537,
+                        "ImageID": 4537,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1628;app/SpetRuiDiKaMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4538,
+                        "ImageID": 4538,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1628
                     },
                     {
                         "type": 1,
-                        "ID": 562,
-                        "MonID": 3572,
-                        "ImageID": 1400562,
+                        "ID": 563,
+                        "MonID": 3813,
+                        "ImageID": 1400563,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11920;app/SiJiuHuanXi_BackPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42408
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42410
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42411
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42412
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42413
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -37554,7 +37598,7 @@
                 "DefName": "幽美",
                 "Type": "暗影 神秘",
                 "Height": 161,
-                "Weight": 55,
+                "Weight": 50,
                 "Features": "来自异域的小恶魔，手中的法杖散发着黑色光芒，带给人幽深的感觉！",
                 "mapID": 103
             },
@@ -47570,6 +47614,46 @@
                 "Features": "作为负责执行审判的特密斯执行官，咫平时都以面具示人。当多个成员协同行动时，就能带来强大的束缚力和压制力。",
                 "Redirect": "map|module",
                 "Go": "1627;app/SpetZhiMainPanel"
+            },
+            {
+                "ID": 4535,
+                "DefName": "诡魅浮踪·幽美",
+                "Type": "暗影 神秘",
+                "Height": 163,
+                "Weight": 52,
+                "Features": "“哎！看样子今天带来的礼物似乎有点少呢，”幽美甩了甩法杖，丢出了一个贴有诡符的眼球，“下次一定！”",
+                "Redirect": "map|module",
+                "Go": "103;app/YoumeiSuperEvolutionMainPanel"
+            },
+            {
+                "ID": 4536,
+                "DefName": "瑞波",
+                "Type": "超能",
+                "Height": 80,
+                "Weight": 44,
+                "Features": "相传瑞波是由布德居民死后的灵魂幻化而成，其寿命结束后灵魂便能转生。因其外貌似长着翅膀的鱼类，所以民间也称之为飞鱼灵。",
+                "Redirect": "map|module",
+                "Go": "1628;app/MainLineAdventureChapterPanel"
+            },
+            {
+                "ID": 4537,
+                "DefName": "瑞迪卡",
+                "Type": "邪灵 暗影",
+                "Height": 450,
+                "Weight": 254,
+                "Features": "瑞波遭受污秽感染后，变异成为巨大的瑞迪卡，不论是体型还是威力都会增强数倍，暴躁的瑞迪卡会四处破坏所见之物，甚至会伤害曾经的同伴。",
+                "Redirect": "map|module",
+                "Go": "1628;app/SpetRuiDiKaMainPanel"
+            },
+            {
+                "ID": 4538,
+                "DefName": "摩根",
+                "Type": "地面 超能",
+                "Height": 68,
+                "Weight": 42,
+                "Features": "翡翠岛上的居民，因为吸收了大地中过量的锰元素，身体表面会形成矿物类的特征，时间越久矿物的颜色会越深且越明显。",
+                "Redirect": "map",
+                "Go": 1628
             }
         ],
         "_text": "\r\n/>\r\n\r\n\t"

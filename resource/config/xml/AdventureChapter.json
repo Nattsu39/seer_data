@@ -406,7 +406,7 @@
                     ]
                 },
                 "ID": 3,
-                "Sort": 3,
+                "Sort": 9,
                 "Title": "绝境的试炼者",
                 "redID": 2012,
                 "statlogId": 20221125,
@@ -646,7 +646,7 @@
                     ]
                 },
                 "ID": 4,
-                "Sort": 2,
+                "Sort": 8,
                 "Title": "无尽冰凌",
                 "redID": 2013,
                 "statlogId": 20221125,
@@ -714,8 +714,125 @@
                 "lineInfo": "-405,-50,302,90,0,1|-342,95,140,0,0,1|-277,38,127,90,0,2|-210,-19,147,0,0,2|-35,-19,228,0,0,3",
                 "ChapterRewardFlagID": 122409,
                 "StoryRewardFlagID": 122410
+            },
+            {
+                "ChapterRewardInfo": {
+                    "PassChapterReward": [
+                        {
+                            "ID": 1,
+                            "NeedPassStoryNum": 2,
+                            "rewardinfo": "1_2300060_2",
+                            "NewMsglogId": 2308180201
+                        },
+                        {
+                            "ID": 2,
+                            "NeedPassStoryNum": 4,
+                            "rewardinfo": "1_300810_2",
+                            "NewMsglogId": 2308180202
+                        },
+                        {
+                            "ID": 3,
+                            "NeedPassStoryNum": 6,
+                            "rewardinfo": "2_42410_1",
+                            "NewMsglogId": 2308180203
+                        },
+                        {
+                            "ID": 4,
+                            "NeedPassStoryNum": 8,
+                            "rewardinfo": "1_300618_2",
+                            "NewMsglogId": 2308180204
+                        },
+                        {
+                            "ID": 5,
+                            "NeedPassStoryNum": 10,
+                            "rewardinfo": "1_300063_2",
+                            "NewMsglogId": 2308180205
+                        },
+                        {
+                            "ID": 6,
+                            "NeedPassStoryNum": 12,
+                            "rewardinfo": "2_42411_1",
+                            "NewMsglogId": 2308180206
+                        },
+                        {
+                            "ID": 7,
+                            "NeedPassStoryNum": 14,
+                            "rewardinfo": "1_2300060_2",
+                            "NewMsglogId": 2308180207
+                        },
+                        {
+                            "ID": 8,
+                            "NeedPassStoryNum": 16,
+                            "rewardinfo": "1_300070_3",
+                            "NewMsglogId": 2308180208
+                        },
+                        {
+                            "ID": 9,
+                            "NeedPassStoryNum": 18,
+                            "rewardinfo": "2_42412_1",
+                            "NewMsglogId": 2308180209
+                        },
+                        {
+                            "ID": 10,
+                            "NeedPassStoryNum": 20,
+                            "rewardinfo": "1_1200446_2",
+                            "NewMsglogId": 2308180210
+                        },
+                        {
+                            "ID": 11,
+                            "NeedPassStoryNum": 22,
+                            "rewardinfo": "1_300075_2",
+                            "NewMsglogId": 2308180211
+                        },
+                        {
+                            "ID": 12,
+                            "NeedPassStoryNum": 24,
+                            "rewardinfo": "2_42413_1",
+                            "NewMsglogId": 2308180212
+                        },
+                        {
+                            "ID": 13,
+                            "NeedPassStoryNum": 26,
+                            "rewardinfo": "1_2300060_1",
+                            "NewMsglogId": 2308180213
+                        },
+                        {
+                            "ID": 14,
+                            "NeedPassStoryNum": 28,
+                            "rewardinfo": "10_161_1",
+                            "NewMsglogId": 2308180214
+                        }
+                    ]
+                },
+                "StoryRewardInfo": {
+                    "PassStoryReward": [
+                        {
+                            "ID": 1,
+                            "PreUnlockStoryID": 0,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "statlogId": 20230818,
+                            "NewMsglogId": 2308180200
+                        },
+                        {
+                            "ID": 2,
+                            "PreUnlockStoryID": 1,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "isFuture": 1
+                        }
+                    ]
+                },
+                "ID": 7,
+                "Sort": 1,
+                "Title": "云霄之间",
+                "redID": 2011,
+                "statlogId": 20221125,
+                "Des": "布德的一切都林立在碧霄之上，如画中世界一般平静祥和。卡托娜兄妹来到了这个群岛环绕的云迹之国。守护宝石的骑士，灵魂幻化的飞鱼，离奇古怪的事件，这片大地上有诸多秘密等待他们去发现…",
+                "positionInfo": "-331,-192,-439,-222|-189,104,-298,75",
+                "lineInfo": "-439,-73,308,90,0,1|-369,75,153,0,0,1",
+                "ChapterRewardFlagID": 122413,
+                "StoryRewardFlagID": 122414
             }
         ],
-        "new": 4
+        "new": 7
     }
 }

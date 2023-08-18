@@ -15,9 +15,9 @@
                 "title": "刻印抽奖机暑假版",
                 "picture": 279,
                 "sort": 2,
+                "mouseClickFunc": "app:MarkMachine0707Panel",
                 "start": 20230707,
-                "end": 20230901,
-                "mouseClickFunc": "app:MarkMachine0707Panel"
+                "end": 20230901
             },
             {
                 "id": 3,
@@ -25,32 +25,32 @@
                 "title": "能源研究站",
                 "picture": 290,
                 "sort": 3,
-                "start": 20230804,
-                "end": 20230908,
                 "mouseClickFunc": "app:PropRecoveryS1Panel",
-                "Tag": 2
+                "Tag": 2,
+                "start": 20230804,
+                "end": 20230908
             },
             {
                 "id": 4,
                 "type": 1,
-                "title": "罗开的折扣商店",
-                "picture": 295,
+                "title": "诡魅浮踪·幽美",
+                "picture": 297,
                 "sort": 4,
-                "start": 20230811,
-                "end": 20230818,
-                "mouseClickFunc": "app:LuoKaiShop20220722MainPanel",
-                "Tag": 1
+                "mouseClickFunc": "app:YoumeiSuperEvolutionMainPanel",
+                "Tag": 1,
+                "start": 20230818,
+                "end": 20230901
             },
             {
                 "id": 5,
                 "type": 1,
-                "title": "经典萌宠大集结",
-                "picture": 296,
+                "title": "钻石奖励更新",
+                "picture": 298,
                 "sort": 5,
-                "start": 20230811,
-                "end": 20230818,
-                "mouseClickFunc": "app:IndianaSpirit0505MainPanel",
-                "Tag": 1
+                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
+                "Tag": 1,
+                "start": 20230818,
+                "end": 20230901
             },
             {
                 "id": 6,
@@ -58,76 +58,65 @@
                 "title": "星河长明商店更新",
                 "picture": 292,
                 "sort": 6,
-                "start": 20230804,
-                "end": 20230908,
                 "mouseClickFunc": "app:PetJackpotStarRecruitPanel",
-                "Tag": 2
+                "Tag": 2,
+                "start": 20230804,
+                "end": 20230908
             },
             {
                 "id": 7,
                 "type": 1,
-                "title": "钻石奖励更新",
-                "picture": 293,
+                "title": "大熊·俄萨米",
+                "picture": 287,
                 "sort": 7,
-                "start": 20230804,
-                "end": 20230818,
-                "mouseClickFunc": "app:ExchangeDiamondRewardSystemPanel",
-                "Tag": 1
+                "mouseClickFunc": "app:MonthlyPetInAuguest2023Panel",
+                "Tag": 2,
+                "start": 20230728,
+                "end": 20230901
             },
             {
                 "id": 8,
                 "type": 1,
-                "title": "大熊·俄萨米",
-                "picture": 287,
+                "title": "混元天尊巡回",
+                "picture": 284,
                 "sort": 8,
-                "start": 20230728,
-                "end": 20230901,
-                "mouseClickFunc": "app:MonthlyPetInAuguest2023Panel",
-                "Tag": 2
+                "mouseClickFunc": "app:TempleHeroAltarPrePanel",
+                "Tag": 2,
+                "start": 20230721,
+                "end": 20230825
             },
             {
                 "id": 9,
                 "type": 1,
-                "title": "混元天尊巡回",
-                "picture": 284,
+                "title": "月卡商店特权开启",
+                "picture": 278,
                 "sort": 9,
-                "start": 20230721,
-                "end": 20230825,
-                "mouseClickFunc": "app:TempleHeroAltarPrePanel",
-                "Tag": 2
+                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel",
+                "Tag": 2,
+                "start": 20230707,
+                "end": 20230909
             },
             {
                 "id": 10,
                 "type": 1,
-                "title": "月卡商店特权开启",
-                "picture": 278,
+                "title": "契约召唤更新",
+                "picture": 281,
                 "sort": 10,
+                "mouseClickFunc": "app:PartnerEffectResidentMainPanel",
+                "Tag": 2,
                 "start": 20230707,
-                "end": 20230909,
-                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel",
-                "Tag": 2
+                "end": 20240707
             },
             {
                 "id": 11,
                 "type": 1,
-                "title": "契约召唤更新",
-                "picture": 281,
-                "sort": 11,
-                "start": 20230707,
-                "end": 20240707,
-                "mouseClickFunc": "app:PartnerEffectResidentMainPanel",
-                "Tag": 2
-            },
-            {
-                "id": 12,
-                "type": 1,
                 "title": "特性生成晶片特惠礼包",
                 "picture": 234,
-                "sort": 12,
-                "start": 20230421,
-                "end": 20240422,
+                "sort": 11,
                 "mouseClickFunc": "app:SupermarketPanel",
-                "Tag": 2
+                "Tag": 2,
+                "start": 20230421,
+                "end": 20240422
             }
         ]
     }

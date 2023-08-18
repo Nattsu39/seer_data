@@ -6018,6 +6018,7 @@
                     }
                 ],
                 "ID": 137,
+                "IsSingle": 1,
                 "Type": 0,
                 "Desc": "新春盛典"
             },
@@ -6967,6 +6968,17 @@
                 "ID": 160,
                 "Type": 3,
                 "Desc": "通关SS-堕息·迹【地狱难度】关卡获得"
+            },
+            {
+                "Rule": {
+                    "ID": 1,
+                    "Threshold": 1,
+                    "AchievementPoint": 10,
+                    "SpeNameBonus": 464
+                },
+                "ID": 161,
+                "Type": 1,
+                "Desc": "完成【云霄之间】系列剧情"
             }
         ]
     }

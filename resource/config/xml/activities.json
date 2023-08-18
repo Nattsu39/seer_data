@@ -12479,40 +12479,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2640,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230721,
-                    "End": 20230825,
-                    "Map": 103,
-                    "Name": "圣殿英雄团更新",
-                    "Title": "混元天尊巡回",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2641,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230721,
-                    "End": 20230804,
-                    "Map": 103,
-                    "Name": "钻石奖励更新",
-                    "Title": "钻石奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2642,
@@ -12737,6 +12703,58 @@
                     "Title": "堕息·迹",
                     "Redirect": "map|module",
                     "Go": "1626;app/SpetDXJiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2666,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230811,
+                    "End": "*",
+                    "Map": 1627,
+                    "Name": "无尽冰凌",
+                    "Title": "沉眠",
+                    "Redirect": "map|module",
+                    "Go": "1627;app/MainLineAdventureChapterPanel&&40020"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4534
+                    },
+                    "ID": 2667,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230811,
+                    "End": "*",
+                    "Map": 1627,
+                    "Name": "特密斯的执行官",
+                    "Title": "咫",
+                    "Redirect": "map|module",
+                    "Go": "1627;app/SpetZhiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2671,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230811,
+                    "End": 20230825,
+                    "Map": 11920,
+                    "Name": "沐浴晨晖 幻曦归来",
+                    "Title": "晨晖神女·四九幻曦",
+                    "Redirect": "map|module",
+                    "Go": "11920;app/SiJiuHuanXi_BackPanel"
                 }
             ]
         },
@@ -43621,6 +43639,23 @@
                 },
                 {
                     "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2641,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230721,
+                    "End": 20230804,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
                         "mc": 0,
                         "monID": 4524
                     },
@@ -43842,6 +43877,74 @@
                     "Title": "圣骑·赫里斯",
                     "Redirect": "map|module",
                     "Go": "1398;app/HelisiSuperEvolutionMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2664,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230804,
+                    "End": 20230818,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2668,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230811,
+                    "End": 20230818,
+                    "Map": 1627,
+                    "Name": "芳息谷的封印",
+                    "Title": "芳息谷的封印",
+                    "Redirect": "map|module",
+                    "Go": "1627;app/FangXiGuGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2669,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230811,
+                    "End": 20230818,
+                    "Map": 103,
+                    "Name": "罗开的折扣商店第7弹",
+                    "Title": "罗开的折扣商店",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20220722MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2670,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230811,
+                    "End": 20230818,
+                    "Map": 103,
+                    "Name": "绝版精灵抽奖",
+                    "Title": "经典萌宠大集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/IndianaSpirit0505MainPanel"
                 }
             ],
             "_text": [
@@ -43906,6 +44009,23 @@
                     "Details": {
                         "mc": 1
                     },
+                    "ID": 2640,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230721,
+                    "End": 20230825,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "混元天尊巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
                     "ID": 2663,
                     "isNew": 1,
                     "kinds": 1,
@@ -43921,15 +44041,102 @@
                 },
                 {
                     "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2672,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": "*",
+                    "Map": 1628,
+                    "Name": "云霄之间",
+                    "Title": "天际之灵",
+                    "Redirect": "map|module",
+                    "Go": "1628;app/MainLineAdventureChapterPanel&&70001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4537
+                    },
+                    "ID": 2673,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230818,
+                    "End": "*",
+                    "Map": 1628,
+                    "Name": "S-瑞迪卡",
+                    "Title": "瑞迪卡",
+                    "Redirect": "map|module",
+                    "Go": "1628;app/SpetRuiDiKaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4535
+                    },
+                    "ID": 2674,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230818,
+                    "End": 20230901,
+                    "Map": 103,
+                    "Name": "798按条—幽美超进化",
+                    "Title": "诡魅浮踪·幽美",
+                    "Redirect": "map|module",
+                    "Go": "103;app/YoumeiSuperEvolutionMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2675,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": 20230825,
+                    "Map": 11897,
+                    "Name": "七夕躲猫猫大战",
+                    "Title": "浓情七夕 月墨相守",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/QixiThemeActivitiesGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2676,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": 20230823,
+                    "Map": 1628,
+                    "Name": "墨秋的七夕礼盒",
+                    "Title": "墨秋的七夕礼盒",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号巅峰之战》完成签到，领取墨秋的七夕礼盒好礼吧！"
+                },
+                {
+                    "Details": {
                         "mc": 1
                     },
-                    "ID": 2664,
+                    "ID": 2677,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230804,
-                    "End": 20230818,
+                    "Start": 20230818,
+                    "End": 20230901,
                     "Map": 103,
                     "Name": "钻石奖励更新",
                     "Title": "钻石奖励更新",
@@ -43940,104 +44147,18 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2666,
+                    "ID": 2678,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20230811,
+                    "Start": 20230818,
                     "End": "*",
-                    "Map": 1627,
-                    "Name": "无尽冰凌",
-                    "Title": "沉眠",
+                    "Map": 1147,
+                    "Name": "SPT&功勋商城更新",
+                    "Title": "SPT&功勋商城更新",
                     "Redirect": "map|module",
-                    "Go": "1627;app/MainLineAdventureChapterPanel&&40020"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4534
-                    },
-                    "ID": 2667,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230811,
-                    "End": "*",
-                    "Map": 1627,
-                    "Name": "特密斯的执行官",
-                    "Title": "咫",
-                    "Redirect": "map|module",
-                    "Go": "1627;app/SpetZhiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2668,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230811,
-                    "End": 20230818,
-                    "Map": 1627,
-                    "Name": "芳息谷的封印",
-                    "Title": "芳息谷的封印",
-                    "Redirect": "map|module",
-                    "Go": "1627;app/FangXiGuGoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2669,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230811,
-                    "End": 20230818,
-                    "Map": 103,
-                    "Name": "罗开的折扣商店第7弹",
-                    "Title": "罗开的折扣商店",
-                    "Redirect": "map|module",
-                    "Go": "103;app/LuoKaiShop20220722MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2670,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230811,
-                    "End": 20230818,
-                    "Map": 103,
-                    "Name": "绝版精灵抽奖",
-                    "Title": "经典萌宠大集结",
-                    "Redirect": "map|module",
-                    "Go": "103;app/IndianaSpirit0505MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2671,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230811,
-                    "End": 20230825,
-                    "Map": 11920,
-                    "Name": "沐浴晨晖 幻曦归来",
-                    "Title": "晨晖神女·四九幻曦",
-                    "Redirect": "map|module",
-                    "Go": "11920;app/SiJiuHuanXi_BackPanel"
+                    "Go": "1147;app/PveRewardMallMainPanel"
                 },
                 {
                     "Details": {
@@ -44057,7 +44178,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2667,2668,2669,2670,2664"
+            "Important": "2673,2674,2675,2677,2678"
         }
     }
 }
