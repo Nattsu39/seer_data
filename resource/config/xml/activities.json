@@ -12755,6 +12755,58 @@
                     "Title": "晨晖神女·四九幻曦",
                     "Redirect": "map|module",
                     "Go": "11920;app/SiJiuHuanXi_BackPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2678,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "SPT&功勋商城更新",
+                    "Title": "SPT&功勋商城更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2672,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": "*",
+                    "Map": 1628,
+                    "Name": "云霄之间",
+                    "Title": "天际之灵",
+                    "Redirect": "map|module",
+                    "Go": "1628;app/MainLineAdventureChapterPanel&&70001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4537
+                    },
+                    "ID": 2673,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230818,
+                    "End": "*",
+                    "Map": 1628,
+                    "Name": "S-瑞迪卡",
+                    "Title": "瑞迪卡",
+                    "Redirect": "map|module",
+                    "Go": "1628;app/SpetRuiDiKaMainPanel"
                 }
             ]
         },
@@ -43945,6 +43997,57 @@
                     "Title": "经典萌宠大集结",
                     "Redirect": "map|module",
                     "Go": "103;app/IndianaSpirit0505MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2640,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230721,
+                    "End": 20230825,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "混元天尊巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2675,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": 20230825,
+                    "Map": 11897,
+                    "Name": "七夕躲猫猫大战",
+                    "Title": "浓情七夕 月墨相守",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/QixiThemeActivitiesGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2676,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230818,
+                    "End": 20230823,
+                    "Map": 1628,
+                    "Name": "墨秋的七夕礼盒",
+                    "Title": "墨秋的七夕礼盒",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号巅峰之战》完成签到，领取墨秋的七夕礼盒好礼吧！"
                 }
             ],
             "_text": [
@@ -44009,23 +44112,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2640,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230721,
-                    "End": 20230825,
-                    "Map": 103,
-                    "Name": "圣殿英雄团更新",
-                    "Title": "混元天尊巡回",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2663,
                     "isNew": 1,
                     "kinds": 1,
@@ -44041,49 +44127,14 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2672,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230818,
-                    "End": "*",
-                    "Map": 1628,
-                    "Name": "云霄之间",
-                    "Title": "天际之灵",
-                    "Redirect": "map|module",
-                    "Go": "1628;app/MainLineAdventureChapterPanel&&70001"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4537
-                    },
-                    "ID": 2673,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230818,
-                    "End": "*",
-                    "Map": 1628,
-                    "Name": "S-瑞迪卡",
-                    "Title": "瑞迪卡",
-                    "Redirect": "map|module",
-                    "Go": "1628;app/SpetRuiDiKaMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
+                        "mc": 1,
                         "monID": 4535
                     },
                     "ID": 2674,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
+                    "Type": 1,
                     "Start": 20230818,
                     "End": 20230901,
                     "Map": 103,
@@ -44091,40 +44142,6 @@
                     "Title": "诡魅浮踪·幽美",
                     "Redirect": "map|module",
                     "Go": "103;app/YoumeiSuperEvolutionMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2675,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230818,
-                    "End": 20230825,
-                    "Map": 11897,
-                    "Name": "七夕躲猫猫大战",
-                    "Title": "浓情七夕 月墨相守",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/QixiThemeActivitiesGoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2676,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230818,
-                    "End": 20230823,
-                    "Map": 1628,
-                    "Name": "墨秋的七夕礼盒",
-                    "Title": "墨秋的七夕礼盒",
-                    "Redirect": "alarm",
-                    "Go": "请前往《赛尔号巅峰之战》完成签到，领取墨秋的七夕礼盒好礼吧！"
                 },
                 {
                     "Details": {
@@ -44147,18 +44164,174 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2678,
+                    "ID": 2679,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20230818,
+                    "Start": 20230825,
                     "End": "*",
-                    "Map": 1147,
-                    "Name": "SPT&功勋商城更新",
-                    "Title": "SPT&功勋商城更新",
+                    "Map": 1629,
+                    "Name": "云霄之间",
+                    "Title": "宝石旅人",
                     "Redirect": "map|module",
-                    "Go": "1147;app/PveRewardMallMainPanel"
+                    "Go": "1629;app/MainLineAdventureChapterPanel&&70002"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2680,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230825,
+                    "End": "*",
+                    "Map": 1629,
+                    "Name": "命定时刻",
+                    "Title": "交涉",
+                    "Redirect": "map|module",
+                    "Go": "1629;app/MainLineAdventureChapterPanel&&80001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4539
+                    },
+                    "ID": 2681,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230825,
+                    "End": "*",
+                    "Map": 1629,
+                    "Name": "炎刃破斩 绝命剑士",
+                    "Title": "文森特",
+                    "Redirect": "map|module",
+                    "Go": "1629;app/SpetWenSengTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2682,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230825,
+                    "End": 20230901,
+                    "Map": 1629,
+                    "Name": "沙滩上的秘宝",
+                    "Title": "清凉沙滩",
+                    "Redirect": "map|module",
+                    "Go": "1629;app/SummerDaySandGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2683,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230825,
+                    "End": 20230922,
+                    "Map": 103,
+                    "Name": "圣殿英雄团",
+                    "Title": "圣光灵神巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4541
+                    },
+                    "ID": 2684,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230825,
+                    "End": 20230908,
+                    "Map": 1132,
+                    "Name": "限时活动莫塔里安",
+                    "Title": "莫塔里安",
+                    "Redirect": "map|module",
+                    "Go": "1132;app/MoTaLiAnChallengeEnter"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2685,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230825,
+                    "End": "*",
+                    "Map": 1629,
+                    "Name": "幽灯寻途",
+                    "Title": "囚徒",
+                    "Redirect": "map|module",
+                    "Go": "1629;app/MainLineAdventureChapterPanel&&50004"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2686,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230825,
+                    "End": 20230901,
+                    "Map": 103,
+                    "Name": "【复用】阿尔法熊特训",
+                    "Title": "阿尔法熊限时强化",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AlphaBearLimitedTimeUpMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4540
+                    },
+                    "ID": 2687,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230825,
+                    "End": 20230908,
+                    "Map": 1,
+                    "Name": "战队BOSS＆战队商人更新",
+                    "Title": "堕魂之手",
+                    "Redirect": "map|module",
+                    "Go": "1;app/WarTeamBossGotoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2688,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230825,
+                    "End": 20230908,
+                    "Map": 1,
+                    "Name": "战队BOSS＆战队商人更新",
+                    "Title": "战队军需官抵达",
+                    "Redirect": "map|module",
+                    "Go": "1;app/TeamBusinessMainPanel"
                 },
                 {
                     "Details": {
@@ -44178,7 +44351,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2673,2674,2675,2677,2678"
+            "Important": "2681,2683,2684,2686,2687"
         }
     }
 }

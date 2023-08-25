@@ -686,7 +686,7 @@
             "values_playerinfo": "",
             "show_loading": 0,
             "isFullScreen": 1,
-            "bgMaskAlpha": 0.4,
+            "bgMaskAlpha": 0,
             "destroyTime": 2,
             "ignoreBGMaskClick": 0
         },
@@ -5379,6 +5379,29 @@
             "show_loading": 1,
             "isFullScreen": 0,
             "bgMaskAlpha": 0.6,
+            "destroyTime": 2,
+            "ignoreBGMaskClick": 0
+        },
+        {
+            "id": 253,
+            "moduleDes": "精灵获得弹窗",
+            "moduleName": "petGetPop",
+            "pageName": "",
+            "res": "pet_get_pop",
+            "resEffect": "",
+            "resConfig": "",
+            "resXMLConfig": "",
+            "currAppDo": 2,
+            "values_forever": "",
+            "values_daily": "",
+            "values_bitBuf": "",
+            "values_dailybitBuf": "",
+            "values_weekly": "",
+            "values_weekly_bitBuf": "",
+            "values_playerinfo": "",
+            "show_loading": 1,
+            "isFullScreen": 1,
+            "bgMaskAlpha": 0,
             "destroyTime": 2,
             "ignoreBGMaskClick": 0
         }

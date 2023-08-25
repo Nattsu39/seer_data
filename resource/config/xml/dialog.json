@@ -46865,45 +46865,45 @@
                 "item": {
                     "dialog": [
                         {
-                            "npcName": "玖莉娜 ",
-                            "npcID": 4390,
-                            "dialogArr": "小赛尔，你来啦！冒险进行得如何了？",
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "嗨，小赛尔，欢迎来到碧玉沙滩。",
                             "questionArr": "…"
                         },
                         {
                             "npcName": "小赛尔 ",
                             "npcID": 5545,
-                            "dialogArr": "一切顺利！玖莉娜小姐背后这堆是……",
+                            "dialogArr": "你好呀，摩根。你这背后都是些什么呀？",
                             "questionArr": "…"
                         },
                         {
-                            "npcName": "玖莉娜 ",
-                            "npcID": 4390,
-                            "dialogArr": "是「原石」啦！漫长岁月的产物！",
-                            "questionArr": "喔喔！！"
-                        },
-                        {
-                            "npcName": "玖莉娜 ",
-                            "npcID": 4390,
-                            "dialogArr": "我和特雷弗一起搭了这个小铺子，来帮助冒险者们处理和寄售探险中发现的原石。这样特雷弗也能更快找到潜藏在原石中的“神秘宝藏”~",
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "你说这些石头啊，这些是最近退潮后，咱们发现的一些珍贵的原石，正准备拿去鉴定呢。",
                             "questionArr": "…"
                         },
                         {
                             "npcName": "小赛尔 ",
                             "npcID": 5545,
-                            "dialogArr": "那我也来帮忙！",
+                            "dialogArr": "听起来很有趣的样子！",
                             "questionArr": "…"
                         },
                         {
-                            "npcName": "玖莉娜 ",
-                            "npcID": 4390,
-                            "dialogArr": "欢迎呀！原石表面通常沉积了厚厚的硬壳，要切开才能知道里面的情况，切开部分的品质决定了原石寄售的价格。",
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "是的呢，你想试试吗？",
                             "questionArr": "…"
                         },
                         {
-                            "npcName": "玖莉娜 ",
-                            "npcID": 4390,
-                            "dialogArr": "喏！送你一块原石，来试试吧！0xff0000我总结了一些经验放在左上角，自取喔~0xffffff",
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "当然！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "来，先挑一块原石吧，看看你的运气如何。",
                             "questionArr": "好！"
                         }
                     ],
@@ -70213,6 +70213,400 @@
                 },
                 "activityID": 136,
                 "name": "20230804料理研究所"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "npcName": "堕魂之手 ",
+                            "npcID": 4540,
+                            "dialogArr": "哈……灵魂的气息！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "堕魂之手 ",
+                            "npcID": 4540,
+                            "dialogArr": "鲜嫩的灵魂！是藏在这些铁皮里么……给我，都给我！！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "雷蒙教官 ",
+                            "npcID": 5602,
+                            "dialogArr": "赛尔，集结队伍！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "剧情引导"
+                },
+                "activityID": 137,
+                "name": "20230825战队BOSS"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "此人收编流寇，屡屡来犯星域边境，以轻罪论处实属姑息。",
+                            "questionArr": "…"
+                        },
+                        "id": 1,
+                        "name": "泊莱德"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 2,
+                        "name": "泊莱德"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "即刻收监，考虑其武勇，未来或许仍可以为星域服役，暂不以不赦论处。",
+                            "questionArr": "…"
+                        },
+                        "id": 3,
+                        "name": "泊莱德"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 4,
+                        "name": "哲利斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "战场遗孤，身世浮沉，去其杀性，尚可还乡。",
+                            "questionArr": "…"
+                        },
+                        "id": 5,
+                        "name": "哲利斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "战场遗孤，身世浮沉，去其杀性，尚可还乡。",
+                            "questionArr": "…"
+                        },
+                        "id": 6,
+                        "name": "哲利斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "此人妖言惑众，挑起纷乱，罪加一等。",
+                            "questionArr": "…"
+                        },
+                        "id": 7,
+                        "name": "拉斯特"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 8,
+                        "name": "拉斯特"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "多为顺水推舟的蛊惑，不宜以不赦论处。",
+                            "questionArr": "…"
+                        },
+                        "id": 9,
+                        "name": "拉斯特"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "此人利用他人的愤怒，引发斗争，着重处理。",
+                            "questionArr": "…"
+                        },
+                        "id": 10,
+                        "name": "安格瑞"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 11,
+                        "name": "安格瑞"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "愤怒的感染不完全受其控制，尚有规束空间。",
+                            "questionArr": "…"
+                        },
+                        "id": 12,
+                        "name": "安格瑞"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 13,
+                        "name": "格拉托尼"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "缺乏自我意识的怪物，属于失控的野兽，对它而言“罪”没有意义。",
+                            "questionArr": "…"
+                        },
+                        "id": 14,
+                        "name": "格拉托尼"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "缺乏自我意识的怪物，属于失控的野兽，对它而言“罪”没有意义。",
+                            "questionArr": "…"
+                        },
+                        "id": 15,
+                        "name": "格拉托尼"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "神出鬼没，以他人的欲望为食，非常危险。",
+                            "questionArr": "…"
+                        },
+                        "id": 16,
+                        "name": "格利德"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 17,
+                        "name": "格利德"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "神出鬼没，以他人的欲望为食，非常危险，但还没那么危险。",
+                            "questionArr": "…"
+                        },
+                        "id": 18,
+                        "name": "格利德"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "鉴于是七罪之一，即刻收监，轻重之后再做决断",
+                            "questionArr": "…"
+                        },
+                        "id": 19,
+                        "name": "斯洛斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "你是？",
+                            "questionArr": "…"
+                        },
+                        "id": 20,
+                        "name": "斯洛斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "你是？",
+                            "questionArr": "…"
+                        },
+                        "id": 21,
+                        "name": "斯洛斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 22,
+                        "name": "塞纳留斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "飓风星云建设有功，光月分裂系意外事件，无主观意图，不以重罪论处。",
+                            "questionArr": "…"
+                        },
+                        "id": 23,
+                        "name": "塞纳留斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "飓风星云建设有功，光月分裂系意外事件，无主观意图，不以不赦论处。",
+                            "questionArr": "…"
+                        },
+                        "id": 24,
+                        "name": "塞纳留斯"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "多番袭击各个星域领土，造成经济损失无数，必须重罚。",
+                            "questionArr": "…"
+                        },
+                        "id": 25,
+                        "name": "千夜死神"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 26,
+                        "name": "千夜死神"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "出身特殊，应当收监交付，由极夜之眼的人进行后续处置。",
+                            "questionArr": "…"
+                        },
+                        "id": 27,
+                        "name": "千夜死神"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "组建百鬼军团，潜伏百年颠覆鬼界秩序，战争开始后更是八方征战，为宇宙带来太多灾厄。",
+                            "questionArr": "…"
+                        },
+                        "id": 28,
+                        "name": "百鬼夜王"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "组建百鬼军团，潜伏百年颠覆鬼界秩序，战争开始后更是八方征战，为宇宙带来太多灾厄。",
+                            "questionArr": "…"
+                        },
+                        "id": 29,
+                        "name": "百鬼夜王"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹，即刻打入无间地狱，受万世折磨，直至灵魂破碎。",
+                            "questionArr": "…"
+                        },
+                        "id": 30,
+                        "name": "百鬼夜王"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "他的灵魂已经不可治愈，随时有可能回到暴戾的状态。",
+                            "questionArr": "…"
+                        },
+                        "id": 31,
+                        "name": "泰坦"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "他的灵魂已经不可治愈，随时有可能回到暴戾的状态。",
+                            "questionArr": "…"
+                        },
+                        "id": 32,
+                        "name": "泰坦"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "罪罚相匹……即刻收监。",
+                            "questionArr": "…"
+                        },
+                        "id": 33,
+                        "name": "泰坦"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "……",
+                            "questionArr": "…"
+                        },
+                        "id": 34,
+                        "name": "瀚宇星皇"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "……",
+                            "questionArr": "…"
+                        },
+                        "id": 35,
+                        "name": "瀚宇星皇"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "莫塔里安",
+                            "npcID": 4541,
+                            "dialogArr": "请宽恕我，陛下。",
+                            "questionArr": "…"
+                        },
+                        "id": 36,
+                        "name": "瀚宇星皇"
+                    }
+                ],
+                "activityID": 138,
+                "name": "限时精灵莫塔里安"
             }
         ]
     }
