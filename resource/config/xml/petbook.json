@@ -1219,27 +1219,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4539,
-                        "ImageID": 4539,
+                        "ID": 4542,
+                        "ImageID": 4542,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1629;app/SpetWenSengTeMainPanel"
+                        "Go": "1630;app/SpetSJMingDeLiQiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4540,
-                        "ImageID": 4540,
+                        "ID": 4543,
+                        "ImageID": 4543,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1;app/WarTeamBossGotoPanel"
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4541,
-                        "ImageID": 4541,
+                        "ID": 4544,
+                        "ImageID": 4544,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1132;app/MoTaLiAnChallengeEnter"
+                        "Go": "1588;app/MonthlyPetInSeptember2023Panel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 564,
+                        "MonID": 4329,
+                        "ImageID": 1400564,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/NiKeSiSkinSell"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 565,
+                        "MonID": 4532,
+                        "ImageID": 1400565,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47843,7 +47861,7 @@
                 "Weight": 46,
                 "Features": "2023年8月包月精灵，十二星芒之一，大熊幻歌，星汉常明！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInAuguest2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4531,
@@ -47952,11 +47970,42 @@
                 "ID": 4541,
                 "DefName": "莫塔里安",
                 "Type": "远古 地面",
-                "Height": 68,
-                "Weight": 42,
+                "Height": 268,
+                "Weight": 92,
                 "Features": "本身是族内的翘楚，却犯下无法弥补的重罪，死后因为愧疚主动将自己囚禁在了铠甲之中，成为了泰坦监狱的执行官，灵魂在漫长时间中被消磨，失去了感情。",
                 "Redirect": "map|module",
                 "Go": "1132;app/MoTaLiAnChallengeEnter"
+            },
+            {
+                "ID": 4542,
+                "DefName": "视界·明德里奇",
+                "Type": "机械 次元",
+                "Height": 175,
+                "Weight": 71,
+                "Features": "「启明星」之耀星，明德里奇是个热衷于探寻真相的工作狂，他的左眼可以帮助他快速进行数据解析和模型演算。",
+                "Redirect": "map|module",
+                "Go": "1630;app/SpetSJMingDeLiQiMainPanel",
+                "jumptarget": "151/168"
+            },
+            {
+                "ID": 4543,
+                "DefName": "九青",
+                "Type": "圣灵 地面",
+                "Height": 162,
+                "Weight": 56,
+                "Features": "2023年9月巅峰圣战精灵……“有些约定，就是一开始便知道结局，也还是会义无反顾嘛……”九青看着手中的信封，呆呆的注视着望不到边际的北方。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4544,
+                "DefName": "天鹰·阿奎拉",
+                "Type": "混沌 飞行",
+                "Height": 177,
+                "Weight": 73,
+                "Features": "2023年9月包月精灵，十二星芒之一，天鹰引魂，星汉迷穹！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInSeptember2023Panel"
             }
         ]
     }

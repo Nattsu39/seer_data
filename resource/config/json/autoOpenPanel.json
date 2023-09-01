@@ -252,6 +252,28 @@
             "param2": "",
             "startTime": "2023/8/18",
             "endTime": "2023/8/23"
+        },
+        {
+            "id": 24,
+            "moduleId": 100,
+            "actionName": "勇者征程",
+            "controller": "AutoOpenWarriorJourneyController",
+            "state": 0,
+            "param1": "",
+            "param2": "",
+            "startTime": "",
+            "endTime": ""
+        },
+        {
+            "id": 25,
+            "moduleId": 254,
+            "actionName": "开学签到",
+            "controller": "AutoOpenDailySignInController",
+            "state": 1,
+            "param1": "121586",
+            "param2": "",
+            "startTime": "2023/9/1",
+            "endTime": "2023/9/4"
         }
     ]
 }
