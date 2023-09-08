@@ -12895,6 +12895,76 @@
                     "Title": "囚徒",
                     "Redirect": "map|module",
                     "Go": "1629;app/MainLineAdventureChapterPanel&&50004"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2690,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230901,
+                    "End": "*",
+                    "Map": 1630,
+                    "Name": "云霄之间",
+                    "Title": "审判",
+                    "Redirect": "map|module",
+                    "Go": "1630;app/MainLineAdventureChapterPanel&&70003"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4542
+                    },
+                    "ID": 2691,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230901,
+                    "End": "*",
+                    "Map": 1630,
+                    "Name": "界限瓦解 启明的耀星",
+                    "Title": "视界·明德里奇",
+                    "Redirect": "map|module",
+                    "Go": "1630;app/SpetSJMingDeLiQiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4544
+                    },
+                    "ID": 2696,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230901,
+                    "End": 20230928,
+                    "Map": 1588,
+                    "Name": "9月包月精灵",
+                    "Title": "天鹰·阿奎拉",
+                    "Redirect": "map|module",
+                    "Go": "1588;app/MonthlyPetInSeptember2023Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2697,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230901,
+                    "End": 20230915,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 }
             ]
         },
@@ -44256,6 +44326,91 @@
                     "Title": "魂王•暗翼影",
                     "Redirect": "map|module",
                     "Go": "1359;app/AnyihunwangEvoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2663,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230804,
+                    "End": 20230908,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2689,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230901,
+                    "End": 20230904,
+                    "Map": 1630,
+                    "Name": "开学签到",
+                    "Title": "开学签到领好礼",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号巅峰之战》完成签到，领取开学签到活动好礼吧！"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2694,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230901,
+                    "End": 20230908,
+                    "Map": 1095,
+                    "Name": "巅峰激励赛",
+                    "Title": "巅峰激励赛",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2695,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230901,
+                    "End": 20230908,
+                    "Map": 103,
+                    "Name": "倪克斯校园皮肤售卖",
+                    "Title": "蝶梦夜曲·倪克斯",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NiKeSiSkinSell"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2692,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230901,
+                    "End": 20230908,
+                    "Map": 11897,
+                    "Name": "追捕偷书贼",
+                    "Title": "喜迎开学季",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/SchoolOpensGoToMapPanel"
                 }
             ],
             "_text": [
@@ -44303,23 +44458,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2663,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230804,
-                    "End": 20230908,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2683,
                     "isNew": 1,
                     "kinds": 1,
@@ -44337,157 +44475,156 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2689,
+                    "ID": 2698,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20230901,
-                    "End": 20230904,
-                    "Map": 1630,
-                    "Name": "开学签到",
-                    "Title": "开学签到领好礼",
-                    "Redirect": "alarm",
-                    "Go": "请前往《赛尔号巅峰之战》完成签到，领取开学签到活动好礼吧！"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2690,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230901,
+                    "Start": 20230908,
                     "End": "*",
-                    "Map": 1630,
+                    "Map": 1631,
                     "Name": "云霄之间",
-                    "Title": "审判",
+                    "Title": "巨鲸",
                     "Redirect": "map|module",
-                    "Go": "1630;app/MainLineAdventureChapterPanel&&70003"
+                    "Go": "1631;app/MainLineAdventureChapterPanel&&70003"
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4542
+                        "mc": 2
                     },
-                    "ID": 2691,
+                    "ID": 2699,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230901,
+                    "Type": 2,
+                    "Start": 20230908,
                     "End": "*",
-                    "Map": 1630,
-                    "Name": "界限瓦解 启明的耀星",
-                    "Title": "视界·明德里奇",
+                    "Map": 1631,
+                    "Name": "命定时刻",
+                    "Title": "光瓮",
                     "Redirect": "map|module",
-                    "Go": "1630;app/SpetSJMingDeLiQiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2692,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230901,
-                    "End": 20230908,
-                    "Map": 11897,
-                    "Name": "追捕偷书贼",
-                    "Title": "喜迎开学季",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/SchoolOpensGoToMapPanel"
+                    "Go": "1631;app/MainLineAdventureChapterPanel&&80002"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4543
+                        "monID": 4546
                     },
-                    "ID": 2693,
+                    "ID": 2700,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20230901,
-                    "End": 20230928,
-                    "Map": 1095,
-                    "Name": "【双端】2023年9月巅峰联赛",
-                    "Title": "九青",
+                    "Start": 20230908,
+                    "End": "*",
+                    "Map": 1631,
+                    "Name": "瀚空翱翔 青鱼巨影",
+                    "Title": "巨鲸座",
                     "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                    "Go": "1631;app/SpetJuJingZuoMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2694,
+                    "ID": 2701,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20230901,
-                    "End": 20230908,
-                    "Map": 1095,
-                    "Name": "巅峰激励赛",
-                    "Title": "巅峰激励赛",
+                    "Start": 20230908,
+                    "End": 20230915,
+                    "Map": 1631,
+                    "Name": "集合面板",
+                    "Title": "码头奇遇",
                     "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardWeekPanel"
+                    "Go": "1631;app/MaTouQiYueGoToMapPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2695,
+                    "ID": 2702,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230901,
-                    "End": 20230908,
+                    "Start": 20230908,
+                    "End": 20230928,
                     "Map": 103,
-                    "Name": "倪克斯校园皮肤售卖",
-                    "Title": "蝶梦夜曲·倪克斯",
+                    "Name": "【双端】神谕进阶第8期-混沌·哈肯萨",
+                    "Title": "苦厄终幕 孤王悲歌",
                     "Redirect": "map|module",
-                    "Go": "103;app/NiKeSiSkinSell"
+                    "Go": "103;app/AdvancedPetMainPanel_3724"
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4544
+                        "mc": 2
                     },
-                    "ID": 2696,
+                    "ID": 2703,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230901,
-                    "End": 20230928,
-                    "Map": 1588,
-                    "Name": "9月包月精灵",
-                    "Title": "天鹰·阿奎拉",
+                    "Type": 2,
+                    "Start": 20230908,
+                    "End": 20231013,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统第十期",
                     "Redirect": "map|module",
-                    "Go": "1588;app/MonthlyPetInSeptember2023Panel"
+                    "Go": "1427;app/PropRecoveryS1Panel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2697,
+                    "ID": 2704,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230901,
+                    "Start": 20230908,
+                    "End": 2023106,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2705,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230908,
                     "End": 20230915,
                     "Map": 103,
-                    "Name": "钻石奖励更新",
-                    "Title": "钻石奖励更新",
+                    "Name": "艾欧丽娅特性升级&皮肤回归",
+                    "Title": "艾欧丽娅战力觉醒",
                     "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    "Go": "103;app/AoliaFeatureUpgradeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4545
+                    },
+                    "ID": 2706,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230908,
+                    "End": 20230915,
+                    "Map": 1,
+                    "Name": "码头奇遇",
+                    "Title": "多菲",
+                    "Redirect": "map|module",
+                    "Go": "1;app/MaTouQiYueGoToMapPanel"
                 },
                 {
                     "Details": {
@@ -44507,7 +44644,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2691,2693,2695,2696,2697"
+            "Important": "2700,2701,2702,2704,2705"
         }
     }
 }

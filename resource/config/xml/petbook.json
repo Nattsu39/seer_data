@@ -1219,45 +1219,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4542,
-                        "ImageID": 4542,
+                        "ID": 4545,
+                        "ImageID": 4545,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1630;app/SpetSJMingDeLiQiMainPanel"
+                        "Go": "1631;app/MaTouQiYueGoToMapPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4543,
-                        "ImageID": 4543,
+                        "ID": 4546,
+                        "ImageID": 4546,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4544,
-                        "ImageID": 4544,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1588;app/MonthlyPetInSeptember2023Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 564,
-                        "MonID": 4329,
-                        "ImageID": 1400564,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/NiKeSiSkinSell"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 565,
-                        "MonID": 4532,
-                        "ImageID": 1400565,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1631;app/SpetJuJingZuoMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47735,8 +47709,8 @@
                 "Height": 175,
                 "Weight": 56,
                 "Features": "2023年7月巅峰圣战精灵，右臂异化而成的长刀锋利无比，每当妖铃响起，就意味着又要有人焚陨于她的利刃之下。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4518,
@@ -47992,10 +47966,7 @@
                 "DefName": "九青",
                 "Type": "圣灵 地面",
                 "Height": 162,
-                "Weight": 56,
-                "Features": "2023年9月巅峰圣战精灵……“有些约定，就是一开始便知道结局，也还是会义无反顾嘛……”九青看着手中的信封，呆呆的注视着望不到边际的北方。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Weight": 56
             },
             {
                 "ID": 4544,
@@ -48006,6 +47977,27 @@
                 "Features": "2023年9月包月精灵，十二星芒之一，天鹰引魂，星汉迷穹！",
                 "Redirect": "map|module",
                 "Go": "1588;app/MonthlyPetInSeptember2023Panel"
+            },
+            {
+                "ID": 4545,
+                "DefName": "多菲",
+                "Type": "水 超能",
+                "Height": 86,
+                "Weight": 53,
+                "Features": "活泼可爱的海豚船长，不仅是巨鲸座的好伙伴，也是整座鲸鱼飞船的管理人。",
+                "Redirect": "map|module",
+                "Go": "1631;app/MaTouQiYueGoToMapPanel"
+            },
+            {
+                "ID": 4546,
+                "DefName": "巨鲸座",
+                "Type": "飞行 神秘",
+                "Height": 16000,
+                "Weight": 1700000,
+                "Features": "巨鲸座是翱翔于天空中身型庞大的鲸鱼飞船，他的背上是可以容纳千人的豪华邮轮状建筑，是布德区域最大的生物载具。",
+                "Redirect": "map|module",
+                "Go": "1631;app/SpetJuJingZuoMainPanel",
+                "jumptarget": "151/169"
             }
         ]
     }

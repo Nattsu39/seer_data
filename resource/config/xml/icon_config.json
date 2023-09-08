@@ -120,6 +120,15 @@
                 "shownewseer": 0,
                 "priority": 5,
                 "exMapList": 50000,
+                "ui": "yongzhezhengcheng_icon",
+                "tips": "勇者征程",
+                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 6,
+                "exMapList": 50000,
                 "ui": "classicSeer_icon",
                 "tips": "赛尔怀旧服",
                 "mouseClickFunc": "map:333"
