@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2023_9_8 00:00:00",
-            "showEnd": "2023_9_29 00:00:00",
-            "goto": "2_110_{ moduleID:187 }",
+            "showStart": "2023_9_15 00:00:00",
+            "showEnd": "",
+            "goto": "2_151_{Design:119}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2023_9_8 00:00:00",
+            "showStart": "2023_9_15 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:118}",
+            "goto": "2_108_{openPanel:\"7,5\"}",
             "page": 1
         },
         {
@@ -26,8 +26,8 @@
             "pic": 3,
             "tag": 0,
             "showStart": "2023_9_8 00:00:00",
-            "showEnd": "",
-            "goto": "2_108_{openPanel:\"7,4\"}",
+            "showEnd": "2023_9_29 00:00:00",
+            "goto": "2_110_{ moduleID:187 }",
             "page": 1
         },
         {
@@ -37,28 +37,28 @@
             "tag": 0,
             "showStart": "2023_9_8 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"8,2\"}",
+            "goto": "2_144_{ panelName:\"MALL\" }",
             "page": 1
         },
         {
             "id": 5,
-            "type": 1,
-            "pic": 5,
+            "type": 0,
+            "pic": 0,
             "tag": 0,
-            "showStart": "2023_9_8 00:00:00",
+            "showStart": "",
             "showEnd": "",
-            "goto": "2_144_{ panelName:\"MALL\" }",
-            "page": 2
+            "goto": "",
+            "page": 0
         },
         {
             "id": 6,
-            "type": 1,
-            "pic": 6,
+            "type": 0,
+            "pic": 0,
             "tag": 0,
-            "showStart": "2023_9_8 00:00:00",
+            "showStart": "",
             "showEnd": "",
-            "goto": "2_110_{ moduleID:188 }",
-            "page": 2
+            "goto": "",
+            "page": 0
         },
         {
             "id": 7,
@@ -203,15 +203,25 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4546,
+            "pic": 4547,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:119}",
+            "page": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "pic": 4546,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:118}",
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4542,
             "tag": 0,
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 23,
+            "id": 24,
             "type": 2,
             "pic": 4539,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 24,
+            "id": 25,
             "type": 2,
             "pic": 4537,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:115}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4534,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:114}",
             "page": 0
         }
     ]
