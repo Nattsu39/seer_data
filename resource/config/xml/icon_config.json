@@ -33,6 +33,15 @@
                 "mouseClickFunc": "app:TempleHeroAltarPrePanel"
             },
             {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "diamondCard_icon",
+                "tips": "国庆钻石金卡",
+                "mouseClickFunc": "app:NationalDayDimandCardMainPanel"
+            },
+            {
                 "direction": "left_side",
                 "shownewseer": 0,
                 "priority": 1,
@@ -152,13 +161,31 @@
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
             },
             {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "DiDuoReturnEvent_icon",
+                "tips": "赛尔号IP回归活动",
+                "mouseClickFunc": "app:ActivityBackPopupPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "K13StarRegression_icon",
+                "tips": "K13星回归特典",
+                "mouseClickFunc": "mapApp:1634,K13StarRegressionGoToMapPanel"
+            },
+            {
                 "direction": "right_side",
                 "shownewseer": 0,
                 "priority": 2,
                 "exMapList": 50000,
                 "ui": "H5icon",
                 "tips": "赛尔号经典版",
-                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"
+                "mouseClickFunc": "url:http://seerh5.61.com/"
             },
             {
                 "direction": "right_side",

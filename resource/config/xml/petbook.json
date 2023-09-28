@@ -1216,40 +1216,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4549,
-                        "ImageID": 4549,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1633;app/SpetAnMuNeiTeMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4550,
-                        "ImageID": 4550,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1633
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4551,
-                        "ImageID": 4551,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1633
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4552,
-                        "ImageID": 4552,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4556,
+                    "ImageID": 4556,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1636;app/SpetChenXiYouLongMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -35349,8 +35323,7 @@
                 "Type": "普通",
                 "Height": 160,
                 "Weight": 60,
-                "Features": "是风之一族中神秘的外族来客，抚养飞镰长大，被飞镰亲切地称为普罗爷爷！",
-                "mapID": 1196
+                "Features": "是风之一族中神秘的外族来客，抚养飞镰长大，被飞镰亲切地称为普罗爷爷！"
             },
             {
                 "ID": 3216,
@@ -46312,8 +46285,8 @@
                 "Height": 153,
                 "Weight": 67,
                 "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”",
-                "Redirect": "alarm",
-                "Go": "精灵已绝版！"
+                "Redirect": "map|module",
+                "Go": "1634;app/SpetQTPanel"
             },
             {
                 "ID": 4379,
@@ -48053,6 +48026,48 @@
                 "Features": "2023年10月巅峰圣战精灵，以祷告天使形象示人，神圣的白羽昭示着其拥有极致的光之力量。",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4553,
+                "DefName": "万里春·北鸟",
+                "Type": "光 飞行",
+                "Height": 172,
+                "Weight": 51,
+                "Features": "烟波浮云忽入梦，万翠千红又是春。北鸟是布德区域的首领，她一直希望能将布德发展成为一个繁荣祥和之地，她独坐笼中，守望云霄，纸鹤翩翩舞，不见燕归巢。",
+                "Redirect": "map|module",
+                "Go": "1634;app/SpetWLCBeiNiaoMainPanel",
+                "jumptarget": "151/172"
+            },
+            {
+                "ID": 4554,
+                "DefName": "圣谕邪魇",
+                "Type": "混沌 圣灵",
+                "Height": 192,
+                "Weight": 86,
+                "Features": "本是神明堕落后的形态，如今却成为了邪影梦魇所追寻的终点。远古的血脉支撑着他身躯稳定的同时也在被两股矛盾的力量不断消磨，但在崩坏的临界点到来之前，他还不会倒下。",
+                "Redirect": "map|module",
+                "Go": "103;app/GetShengYuXieMoMainPanel"
+            },
+            {
+                "ID": 4555,
+                "DefName": "猎户·欧莱恩",
+                "Type": "火 战斗",
+                "Height": 169,
+                "Weight": 63,
+                "Features": "2023年10月包月精灵，十二星芒之一，猎户焚野，星汉追猎！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInOctober2023Panel"
+            },
+            {
+                "ID": 4556,
+                "DefName": "尘息游龙",
+                "Type": "远古 龙",
+                "Height": 2500,
+                "Weight": 1300,
+                "Features": "在创世塔周围游荡的龙形精灵，从尘沙中孕育而生，在沙暴之中的移动速度很快，被击破后会化为尘沙再次融入到沙尘暴之中。",
+                "Redirect": "map|module",
+                "Go": "1636;app/SpetChenXiYouLongMainPanel",
+                "jumptarget": "151/173"
             }
         ]
     }

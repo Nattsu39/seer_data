@@ -24,7 +24,7 @@
                 "effectId": 2,
                 "effectName": "决斗",
                 "effectType": 1,
-                "effectDesc": "以PP值发动进攻",
+                "effectDesc": "扣除消耗后，以剩余PP值发动进攻",
                 "effectConsume": 3,
                 "limitCond": 0,
                 "selfAttrDyChgBefore": 0,
@@ -44,7 +44,7 @@
             },
             {
                 "effectId": 4,
-                "effectName": "决战",
+                "effectName": "全面进攻",
                 "effectType": 1,
                 "effectDesc": "以己方攻击、防御、PP值分别进行进攻，",
                 "effectConsume": 1,
@@ -92,7 +92,7 @@
             },
             {
                 "effectId": 10,
-                "effectName": "希望",
+                "effectName": "沉着",
                 "effectType": 2,
                 "effectDesc": "令自身冷静+2",
                 "effectConsume": 1,
@@ -108,7 +108,7 @@
             },
             {
                 "effectId": 12,
-                "effectName": "坚定",
+                "effectName": "蓄势",
                 "effectType": 2,
                 "effectDesc": "令自身PP+3",
                 "effectConsume": 0,
@@ -351,7 +351,7 @@
                 "effectType": 4,
                 "effectDesc": "令对手攻击、防御变回原本值",
                 "effectConsume": 7,
-                "selfAttrDyChgBefore": "1/5/0/3;2/5/0/2"
+                "otherAttrDyChgBefore": "1/5/0/3;2/5/0/2"
             },
             {
                 "effectId": 40,

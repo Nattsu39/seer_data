@@ -70599,235 +70599,1646 @@
                 "item": [
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "根据苏克教给我的知识，起草了一份简单的设计图，最关键的部分已经完成了，还剩下其他部分要再努力。",
                             "questionArr": "…"
                         },
                         "id": 3,
-                        "name": "A1"
+                        "name": "第1阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "没想到其他部分也一样复杂，当然还要加上我的小logo啦，嘿嘿。",
                             "questionArr": "…"
                         },
                         "id": 4,
-                        "name": "A2"
+                        "name": "第2阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "支架也要做成可调节尺寸的吧，虽然对我来说有点太高了哈哈哈，感觉马上就完成了！",
                             "questionArr": "…"
                         },
                         "id": 5,
-                        "name": "A3"
+                        "name": "第3阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "这里和赛尔号上还真是不一样，有很多东西用流通的货币就可以直接买到，不过这些还远远不够。",
                             "questionArr": "…"
                         },
                         "id": 6,
-                        "name": "A4"
+                        "name": "第4阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "嗯，还差一点，希望这些部件到时候不会出错。",
                             "questionArr": "…"
                         },
                         "id": 7,
-                        "name": "A5"
+                        "name": "第5阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "按照设计图的一点点来，最开始也是最关键的部分，负责收集并聚焦光线的主镜部分。",
                             "questionArr": "…"
                         },
                         "id": 8,
-                        "name": "A6"
+                        "name": "第6阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "对准器和和调焦装也要仔细一点，不然看到的东西可能会糊糊的不清楚。",
                             "questionArr": "…"
                         },
                         "id": 9,
-                        "name": "A7"
+                        "name": "第7阶段首次触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "最后安装下支架，然后检查一下各个功能有没有问题，这次可不能再出错了！",
                             "questionArr": "…"
                         },
                         "id": 10,
-                        "name": "A8"
+                        "name": "第8阶段首次触发"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "天文望远镜已经组装完成了！蒂朵一定会喜欢这份礼物！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "现在就去【漫游K13星】前往【观景露台】去找蒂朵吧！",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 11,
-                        "name": "B1"
+                        "name": "结束剧情提示"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "天文望远镜已经送出去了，这里就只剩一张当初设计时用到的图纸了。",
                             "questionArr": "…"
                         },
                         "id": 12,
-                        "name": "B2"
+                        "name": "剧情完成后提示"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "天气渐渐转凉了，但泳馆还是十分热闹啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "看到青啼了，他好像在帮忙维持泳馆的秩序，就不打扰他了吧~",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 13,
-                        "name": "G1"
+                        "name": "随便逛逛1-灵籁泳馆（白天）"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "快傍晚了，泳馆里正在进行清洁工作。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "蒂朵哪儿去了？莫非去练歌或者去别的地方工作了？我还是先回去吧。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 14,
-                        "name": "G2"
+                        "name": "随便逛逛2-灵籁泳馆（黄昏）"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "舞台上是沧岚和欧德奈瑞，他们似乎在讨论歌曲的演奏方式。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "台下有许多工作人员，能感受到些许紧张又热情的气氛。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 15,
-                        "name": "G3"
+                        "name": "随便逛逛3-星璨舞台"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "商业街不管是什么时候，都有这么多来来往往的顾客。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不过一个人逛街就有些无聊了，还是回去吧。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 16,
-                        "name": "G4"
+                        "name": "随便逛逛4-旺达商业街"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "图书馆很安静，大家都在忙着自己手头的事情。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我也来试着挑一本书来看看吧，1…2…3…,就这本了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "竟然是《XXXXXXX》！",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 17,
-                        "name": "G5"
+                        "name": "随便逛逛5-天空图书馆"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "果然一到饭点，这家餐厅就要排队取号，第一天来的时候运气还真是好。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "去别的地方买点吃的应付一下吧。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 18,
-                        "name": "G6"
+                        "name": "随便逛逛6-沸腾餐吧"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "安卡",
+                                "npcID": 5696,
+                                "dialogArr": "这里画歪了哦，你把手这样放，然后笔这样下来，就可以固定了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "安卡",
+                                "npcID": 5696,
+                                "dialogArr": "你看我动作，就像这样。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "哇，真得诶。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "谢谢安卡姐姐！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "安卡",
+                                "npcID": 5696,
+                                "dialogArr": "难得来一次，不去玩玩么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "有去玩啦，还有罗杰船长交给我的任务呢，不过我也有自己想做的事情啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "安卡",
+                                "npcID": 5696,
+                                "dialogArr": "好吧，年轻真好哈哈哈。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 19,
-                        "name": "GT1"
+                        "name": "随便逛逛绘制图纸阶段-特殊触发"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "萨特",
+                                "npcID": 5692,
+                                "dialogArr": "什么？你说制作天文望远镜的材料？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "是啊，萨特大伯，你有什么好的建议吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "萨特",
+                                "npcID": 5692,
+                                "dialogArr": "虽然你叫我大伯，我不太开心，但我还是帮帮你吧，毕竟现在愿意自己动手制作的人是越来越少了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "萨特",
+                                "npcID": 5692,
+                                "dialogArr": "看看我这个架子鼓，当时我先学习了一个月，然后又花了一个月时间…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "那个…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "萨特",
+                                "npcID": 5692,
+                                "dialogArr": "哦哦，对了，你说的那个材料，我女儿学校里正好有，我今晚回去就去帮你问问。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "真的吗？太好了！谢谢，萨特大…帅哥！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "萨特",
+                                "npcID": 5692,
+                                "dialogArr": "孺子可教也！",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 20,
-                        "name": "GT2"
+                        "name": "随便逛逛收集材料阶段-特殊触发"
                     },
                     {
-                        "dialog": {
-                            "npcName": "我",
-                            "npcID": 5545,
-                            "dialogArr": "。",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "莫妮卡姐姐！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "诶？赛尔，听说你来这一个月就要走了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "对的，不过你是听谁说的？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "蒂朵啊，还能有谁，我上午在图书馆借书的时候碰到的她。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "蒂朵她还是经常去天空图书馆那里的天文馆吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "天文馆？不不不，我说的是这附近的小图书馆。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "她之前一段时间也确实跑到很远的天空图书馆，不过最近就没去了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "啊？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "你看，我上午刚借的两本书。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "《精密仪器护理须知》？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "这个啊，是一些保养衣服的仪器啦，我还是想多注意注意。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "能借我先用一下吗？我两天后就还给你！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "莫妮卡",
+                                "npcID": 5695,
+                                "dialogArr": "额…我倒是还不急着用，给你吧，记得爱护它哦！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "那当然，谢谢莫妮卡！",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 21,
-                        "name": "GT3"
+                        "name": "随便逛逛拼装组件阶段-特殊触发"
                     },
                     {
                         "dialog": {
-                            "npcName": "我",
+                            "index": 1,
+                            "npcName": "赛尔",
                             "npcID": 5545,
-                            "dialogArr": "。",
+                            "dialogArr": "还是多花点时间准备礼物吧。",
                             "questionArr": "…"
                         },
                         "id": 22,
-                        "name": "GT0"
+                        "name": "随便逛逛次数上限"
                     }
                 ],
                 "activityID": 140,
-                "name": "20230929预留"
+                "name": "20230929蒂朵输出活动剧情"
             },
             {
-                "item": {
-                    "dialog": {
-                        "npcName": "我",
-                        "npcID": 5545,
-                        "dialogArr": "。",
-                        "questionArr": "…"
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "派特博士",
+                                "npcID": 5603,
+                                "dialogArr": "小赛尔，是不是很紧张？根据原定计划，预计跃迁时间是10分钟后。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "没有问题，所有收集数据的仪器我也都检查过了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "工程师苏克",
+                                "npcID": 5590,
+                                "dialogArr": "对了，赛尔，那个东西带了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "放心，苏克帮我精心制作的东西我怎么可能忘记呢！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "跃迁过去后记得，你必须在规定时间内返航，强制返航可能会出问题，你最好在目标地点等待，千万不能错过时间，知道么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "了解！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "卫兵",
+                                "npcID": 5712,
+                                "dialogArr": "赛尔探索先遣队已经准备完毕了，可以进行跃迁。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "罗杰船长",
+                                "npcID": 5563,
+                                "dialogArr": "好，赛尔，准备出发！注意安全！记得代赛尔号的各位问好。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我出发了！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": 1
                     },
-                    "id": 1,
-                    "name": 1
-                },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "是K13星！这里真的是K13星！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我记得这里之前是一条普普通通的街道，没想到现在这么繁华了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "对了，我得先去找找蒂朵。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "不过，这里人好多啊…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "你是…小赛尔？你怎么会在这里？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "蒂朵，好久不见！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "哈哈，我在外面和客户对接东西，刚刚结束。没想到一转头就看见你了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我有个…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "对了，你肚子饿不饿？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "离我回去上班还有一段时间，要不要去吃点东西？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嗯，好啊！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "这些都是你喜欢的菜，还记得吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "当然记得，真是熟悉的味道啊！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "诶，对了，青啼呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "他在灵籁泳馆帮忙呢，你倒是提醒我了，我还要帮他带点好吃的回去，毕竟答应过他的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "你是怎么来的啊？突然一下就出现了，太神奇了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "啊，那个，是这样的，当时我们捕捉到了神秘的信号，后来发现是来自K13星，然后就交给赛尔探索先遣队了，他们努力地靠近信号源并建立起了跃迁通道。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "跃迁通道，听起来相当复杂呢，不过我有听我父母讲过一点类似的东西。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "罗杰船长告诉我，我只能在这里停留一个月不到的时间，所以…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "这样啊…那…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "（电话铃声…）啊抱歉，我接个电话…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "（电话中…）嗯嗯，我了解了，我马上回来。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "不好意思啊，小赛尔，我还有点工作，等下吃好东西我就该直接回去了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "没问题，我能理解。对了…这个！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "这个是？莫非是给我的礼物？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 15,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "当然！这个是我亲手做的八音盒！你按下按钮试试看，绝对会吓一跳！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 16,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "哈哈哈，好，我这就来试试！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 17,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 18,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "好像…没反应？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 19,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "诶，不可能啊，应该会播放歌曲的啊！等下，我检查一下。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 20,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我出发前还检查过，难道说是跃迁的时候把它弄坏了…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 21,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "这可怎么办才好…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 22,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "（接过礼物）没关系，光是这个我就已经很喜欢了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 23,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "可是…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 24,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "小赛尔！谢谢你！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 25,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "那个，青啼要吃的我也打包好了，我就先走了，之后再联系！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 26,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "好，路上小心~",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "虽然蒂朵开心地收下了我的礼物，但总感觉心里不是滋味。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "好不容易才来到了K13星，这段时间里除了完成罗杰船长交代的任务，我要给蒂朵再准备一份正式的礼物。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "对了，我可以去问问蒂朵的朋友们！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "或许，我可以做一个天文望远镜送给蒂朵。这样她就不用每次跑来天文台这么辛苦了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "岚",
+                                "npcID": 5691,
+                                "dialogArr": "好主意！不过这可不容易哦，你一个人可以么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嗯…我先研究下，不过你一定要帮我保密！我想给蒂朵一个惊喜！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "岚",
+                                "npcID": 5691,
+                                "dialogArr": "没问题，有困难了记得来找我们帮忙。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": 1
+                    }
+                ],
                 "activityID": 141,
-                "name": "20230929预留开始"
+                "name": "20230929蒂朵输出活动开始剧情"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "蒂朵！ ",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "小赛尔，我正好也有事情要找你！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "不过等等，你背后这么大个东西是…你是徒步背上来的吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嘿咻，勇敢赛尔，不怕困难！快打开看看吧！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "是一个…天文望远镜！不过这个款式我怎么没有见过啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "那当然，是我亲手制作的，而且我已经试过了，这次肯定没问题。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "但，你为什么要送我这个，你不是已经给了我一份礼物了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "难道我不能送两个礼物吗？我听你的朋友们说，你最近好像很沉迷天文学，还去天空图书馆顶层的天文馆。而且，就是说，之前的那个礼物被我弄坏了…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我想着，你应该是还没有这个。这样的话，你就可以挑自己喜欢的时间，去想去的地方看星星啦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "原来是这样…谢谢你。其实真的不用那么在意礼物坏了的事情。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "额，是不喜欢这个新礼物吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 12,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "没有，我特别喜欢！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 13,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "我来的这段时间，都没有听你提起过天文相关的东西，听你的朋友们说，你最近也没有再去天文馆了…所以我还纠结，是不是你已经对这方面的事情不感兴趣了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 14,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "原来你还打听了这么多，其实，我会迷上天文学是因为…",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "青啼，你说赛尔号真的存在吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "青啼",
+                                "npcID": 4378,
+                                "dialogArr": "呀唔！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "可是我听之前大学里天文学的老师说，没有这种星球，也没有这种飞船。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "青啼",
+                                "npcID": 4378,
+                                "dialogArr": "哈唔哈唔？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "也是，或许是现在的科技还没有能力捕捉探知到，我所经历的事情总归能解释的通的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "青啼",
+                                "npcID": 4378,
+                                "dialogArr": "哇唔？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "没事，青啼，你先睡，我记得欧德奈瑞以前是天文学习小组的，我去请教一下。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "沧岚",
+                                "npcID": 5689,
+                                "dialogArr": "什么？你不参加游泳社了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "是啊，最近对天文观测有点兴趣，所以我申请了天文社。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "沧岚",
+                                "npcID": 5689,
+                                "dialogArr": "你还要照顾泳馆的工作，还要来练歌，忙得过来吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "没问题，实在不行，这不是有大家在吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "沧岚",
+                                "npcID": 5689,
+                                "dialogArr": "哈哈，看来小青啼又要忙起来了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "岚？难得看见你来图书馆学习。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "岚",
+                                "npcID": 5691,
+                                "dialogArr": "什么话，搞得我好像从来不学习一样。你来这里是…？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "我去楼上，天文馆。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "岚",
+                                "npcID": 5691,
+                                "dialogArr": "嗯哼，没想到你还对天文感兴趣。不对，现在还是白天啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "蒂朵",
+                                "npcID": 4377,
+                                "dialogArr": "天文望远镜的使用要提前预约，所以我来登记一下。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "岚",
+                                "npcID": 5691,
+                                "dialogArr": "原来是这样。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "艾希丝",
+                                "npcID": 5697,
+                                "dialogArr": "诶，蒂朵？怎么这么晚了还没回家？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "艾希丝，奥，我就来这里散散心，这里的夜景真的不错。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "艾希丝",
+                                "npcID": 5697,
+                                "dialogArr": "确实，夏天的夜空还是很美的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "那艾希丝也是来…？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "艾希丝",
+                                "npcID": 5697,
+                                "dialogArr": "不是，我来抓岚这个小子回家，既然你们没有练歌，那我就去萨特那边看看。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "啊，原来是这样。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "艾希丝",
+                                "npcID": 5697,
+                                "dialogArr": "嗯嗯，就这样，回见~",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 8,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 9,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "盛夏已经接近尾声…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 10,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "你说，我们将注定再相见。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 11,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "但我却好像寻不到你的踪迹。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 5,
+                        "name": 1
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "原来是这样…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "想见的人就在眼前，就不用再去做那些不必要的事情了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "啊，那这个望远镜岂不是…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "没关系，你不在的时候，我都会好好使用它的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "另外，这个给你。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嗯？这个八音盒不是我之前送你的吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 7,
+                                "npcName": "蒂朵",
+                                "npcID": 5766,
+                                "dialogArr": "是的，你按下按钮看看。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": 1
+                    }
+                ],
+                "activityID": 142,
+                "name": "20230929蒂朵输出活动结束剧情"
             },
             {
                 "item": {
-                    "dialog": {
-                        "npcName": "我",
-                        "npcID": 5545,
-                        "dialogArr": "。",
-                        "questionArr": "…"
-                    },
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "好气派的飞船啊——",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "瓦普特",
+                            "npcID": 4414,
+                            "dialogArr": "这可是伟大工艺的结晶。我现在打算去一趟里里维斯，通行许可快到期了，必须去更新一下才可以。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "瓦普特",
+                            "npcID": 4414,
+                            "dialogArr": "但还要去其他三个地方，总感觉时间要来不及了。（盯…）",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "怎…怎么了？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "瓦普特",
+                            "npcID": 4414,
+                            "dialogArr": "听东辉说你是个能说会道的家伙，不如帮我个忙，去其他三个地区要一下通行许可，正好船舱里还有不少好东西。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "倒也可以，需要我注意什么吗？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "瓦普特",
+                            "npcID": 4414,
+                            "dialogArr": "不用，直接报上我的大名，要是不肯给，就说我会武力伺候，反正他们也都尝过瓦普特号的炮弹了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "好野蛮的做法…",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "瓦普特",
+                            "npcID": 4414,
+                            "dialogArr": "你说什么？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 10,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "啊，我是说…我是说，耶！！好Man啊！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 11,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "不过，我们或许可以改变一下外交战略，说不准瓦普特和四位领主的关系也会变得更加好哦。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 12,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "不妨先改变一下形象如何，或者我去找领主们都商量一下。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 13,
+                            "npcName": "瓦普特",
+                            "npcID": 4414,
+                            "dialogArr": "呵，多此一举，随你想干什么，帮我要到了三位通行许可就好，我先去里里维斯了，回见！",
+                            "questionArr": "…"
+                        }
+                    ],
                     "id": 1,
                     "name": 1
                 },
-                "activityID": 142,
-                "name": "20230929预留结束"
+                "activityID": 143,
+                "name": "20230928费尤巡游航线"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "南霜大人！瓦普特号在弗罗斯特地区的通行许可快要到期，特来申请更新！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "不破帝·南霜",
+                            "npcID": 4511,
+                            "dialogArr": "她自己怎么不来？新的通行许可我倒是准备好了，不过我也不能放心交给你，要是你弄丢了可是很麻烦的事情。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "放心，我一定会好好保管的！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "不破帝·南霜",
+                            "npcID": 4511,
+                            "dialogArr": "你听说过凌天寂帝枪吗？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "啊……不是，等等，我们可不提倡暴力解决问题啊，而且我保管东西也是靠我的聪明才智！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "不破帝·南霜",
+                            "npcID": 4511,
+                            "dialogArr": "聪明才智？那也好，完成我的试炼我就认可你的聪明才智，不仅可以给你通行许可，我这还有别的好东西。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "好说好说。对了，我建议瓦普特改变一下自己的形象，南霜大人有什么好的建议吗？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "不破帝·南霜",
+                            "npcID": 4511,
+                            "dialogArr": "改变形象？我觉得她现在这样就挺好的，随时就能准备战斗的姿态，我还挺欣赏的。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "额…原来是这样吗？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 10,
+                            "npcName": "不破帝·南霜",
+                            "npcID": 4511,
+                            "dialogArr": "嗯？莫非你…",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 11,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "我要先去完成试炼了！一会儿见！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": 1
+                },
+                "activityID": 144,
+                "name": "20230928南霜的试炼"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "天奔流·东辉",
+                            "npcID": 4422,
+                            "dialogArr": "原来是瓦普特让你来的呀，普兰多地区的通行许可，你不提醒我我都快忘了。 ",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "是的，瓦普特号在费尤航行需要各个区域的通行许可。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "天奔流·东辉",
+                            "npcID": 4422,
+                            "dialogArr": "通行许可我可以给你，不过需要你先帮我一个忙。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "需要我做什么呢？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "天奔流·东辉",
+                            "npcID": 4422,
+                            "dialogArr": "普兰多正在进行布防规划，但城市目前的情况让一部分居民心有不满，当务之急是需要获取他们的信任，我暂时抽不开身，需要你去和城里的居民们沟通一下。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "我最擅长打……咳咳，总之， 这件事就交给我吧！还有件事情是，有没有适合瓦普特穿的比较时尚的衣服？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "天奔流·东辉",
+                            "npcID": 4422,
+                            "dialogArr": "嗯？哈哈哈，这肯定不是瓦普特自己的意思吧，你想给她送个礼物？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "我是觉得可以改变一下她自己的风格，没准可以有不一样的收获，所以我才找你们打听打听。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "天奔流·东辉",
+                            "npcID": 4422,
+                            "dialogArr": "我真是对你越来越感兴趣了，普兰多地区有很多服饰店，你可以去城里的时候看看。哦对了，从居民那里获得的信任点数还可以来我这里兑换奖励。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 10,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "怎么还是让我自己去打听啊，东辉大人…",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 11,
+                            "npcName": "天奔流·东辉",
+                            "npcID": 4422,
+                            "dialogArr": "好了，时间不等人，青春就像朝阳，是时候去挥洒汗水了，回见！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": 1
+                },
+                "activityID": 145,
+                "name": "20230928东辉的委托"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "啊，这个屏障，怎么回事？！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "万里春·北鸟",
+                            "npcID": 4553,
+                            "dialogArr": "何人？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "北鸟大人！我替瓦普特来拿通行许可啦~",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "万里春·北鸟",
+                            "npcID": 4553,
+                            "dialogArr": "瓦普特？今年她没有炮轰过来可是谢天谢地了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "是啊是啊，特地派了我这个友善的使者来。如果瓦普特也能学着友善一点是不是也不用那么麻烦了？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "万里春·北鸟",
+                            "npcID": 4553,
+                            "dialogArr": "倒也是，我早就和她说过这个事情，可她就是听不进去。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "那改天，就让北鸟大人好好给瓦普特改造一下形象吧！说起来，那个通行许可…",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "万里春·北鸟",
+                            "npcID": 4553,
+                            "dialogArr": "诶呀，那个通行许可，我想着瓦普特肯定二话不说就会开炮，所以我特地加了许多防护罩保护。只能麻烦你去解开之后去拿一下啦~",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "啊……好吧，那只能辛苦我自己了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 10,
+                            "npcName": "万里春·北鸟",
+                            "npcID": 4553,
+                            "dialogArr": "别太难过，解开屏障后我给你准备了一些小礼物，记得来我这兑换奖励哦。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 11,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "好，现在我又动力满满了！不过破解屏障的话，我得找波尔莫和派利尔帮一下忙。",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": 1
+                },
+                "activityID": 146,
+                "name": "20230928北鸟的考验"
             }
         ]
     }
