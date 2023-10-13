@@ -1216,14 +1216,42 @@
         },
         "Hotspot": {
             "item": {
-                "place": {
-                    "type": 0,
-                    "ID": 4556,
-                    "ImageID": 4556,
-                    "Label": 0,
-                    "Redirect": "map|module",
-                    "Go": "1636;app/SpetChenXiYouLongMainPanel"
-                },
+                "place": [
+                    {
+                        "type": 0,
+                        "ID": 4557,
+                        "ImageID": 4557,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1637;app/SpetHongYueJiSiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4558,
+                        "ImageID": 4558,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/HarvestDayCollectionPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 570,
+                        "MonID": 3820,
+                        "ImageID": 1400570,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 571,
+                        "MonID": 4552,
+                        "ImageID": 1400571,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                    }
+                ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -45261,8 +45289,7 @@
                 "Weight": 51,
                 "Features": "伴随着耀眼的光辉，最后的光明女神终于降临！吾等以圣光的名义起誓，所到之处，黑暗必将溃败散尽，罪恶必将经受审判！",
                 "Redirect": "map|module",
-                "Go": "1513;app/SPetATeLuoBoSiPanel",
-                "jumptarget": "151/46"
+                "Go": "1513;app/SPetATeLuoBoSiPanel"
             },
             {
                 "ID": 4279,
@@ -48068,6 +48095,27 @@
                 "Redirect": "map|module",
                 "Go": "1636;app/SpetChenXiYouLongMainPanel",
                 "jumptarget": "151/173"
+            },
+            {
+                "ID": 4557,
+                "DefName": "红月祭司",
+                "Type": "超能 神秘",
+                "Height": 166,
+                "Weight": 61,
+                "Features": "红月祭司，经常在教堂内为民众指点迷津，在调和掌握了石榴石与月亮两者间的联系后，能够汇聚强大的秘法力量。",
+                "Redirect": "map|module",
+                "Go": "1637;app/SpetHongYueJiSiMainPanel",
+                "jumptarget": "151/174"
+            },
+            {
+                "ID": 4558,
+                "DefName": "麦汪汪",
+                "Type": "普通",
+                "Height": 103,
+                "Weight": 59,
+                "Features": "传说中的丰收节灵兽，它的现身预示着今年的五谷丰登！",
+                "Redirect": "map|module",
+                "Go": "11897;app/HarvestDayCollectionPanel"
             }
         ]
     }

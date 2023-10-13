@@ -13090,6 +13090,58 @@
                     "Title": "万里春·北鸟",
                     "Redirect": "map|module",
                     "Go": "1635;app/SpetWLCBeiNiaoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2736,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231006,
+                    "End": "*",
+                    "Map": 1636,
+                    "Name": "云霄之间",
+                    "Title": "创世之塔",
+                    "Redirect": "map|module",
+                    "Go": "1636;app/MainLineAdventureChapterPanel&&70003"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2737,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231006,
+                    "End": "*",
+                    "Map": 1636,
+                    "Name": "命定时刻",
+                    "Title": "强袭",
+                    "Redirect": "map|module",
+                    "Go": "1636;app/MainLineAdventureChapterPanel&&80002"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4556
+                    },
+                    "ID": 2738,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231006,
+                    "End": "*",
+                    "Map": 1636,
+                    "Name": "浮尘漠兽 残砂幻龙",
+                    "Title": "尘息游龙",
+                    "Redirect": "map|module",
+                    "Go": "1636;app/SpetChenXiYouLongMainPanel"
                 }
             ]
         },
@@ -44894,6 +44946,92 @@
                     "Title": "国庆钻石金卡",
                     "Redirect": "map|module",
                     "Go": "103;app/NationalDayDimandCardMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4554
+                    },
+                    "ID": 2724,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20230928,
+                    "End": 20231013,
+                    "Map": 103,
+                    "Name": "圣谕邪魇",
+                    "Title": "圣谕邪魇",
+                    "Redirect": "map|module",
+                    "Go": "103;app/GetShengYuXieMoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2740,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231006,
+                    "End": 20231013,
+                    "Map": 103,
+                    "Name": "一键极品限时折扣",
+                    "Title": "一键极品 限时优惠",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2741,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231006,
+                    "End": 20231013,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2722,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20230928,
+                    "End": 20231013,
+                    "Map": 1635,
+                    "Name": "费尤巡游航线",
+                    "Title": "费尤巡游航线",
+                    "Redirect": "map|module",
+                    "Go": "1635;app/YouFeiXunYouGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2731,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230928,
+                    "End": 20231013,
+                    "Map": 103,
+                    "Name": "钻石奖励更新",
+                    "Title": "钻石奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 }
             ],
             "_text": [
@@ -44956,21 +45094,20 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4554
+                        "mc": 2
                     },
-                    "ID": 2724,
+                    "ID": 2725,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20230928,
-                    "End": 20231013,
-                    "Map": 103,
-                    "Name": "圣谕邪魇",
-                    "Title": "圣谕邪魇",
+                    "Type": 2,
+                    "Start": 20230929,
+                    "End": 20231027,
+                    "Map": 1634,
+                    "Name": "青啼",
+                    "Title": "青啼限时回归",
                     "Redirect": "map|module",
-                    "Go": "103;app/GetShengYuXieMoMainPanel"
+                    "Go": "1634;app/SpetQTPanel"
                 },
                 {
                     "Details": {
@@ -45044,155 +45181,18 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2731,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230928,
-                    "End": 20231013,
-                    "Map": 103,
-                    "Name": "钻石奖励更新",
-                    "Title": "钻石奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2736,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231006,
-                    "End": "*",
-                    "Map": 1636,
-                    "Name": "云霄之间",
-                    "Title": "创世之塔",
-                    "Redirect": "map|module",
-                    "Go": "1636;app/MainLineAdventureChapterPanel&&70003"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2737,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231006,
-                    "End": "*",
-                    "Map": 1636,
-                    "Name": "命定时刻",
-                    "Title": "强袭",
-                    "Redirect": "map|module",
-                    "Go": "1636;app/MainLineAdventureChapterPanel&&80002"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4556
-                    },
-                    "ID": 2738,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231006,
-                    "End": "*",
-                    "Map": 1636,
-                    "Name": "浮尘漠兽 残砂幻龙",
-                    "Title": "尘息游龙",
-                    "Redirect": "map|module",
-                    "Go": "1636;app/SpetChenXiYouLongMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2739,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20231006,
-                    "End": 20231013,
+                    "End": 20231103,
                     "Map": 103,
                     "Name": "星河长明商店更新",
                     "Title": "星河长明商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2740,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231006,
-                    "End": 20231013,
-                    "Map": 103,
-                    "Name": "一键极品限时折扣",
-                    "Title": "一键极品 限时优惠",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2741,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231006,
-                    "End": 20231013,
-                    "Map": 103,
-                    "Name": "皮肤商城更新",
-                    "Title": "皮肤商城更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SkinShopMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2722,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230928,
-                    "End": 20231013,
-                    "Map": 1635,
-                    "Name": "费尤巡游航线",
-                    "Title": "费尤巡游航线",
-                    "Redirect": "map|module",
-                    "Go": "1635;app/YouFeiXunYouGoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2725,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20230929,
-                    "End": 20231027,
-                    "Map": 1634,
-                    "Name": "青啼",
-                    "Title": "青啼限时回归",
-                    "Redirect": "map|module",
-                    "Go": "1634;app/SpetQTPanel"
                 },
                 {
                     "Details": {
@@ -45215,6 +45215,161 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 2742,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": 20231020,
+                    "Map": 11897,
+                    "Name": "丰收节集合面板",
+                    "Title": "丰收狂欢节",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HarvestDayCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2743,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231013,
+                    "End": 20231020,
+                    "Map": 103,
+                    "Name": "大暗黑天突破",
+                    "Title": "大暗黑天 终极突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaanheitianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2744,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": 20231117,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统第十一期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2745,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231013,
+                    "End": 20231103,
+                    "Map": 103,
+                    "Name": "神谕进阶第9期",
+                    "Title": "生灵溺沼 厄目窥心",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3716"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4557
+                    },
+                    "ID": 2746,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231013,
+                    "End": "*",
+                    "Map": 1637,
+                    "Name": "虚幻极念 夜空深红",
+                    "Title": "红月祭司",
+                    "Redirect": "map|module",
+                    "Go": "1637;app/SpetHongYueJiSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2747,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": "*",
+                    "Map": 1637,
+                    "Name": "云霄之间",
+                    "Title": "迟来的决意",
+                    "Redirect": "map|module",
+                    "Go": "1637;app/MainLineAdventureChapterPanel&&70009"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2748,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": "*",
+                    "Map": 1637,
+                    "Name": "浅梦",
+                    "Title": "入眠",
+                    "Redirect": "module",
+                    "Go": "app/MainLineAdventureChapterPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4558
+                    },
+                    "ID": 2749,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231013,
+                    "End": 20231020,
+                    "Map": 1637,
+                    "Name": "丰收节集合面板",
+                    "Title": "麦汪汪",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HarvestDayCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2750,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231013,
+                    "End": 20231027,
+                    "Map": 103,
+                    "Name": "兑钻消费新奖励",
+                    "Title": "兑钻消费新奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 2274,
                     "isNew": 1,
                     "kinds": 1,
@@ -45229,7 +45384,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2724,2730,2738,2740,2741"
+            "Important": "2743,2745,2750,2726,2730"
         }
     }
 }
