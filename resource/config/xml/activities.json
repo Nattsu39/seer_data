@@ -13142,6 +13142,75 @@
                     "Title": "尘息游龙",
                     "Redirect": "map|module",
                     "Go": "1636;app/SpetChenXiYouLongMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2744,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": 20231117,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统第十一期",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4557
+                    },
+                    "ID": 2746,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231013,
+                    "End": "*",
+                    "Map": 1637,
+                    "Name": "虚幻极念 夜空深红",
+                    "Title": "红月祭司",
+                    "Redirect": "map|module",
+                    "Go": "1637;app/SpetHongYueJiSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2747,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": "*",
+                    "Map": 1637,
+                    "Name": "云霄之间",
+                    "Title": "迟来的决意",
+                    "Redirect": "map|module",
+                    "Go": "1637;app/MainLineAdventureChapterPanel&&70009"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2748,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": "*",
+                    "Map": 1637,
+                    "Name": "浅梦",
+                    "Title": "入眠",
+                    "Redirect": "module",
+                    "Go": "app/MainLineAdventureChapterPanel"
                 }
             ]
         },
@@ -45032,6 +45101,58 @@
                     "Title": "钻石奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2742,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231013,
+                    "End": 20231020,
+                    "Map": 11897,
+                    "Name": "丰收节集合面板",
+                    "Title": "丰收狂欢节",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HarvestDayCollectionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2743,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231013,
+                    "End": 20231020,
+                    "Map": 103,
+                    "Name": "大暗黑天突破",
+                    "Title": "大暗黑天 终极突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaanheitianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4558
+                    },
+                    "ID": 2749,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231013,
+                    "End": 20231020,
+                    "Map": 1637,
+                    "Name": "丰收节集合面板",
+                    "Title": "麦汪汪",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HarvestDayCollectionPanel"
                 }
             ],
             "_text": [
@@ -45213,57 +45334,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2742,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231013,
-                    "End": 20231020,
-                    "Map": 11897,
-                    "Name": "丰收节集合面板",
-                    "Title": "丰收狂欢节",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/HarvestDayCollectionPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2743,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231013,
-                    "End": 20231020,
-                    "Map": 103,
-                    "Name": "大暗黑天突破",
-                    "Title": "大暗黑天 终极突破",
-                    "Redirect": "map|module",
-                    "Go": "103;app/DaanheitianMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2744,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231013,
-                    "End": 20231117,
-                    "Map": 1427,
-                    "Name": "道具回收系统更新",
-                    "Title": "道具回收系统第十一期",
-                    "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2745,
@@ -45278,76 +45348,6 @@
                     "Title": "生灵溺沼 厄目窥心",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetMainPanel_3716"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4557
-                    },
-                    "ID": 2746,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231013,
-                    "End": "*",
-                    "Map": 1637,
-                    "Name": "虚幻极念 夜空深红",
-                    "Title": "红月祭司",
-                    "Redirect": "map|module",
-                    "Go": "1637;app/SpetHongYueJiSiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2747,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231013,
-                    "End": "*",
-                    "Map": 1637,
-                    "Name": "云霄之间",
-                    "Title": "迟来的决意",
-                    "Redirect": "map|module",
-                    "Go": "1637;app/MainLineAdventureChapterPanel&&70009"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2748,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231013,
-                    "End": "*",
-                    "Map": 1637,
-                    "Name": "浅梦",
-                    "Title": "入眠",
-                    "Redirect": "module",
-                    "Go": "app/MainLineAdventureChapterPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4558
-                    },
-                    "ID": 2749,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231013,
-                    "End": 20231020,
-                    "Map": 1637,
-                    "Name": "丰收节集合面板",
-                    "Title": "麦汪汪",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/HarvestDayCollectionPanel"
                 },
                 {
                     "Details": {
@@ -45370,6 +45370,127 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 2751,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231020,
+                    "End": "*",
+                    "Map": 1638,
+                    "Name": "云霄之间",
+                    "Title": "窄巷",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/MainLineAdventureChapterPanel&&70010"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2752,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231020,
+                    "End": "*",
+                    "Map": 1638,
+                    "Name": "浅梦",
+                    "Title": "徘徊",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/MainLineAdventureChapterPanel&&90002"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4560
+                    },
+                    "ID": 2753,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231020,
+                    "End": 20231028,
+                    "Map": 1638,
+                    "Name": "全民助力精灵 吉娜米斯",
+                    "Title": "吉娜米斯",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/HelpingGodPetJieNaMiSiMianPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2754,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231020,
+                    "End": 20231027,
+                    "Map": 1638,
+                    "Name": "提米的巷尾天地集合面板",
+                    "Title": "提米的巷尾天地",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2755,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231020,
+                    "End": 20231027,
+                    "Map": 103,
+                    "Name": "绝版套装 折扣售卖",
+                    "Title": "绝版套装 折扣售卖",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SuitDiscountedSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4559
+                    },
+                    "ID": 2756,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231020,
+                    "End": "*",
+                    "Map": 1638,
+                    "Name": "袖风兰香 街区游荡者",
+                    "Title": "提米",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/SpetTiMiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2757,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231020,
+                    "End": 20231028,
+                    "Map": 103,
+                    "Name": "全民助力精灵",
+                    "Title": "全民助力精灵",
+                    "Redirect": "map|module",
+                    "Go": "103;app/HelpingGodPetJieNaMiSiMianPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 2274,
                     "isNew": 1,
                     "kinds": 1,
@@ -45384,7 +45505,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2743,2745,2750,2726,2730"
+            "Important": "2755,2757,2750,2756,2753"
         }
     }
 }

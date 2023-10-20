@@ -1219,37 +1219,43 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4557,
-                        "ImageID": 4557,
+                        "ID": 4559,
+                        "ImageID": 4559,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1637;app/SpetHongYueJiSiMainPanel"
+                        "Go": "1638;app/SpetTiMiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4558,
-                        "ImageID": 4558,
+                        "ID": 4560,
+                        "ImageID": 4560,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/HarvestDayCollectionPanel"
+                        "Go": "103;app/HelpingGodPetJieNaMiSiMianPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 570,
-                        "MonID": 3820,
-                        "ImageID": 1400570,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 571,
-                        "MonID": 4552,
-                        "ImageID": 1400571,
+                        "type": 0,
+                        "ID": 4561,
+                        "ImageID": 4561,
                         "Label": 0,
                         "Redirect": "map|module",
                         "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 572,
+                        "MonID": 4561,
+                        "ImageID": 1400572,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                    },
+                    {
+                        "type": 2,
+                        "ID": 440,
+                        "Label": 1,
+                        "Redirect": "map|module",
+                        "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48116,6 +48122,37 @@
                 "Features": "传说中的丰收节灵兽，它的现身预示着今年的五谷丰登！",
                 "Redirect": "map|module",
                 "Go": "11897;app/HarvestDayCollectionPanel"
+            },
+            {
+                "ID": 4559,
+                "DefName": "提米",
+                "Type": "草",
+                "Height": 171,
+                "Weight": 63,
+                "Features": "提米是个神出鬼没的街区游荡者，经常拿玩游戏赢来的钱去买各种珍奇植物，街头巷尾都知道他“游戏大王”的称号。",
+                "Redirect": "map|module",
+                "Go": "1638;app/SpetTiMiMainPanel",
+                "jumptarget": "151/175"
+            },
+            {
+                "ID": 4560,
+                "DefName": "吉娜米斯",
+                "Type": "光",
+                "Height": 168,
+                "Weight": 57,
+                "Features": "吉纳波斯领悟了全新的光之力量，再一次完成突破后所呈现的形态。",
+                "Redirect": "map|module",
+                "Go": "103;app/HelpingGodPetJieNaMiSiMianPanel"
+            },
+            {
+                "ID": 4561,
+                "DefName": "霆律",
+                "Type": "圣灵 电",
+                "Height": 171,
+                "Weight": 61,
+                "Features": "2023年9月巅峰圣战精灵，掌控着圣灵和雷电的力量，为执行和规范秩序而战。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
             }
         ]
     }
