@@ -1219,43 +1219,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4559,
-                        "ImageID": 4559,
+                        "ID": 4562,
+                        "ImageID": 4562,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1638;app/SpetTiMiMainPanel"
+                        "Go": "1639;app/SpetSengManMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4560,
-                        "ImageID": 4560,
+                        "ID": 4563,
+                        "ImageID": 4563,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/HelpingGodPetJieNaMiSiMianPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4561,
-                        "ImageID": 4561,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                        "Go": "11897;app/HalloweenAggregateMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 572,
-                        "MonID": 4561,
-                        "ImageID": 1400572,
+                        "ID": 573,
+                        "MonID": 4163,
+                        "ImageID": 1400573,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                        "Go": "103;app/SellSkinofPeTeFeiDe"
                     },
                     {
-                        "type": 2,
-                        "ID": 440,
-                        "Label": 1,
+                        "type": 1,
+                        "ID": 574,
+                        "MonID": 3642,
+                        "ImageID": 1400574,
+                        "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -34811,7 +34805,6 @@
                 "Height": 180,
                 "Weight": 70,
                 "Features": "神秘异界漆黑花原的守护者，邪魅而诱惑，传说曾经是从其他世界流落过来的圣天使！",
-                "mapID": 1196,
                 "jumptarget": "18/4_5"
             },
             {
@@ -34893,7 +34886,6 @@
                 "Height": 180,
                 "Weight": 100,
                 "Features": "神秘异界强欲荒野的守护兽，轻易的击退了光之子，是前所未有的强敌！",
-                "mapID": 1196,
                 "jumptarget": "18/4_5"
             },
             {
@@ -46318,8 +46310,8 @@
                 "Height": 153,
                 "Weight": 67,
                 "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”",
-                "Redirect": "map|module",
-                "Go": "1634;app/SpetQTPanel"
+                "Redirect": "alarm",
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4379,
@@ -48119,9 +48111,7 @@
                 "Type": "普通",
                 "Height": 103,
                 "Weight": 59,
-                "Features": "传说中的丰收节灵兽，它的现身预示着今年的五谷丰登！",
-                "Redirect": "map|module",
-                "Go": "11897;app/HarvestDayCollectionPanel"
+                "Features": "传说中的丰收节灵兽，它的现身预示着今年的五谷丰登！"
             },
             {
                 "ID": 4559,
@@ -48153,6 +48143,27 @@
                 "Features": "2023年9月巅峰圣战精灵，掌控着圣灵和雷电的力量，为执行和规范秩序而战。",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4562,
+                "DefName": "森曼",
+                "Type": "自然 战斗",
+                "Height": 195,
+                "Weight": 87,
+                "Features": "森曼是水手之家的老板，他的指虎拥有着御风破浪的强大威力。一个敢于面对风暴的水手，也将直面人生中的一切。",
+                "Redirect": "map|module",
+                "Go": "1639;app/SpetSengManMainPanel",
+                "jumptarget": "151/176"
+            },
+            {
+                "ID": 4563,
+                "DefName": "奇普斯",
+                "Type": "飞行",
+                "Height": 136,
+                "Weight": 61,
+                "Features": "奇普斯是森曼的好搭档，也是水手之家的吉祥物，他每天都至少要吃两顿薯条。生活可以没有风浪，但是不能没有薯条。",
+                "Redirect": "map|module",
+                "Go": "11897;app/HalloweenAggregateMainPanel"
             }
         ]
     }

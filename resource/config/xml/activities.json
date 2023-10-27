@@ -13211,6 +13211,58 @@
                     "Title": "入眠",
                     "Redirect": "module",
                     "Go": "app/MainLineAdventureChapterPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2751,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231020,
+                    "End": "*",
+                    "Map": 1638,
+                    "Name": "云霄之间",
+                    "Title": "窄巷",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/MainLineAdventureChapterPanel&&70010"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2752,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231020,
+                    "End": "*",
+                    "Map": 1638,
+                    "Name": "浅梦",
+                    "Title": "徘徊",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/MainLineAdventureChapterPanel&&90002"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4559
+                    },
+                    "ID": 2756,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231020,
+                    "End": "*",
+                    "Map": 1638,
+                    "Name": "袖风兰香 街区游荡者",
+                    "Title": "提米",
+                    "Redirect": "map|module",
+                    "Go": "1638;app/SpetTiMiMainPanel"
                 }
             ]
         },
@@ -45153,48 +45205,57 @@
                     "Title": "麦汪汪",
                     "Redirect": "map|module",
                     "Go": "11897;app/HarvestDayCollectionPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
-                        "mc": 1
+                        "mc": 2
                     },
-                    "ID": 2710,
+                    "ID": 2754,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230915,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "特性生成晶片特惠礼包",
+                    "Type": 2,
+                    "Start": 20231020,
+                    "End": 20231027,
+                    "Map": 1638,
+                    "Name": "提米的巷尾天地集合面板",
+                    "Title": "提米的巷尾天地",
                     "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
+                    "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2711,
+                    "ID": 2755,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20230915,
-                    "End": "*",
+                    "Start": 20231020,
+                    "End": 20231027,
                     "Map": 103,
-                    "Name": "契约召唤",
-                    "Title": "契约召唤更新",
+                    "Name": "绝版套装 折扣售卖",
+                    "Title": "绝版套装 折扣售卖",
                     "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentOpenPanel"
+                    "Go": "103;app/SuitDiscountedSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2750,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231013,
+                    "End": 20231027,
+                    "Map": 103,
+                    "Name": "兑钻消费新奖励",
+                    "Title": "兑钻消费新奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
@@ -45300,23 +45361,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2739,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231006,
-                    "End": 20231103,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2727,
@@ -45331,6 +45375,65 @@
                     "Title": "亿万星辰的遥望",
                     "Redirect": "module",
                     "Go": "app/K13StarRegressionGoToMapPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2710,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230915,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "特性生成晶片特惠礼包",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2711,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230915,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentOpenPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2739,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231006,
+                    "End": 20231103,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -45353,139 +45456,173 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2750,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231013,
-                    "End": 20231027,
-                    "Map": 103,
-                    "Name": "兑钻消费新奖励",
-                    "Title": "兑钻消费新奖励",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2751,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231020,
-                    "End": "*",
-                    "Map": 1638,
-                    "Name": "云霄之间",
-                    "Title": "窄巷",
-                    "Redirect": "map|module",
-                    "Go": "1638;app/MainLineAdventureChapterPanel&&70010"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2752,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231020,
-                    "End": "*",
-                    "Map": 1638,
-                    "Name": "浅梦",
-                    "Title": "徘徊",
-                    "Redirect": "map|module",
-                    "Go": "1638;app/MainLineAdventureChapterPanel&&90002"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4560
-                    },
-                    "ID": 2753,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231020,
-                    "End": 20231028,
-                    "Map": 1638,
-                    "Name": "全民助力精灵 吉娜米斯",
-                    "Title": "吉娜米斯",
-                    "Redirect": "map|module",
-                    "Go": "1638;app/HelpingGodPetJieNaMiSiMianPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2754,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231020,
-                    "End": 20231027,
-                    "Map": 1638,
-                    "Name": "提米的巷尾天地集合面板",
-                    "Title": "提米的巷尾天地",
-                    "Redirect": "map|module",
-                    "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2755,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231020,
-                    "End": 20231027,
-                    "Map": 103,
-                    "Name": "绝版套装 折扣售卖",
-                    "Title": "绝版套装 折扣售卖",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SuitDiscountedSalesMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4559
-                    },
-                    "ID": 2756,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231020,
-                    "End": "*",
-                    "Map": 1638,
-                    "Name": "袖风兰香 街区游荡者",
-                    "Title": "提米",
-                    "Redirect": "map|module",
-                    "Go": "1638;app/SpetTiMiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2757,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20231020,
-                    "End": 20231028,
+                    "End": 20231103,
                     "Map": 103,
                     "Name": "全民助力精灵",
                     "Title": "全民助力精灵",
                     "Redirect": "map|module",
                     "Go": "103;app/HelpingGodPetJieNaMiSiMianPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2758,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231027,
+                    "End": "*",
+                    "Map": 1639,
+                    "Name": "云霄之间",
+                    "Title": "水手之家",
+                    "Redirect": "map|module",
+                    "Go": "1639;app/MainLineAdventureChapterPanel&&70010"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2759,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231027,
+                    "End": "*",
+                    "Map": 1639,
+                    "Name": "浅梦",
+                    "Title": "噩梦",
+                    "Redirect": "map|module",
+                    "Go": "1639;app/MainLineAdventureChapterPanel&&90002"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2760,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231027,
+                    "End": 20231103,
+                    "Map": 11897,
+                    "Name": "奇妙万圣夜",
+                    "Title": "奇妙万圣夜",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HalloweenAggregateMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2761,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231027,
+                    "End": 20231201,
+                    "Map": 103,
+                    "Name": "圣殿英雄团",
+                    "Title": "重生之翼巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2762,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231027,
+                    "End": 20231103,
+                    "Map": 103,
+                    "Name": "佩特菲德万圣皮肤售卖",
+                    "Title": "佩特菲德全新皮肤",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SellSkinofPeTeFeiDe"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4562
+                    },
+                    "ID": 2763,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231027,
+                    "End": "*",
+                    "Map": 1639,
+                    "Name": "S-森曼",
+                    "Title": "森曼",
+                    "Redirect": "map|module",
+                    "Go": "1639;app/SpetSengManMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2764,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231027,
+                    "End": "*",
+                    "Map": 1639,
+                    "Name": "幽灯寻途",
+                    "Title": "神诏",
+                    "Redirect": "map|module",
+                    "Go": "1639;app/MainLineAdventureChapterPanel&&50006"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2765,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231027,
+                    "End": 20231110,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4563
+                    },
+                    "ID": 2766,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231027,
+                    "End": 20231103,
+                    "Map": 1639,
+                    "Name": "奇妙万圣夜",
+                    "Title": "奇普斯",
+                    "Redirect": "map|module",
+                    "Go": "1639;app/HalloweenAggregateMainPanel"
                 },
                 {
                     "Details": {
@@ -45505,7 +45642,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2755,2757,2750,2756,2753"
+            "Important": "2761,2762,2765,2766,2745"
         }
     }
 }

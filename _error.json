@@ -1,6 +1,27 @@
 {
+    "exp_tower.json": {
+        "url": "http://seerh5.61.com/resource/config/json/exp_tower_4ac4da58.json",
+        "filename": "exp_tower.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "fightTestMonsterConfig.json": {
+        "url": "http://seerh5.61.com/resource/config/json/fightTestMonsterConfig_52fe412.json",
+        "filename": "fightTestMonsterConfig.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
-        "path": "resource/config/xml",
-        "remote_file_name": "broadcast_9043c3d.json"
+        "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
+        "filename": "broadcast.json",
+        "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
+    },
+    "pvp_peak_battle_clearing_bonus.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/pvp_peak_battle_clearing_bonus_b687ec72.json",
+        "filename": "pvp_peak_battle_clearing_bonus.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "petbook0930.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/petbook0930_62cf6678.json",
+        "filename": "petbook0930.json",
+        "exception": "ReadTimeout('timed out')"
     }
 }
