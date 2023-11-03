@@ -1843,7 +1843,7 @@
                             "Lv": "17 18"
                         }
                     ],
-                    "WildBonusProb": 700,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5242,
                     "ItemBonusID": 1
@@ -45500,6 +45500,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1640,
+                "Name": "创世古迹",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -45968,6 +45974,12 @@
                 "InitY": 440
             },
             {
+                "ID": 2079,
+                "Name": "创世古迹",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
                 "Monsters": {
                     "Monster": [
                         {
@@ -46404,7 +46416,7 @@
                             "Lv": "17 18"
                         }
                     ],
-                    "WildBonusProb": 700,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5242,
                     "ItemBonusID": 1
@@ -56130,12 +56142,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1639,
+                    "RandMaps": 1640,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1639,
+                    "RandMaps": 1640,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56147,7 +56159,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20231027,
+                "ID": 20231103,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

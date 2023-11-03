@@ -1219,37 +1219,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4562,
-                        "ImageID": 4562,
+                        "ID": 4564,
+                        "ImageID": 4564,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1639;app/SpetSengManMainPanel"
+                        "Go": "1640;app/SpetPaZeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4563,
-                        "ImageID": 4563,
+                        "ID": 4565,
+                        "ImageID": 4565,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/HalloweenAggregateMainPanel"
+                        "Go": "1588;app/MonthlyPetInNovember2023Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4566,
+                        "ImageID": 4566,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 573,
-                        "MonID": 4163,
-                        "ImageID": 1400573,
+                        "ID": 575,
+                        "MonID": 4564,
+                        "ImageID": 1400575,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/SellSkinofPeTeFeiDe"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 574,
-                        "MonID": 3642,
-                        "ImageID": 1400574,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1640;app/GuanYingZhiMiGoToMapPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -9768,7 +9767,7 @@
             {
                 "ID": 707,
                 "hasSound": 1,
-                "DefName": "巧克 利",
+                "DefName": "巧克利",
                 "Type": "地面",
                 "Height": 75,
                 "Weight": 12,
@@ -12490,7 +12489,7 @@
                 "Food": "未知",
                 "Features": "西罗尔的进化形态，背甲变得更加的成熟，保护自己的同时，也能作为攻击的武器。",
                 "mapID": 0,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 939,
@@ -15818,7 +15817,7 @@
                 "Food": "未知",
                 "Features": "魔花仙子得到魔化之能后的形态，拥有强烈的正义感，为了米娜村落可以付出自己的一切",
                 "mapID": 734,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1217,
@@ -15831,7 +15830,7 @@
                 "Food": "棒棒糖",
                 "Features": "木木是布莱克一族的大祭司，拥有预知未来的能力，但是永远无法长大。",
                 "mapID": 10,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1218,
@@ -16779,7 +16778,7 @@
                 "Food": "电光草",
                 "Features": "特里的进化形态，奔跑的时候身上的铃铛会发出悦耳的铃声，可爱的它却拥有强大的电能。",
                 "mapID": 494,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1297,
@@ -16792,7 +16791,7 @@
                 "Food": "未知",
                 "Features": "布鲁克克的超进化形态，为拯救好友格林，体内的隐藏能量被激发。友情是布鲁最珍贵的财富，这也让它变得更加强大。",
                 "mapID": 753,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1298,
@@ -16805,7 +16804,7 @@
                 "Food": "未知",
                 "Features": "作为恶魔星第四领域的守护者，它拥有强大的火系能力，在高温的火焰山脊，它所向无敌！",
                 "mapID": 753,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1299,
@@ -25369,7 +25368,7 @@
                 "Weight": 31,
                 "Features": "嘻游天团的第三只精灵，星太白是一位慈祥年长的精灵，但是因为年纪太大，它经常会忘记一些东西。",
                 "mapID": 0,
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 2125,
@@ -45308,7 +45307,7 @@
                 "Features": "不e定x店的神秘小精灵，目标是给深夜工作的人们带来活力和正能量。据说只要吃下她端上来的食物，就会变得元气满满！",
                 "Redirect": "map|module",
                 "Go": "103;app/LaunchInterfacePanel",
-                "jumptarget": "59/3/1"
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 4281,
@@ -47359,8 +47358,8 @@
                 "Height": 169,
                 "Weight": 49,
                 "Features": "2023年3月巅峰圣战精灵，巨手温柔的触摸，也足以让对手灰飞烟灭。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4483,
@@ -47826,8 +47825,8 @@
                 "Height": 167,
                 "Weight": 48,
                 "Features": "2023年8月巅峰圣战精灵，和雪慕、雪薇同为诞生自冰雪的精灵，可白璧无瑕的她却丝毫未能预知即将到来的命运。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4530,
@@ -47969,7 +47968,7 @@
                 "Weight": 73,
                 "Features": "2023年9月包月精灵，十二星芒之一，天鹰引魂，星汉迷穹！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInSeptember2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4545,
@@ -48049,8 +48048,8 @@
                 "Height": 172,
                 "Weight": 73,
                 "Features": "2023年10月巅峰圣战精灵，以祷告天使形象示人，神圣的白羽昭示着其拥有极致的光之力量。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4553,
@@ -48081,7 +48080,7 @@
                 "Weight": 63,
                 "Features": "2023年10月包月精灵，十二星芒之一，猎户焚野，星汉追猎！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInOctober2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4556,
@@ -48141,8 +48140,8 @@
                 "Height": 171,
                 "Weight": 61,
                 "Features": "2023年9月巅峰圣战精灵，掌控着圣灵和雷电的力量，为执行和规范秩序而战。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4562,
@@ -48161,9 +48160,38 @@
                 "Type": "飞行",
                 "Height": 136,
                 "Weight": 61,
-                "Features": "奇普斯是森曼的好搭档，也是水手之家的吉祥物，他每天都至少要吃两顿薯条。生活可以没有风浪，但是不能没有薯条。",
+                "Features": "奇普斯是森曼的好搭档，也是水手之家的吉祥物，他每天都至少要吃两顿薯条。生活可以没有风浪，但是不能没有薯条。"
+            },
+            {
+                "ID": 4564,
+                "DefName": "帕泽",
+                "Type": "光 暗影",
+                "Height": 169,
+                "Weight": 55,
+                "Features": "帕泽是创世塔古迹的守护者，他可以随时变换成三尾猫灵形态。在这片残缺的废墟上，他一直在等待着合适的人出现。",
                 "Redirect": "map|module",
-                "Go": "11897;app/HalloweenAggregateMainPanel"
+                "Go": "1640;app/SpetPaZeMainPanel",
+                "jumptarget": "151/177"
+            },
+            {
+                "ID": 4565,
+                "DefName": "天琴·莱菈",
+                "Type": "自然 冰",
+                "Height": 167,
+                "Weight": 51,
+                "Features": "2023年11月包月精灵，十二星芒之一，天琴凝冰，星汉玄音！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInNovember2023Panel"
+            },
+            {
+                "ID": 4566,
+                "DefName": "山椿",
+                "Type": "远古 草",
+                "Height": 168,
+                "Weight": 53,
+                "Features": "2023年11月巅峰圣战精灵，拥有远古的草系力量，选择在冬季磨练自己的意志，希望有朝一日能给大家带来温暖。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
             }
         ]
     }
