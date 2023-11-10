@@ -1239,7 +1239,7 @@
                             "Lv": "1 2"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5239,
                     "ItemBonusID": 1
@@ -1358,7 +1358,7 @@
                             "Lv": "4 5"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5240,
                     "ItemBonusID": 1
@@ -1766,7 +1766,7 @@
                             "Lv": "16 17"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5241,
                     "ItemBonusID": 1
@@ -45506,6 +45506,18 @@
                 "InitY": 400
             },
             {
+                "ID": 1641,
+                "Name": "八荒尽头",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
+                "ID": 1642,
+                "Name": "鸢尾城",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -45980,6 +45992,12 @@
                 "InitY": 440
             },
             {
+                "ID": 2080,
+                "Name": "鸢尾城",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
                 "Monsters": {
                     "Monster": [
                         {
@@ -46019,7 +46037,7 @@
                             "Lv": "1 2"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5239,
                     "ItemBonusID": 1
@@ -46072,7 +46090,7 @@
                             "Lv": "4 5"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5240,
                     "ItemBonusID": 1
@@ -46339,7 +46357,7 @@
                             "Lv": "16 17"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5241,
                     "ItemBonusID": 1
@@ -56142,12 +56160,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1640,
+                    "RandMaps": 1642,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1640,
+                    "RandMaps": 1642,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56159,7 +56177,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20231103,
+                "ID": 20231110,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

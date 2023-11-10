@@ -1219,36 +1219,38 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4564,
-                        "ImageID": 4564,
+                        "ID": 4567,
+                        "ImageID": 4567,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1640;app/SpetPaZeMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4565,
-                        "ImageID": 4565,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1588;app/MonthlyPetInNovember2023Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4566,
-                        "ImageID": 4566,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                        "Go": "1642;app/SpetLingShiShouWeiMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 575,
-                        "MonID": 4564,
-                        "ImageID": 1400575,
+                        "ID": 576,
+                        "MonID": 4135,
+                        "ImageID": 1400576,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1640;app/GuanYingZhiMiGoToMapPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 577,
+                        "MonID": 3045,
+                        "ImageID": 1400577,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SupermarketPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 578,
+                        "MonID": 4566,
+                        "ImageID": 1400578,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48192,6 +48194,17 @@
                 "Features": "2023年11月巅峰圣战精灵，拥有远古的草系力量，选择在冬季磨练自己的意志，希望有朝一日能给大家带来温暖。",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4567,
+                "DefName": "灵石守卫",
+                "Type": "远古 战斗",
+                "Height": 600,
+                "Weight": 440,
+                "Features": "灵石守卫是紫水晶岛上特有的巡航工具，它们主要被投放在蝶梦城的上空，用于保卫城市并处理各种突发情况。",
+                "Redirect": "map|module",
+                "Go": "1642;app/SpetLingShiShouWeiMainPanel",
+                "jumptarget": "151/178"
             }
         ]
     }
