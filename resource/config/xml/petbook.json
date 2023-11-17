@@ -1219,38 +1219,101 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4567,
-                        "ImageID": 4567,
+                        "ID": 4568,
+                        "ImageID": 4568,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1642;app/SpetLingShiShouWeiMainPanel"
+                        "Go": "1643;app/SpetYMZYJieGeMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4569,
+                        "ImageID": 4569,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1644;app/SpetTZYMLuoKuMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4570,
+                        "ImageID": 4570,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1645;app/PopUp20231117MainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4571,
+                        "ImageID": 4571,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1645;app/PopUp20231117MainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 576,
-                        "MonID": 4135,
-                        "ImageID": 1400576,
+                        "ID": 579,
+                        "MonID": 4467,
+                        "ImageID": 1400579,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/RabbitGirlSeriesSkinSalesMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 577,
-                        "MonID": 3045,
-                        "ImageID": 1400577,
+                        "ID": 580,
+                        "MonID": 4462,
+                        "ImageID": 1400580,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/SupermarketPanel"
+                        "Go": "103;app/RabbitGirlSeriesSkinSalesMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 578,
-                        "MonID": 4566,
-                        "ImageID": 1400578,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                        "type": 3,
+                        "ID": 42427
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42428
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42429
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42430
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42431
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42432
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42433
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42434
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42435
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42436
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42437
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42438
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48205,6 +48268,48 @@
                 "Redirect": "map|module",
                 "Go": "1642;app/SpetLingShiShouWeiMainPanel",
                 "jumptarget": "151/178"
+            },
+            {
+                "ID": 4568,
+                "DefName": "幽魅之影·杰格",
+                "Type": "邪灵 神秘",
+                "Height": 190,
+                "Weight": 76,
+                "Features": "杰格是布德地区三大宝石骑士之一，幽魅骑士。他擅长召唤瑞迪卡进行作战，浊灵法杖释放的幽魅幻光，常常让敌人陷入昏迷或窒息。",
+                "Redirect": "map|module",
+                "Go": "1643;app/SpetYMZYJieGeMainPanel",
+                "jumptarget": "151/179"
+            },
+            {
+                "ID": 4569,
+                "DefName": "霆终陨灭·罗库",
+                "Type": "飞行 电",
+                "Height": 182,
+                "Weight": 69,
+                "Features": "罗库是布德地区三大宝石骑士之一，赤雷骑士。强有力的一闪穿刺和攻守兼备的赤灵魔杖让罗库成为一位令敌人闻风丧胆的强大战士。",
+                "Redirect": "map|module",
+                "Go": "1644;app/SpetTZYMLuoKuMainPanel",
+                "jumptarget": "151/180"
+            },
+            {
+                "ID": 4570,
+                "DefName": "拜拉",
+                "Type": "邪灵",
+                "Height": 47,
+                "Weight": 6,
+                "Features": "突然出现在“天界回廊”的黑色兔子，似乎是从元素之种内诞生，身体由某种黑色有机黏液组成。",
+                "Redirect": "map|module",
+                "Go": "1645;app/PopUp20231117MainPanel"
+            },
+            {
+                "ID": 4571,
+                "DefName": "帕斯裟帝",
+                "Type": "邪灵",
+                "Height": 73,
+                "Weight": 13,
+                "Features": "似乎是黑色兔子的成体。吸收了充足能量的它身体产生了诸多变化，宽厚的触手从尾部散开，吸盘的内壁遍布着细密的绒触，凭借它们，黑色兔子可以抽取能量、生命，又或许是你的灵魂。",
+                "Redirect": "map|module",
+                "Go": "1645;app/PopUp20231117MainPanel"
             }
         ]
     }
