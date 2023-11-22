@@ -1,7 +1,17 @@
 {
+    "rebate.json": {
+        "url": "http://seerh5.61.com/resource/config/json/rebate_1f329e0e.json",
+        "filename": "rebate.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
+    },
+    "itemFilter.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/itemFilter_fed335e5.json",
+        "filename": "itemFilter.json",
+        "exception": "ReadTimeout('timed out')"
     }
 }
