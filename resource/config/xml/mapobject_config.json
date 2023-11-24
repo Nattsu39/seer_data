@@ -197,13 +197,6 @@
                     "type": "map|module"
                 },
                 {
-                    "_text": "app/NationalChildrenSecurityProtectPanel",
-                    "name": "nationalChildrenSecurityProtectBtn",
-                    "tip": "国际儿童安全组织分子密码大放送",
-                    "auth": "checkNationalChildrenSecurity",
-                    "type": "module"
-                },
-                {
                     "_text": 10443,
                     "name": "apolloBtn",
                     "tip": "领取太阳神阿波罗",
@@ -540,12 +533,6 @@
                     "_text": "app/StudyShopPanel",
                     "name": "studyMachine",
                     "tip": "训练室研究中心",
-                    "type": "module"
-                },
-                {
-                    "_text": "app/securityGuard/SecurityGuardPanel",
-                    "name": "securityGuard",
-                    "tip": "安全卫士",
                     "type": "module"
                 },
                 {
@@ -3830,31 +3817,15 @@
                     "id": 8
                 },
                 {
-                    "object": [
-                        {
-                            "name": "nationalChildrenSecurityProtectBtn",
-                            "x": 329,
-                            "y": 424,
-                            "isFlipHorizontally": 0,
-                            "scale": 1
-                        },
-                        {
-                            "name": "securityGuard",
-                            "x": 739,
-                            "y": 482,
-                            "isFlipHorizontally": 0,
-                            "scale": 1
-                        },
-                        {
-                            "name": "fireWorks",
-                            "x": 277,
-                            "y": 348,
-                            "isFlipHorizontally": 0,
-                            "scale": 1.5,
-                            "time": "* * 1-7 2 * 2019",
-                            "countID": "0x05213E34"
-                        }
-                    ],
+                    "object": {
+                        "name": "fireWorks",
+                        "x": 277,
+                        "y": 348,
+                        "isFlipHorizontally": 0,
+                        "scale": 1.5,
+                        "time": "* * 1-7 2 * 2019",
+                        "countID": "0x05213E34"
+                    },
                     "id": 9
                 },
                 {

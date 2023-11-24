@@ -2956,7 +2956,7 @@
                             "Lv": "3 4"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5254,
                     "ItemBonusID": 1
@@ -3010,7 +3010,7 @@
                             "Lv": "7 8"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5255,
                     "ItemBonusID": 1
@@ -3143,7 +3143,7 @@
                             "Lv": "9 10"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5005,
                     "ItemBonusID": 1
@@ -3430,7 +3430,7 @@
                             "Lv": "11 12"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5234,
                     "ItemBonusID": 1
@@ -3508,7 +3508,7 @@
                             "Lv": "15 16"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5235,
                     "ItemBonusID": 1
@@ -45536,6 +45536,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1646,
+                "Name": "黯红激流",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -46024,6 +46030,12 @@
             {
                 "ID": 2082,
                 "Name": "夜色幕墙",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2083,
+                "Name": "黯红激流",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -47063,7 +47075,7 @@
                             "Lv": "21 22"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5254,
                     "ItemBonusID": 1
@@ -47117,7 +47129,7 @@
                             "Lv": "7 8"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5255,
                     "ItemBonusID": 1
@@ -47250,7 +47262,7 @@
                             "Lv": "9 10"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5005,
                     "ItemBonusID": 1
@@ -47302,7 +47314,7 @@
                             "Lv": "11 12"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5234,
                     "ItemBonusID": 1
@@ -47380,7 +47392,7 @@
                             "Lv": "15 16"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5235,
                     "ItemBonusID": 1
@@ -56190,12 +56202,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1645,
+                    "RandMaps": 1646,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1645,
+                    "RandMaps": 1646,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56207,7 +56219,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20231117,
+                "ID": 20231124,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

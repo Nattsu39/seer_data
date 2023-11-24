@@ -75,7 +75,7 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 85,
                 "OutItemKey": 123600,
-                "ExCoinB": 5,
+                "ExCoinB": 3,
                 "Desc": "20220909 神谕进阶-弑神猎皇",
                 "StatID": 2211040100
             },
@@ -143,7 +143,7 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 85,
                 "OutItemKey": 123601,
-                "ExCoinB": 5,
+                "ExCoinB": 3,
                 "Desc": "20221216 神谕进阶-狂热之诚·吉罗德",
                 "StatID": 2212160100
             },
@@ -219,7 +219,7 @@
                 "AllProgress": 5,
                 "PerCostCoinA": 90,
                 "OutItemKey": 123602,
-                "ExCoinB": 6,
+                "ExCoinB": 4,
                 "Desc": "20230203 神谕进阶-惊涛海皇·波塞冬",
                 "StatID": 2302030100
             },
@@ -289,7 +289,7 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 70,
                 "OutItemKey": 123603,
-                "ExCoinB": 4,
+                "ExCoinB": 3,
                 "Desc": "20230317 神谕进阶-昔兰尼加",
                 "StatID": 2303170400
             },
@@ -359,7 +359,7 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 90,
                 "OutItemKey": 123604,
-                "ExCoinB": 6,
+                "ExCoinB": 4,
                 "Desc": "20230421 神谕进阶-圣耀之光·黄金天马",
                 "StatID": 2304210100
             },
@@ -427,7 +427,7 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 85,
                 "OutItemKey": 123605,
-                "ExCoinB": 5,
+                "ExCoinB": 3,
                 "Desc": "20230519 神谕进阶-冥王·苍月影",
                 "StatID": 2305190400
             },
@@ -497,7 +497,7 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 70,
                 "OutItemKey": 123606,
-                "ExCoinB": 4,
+                "ExCoinB": 3,
                 "Desc": "20230630 神谕进阶-枫眠",
                 "StatID": 2306300100
             },
@@ -567,7 +567,7 @@
                 "AllProgress": 5,
                 "PerCostCoinA": 90,
                 "OutItemKey": 123607,
-                "ExCoinB": 6,
+                "ExCoinB": 4,
                 "Desc": "20230908 神谕进阶-混沌哈肯萨",
                 "StatID": 2309080100
             },
@@ -637,9 +637,85 @@
                 "AllProgress": 4,
                 "PerCostCoinA": 85,
                 "OutItemKey": 123608,
-                "ExCoinB": 5,
+                "ExCoinB": 3,
                 "Desc": "20231013 神谕进阶-该洛西斯",
                 "StatID": 2310130701
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 70 110 136 115 134",
+                        "NewRace": "167 70 112 138 115 138"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2969,
+                        "NewSeId": 6074
+                    },
+                    "spMove": {
+                        "SpMoves": "28496 28497 36943"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36944
+                    },
+                    "AdvEffect": {
+                        "Id": 1781,
+                        "Des": "<font color='#FF7751'>自身先出手时吸取对手等同于自身速度值50%的体力</font>，后出手时下回合所有技能先制+2；<font color='#FF7751'>每回合开始时自身展开千灭雷翼：依次进行如下判断并在满足条件后获得后续效果，己方已有精灵阵亡时千灭雷翼的前n条效果无视触发条件，n为己方已阵亡的精灵数：\n1.若自身为满体力则本回合攻击必定打出致命一击\n2.若自身体力值低于对手则本回合使用技能时获得300点护盾\n3.若自身处于能力提升状态则本回合使用技能时自身全属性+1\n4.若对手处于异常状态则本回合使用技能时对手全属性-1\n5.若对手处于能力下降状态则本回合使用技能后使对手害怕</font>\n（boss无效）"
+                    },
+                    "MonsterId": 3705
+                },
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3820,
+                            "BossID": 1010039,
+                            "Desc": "——你的身上……看在同样都被那个混账祸害过的份上，要不你照顾一下这位快疯了的可怜人，放弃抵抗如何？作为交换，我也会放你们一条生路的。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 5765,
+                            "BossID": 1010040,
+                            "Desc": "——为什么！我已经献上了那么多的混沌与圣灵，为什么虚空还是如此吝啬，为什么不回应我！一定是能量还不够，一定是的……我不会再出错！"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 2824,
+                            "BossID": 1010041,
+                            "Desc": "——可恶，不要被他们蛊惑了！与其让禁地的能源被他们抢走……坚持住，艾里克！"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 3406,
+                            "BossID": 1010042,
+                            "Desc": "——混沌教派近来又开始蠢蠢欲动，我必须立刻动身。艾里克，赫尔卡星就交给你们了。"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 3802,
+                            "BossID": 1010043,
+                            "Desc": "——我要找的不是你，告诉我他在哪儿！帕诺一战的耻辱，我要他百倍奉还！"
+                        }
+                    ],
+                    "OutNum": "5_6_7",
+                    "OutPro": "200_350_450",
+                    "FreeBattleKey": 206190,
+                    "FreeBattleCnt": 5
+                },
+                "Exchange": {
+                    "ItemID": "1725578_1725579_1725580",
+                    "ProductID": "260432_260433_260434"
+                },
+                "QianDuan": {},
+                "ID": 10,
+                "TimeFlag": 1058,
+                "SubFreeKey": 19,
+                "SubCostKey": 20,
+                "AllProgress": 4,
+                "PerCostCoinA": 85,
+                "OutItemKey": 123609,
+                "ExCoinB": 3,
+                "Desc": "20231124 神谕进阶-守护者艾里克",
+                "StatID": 2311240600
             }
         ],
         "BackMonsters": {}
