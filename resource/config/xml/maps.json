@@ -4212,7 +4212,7 @@
                             "Lv": "14 15"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5262,
                     "ItemBonusID": 1
@@ -4326,7 +4326,7 @@
                             "Lv": "25 26"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5263,
                     "ItemBonusID": 1
@@ -4802,7 +4802,7 @@
                             "Lv": "17 18"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5258,
                     "ItemBonusID": 1
@@ -4854,7 +4854,7 @@
                             "Lv": "15 16"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5260,
                     "ItemBonusID": 1
@@ -4944,7 +4944,7 @@
                             "Lv": "35 36"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5261,
                     "ItemBonusID": 1
@@ -45542,6 +45542,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1647,
+                "Name": "暴雨防线",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -46036,6 +46042,12 @@
             {
                 "ID": 2083,
                 "Name": "黯红激流",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2084,
+                "Name": "暴雨防线",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -48434,7 +48446,7 @@
                             "Lv": "17 18"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5258,
                     "ItemBonusID": 1
@@ -48538,7 +48550,7 @@
                             "Lv": "15 16"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5260,
                     "ItemBonusID": 1
@@ -48628,7 +48640,7 @@
                             "Lv": "35 36"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5261,
                     "ItemBonusID": 1
@@ -48918,7 +48930,7 @@
                             "Lv": "37 38"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5262,
                     "ItemBonusID": 1
@@ -49032,7 +49044,7 @@
                             "Lv": "25 26"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5263,
                     "ItemBonusID": 1
@@ -56202,12 +56214,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1646,
+                    "RandMaps": 1647,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1646,
+                    "RandMaps": 1647,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56219,7 +56231,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20231124,
+                "ID": 20231201,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

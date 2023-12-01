@@ -1219,20 +1219,35 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4572,
-                        "ImageID": 4572,
+                        "ID": 4573,
+                        "ImageID": 4573,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1646;app/SpetFeiYuQiShiMainPanel"
+                        "Go": "1647;app/SpetPLDMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 581,
-                        "MonID": 3716,
-                        "ImageID": 1400581,
+                        "type": 0,
+                        "ID": 4574,
+                        "ImageID": 4574,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4575,
+                        "ImageID": 4575,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1588;app/MonthlyPetInDecember2023Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4576,
+                        "ImageID": 4576,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/IceSnowFestivalGoToMapMap"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -15609,8 +15624,7 @@
                 "Weight": 240,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "鱼龙王是鱼龙中的霸者！潜能的爆发使他上天入海，无所不能！",
-                "mapID": 37
+                "Features": "鱼龙王是鱼龙中的霸者！潜能的爆发使他上天入海，无所不能！"
             },
             {
                 "ID": 1201,
@@ -15620,19 +15634,17 @@
                 "Weight": 250,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "难以想象上古炎兽和赫尔托克合体会是什么样,然而它们却真的合体了，火焰至尊炎魔由此诞生了！",
-                "mapID": 37
+                "Features": "难以想象上古炎兽和赫尔托克合体会是什么样,然而它们却真的合体了，火焰至尊炎魔由此诞生了！"
             },
             {
                 "ID": 1202,
-                "DefName": "始祖灵兽",
+                "DefName": "暗金始祖灵兽",
                 "Type": "草",
                 "Height": 220,
                 "Weight": 250,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "灵光兽的进化形态，拥有着强大的惊人能力，然而却从不轻易显露，视乎任何功名利禄在它眼中都已是过眼云烟！",
-                "mapID": 103
+                "Features": "灵光兽的进化形态，拥有着强大的惊人能力，然而却从不轻易显露，视乎任何功名利禄在它眼中都已是过眼云烟！"
             },
             {
                 "ID": 1203,
@@ -18818,8 +18830,7 @@
                 "Type": "战斗",
                 "Height": "152cm",
                 "Weight": 162,
-                "Features": "杰西卡终于超越了自我，领悟了终极力量的奥秘，它的身体透漏出只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
-                "mapID": 37
+                "Features": "杰西卡终于超越了自我，领悟了终极力量的奥秘，它的身体透漏出只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。"
             },
             {
                 "ID": 1473,
@@ -48161,7 +48172,7 @@
                 "Weight": 51,
                 "Features": "2023年11月包月精灵，十二星芒之一，天琴凝冰，星汉玄音！",
                 "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInNovember2023Panel"
+                "Go": "1588;app/VipMouthPet2023Panel"
             },
             {
                 "ID": 4566,
@@ -48170,8 +48181,8 @@
                 "Height": 168,
                 "Weight": 53,
                 "Features": "2023年11月巅峰圣战精灵，拥有远古的草系力量，选择在冬季磨练自己的意志，希望有朝一日能给大家带来温暖。",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                "Redirect": "map",
+                "Go": 1095
             },
             {
                 "ID": 4567,
@@ -48212,9 +48223,7 @@
                 "Type": "邪灵",
                 "Height": 47,
                 "Weight": 6,
-                "Features": "突然出现在“天界回廊”的黑色兔子，似乎是从元素之种内诞生，身体由某种黑色有机黏液组成。",
-                "Redirect": "map|module",
-                "Go": "1645;app/PopUp20231117MainPanel"
+                "Features": "突然出现在“天界回廊”的黑色兔子，似乎是从元素之种内诞生，身体由某种黑色有机黏液组成。"
             },
             {
                 "ID": 4571,
@@ -48222,9 +48231,7 @@
                 "Type": "邪灵",
                 "Height": 73,
                 "Weight": 13,
-                "Features": "似乎是黑色兔子的成体。吸收了充足能量的它身体产生了诸多变化，宽厚的触手从尾部散开，吸盘的内壁遍布着细密的绒触，凭借它们，黑色兔子可以抽取能量、生命，又或许是你的灵魂。",
-                "Redirect": "map|module",
-                "Go": "1645;app/PopUp20231117MainPanel"
+                "Features": "似乎是黑色兔子的成体。吸收了充足能量的它身体产生了诸多变化，宽厚的触手从尾部散开，吸盘的内壁遍布着细密的绒触，凭借它们，黑色兔子可以抽取能量、生命，又或许是你的灵魂。"
             },
             {
                 "ID": 4572,
@@ -48236,6 +48243,47 @@
                 "Redirect": "map|module",
                 "Go": "1646;app/SpetFeiYuQiShiMainPanel",
                 "jumptarget": "151/181"
+            },
+            {
+                "ID": 4573,
+                "DefName": "PLD",
+                "Type": "机械 战斗",
+                "Height": 395,
+                "Weight": 573,
+                "Features": "普兰多新型自动防卫装置，搭载热追踪导弹、高速脉冲炮塔和尖端纳米护盾，唯一的缺点就是无法进行高速移动。",
+                "Redirect": "map|module",
+                "Go": "1647;app/SpetPLDMainPanel",
+                "jumptarget": "151/182"
+            },
+            {
+                "ID": 4574,
+                "DefName": "寂娆",
+                "Type": "混沌 龙",
+                "Height": 165,
+                "Weight": 46,
+                "Features": "2023年12月巅峰圣战精灵，她的身上流淌着混沌龙族的血脉，在残忍的厮杀技巧背后隐藏着不为人知的故事。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+            },
+            {
+                "ID": 4575,
+                "DefName": "南十字·克鲁斯",
+                "Type": "电 次元",
+                "Height": 169,
+                "Weight": 52,
+                "Features": "2023年12月包月精灵，十二星芒之一，十字引雷，掣电相伴！",
+                "Redirect": "map|module",
+                "Go": "1588;app/MonthlyPetInDecember2023Panel"
+            },
+            {
+                "ID": 4576,
+                "DefName": "薇尔拉",
+                "Type": "冰 飞行",
+                "Height": 83,
+                "Weight": 63,
+                "Features": "薇尔拉是一只努力的小鲸鱼，为了在冰雪节给大家带来快乐而不断奋斗着。",
+                "Redirect": "map|module",
+                "Go": "11897;app/IceSnowFestivalGoToMapMap"
             }
         ]
     }

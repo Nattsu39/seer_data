@@ -154,29 +154,20 @@
             {
                 "direction": "right_bar",
                 "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
-                "ui": "peakJihad2023LimitActivity",
-                "tips": "巅峰限时活动",
-                "mouseClickFunc": "app:PeakJihad2023LimitActivityPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "tutujianianhua_icon",
-                "tips": "VIP周年庆",
-                "mouseClickFunc": "app:VIP12AnniversaryGoToMapPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 6,
+                "priority": 3,
                 "exMapList": 50000,
                 "ui": "taoleIcon",
                 "tips": "淘乐节",
                 "mouseClickFunc": "app:TaoLePanel20231124"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "2024YearVipPreheat_icon",
+                "tips": "2024年费预告",
+                "mouseClickFunc": "app:AnnualPreheating2024MainPanel"
             },
             {
                 "direction": "right_side",
