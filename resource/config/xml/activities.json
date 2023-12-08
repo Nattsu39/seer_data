@@ -13478,6 +13478,128 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "monID": 4575
+                    },
+                    "ID": 2803,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231201,
+                    "End": 20231229,
+                    "Map": 1588,
+                    "Name": "12月包月精灵",
+                    "Title": "南十字·克鲁斯",
+                    "Redirect": "map|module",
+                    "Go": "1588;app/MonthlyPetInDecember2023Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4573
+                    },
+                    "ID": 2806,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231201,
+                    "End": "*",
+                    "Map": 1647,
+                    "Name": "普兰多新型自动防卫装置",
+                    "Title": "PLD",
+                    "Redirect": "module",
+                    "Go": "app/SpetPLDMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4574
+                    },
+                    "ID": 2807,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231201,
+                    "End": 20240105,
+                    "Map": 1095,
+                    "Name": "12月巅峰精灵更新",
+                    "Title": "寂娆",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2808,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231201,
+                    "End": "*",
+                    "Map": 1647,
+                    "Name": "云霄之间",
+                    "Title": "涨潮",
+                    "Redirect": "map|module",
+                    "Go": "1647;app/MainLineAdventureChapterPanel&&70016"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2809,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231201,
+                    "End": "*",
+                    "Map": 1647,
+                    "Name": "命定时刻",
+                    "Title": "再会",
+                    "Redirect": "map|module",
+                    "Go": "1647;app/MainLineAdventureChapterPanel&&80006"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2810,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231201,
+                    "End": 20231229,
+                    "Map": 1647,
+                    "Name": "《落入兔子洞》",
+                    "Title": "兔子的神秘邀约",
+                    "Redirect": "module",
+                    "Go": "app/AnnualPreheating2024MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2811,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231201,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "功勋商店更新",
+                    "Title": "功勋商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
                     "ID": 2812,
@@ -13485,7 +13607,7 @@
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20231101,
+                    "Start": 20231201,
                     "End": 20231229,
                     "Map": 1095,
                     "Name": "巅峰圣战调整通知",
@@ -46167,48 +46289,6 @@
                     "Title": "星河长明商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2711,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230915,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤",
-                    "Title": "契约召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentOpenPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2797,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231124,
-                    "End": 20231215,
-                    "Map": 103,
-                    "Name": "守护者·艾里克神谕进阶",
-                    "Title": "天烬雷魂 极羽赫鸣",
-                    "Redirect": "module",
-                    "Go": "app/AdvancedPetMainPanel_3705"
                 },
                 {
                     "Details": {
@@ -46229,21 +46309,63 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4575
+                        "mc": 2
                     },
-                    "ID": 2803,
+                    "ID": 2813,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231201,
+                    "End": 20231208,
+                    "Map": 11897,
+                    "Name": "集合面板",
+                    "Title": "冰雪节主题活动",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/IceSnowFestivalGoToMapMap"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4576
+                    },
+                    "ID": 2814,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
                     "Start": 20231201,
-                    "End": 20231229,
-                    "Map": 1588,
-                    "Name": "12月包月精灵",
-                    "Title": "南十字·克鲁斯",
+                    "End": 20231208,
+                    "Map": 1647,
+                    "Name": "集合面板",
+                    "Title": "薇尔拉",
                     "Redirect": "map|module",
-                    "Go": "1588;app/MonthlyPetInDecember2023Panel"
+                    "Go": "1647;app/IceSnowFestivalGoToMapMap"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2797,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231124,
+                    "End": 20231215,
+                    "Map": 103,
+                    "Name": "守护者·艾里克神谕进阶",
+                    "Title": "天烬雷魂 极羽赫鸣",
+                    "Redirect": "module",
+                    "Go": "app/AdvancedPetMainPanel_3705"
                 },
                 {
                     "Details": {
@@ -46281,142 +46403,157 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4573
-                    },
-                    "ID": 2806,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231201,
-                    "End": "*",
-                    "Map": 1647,
-                    "Name": "普兰多新型自动防卫装置",
-                    "Title": "PLD",
-                    "Redirect": "module",
-                    "Go": "app/SpetPLDMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4574
-                    },
-                    "ID": 2807,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20231201,
-                    "End": 20240105,
-                    "Map": 1095,
-                    "Name": "12月巅峰精灵更新",
-                    "Title": "寂娆",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
-                    "ID": 2808,
+                    "ID": 2815,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20231201,
-                    "End": "*",
-                    "Map": 1647,
-                    "Name": "云霄之间",
-                    "Title": "涨潮",
-                    "Redirect": "map|module",
-                    "Go": "1647;app/MainLineAdventureChapterPanel&&70016"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2809,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231201,
-                    "End": "*",
-                    "Map": 1647,
-                    "Name": "命定时刻",
-                    "Title": "再会",
-                    "Redirect": "map|module",
-                    "Go": "1647;app/MainLineAdventureChapterPanel&&80006"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2810,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231201,
-                    "End": 20231229,
-                    "Map": 1647,
-                    "Name": "《落入兔子洞》",
-                    "Title": "兔子的神秘邀约",
-                    "Redirect": "module",
-                    "Go": "app/AnnualPreheating2024MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2811,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231201,
-                    "End": "*",
-                    "Map": 1147,
-                    "Name": "功勋商店更新",
-                    "Title": "功勋商店更新",
-                    "Redirect": "map|module",
-                    "Go": "1147;app/PveRewardMallMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2813,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231201,
-                    "End": 20231208,
+                    "Start": 20231208,
+                    "End": 20231215,
                     "Map": 11897,
-                    "Name": "集合面板",
-                    "Title": "冰雪节主题活动",
+                    "Name": "冰雪节第二弹集合面板",
+                    "Title": "冰雪节主题活动第二弹",
                     "Redirect": "map|module",
-                    "Go": "11897;app/IceSnowFestivalGoToMapMap"
+                    "Go": "11897;app/SnowFestivalGoToMapMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2816,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231208,
+                    "End": "*",
+                    "Map": 1648,
+                    "Name": "云霄之间",
+                    "Title": "手偶之舞",
+                    "Redirect": "map|module",
+                    "Go": "1648;app/MainLineAdventureChapterPanel&&70016"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2817,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231208,
+                    "End": 20231229,
+                    "Map": 1648,
+                    "Name": "2024年费预热第2弹",
+                    "Title": "异元梦境的真相",
+                    "Redirect": "map|module",
+                    "Go": "1648;app/AnnualPreheating2024MainPanel"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4576
+                        "monID": 4577
                     },
-                    "ID": 2814,
+                    "ID": 2818,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20231201,
-                    "End": 20231208,
-                    "Map": 1647,
-                    "Name": "集合面板",
-                    "Title": "薇尔拉",
+                    "Start": 20231208,
+                    "End": "*",
+                    "Map": 1648,
+                    "Name": "怪异手偶 紫芸之舞",
+                    "Title": "斯缇尔",
                     "Redirect": "map|module",
-                    "Go": "1647;app/IceSnowFestivalGoToMapMap"
+                    "Go": "1648;app/SpetSiTiErMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2819,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231208,
+                    "End": 20231222,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2820,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231208,
+                    "End": 20231215,
+                    "Map": 103,
+                    "Name": "VIP权益更新预告",
+                    "Title": "VIP权益更新抢先看",
+                    "Redirect": "map|module",
+                    "Go": "103;app/VIPEquityLookPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2821,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231208,
+                    "End": "*",
+                    "Map": 1648,
+                    "Name": "幽灯寻途",
+                    "Title": "歧途",
+                    "Redirect": "map|module",
+                    "Go": "1648;app/MainLineAdventureChapterPanel&&50007"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2822,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231208,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "断罪之刻",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2823,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231208,
+                    "End": 20231215,
+                    "Map": 1095,
+                    "Name": "巅峰激励赛",
+                    "Title": "巅峰激励赛",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihadRewardWeekPanel"
                 },
                 {
                     "Details": {
@@ -46436,7 +46573,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2803,2804,2805,2810,2811"
+            "Important": "2823,2817,2819,2820,2822"
         }
     }
 }

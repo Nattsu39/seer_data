@@ -2687,39 +2687,11 @@
             },
             {
                 "changeMapComp": {
-                    "component": [
-                        {
-                            "name": "door_0",
-                            "hit": "comp_0",
-                            "targetID": 201
-                        },
-                        {
-                            "name": "door_1",
-                            "hit": "comp_1",
-                            "targetID": 501
-                        }
-                    ]
-                },
-                "funComp": {
-                    "component": [
-                        {
-                            "name": "npc",
-                            "hit": "npcHit",
-                            "fun": "hitNpc"
-                        },
-                        {
-                            "name": "signMC",
-                            "hit": "signHit",
-                            "fun": "pkSign",
-                            "des": "要塞保卫战"
-                        },
-                        {
-                            "name": "trialsMC",
-                            "hit": "trialsHit",
-                            "fun": "trialsFunc",
-                            "des": "试炼之塔"
-                        }
-                    ]
+                    "component": {
+                        "name": "door_0",
+                        "hit": "comp_0",
+                        "targetID": 201
+                    }
                 },
                 "id": 101,
                 "name": "教官办公室",
@@ -18487,6 +18459,15 @@
                 "sound": "BGM_774",
                 "scenenpc": "4573|1|303|398|20231201|20231208",
                 "group": 32
+            },
+            {
+                "id": 1648,
+                "name": "紫芸之森",
+                "x": 550,
+                "y": 430,
+                "sound": "BGM_775",
+                "scenenpc": "4577|1|323|448|20231208|20231215",
+                "group": 38
             },
             {
                 "id": 5001,

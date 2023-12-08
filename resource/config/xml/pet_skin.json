@@ -9519,8 +9519,8 @@
                 "AddWay": 1,
                 "Type": 3,
                 "Name": "异界之种·山椿",
-                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel",
-                "GoType": "map|module"
+                "Go": 1095,
+                "GoType": "map"
             },
             {
                 "SkinKind": [
@@ -9567,8 +9567,42 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "该隐",
+                "Name": "该隐"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 582,
+                "MonID": 4173,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "星火逐梦·茜尔",
                 "Go": "103;app/ExchangeDiamondRewardSystemPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 583,
+                "MonID": 4574,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "拘捕密令·寂娆",
+                "Go": "1095;app/PeakJihadRewardChange2016RevisionPanel",
                 "GoType": "map|module"
             }
         ]
