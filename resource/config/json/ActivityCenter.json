@@ -5,7 +5,7 @@
             "name": "markDraw",
             "labelName": "刻印抽奖",
             "type": 1,
-            "sorting": 5,
+            "sorting": 4,
             "Go": 135,
             "beginning": "",
             "ending": "",
@@ -70,7 +70,7 @@
             "name": "energyResearchStation",
             "labelName": "能源中心",
             "type": 1,
-            "sorting": 6,
+            "sorting": 7,
             "Go": 188,
             "beginning": "2023_02_10 00:00:00",
             "ending": "2024_12_31 00:00:00",
@@ -83,7 +83,7 @@
             "name": "oracleAdvance",
             "labelName": "神谕进阶",
             "type": 1,
-            "sorting": 7,
+            "sorting": 5,
             "Go": 187,
             "beginning": "2023_11_24 00:00:00",
             "ending": "2023_12_15 00:00:00",
@@ -129,6 +129,19 @@
             "statLog": "",
             "pageChildrenName": "",
             "isShow": 0
+        },
+        {
+            "id": 11,
+            "name": "advancedPetBackStore",
+            "labelName": "神谕归来",
+            "type": 1,
+            "sorting": 6,
+            "Go": 264,
+            "beginning": "",
+            "ending": "",
+            "statLog": "",
+            "pageChildrenName": "",
+            "isShow": 1
         }
     ]
 }

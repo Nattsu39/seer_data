@@ -718,6 +718,71 @@
                 "StatID": 2311240600
             }
         ],
-        "BackMonsters": {}
+        "BackMonsters": {
+            "Back": [
+                {
+                    "ID": 1,
+                    "IsBack": 0,
+                    "MonsterId": 3514,
+                    "TaskId": 1
+                },
+                {
+                    "ID": 2,
+                    "IsBack": 1,
+                    "MonsterId": 3704,
+                    "TaskId": 2,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50,
+                    "desc": "999|2024/3/22"
+                },
+                {
+                    "ID": 3,
+                    "IsBack": 0,
+                    "MonsterId": 3506,
+                    "TaskId": 3
+                },
+                {
+                    "ID": 4,
+                    "IsBack": 1,
+                    "MonsterId": 3388,
+                    "TaskId": 4,
+                    "PerNeedCoinB": 300,
+                    "Weight": 50,
+                    "desc": "9|2024/3/22"
+                },
+                {
+                    "ID": 5,
+                    "IsBack": 1,
+                    "MonsterId": 3670,
+                    "TaskId": 5,
+                    "PerNeedCoinB": 400,
+                    "Weight": 50,
+                    "desc": "99|2024/3/22"
+                },
+                {
+                    "ID": 6,
+                    "IsBack": 0,
+                    "MonsterId": 3507,
+                    "TaskId": 6
+                },
+                {
+                    "ID": 7,
+                    "IsBack": 0,
+                    "MonsterId": 3954,
+                    "TaskId": 7
+                },
+                {
+                    "ID": 8,
+                    "IsBack": 0,
+                    "MonsterId": 3724,
+                    "TaskId": 8
+                }
+            ],
+            "free_cnt": 2,
+            "assure_cnt": 3,
+            "refresh_base_cost": 50,
+            "refresh_add_cost": 10,
+            "refresh_max_cost": 100
+        }
     }
 }
