@@ -1179,39 +1179,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4578,
-                        "ImageID": 4578,
+                        "ID": 4582,
+                        "ImageID": 4582,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1649;app/SpetManGuMainPanel"
+                        "Go": "1650;app/SpetChiXingMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4579,
-                        "ImageID": 4579,
+                        "type": 1,
+                        "ID": 584,
+                        "MonID": 4430,
+                        "ImageID": 1400584,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1649;app/SenYinMiZhongGoToMapPanel"
+                        "Go": "11897;app/ChristmasThemeMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4580,
-                        "ImageID": 4580,
+                        "type": 1,
+                        "ID": 585,
+                        "MonID": 3705,
+                        "ImageID": 1400585,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1649;app/SenYinMiZhongGoToMapPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4581,
-                        "ImageID": 4581,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/VIPDiscountByArticle20231215MainPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42442
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -42963,9 +42953,7 @@
                 "Type": "地面 战斗",
                 "Height": 900,
                 "Weight": 30,
-                "Features": "狸狸是一只可爱的小水狸，抓鱼可是它的拿手本领！",
-                "Redirect": "module",
-                "Go": "app/LaborDayThemeSpiritMainPanel"
+                "Features": "狸狸是一只可爱的小水狸，抓鱼可是它的拿手本领！"
             },
             {
                 "ID": 4050,
@@ -48303,6 +48291,16 @@
                 "Features": "梦貘平时基本处于沉睡状态，但在梦境中却显得特别活跃。相传梦貘会通过吞食噩梦，来帮助大家忘记不愉快的回忆。",
                 "Redirect": "map|module",
                 "Go": "103;app/VIPDiscountByArticle20231215MainPanel"
+            },
+            {
+                "ID": 4582,
+                "DefName": "斥星",
+                "Type": "远古 神秘",
+                "Height": 163,
+                "Weight": 46,
+                "Features": "幻星塔的守护者，受杰格的委托掌管着真正的虚幻·紫水晶，这是她的责任，攸关性命的责任。",
+                "Redirect": "map|module",
+                "Go": "1650;app/SpetChiXingMainPanel"
             }
         ]
     }

@@ -5778,7 +5778,7 @@
                             "Lv": "47 48"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5277,
                     "ItemBonusID": 1
@@ -5843,7 +5843,7 @@
                             "Lv": "48 49"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5278,
                     "ItemBonusID": 1
@@ -6047,7 +6047,7 @@
                             "Lv": "48 48"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5279,
                     "ItemBonusID": 1
@@ -10902,7 +10902,7 @@
                             "Lv": "50 51"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5280,
                     "ItemBonusID": 1
@@ -45560,6 +45560,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1650,
+                "Name": "幻星塔顶",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -46072,6 +46078,12 @@
             {
                 "ID": 2093,
                 "Name": "骨碌沼泽",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2094,
+                "Name": "幻星塔顶",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -50452,7 +50464,7 @@
                             "Lv": "47 48"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5277,
                     "ItemBonusID": 1
@@ -50504,7 +50516,7 @@
                             "Lv": "48 49"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5278,
                     "ItemBonusID": 1
@@ -50555,7 +50567,7 @@
                             "Lv": "48 48"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5279,
                     "ItemBonusID": 1
@@ -50770,7 +50782,7 @@
                             "Lv": "50 51"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5280,
                     "ItemBonusID": 1
@@ -56238,12 +56250,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1649,
+                    "RandMaps": 1650,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1649,
+                    "RandMaps": 1650,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56255,7 +56267,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20231215,
+                "ID": 20231222,
                 "Desc": "每次发版需同步更新版本号"
             }
         }
