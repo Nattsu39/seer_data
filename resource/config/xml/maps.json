@@ -11095,7 +11095,7 @@
                             "Lv": "17 18"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5281,
                     "ItemBonusID": 1
@@ -11206,7 +11206,7 @@
                             "Lv": "54 55"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5282,
                     "ItemBonusID": 1
@@ -11286,7 +11286,7 @@
                             "Lv": "55 56"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5283,
                     "ItemBonusID": 1
@@ -11652,7 +11652,7 @@
                             "Lv": "56 57"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5294,
                     "ItemBonusID": 1
@@ -45566,6 +45566,58 @@
                 "InitY": 400
             },
             {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        },
+                        {
+                            "ID": 4584,
+                            "Lv": "16 22"
+                        }
+                    ]
+                },
+                "ID": 1651,
+                "Name": "幻光大厅",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
+                "ID": 1652,
+                "Name": "时刹之隙",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -46084,6 +46136,12 @@
             {
                 "ID": 2094,
                 "Name": "幻星塔顶",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2095,
+                "Name": "幻光大厅",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -50975,7 +51033,7 @@
                             "Lv": "17 18"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5281,
                     "ItemBonusID": 1
@@ -51027,7 +51085,7 @@
                             "Lv": "54 55"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5282,
                     "ItemBonusID": 1
@@ -51078,7 +51136,7 @@
                             "Lv": "55 56"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5283,
                     "ItemBonusID": 1
@@ -51260,7 +51318,7 @@
                             "Lv": "56 57"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5294,
                     "ItemBonusID": 1
@@ -56250,12 +56308,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1650,
+                    "RandMaps": 1651,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1650,
+                    "RandMaps": 1651,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56267,7 +56325,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20231222,
+                "ID": 20231229,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

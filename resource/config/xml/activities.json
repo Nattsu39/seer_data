@@ -10343,23 +10343,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2383,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20230106,
-                    "End": 20231228,
-                    "Map": 1588,
-                    "Name": "苍星的约定",
-                    "Title": "苍星的约定",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TheAgreementOfCangXingMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 2386,
@@ -13753,6 +13736,75 @@
                     "Title": "蔓古",
                     "Redirect": "map|module",
                     "Go": "1649;app/SpetManGuMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2838,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231222,
+                    "End": 20240126,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统更新",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4582
+                    },
+                    "ID": 2839,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20231222,
+                    "End": "*",
+                    "Map": 1650,
+                    "Name": "虚幻的夜空 幻星的守护",
+                    "Title": "斥星",
+                    "Redirect": "map|module",
+                    "Go": "1650;app/SpetChiXingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2840,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231222,
+                    "End": "*",
+                    "Map": 1650,
+                    "Name": "云霄之间",
+                    "Title": "紫水晶的试炼",
+                    "Redirect": "map|module",
+                    "Go": "1650;app/MainLineAdventureChapterPanel&&70019"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2842,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231222,
+                    "End": "*",
+                    "Map": 1650,
+                    "Name": "幽灯寻途",
+                    "Title": "余辉",
+                    "Redirect": "map|module",
+                    "Go": "1650;app/MainLineAdventureChapterPanel&&50008"
                 }
             ]
         },
@@ -46635,15 +46687,7 @@
                     "Title": "梅伊",
                     "Redirect": "map|module",
                     "Go": "1649;app/SenYinMiZhongGoToMapPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -46682,23 +46726,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2822,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231208,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "断罪之刻",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2825,
                     "isNew": 1,
                     "kinds": 1,
@@ -46711,6 +46738,99 @@
                     "Title": "逐界苍星即将离开",
                     "Redirect": "map|module",
                     "Go": "1588;app/Year2023PetLeaveSoonMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2835,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231222,
+                    "End": 20231229,
+                    "Map": 11897,
+                    "Name": "礼物大作战＆集合面板",
+                    "Title": "冬日乐翻天",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ChristmasThemeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2836,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231222,
+                    "End": 20231229,
+                    "Map": 103,
+                    "Name": "星际座驾 折扣售卖",
+                    "Title": "星际座驾 折扣售卖",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SuitDiscountedSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2841,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231222,
+                    "End": 20231229,
+                    "Map": 103,
+                    "Name": "2024年费预热第4弹",
+                    "Title": "年费爆料&预约礼包",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AnnualPreheating2024MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2383,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20230106,
+                    "End": 20231228,
+                    "Map": 1588,
+                    "Name": "苍星的约定",
+                    "Title": "苍星的约定",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TheAgreementOfCangXingMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2822,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231208,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "断罪之刻",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
                 },
                 {
                     "Details": {
@@ -46748,40 +46868,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2835,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231222,
-                    "End": 20231229,
-                    "Map": 11897,
-                    "Name": "礼物大作战＆集合面板",
-                    "Title": "圣诞乐翻天",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/ChristmasThemeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2836,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231222,
-                    "End": 20231229,
-                    "Map": 103,
-                    "Name": "星际座驾 折扣售卖",
-                    "Title": "星际座驾 折扣售卖",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SuitDiscountedSalesMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2837,
@@ -46801,87 +46887,208 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2838,
+                    "ID": 2843,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20231222,
-                    "End": 20240126,
-                    "Map": 1427,
-                    "Name": "道具回收系统更新",
-                    "Title": "道具回收系统更新",
+                    "Start": 20231229,
+                    "End": "*",
+                    "Map": 1651,
+                    "Name": "云霄之间",
+                    "Title": "破境",
                     "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
+                    "Go": "1651;app/MainLineAdventureChapterPanel&&70020"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4582
+                        "monID": 4583
                     },
-                    "ID": 2839,
+                    "ID": 2844,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20231222,
+                    "Start": 20231229,
                     "End": "*",
-                    "Map": 1650,
-                    "Name": "虚幻的夜空 幻星的守护",
-                    "Title": "斥星",
+                    "Map": 1651,
+                    "Name": "龙血之印 幽夜管家",
+                    "Title": "巴特勒",
                     "Redirect": "map|module",
-                    "Go": "1650;app/SpetChiXingMainPanel"
+                    "Go": "1651;app/SpetBaTeLeMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2840,
+                    "ID": 2845,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20231222,
-                    "End": "*",
-                    "Map": 1650,
-                    "Name": "云霄之间",
-                    "Title": "紫水晶的试炼",
+                    "Start": 20231229,
+                    "End": 20240105,
+                    "Map": 11897,
+                    "Name": "欢喜元旦节",
+                    "Title": "欢喜元旦节",
                     "Redirect": "map|module",
-                    "Go": "1650;app/MainLineAdventureChapterPanel&&70019"
+                    "Go": "11897;app/NewYearsDayThemeMainS1Panel"
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 2841,
+                    "ID": 2846,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20231222,
-                    "End": 20231229,
+                    "Type": 1,
+                    "Start": 20231229,
+                    "End": 20240202,
                     "Map": 103,
-                    "Name": "2024年费预热第4弹",
-                    "Title": "年费爆料&预约礼包",
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/AnnualPreheating2024MainPanel"
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2842,
+                    "ID": 2847,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20231222,
-                    "End": "*",
-                    "Map": 1650,
-                    "Name": "幽灯寻途",
-                    "Title": "余辉",
+                    "Start": 20231229,
+                    "End": 20240105,
+                    "Map": 1095,
+                    "Name": "赛末段位结算",
+                    "Title": "赛末段位结算",
                     "Redirect": "map|module",
-                    "Go": "1650;app/MainLineAdventureChapterPanel&&50008"
+                    "Go": "1095;app/PeakFinalSprintSettlementMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2848,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20231229,
+                    "End": 20240102,
+                    "Map": 1651,
+                    "Name": "元旦签到",
+                    "Title": "元旦签到",
+                    "Redirect": "map|module",
+                    "Go": "1651;app/NewYear2023SignInPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2849,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240101,
+                    "End": 20241227,
+                    "Map": 1652,
+                    "Name": "空元行者史诗皮肤售卖",
+                    "Title": "浮云临空 遍览山河",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/AnnualFee2024SkinMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4585
+                    },
+                    "ID": 2850,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240101,
+                    "End": 20240202,
+                    "Map": 1652,
+                    "Name": "1月专属VIP精灵",
+                    "Title": "斯诺椰",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInJanuary2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2851,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240101,
+                    "End": 20240209,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "瀚宇星皇巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2852,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240101,
+                    "End": 20241227,
+                    "Map": 1652,
+                    "Name": "空元行者",
+                    "Title": "全新年费 至尊降临",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/Yearvip2024MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4586
+                    },
+                    "ID": 2853,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240101,
+                    "End": 20241227,
+                    "Map": 1652,
+                    "Name": "空元行者",
+                    "Title": "空元行者",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/Yearvip2024MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2854,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240101,
+                    "End": 20240202,
+                    "Map": 1652,
+                    "Name": "1月专属VIP精灵",
+                    "Title": "1月专属VIP精灵",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInJanuary2024Panel"
                 },
                 {
                     "Details": {
@@ -46901,7 +47108,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2836,2837,2838,2839,2841"
+            "Important": "2846,2849,2851,2852,2854"
         }
     }
 }

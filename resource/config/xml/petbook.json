@@ -1179,29 +1179,76 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4582,
-                        "ImageID": 4582,
+                        "ID": 4583,
+                        "ImageID": 4583,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1650;app/SpetChiXingMainPanel"
+                        "Go": "1651;app/SpetBaTeLeMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4584,
+                        "ImageID": 4584,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1651
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4585,
+                        "ImageID": 4585,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1652;app/MonthlyPetInJanuary2024Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4586,
+                        "ImageID": 4586,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1652;app/Yearvip2024MainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 584,
-                        "MonID": 4430,
-                        "ImageID": 1400584,
+                        "ID": 586,
+                        "MonID": 4586,
+                        "ImageID": 1400586,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/ChristmasThemeMainPanel"
+                        "Go": "1652;app/AnnualFee2024SkinMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 585,
-                        "MonID": 3705,
-                        "ImageID": 1400585,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "type": 3,
+                        "ID": 42444
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42445
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42446
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42447
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42448
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42449
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42450
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42451
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -16371,7 +16418,7 @@
                 "Weight": 42,
                 "Food": "未知",
                 "Features": "仙女龙萨帕克的超进化形态，获得龙翼神光的仙女龙实力得到了大幅提升，被誉为龙族大巫师的她必将彻底粉碎暗黑仙女龙的势力！",
-                "mapID": 741
+                "mapID": 1318
             },
             {
                 "ID": 1267,
@@ -31726,8 +31773,7 @@
                 "Type": "冰 暗影",
                 "Height": 166,
                 "Weight": 98,
-                "Features": "斯普林特超进化形态。冰和暗影更加完美的融合，唤醒了忍魂的终极奥义!",
-                "mapID": 0
+                "Features": "斯普林特超进化形态。冰和暗影更加完美的融合，唤醒了忍魂的终极奥义!"
             },
             {
                 "ID": 2815,
@@ -31871,8 +31917,7 @@
                 "Type": "光",
                 "Height": 185,
                 "Weight": 75,
-                "Features": "神母封印解除，超进化开启！双翼代表重生的希望，手杖意味王权再临！沐世圣光，开启!",
-                "mapID": 991
+                "Features": "神母封印解除，超进化开启！双翼代表重生的希望，手杖意味王权再临！沐世圣光，开启!"
             },
             {
                 "ID": 2831,
@@ -32027,8 +32072,7 @@
                 "Type": "超能",
                 "Height": 172,
                 "Weight": 58,
-                "Features": "艾隆尼斯超进化形态！虽然不能像雷神一般肆意操控力量。但是，超进化之后激发出的潜能也不可小觑!",
-                "mapID": 0
+                "Features": "艾隆尼斯超进化形态！虽然不能像雷神一般肆意操控力量。但是，超进化之后激发出的潜能也不可小觑!"
             },
             {
                 "ID": 2848,
@@ -32289,8 +32333,7 @@
                 "Type": "飞行",
                 "Height": 128,
                 "Weight": 80,
-                "Features": "巨镰鸟超进化形态！高空塔的神奇电流造成了进化的开启!",
-                "mapID": 331
+                "Features": "巨镰鸟超进化形态！高空塔的神奇电流造成了进化的开启!"
             },
             {
                 "ID": 2877,
@@ -32370,8 +32413,7 @@
                 "Type": "水 超能",
                 "Height": 164,
                 "Weight": 64,
-                "Features": "雷奥纳的超进化形态，将水之力量融入到超能系技能中，威力无穷!",
-                "mapID": 0
+                "Features": "雷奥纳的超进化形态，将水之力量融入到超能系技能中，威力无穷!"
             },
             {
                 "ID": 2886,
@@ -44152,7 +44194,8 @@
                 "Height": 184,
                 "Weight": 73,
                 "Features": "2021年年费精灵，莱达宇宙的黑夜之神，长夜无尽，黎明未觉，生命不朽，枷锁不灭！",
-                "mapID": 1471
+                "Redirect": "map",
+                "Go": 1471
             },
             {
                 "ID": 4170,
@@ -46973,8 +47016,8 @@
                 "Height": 178,
                 "Weight": 54,
                 "Features": "2023年年费精灵，代号索拉里斯，来自异域的苍穹，终末遨游的孤星，手中的魔盒·苍星之理承载着来自未来的记忆和力量，为阻止命定的轮回前往星之所向。",
-                "Redirect": "map|module",
-                "Go": "1588;app/Yearvip2023MainPanel"
+                "Redirect": "map",
+                "Go": 1588
             },
             {
                 "ID": 4451,
@@ -47282,9 +47325,7 @@
                 "Type": "草 暗影",
                 "Height": 172,
                 "Weight": 57,
-                "Features": "2023年3月包月精灵，十二星芒之一，牧夫锐矛，星汉挑扎！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年3月包月精灵，十二星芒之一，牧夫锐矛，星汉挑扎！"
             },
             {
                 "ID": 4481,
@@ -47397,9 +47438,7 @@
                 "Type": "圣灵神秘",
                 "Height": 173,
                 "Weight": 59,
-                "Features": "2023年4月包月精灵，十二星芒之一，仙后镇邪，星汉璀璨！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年4月包月精灵，十二星芒之一，仙后镇邪，星汉璀璨！"
             },
             {
                 "ID": 4492,
@@ -47461,9 +47500,7 @@
                 "Type": "水 次元",
                 "Height": 186,
                 "Weight": 78,
-                "Features": "2023年5月包月精灵，十二星芒之一，长蛇绞命，星汉涟漪！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年5月包月精灵，十二星芒之一，长蛇绞命，星汉涟漪！"
             },
             {
                 "ID": 4498,
@@ -47562,9 +47599,7 @@
                 "Type": "远古 邪灵",
                 "Height": 184,
                 "Weight": 76,
-                "Features": "2023年6月包月精灵，十二星芒之一，巨爵擎天，星汉黯空！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年6月包月精灵，十二星芒之一，巨爵擎天，星汉黯空！"
             },
             {
                 "ID": 4509,
@@ -47665,9 +47700,7 @@
                 "Type": "光 超能",
                 "Height": 153,
                 "Weight": 43,
-                "Features": "2023年7月包月精灵，十二星芒之一，小熊拥抱，星汉软绒！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年7月包月精灵，十二星芒之一，小熊拥抱，星汉软绒！"
             },
             {
                 "ID": 4519,
@@ -47780,9 +47813,7 @@
                 "Type": "光 神秘",
                 "Height": 163,
                 "Weight": 46,
-                "Features": "2023年8月包月精灵，十二星芒之一，大熊幻歌，星汉常明！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年8月包月精灵，十二星芒之一，大熊幻歌，星汉常明！"
             },
             {
                 "ID": 4531,
@@ -47912,9 +47943,7 @@
                 "Type": "混沌 飞行",
                 "Height": 177,
                 "Weight": 73,
-                "Features": "2023年9月包月精灵，十二星芒之一，天鹰引魂，星汉迷穹！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年9月包月精灵，十二星芒之一，天鹰引魂，星汉迷穹！"
             },
             {
                 "ID": 4545,
@@ -48024,9 +48053,7 @@
                 "Type": "火 战斗",
                 "Height": 169,
                 "Weight": 63,
-                "Features": "2023年10月包月精灵，十二星芒之一，猎户焚野，星汉追猎！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年10月包月精灵，十二星芒之一，猎户焚野，星汉追猎！"
             },
             {
                 "ID": 4556,
@@ -48125,9 +48152,7 @@
                 "Type": "自然 冰",
                 "Height": 167,
                 "Weight": 51,
-                "Features": "2023年11月包月精灵，十二星芒之一，天琴凝冰，星汉玄音！",
-                "Redirect": "map|module",
-                "Go": "1588;app/VipMouthPet2023Panel"
+                "Features": "2023年11月包月精灵，十二星芒之一，天琴凝冰，星汉玄音！"
             },
             {
                 "ID": 4566,
@@ -48226,9 +48251,7 @@
                 "Type": "电 次元",
                 "Height": 169,
                 "Weight": 52,
-                "Features": "2023年12月包月精灵，十二星芒之一，十字引雷，掣电相伴！",
-                "Redirect": "map|module",
-                "Go": "1588;app/MonthlyPetInDecember2023Panel"
+                "Features": "2023年12月包月精灵，十二星芒之一，十字引雷，掣电相伴！"
             },
             {
                 "ID": 4576,
@@ -48300,7 +48323,49 @@
                 "Weight": 46,
                 "Features": "幻星塔的守护者，受杰格的委托掌管着真正的虚幻·紫水晶，这是她的责任，攸关性命的责任。",
                 "Redirect": "map|module",
-                "Go": "1650;app/SpetChiXingMainPanel"
+                "Go": "1650;app/SpetChiXingMainPanel",
+                "jumptarget": "151/185"
+            },
+            {
+                "ID": 4583,
+                "DefName": "巴特勒",
+                "Type": "暗影 龙",
+                "Height": 174,
+                "Weight": 53,
+                "Features": "幻星塔的幽夜管家，他将自己的龙印力量分为十二部分，吟诵之后可以进行强化，他对所有前来幻星塔的挑战者都会进行严格的试炼。",
+                "Redirect": "map|module",
+                "Go": "1651;app/SpetBaTeLeMainPanel",
+                "jumptarget": "151/186"
+            },
+            {
+                "ID": 4584,
+                "DefName": "黑灵灵",
+                "Type": "暗影 飞行",
+                "Height": 67,
+                "Weight": 32,
+                "Features": "藏在幻星塔里神出鬼没的小精灵，一旦受到惊吓会立马躲起来。黑灵灵们以灰尘为食，年纪越大的黑灵灵颜色通常越深。",
+                "Redirect": "map",
+                "Go": 1651
+            },
+            {
+                "ID": 4585,
+                "DefName": "斯诺椰",
+                "Type": "冰 超能",
+                "Height": 163,
+                "Weight": 46,
+                "Features": "2024年包月精灵，十二诗灵之一月的雪鸮，倾听她的灵语，寂静的冬天焕发出生命的活力！",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInJanuary2024Panel"
+            },
+            {
+                "ID": 4586,
+                "DefName": "空元行者",
+                "Type": "次元 龙",
+                "Height": 197,
+                "Weight": 68,
+                "Features": "2024年年费精灵，本名罗姆怀特，来自远方的游写旅人。偶影独游，行至空元。",
+                "Redirect": "map|module",
+                "Go": "1652;app/Yearvip2024MainPanel"
             }
         ]
     }

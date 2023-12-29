@@ -56,9 +56,9 @@
                 "priority": 2,
                 "exMapList": 50000,
                 "ui": "yearvip_icon",
-                "tips": "2023年费",
+                "tips": "2024年费",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016",
-                "mouseClickFunc": "app:Yearvip2023MainPanel"
+                "mouseClickFunc": "app:Yearvip2024MainPanel"
             },
             {
                 "direction": "left_side",
@@ -150,15 +150,6 @@
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 3,
-                "exMapList": 50000,
-                "ui": "2024YearVipPreheat_icon",
-                "tips": "2024年费预告",
-                "mouseClickFunc": "app:AnnualPreheating2024MainPanel"
             },
             {
                 "direction": "right_side",

@@ -26,8 +26,8 @@
             "image": "VipPet",
             "reddotid": 0,
             "showTag": 1,
-            "starttime": "2023_12_1 00:00:00",
-            "finishtime": "2023_12_29 00:00:00",
+            "starttime": "2024_1_1 00:00:00",
+            "finishtime": "2024_2_2 00:00:00",
             "statLog": "20221021版本系统功能,最新活动搬迁,点击vip神宠面板"
         },
         {
@@ -92,7 +92,7 @@
         },
         {
             "id": 7,
-            "sort": 1,
+            "sort": 0,
             "name": "2023淘乐节签到",
             "isshow": 1,
             "special": 0,
@@ -107,22 +107,22 @@
         },
         {
             "id": 8,
-            "sort": 0,
-            "name": "国庆版本内容预告",
+            "sort": 2,
+            "name": "赛末段位结算",
             "isshow": 1,
             "special": 0,
-            "dest": 260,
-            "param": "",
-            "image": "20230922Guoqingyure",
+            "dest": 110,
+            "param": "{type:8}",
+            "image": "settlement",
             "reddotid": 0,
-            "showTag": 0,
-            "starttime": "2023_9_22 00:00:00",
-            "finishtime": "2023_9_28 00:00:00",
+            "showTag": 1,
+            "starttime": "2023_12_29 00:00:00",
+            "finishtime": "2024_1_5 00:00:00",
             "statLog": ""
         },
         {
             "id": 9,
-            "sort": 6,
+            "sort": 0,
             "name": "每周最新因子精灵",
             "isshow": 1,
             "special": 0,
@@ -152,7 +152,7 @@
         },
         {
             "id": 11,
-            "sort": 2,
+            "sort": 0,
             "name": "十二年之约",
             "isshow": 1,
             "special": 0,
@@ -164,6 +164,21 @@
             "starttime": "2023_11_17 00:00:00",
             "finishtime": "2023_12_1 00:00:00",
             "statLog": "20231117版本系统功能,十二年之约,通过banner进入活动"
+        },
+        {
+            "id": 12,
+            "sort": 1,
+            "name": "元旦签到",
+            "isshow": 1,
+            "special": 0,
+            "dest": 196,
+            "param": "",
+            "image": "newYearSign",
+            "reddotid": 0,
+            "showTag": 0,
+            "starttime": "2023_12_29 00:00:00",
+            "finishtime": "2024_1_2 00:00:00",
+            "statLog": ""
         }
     ]
 }
