@@ -8110,6 +8110,177 @@
                         ],
                         "ID": 28,
                         "Desc": "巅峰大乱斗"
+                    },
+                    {
+                        "Branch": [
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 15,
+                                        "achName": "战皇",
+                                        "Desc": "任意赛季竞技模式首次达成5连胜",
+                                        "proicon": 1325,
+                                        "icon": 2
+                                    },
+                                    {
+                                        "ID": 2,
+                                        "Threshold": 2,
+                                        "AchievementPoint": 20,
+                                        "achName": "战神",
+                                        "Desc": "任意赛季竞技模式首次达成10连胜",
+                                        "proicon": 1326,
+                                        "icon": 4
+                                    },
+                                    {
+                                        "ID": 3,
+                                        "Threshold": 3,
+                                        "AchievementPoint": 30,
+                                        "achName": "不可能完成的任务",
+                                        "Desc": "任意赛季竞技模式首次达成30连胜",
+                                        "proicon": 1327,
+                                        "icon": 3
+                                    }
+                                ],
+                                "ID": 162,
+                                "Desc": "连胜成就",
+                                "type": 2
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 10,
+                                        "achName": "初入巅峰",
+                                        "Desc": "任意赛季竞技/休闲模式中进行1次对战",
+                                        "proicon": 1321,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 2,
+                                        "Threshold": 2,
+                                        "AchievementPoint": 10,
+                                        "achName": "巅峰对战（一）",
+                                        "Desc": "任意赛季竞技/休闲模式进行50次对战",
+                                        "proicon": 1322,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 3,
+                                        "Threshold": 3,
+                                        "AchievementPoint": 10,
+                                        "achName": "巅峰对战（二）",
+                                        "Desc": "任意赛季竞技/休闲模式进行500次对战",
+                                        "proicon": 1323,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 4,
+                                        "Threshold": 4,
+                                        "AchievementPoint": 15,
+                                        "achName": "巅峰对战（三）",
+                                        "Desc": "任意赛季竞技/休闲模式进行5000次对战",
+                                        "proicon": 1324,
+                                        "icon": 2
+                                    }
+                                ],
+                                "ID": 163,
+                                "Desc": "对战次数成就",
+                                "type": 2
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 10,
+                                        "achName": "无敌猛将",
+                                        "Desc": "任意赛季竞技模式首次达到猛将段位时获得",
+                                        "proicon": 1317,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 2,
+                                        "Threshold": 2,
+                                        "AchievementPoint": 10,
+                                        "achName": "出世天骄",
+                                        "Desc": "任意赛季竞技模式首次达到天骄段位时获得",
+                                        "proicon": 1318,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 3,
+                                        "Threshold": 3,
+                                        "AchievementPoint": 10,
+                                        "achName": "巅峰王者",
+                                        "Desc": "任意赛季竞技模式首次达到王者段位时获得",
+                                        "proicon": 1319,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 4,
+                                        "Threshold": 4,
+                                        "AchievementPoint": 20,
+                                        "achName": "宇宙圣皇",
+                                        "Desc": "任意赛季竞技模式首次达到圣皇段位时获得",
+                                        "proicon": 1320,
+                                        "icon": 4
+                                    }
+                                ],
+                                "ID": 164,
+                                "Desc": "新巅峰非赛季非系列成就",
+                                "type": 2,
+                                "isShowPro": 0
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 0,
+                                        "achName": "S1赛季猛将",
+                                        "Desc": "S1赛季竞技模式首次达到猛将段位时获得",
+                                        "proicon": 1313,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 2,
+                                        "Threshold": 2,
+                                        "AchievementPoint": 0,
+                                        "achName": "S1赛季天骄",
+                                        "Desc": "S1赛季竞技模式首次达到天骄段位时获得",
+                                        "proicon": 1314,
+                                        "icon": 1
+                                    },
+                                    {
+                                        "ID": 3,
+                                        "Threshold": 3,
+                                        "AchievementPoint": 0,
+                                        "achName": "S1赛季王者",
+                                        "Desc": "S1赛季竞技模式首次达到王者段位时获得",
+                                        "proicon": 1315,
+                                        "icon": 4
+                                    },
+                                    {
+                                        "ID": 4,
+                                        "Threshold": 4,
+                                        "AchievementPoint": 0,
+                                        "achName": "S1赛季圣皇",
+                                        "Desc": "S1赛季竞技模式首次达到圣皇段位时获得",
+                                        "proicon": 1316,
+                                        "icon": 1
+                                    }
+                                ],
+                                "ID": 165,
+                                "Desc": "赛季成就",
+                                "type": 2,
+                                "isShowPro": 0
+                            }
+                        ],
+                        "ID": 29,
+                        "Desc": "新巅峰"
                     }
                 ],
                 "ID": 4,

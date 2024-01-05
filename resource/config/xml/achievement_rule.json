@@ -7061,6 +7061,124 @@
                 "ID": 161,
                 "Type": 1,
                 "Desc": "新剧情"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 15,
+                        "Desc": "5连胜"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 20,
+                        "Desc": "10连胜"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 30,
+                        "Desc": "30连胜"
+                    }
+                ],
+                "ID": 162,
+                "Type": 5,
+                "Desc": "新巅峰竞技模式连胜成就"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "Desc": "初入巅峰"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "Desc": "50次对战"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 10,
+                        "Desc": "500次对战"
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 4,
+                        "AchievementPoint": 15,
+                        "Desc": "5000次对战"
+                    }
+                ],
+                "ID": 163,
+                "Type": 5,
+                "Desc": "新巅峰竞技/休闲模式对战次数成就"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "Desc": "无敌猛将"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "Desc": "出世天骄"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 10,
+                        "Desc": "巅峰王者"
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 4,
+                        "AchievementPoint": 20,
+                        "Desc": "宇宙圣皇"
+                    }
+                ],
+                "ID": 164,
+                "Type": 5,
+                "Desc": "新巅峰非赛季非系列成就"
+            },
+            {
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 0,
+                        "Desc": "S1赛季猛将"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 0,
+                        "Desc": "S1赛季天骄"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 0,
+                        "Desc": "S1赛季王者"
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 4,
+                        "AchievementPoint": 0,
+                        "Desc": "S1赛季圣皇"
+                    }
+                ],
+                "ID": 165,
+                "Type": 5,
+                "Desc": "新巅峰赛季成就"
             }
         ]
     }
