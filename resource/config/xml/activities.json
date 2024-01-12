@@ -13876,6 +13876,76 @@
                     "Title": "空元行者",
                     "Redirect": "map|module",
                     "Go": "1652;app/Yearvip2024MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2855,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240105,
+                    "End": "*",
+                    "Map": 1653,
+                    "Name": "云霄之间",
+                    "Title": "后半夜",
+                    "Redirect": "map|module",
+                    "Go": "1653;app/MainLineAdventureChapterPanel&&70021"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2856,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240105,
+                    "End": "*",
+                    "Map": 1653,
+                    "Name": "命定时刻",
+                    "Title": "绝缘",
+                    "Redirect": "map|module",
+                    "Go": "1653;app/MainLineAdventureChapterPanel&&80008"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4587
+                    },
+                    "ID": 2860,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240105,
+                    "End": "*",
+                    "Map": 1653,
+                    "Name": "蛇影轨迹 雷鸣疾刃",
+                    "Title": "蛇舞·天鸣",
+                    "Redirect": "map|module",
+                    "Go": "1653;app/SpetSheWuTianMingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4588
+                    },
+                    "ID": 2862,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240105,
+                    "End": "*",
+                    "Map": 1095,
+                    "Name": "S1赛季战令",
+                    "Title": "茵茵",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
                 }
             ]
         },
@@ -46945,6 +47015,23 @@
                     "Title": "元旦签到",
                     "Redirect": "map|module",
                     "Go": "1651;app/NewYear2023SignInPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2857,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240105,
+                    "End": 20240112,
+                    "Map": 11897,
+                    "Name": "温泉节主题活动",
+                    "Title": "温泉节",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/HotSpringGoToMapMainPanel"
                 }
             ],
             "_text": [
@@ -47092,57 +47179,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2855,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240105,
-                    "End": "*",
-                    "Map": 1653,
-                    "Name": "云霄之间",
-                    "Title": "后半夜",
-                    "Redirect": "map|module",
-                    "Go": "1653;app/MainLineAdventureChapterPanel&&70021"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2856,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240105,
-                    "End": "*",
-                    "Map": 1653,
-                    "Name": "命定时刻",
-                    "Title": "绝缘",
-                    "Redirect": "map|module",
-                    "Go": "1653;app/MainLineAdventureChapterPanel&&80008"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2857,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240105,
-                    "End": 20240112,
-                    "Map": 11897,
-                    "Name": "温泉节主题活动",
-                    "Title": "温泉节",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/HotSpringGoToMapMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2858,
@@ -47177,24 +47213,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4587
-                    },
-                    "ID": 2860,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240105,
-                    "End": "*",
-                    "Map": 1653,
-                    "Name": "蛇影轨迹 雷鸣疾刃",
-                    "Title": "蛇舞·天鸣",
-                    "Redirect": "map|module",
-                    "Go": "1653;app/SpetSheWuTianMingMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2861,
@@ -47212,21 +47230,176 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4588
+                        "mc": 2
                     },
-                    "ID": 2862,
+                    "ID": 2863,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240112,
+                    "End": "*",
+                    "Map": 1654,
+                    "Name": "云霄之间",
+                    "Title": "异火",
+                    "Redirect": "map|module",
+                    "Go": "1654;app/MainLineAdventureChapterPanel&&70022"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2864,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240112,
+                    "End": "*",
+                    "Map": 1654,
+                    "Name": "幽灯寻途",
+                    "Title": "极夜",
+                    "Redirect": "map|module",
+                    "Go": "1654;app/MainLineAdventureChapterPanel&&50009"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4589
+                    },
+                    "ID": 2865,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20240105,
+                    "Start": 20240112,
                     "End": "*",
-                    "Map": 1095,
-                    "Name": "S1赛季战令",
-                    "Title": "茵茵",
+                    "Map": 1654,
+                    "Name": "森翠骑士 闪耀的灼心",
+                    "Title": "曜焰万象·文森特",
                     "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                    "Go": "1654;app/SpetYaoYanWanXiangMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2866,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240112,
+                    "End": 20240126,
+                    "Map": 103,
+                    "Name": "冬日特惠宝箱",
+                    "Title": "冬日特惠宝箱",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ElevenDoubleGiftBagMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2867,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240112,
+                    "End": 20240119,
+                    "Map": 11897,
+                    "Name": "忙碌的冬日",
+                    "Title": "忙碌的冬日",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/MangLuOfDongRiGoToMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2868,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240112,
+                    "End": 20240119,
+                    "Map": 103,
+                    "Name": "绝版精灵抽奖",
+                    "Title": "经典萌宠大集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/IndianaSpirit0505MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2869,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240112,
+                    "End": 20240126,
+                    "Map": 1,
+                    "Name": "战队BOSS＆战队商人更新",
+                    "Title": "战队Boss来袭",
+                    "Redirect": "map|module",
+                    "Go": "1;app/WarTeamBossGotoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2870,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240112,
+                    "End": 20240126,
+                    "Map": 1,
+                    "Name": "战队BOSS＆战队商人更新",
+                    "Title": "战队军需官抵达",
+                    "Redirect": "map|module",
+                    "Go": "1;app/TeamBusinessMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4590
+                    },
+                    "ID": 2871,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240112,
+                    "End": 20240126,
+                    "Map": 1,
+                    "Name": "战队BOSS＆战队商人更新",
+                    "Title": "覆骸冥土",
+                    "Redirect": "map|module",
+                    "Go": "1;app/WarTeamBossGotoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4591
+                    },
+                    "ID": 2872,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240112,
+                    "End": 20240119,
+                    "Map": 11897,
+                    "Name": "忙碌的冬日",
+                    "Title": "古拉库",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/MangLuOfDongRiGoToMainPanel"
                 },
                 {
                     "Details": {
@@ -47246,7 +47419,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2851,2852,2858,2859,2861"
+            "Important": "2852,2858,2861,2866,2868"
         }
     }
 }

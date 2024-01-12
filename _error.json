@@ -1,22 +1,7 @@
 {
-    "map.json": {
-        "url": "http://seerh5.61.com/resource/config/json/map_cfe04d39.json",
-        "filename": "map.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "npc.json": {
-        "url": "http://seerh5.61.com/resource/config/json/npc_16b180ab.json",
-        "filename": "npc.json",
-        "exception": "ReadTimeout('timed out')"
-    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "itemFilter.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/itemFilter_fed335e5.json",
-        "filename": "itemFilter.json",
-        "exception": "ReadTimeout('timed out')"
+        "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     }
 }

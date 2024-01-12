@@ -1179,78 +1179,27 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4587,
-                        "ImageID": 4587,
+                        "ID": 4589,
+                        "ImageID": 4589,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1653;app/SpetSheWuTianMingMainPanel"
+                        "Go": "1654;app/SpetYaoYanWanXiangMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4588,
-                        "ImageID": 4588,
+                        "ID": 4590,
+                        "ImageID": 4590,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                        "Go": "1;app/WarTeamBossGotoPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 587,
-                        "MonID": 4588,
-                        "ImageID": 1400587,
+                        "type": 0,
+                        "ID": 4591,
+                        "ImageID": 4591,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 588,
-                        "MonID": 3673,
-                        "ImageID": 1400588,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 589,
-                        "MonID": 3421,
-                        "ImageID": 1400589,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42444
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42445
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42446
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42447
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42448
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42449
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42450
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42451
+                        "Go": "11897;app/MangLuOfDongRiGoToMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -31586,7 +31535,8 @@
                 "Height": 164,
                 "Weight": 44,
                 "Features": "魔域仙子的超进化形态，绽放出力量的花朵。与自然进一步融合，对草系能量的控制更加炉火纯青!",
-                "mapID": 11
+                "Redirect": "module",
+                "Go": "app/MagicSpiritFairyMainPanel"
             },
             {
                 "ID": 2799,
@@ -31649,7 +31599,8 @@
                 "Height": 98,
                 "Weight": 35,
                 "Features": "受到风暴之灵的召唤而进化，在暴风的洗礼中获得了全新的力量!",
-                "mapID": 916
+                "Redirect": "module",
+                "Go": "app/UlfsaarMainPanel"
             },
             {
                 "ID": 2806,
@@ -31945,8 +31896,7 @@
                 "Type": "战斗",
                 "Height": 156,
                 "Weight": 66,
-                "Features": "阿铁达专属精灵开启超进化，究极直拳力量降临。获得了开岩裂地的力量，不在畏惧任何困难!",
-                "mapID": 106
+                "Features": "阿铁达专属精灵开启超进化，究极直拳力量降临。获得了开岩裂地的力量，不在畏惧任何困难!"
             },
             {
                 "ID": 2839,
@@ -32146,7 +32096,8 @@
                 "Height": 163,
                 "Weight": 68,
                 "Features": "急冻兽的超进化形态，外观发生了巨大的变化，令人瞠目结舌。实力因为受到冰精灵王的影响也得到了巨大的提升!",
-                "mapID": 40
+                "Redirect": "module",
+                "Go": "app/FrozenMonsterMainPanel"
             },
             {
                 "ID": 2861,
@@ -32191,7 +32142,8 @@
                 "Height": 157,
                 "Weight": 156,
                 "Features": "纳多雷超进化形态！更加熟悉地面和岩石的力量！让他更加的强大!",
-                "mapID": 106
+                "Redirect": "module",
+                "Go": "app/NadoreyMainPanel"
             },
             {
                 "ID": 2866,
@@ -32369,7 +32321,9 @@
                 "Type": "水 超能",
                 "Height": 164,
                 "Weight": 64,
-                "Features": "雷奥纳的超进化形态，将水之力量融入到超能系技能中，威力无穷!"
+                "Features": "雷奥纳的超进化形态，将水之力量融入到超能系技能中，威力无穷!",
+                "Redirect": "module",
+                "Go": "app/LeonardMainPanel"
             },
             {
                 "ID": 2886,
@@ -48201,6 +48155,37 @@
                 "Features": "巅峰S1赛季【起源】开启！天真烂漫的茵茵作为特邀嘉宾，希望给大家带来自由的芬芳！",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihad2023WarOrdePanel"
+            },
+            {
+                "ID": 4589,
+                "DefName": "曜焰万象·文森特",
+                "Type": "光 火",
+                "Height": 185,
+                "Weight": 74,
+                "Features": "文森特曾经是布德地区的三大宝石骑士之一，森翠骑士。他的双手挥舞出灼热的火光，照亮前路，也燃尽归途。",
+                "Redirect": "map|module",
+                "Go": "1654;app/SpetYaoYanWanXiangMainPanel",
+                "jumptarget": "151/188"
+            },
+            {
+                "ID": 4590,
+                "DefName": "覆骸冥土",
+                "Type": "机械 地面",
+                "Height": 254,
+                "Weight": 232,
+                "Features": "“巨械的核心……亡魂的镇土……再添上些……海妖之血？嗯，生长得这样繁茂可人，真不愧是它的力量。”魔女缓缓搅动着坩埚。",
+                "Redirect": "map|module",
+                "Go": "1;app/WarTeamBossGotoPanel"
+            },
+            {
+                "ID": 4591,
+                "DefName": "古拉库",
+                "Type": "地面",
+                "Height": 57,
+                "Weight": 34,
+                "Features": "古拉库是在小赛尔在冬日执勤时认识的精灵，他的靠谱实干也为忙碌的工作环境增添了些许轻松。",
+                "Redirect": "map|module",
+                "Go": "11897;app/MangLuOfDongRiGoToMainPanel"
             }
         ]
     }

@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_1_5 00:00:00",
+            "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:136}",
+            "goto": "2_151_{Design:137}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_1_5 00:00:00",
+            "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "2_8",
+            "goto": "2_108_{openPanel:\"7,22\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_1_5 00:00:00",
+            "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"7,21\"}",
+            "goto": "2_108_{openPanel:\"5,9\"}",
             "page": 1
         },
         {
@@ -35,30 +35,30 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_1_5 00:00:00",
+            "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"8,8\"}",
+            "goto": "2_74_{selectVlaue:3}",
             "page": 1
         },
         {
             "id": 5,
-            "type": 0,
-            "pic": 0,
+            "type": 1,
+            "pic": 5,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "",
-            "page": 0
+            "goto": "2_74_{selectVlaue:3}",
+            "page": 2
         },
         {
             "id": 6,
-            "type": 0,
-            "pic": 0,
+            "type": 1,
+            "pic": 6,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_1_5 00:00:00",
             "showEnd": "",
-            "goto": "",
-            "page": 0
+            "goto": "2_8",
+            "page": 2
         },
         {
             "id": 7,
@@ -203,15 +203,25 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4587,
+            "pic": 4589,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:137}",
+            "page": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "pic": 4587,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:136}",
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4583,
             "tag": 0,
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 23,
+            "id": 24,
             "type": 2,
             "pic": 4582,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 24,
+            "id": 25,
             "type": 2,
             "pic": 4578,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:133}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4577,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:132}",
             "page": 0
         }
     ]
