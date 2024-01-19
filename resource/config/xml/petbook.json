@@ -1179,27 +1179,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4589,
-                        "ImageID": 4589,
+                        "ID": 4592,
+                        "ImageID": 4592,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1654;app/SpetYaoYanWanXiangMainPanel"
+                        "Go": "1655;app/SpetYeJuMoShiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4590,
-                        "ImageID": 4590,
+                        "ID": 4593,
+                        "ImageID": 4593,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1;app/WarTeamBossGotoPanel"
+                        "Go": "103;app/MoxuejianjiEvolutionarySalesMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4591,
-                        "ImageID": 4591,
+                        "type": 1,
+                        "ID": 590,
+                        "MonID": 4454,
+                        "ImageID": 1400590,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/MangLuOfDongRiGoToMainPanel"
+                        "Go": "103;app/SkinSell_HiWord"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 591,
+                        "MonID": 4501,
+                        "ImageID": 1400591,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -31951,7 +31961,7 @@
                 "Height": 183,
                 "Weight": 96,
                 "Features": "冰精灵王的完全体，最恐怖的冰元素掌控者。虽然力量可怕，属性寒冷。但是心中却燃烧熊熊正义之火!",
-                "mapID": 1089,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -32980,7 +32990,7 @@
                 "Height": 210,
                 "Weight": 180,
                 "Features": "在泰坦星域中游历的精灵王。强大而富有正义感，但是更喜欢一个人独自行动。传说背后的巨大武器亦是开启次元之门的终极钥匙！",
-                "mapID": 1136,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -33245,7 +33255,7 @@
                 "Height": 178,
                 "Weight": 88,
                 "Features": "飞行系精灵王的完全体形态，飞行系的王者，真正的速度之王，没有谁可以追上他驰骋的身影！",
-                "mapID": 1156,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -33680,7 +33690,7 @@
                 "Height": 185,
                 "Weight": 78,
                 "Features": "龙系精灵王的完全体形态，得到双龙的庇护后，乔特鲁德如虎添翼，势不可挡！",
-                "mapID": 1170,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -34099,7 +34109,7 @@
                 "Height": 188,
                 "Weight": 80,
                 "Features": "神秘系精灵王的完全体形态，充满着神秘邪恶的气息，令人闻风丧胆！",
-                "mapID": 1178,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -34290,7 +34300,7 @@
                 "Height": 170,
                 "Weight": 80,
                 "Features": "永恒之水的主人，可以操控水的最强魔法，是来自古老东方的神奇精灵！",
-                "mapID": 1186,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -36213,7 +36223,7 @@
                 "Height": 158,
                 "Weight": 45,
                 "Features": "草系的至尊王者，肩负着守护生命之树的使命，拥有掌控植物的神奇力量！",
-                "mapID": 1225,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -36378,7 +36388,7 @@
                 "Height": 180,
                 "Weight": 80,
                 "Features": "普通系精灵王，俊朗的外形彰显尊贵的身份，体内凝聚着普通却强大的力量！",
-                "mapID": 1228,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -36517,7 +36527,7 @@
                 "Height": 164,
                 "Weight": 48,
                 "Features": "自然系的精灵王，万物的力量都将汇聚于她的身上，终有一天，万物的生命将走向终点，而她，将与自然融为一体！",
-                "mapID": 1231,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -36671,7 +36681,7 @@
                 "Height": 180,
                 "Weight": 80,
                 "Features": "最后一位单属性精灵王，身为远古系的佼佼者，体内的洪荒之力彻底爆发，拥有的战斗力让人惊叹！",
-                "mapID": 1235,
+                "mapID": 1151,
                 "jumptarget": "18/4_1/2"
             },
             {
@@ -48183,9 +48193,28 @@
                 "Type": "地面",
                 "Height": 57,
                 "Weight": 34,
-                "Features": "古拉库是在小赛尔在冬日执勤时认识的精灵，他的靠谱实干也为忙碌的工作环境增添了些许轻松。",
+                "Features": "古拉库是在小赛尔在冬日执勤时认识的精灵，他的靠谱实干也为忙碌的工作环境增添了些许轻松。"
+            },
+            {
+                "ID": 4592,
+                "DefName": "夜居魔使",
+                "Type": "混沌 地面",
+                "Height": 1400,
+                "Weight": 1600,
+                "Features": "夜色之门是弑序神罗的法宝之一，夜居魔使附着在夜色之门上，负责将夜色之门的混沌漩涡链接到长夜星河的黑暗尽头。",
                 "Redirect": "map|module",
-                "Go": "11897;app/MangLuOfDongRiGoToMainPanel"
+                "Go": "1655;app/SpetYeJuMoShiMainPanel",
+                "jumptarget": "151/189"
+            },
+            {
+                "ID": 4593,
+                "DefName": "血刎剑姬",
+                "Type": "暗影 战斗",
+                "Height": 174,
+                "Weight": 71,
+                "Features": "魔血剑姬的进化形态，可以轻易将敌人的鲜血抽离，化作自己的锋刃。",
+                "Redirect": "map|module",
+                "Go": "103;app/MoxuejianjiEvolutionarySalesMainPanel"
             }
         ]
     }

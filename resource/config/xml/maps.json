@@ -12610,7 +12610,7 @@
                             "Lv": "57 58"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5295,
                     "ItemBonusID": 1
@@ -26333,7 +26333,7 @@
                             "Lv": "63 64"
                         }
                     ],
-                    "WildBonusProb": 100,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 100,
                     "BonusID": 5591,
                     "ItemBonusID": 1
@@ -32474,68 +32474,6 @@
                 "InitY": 480
             },
             {
-                "Monsters": {
-                    "Monster": [
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        },
-                        {
-                            "ID": 198,
-                            "Lv": "13 14"
-                        }
-                    ],
-                    "WildBonusProb": 300,
-                    "WildBonusTotalProb": 1000,
-                    "BonusID": 5238,
-                    "ItemBonusID": 1
-                },
-                "Bosses": {
-                    "Boss": {
-                        "BossMon": {
-                            "MonID": 729,
-                            "Hp": 80,
-                            "Lv": 5000
-                        },
-                        "AppearTime": "0 23",
-                        "BossVisible": 0,
-                        "PkFlag": 1
-                    }
-                },
-                "ID": 941,
-                "Name": "特训海底",
-                "InitX": 350,
-                "InitY": 390
-            },
-            {
                 "Bosses": {
                     "Boss": [
                         {
@@ -34681,7 +34619,7 @@
                             "Lv": "48 49"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5278,
                     "ItemBonusID": 1
@@ -45395,6 +45333,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1655,
+                "Name": "夜染山丘",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -45931,6 +45875,12 @@
             {
                 "ID": 2097,
                 "Name": "林中幻墟",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2098,
+                "Name": "夜染山丘",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -56097,12 +56047,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1654,
+                    "RandMaps": 1655,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1654,
+                    "RandMaps": 1655,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56114,7 +56064,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20240112,
+                "ID": 20240119,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

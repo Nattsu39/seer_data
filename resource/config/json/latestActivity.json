@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_1_12 00:00:00",
+            "showStart": "2024_1_19 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:137}",
+            "goto": "2_151_{Design:138}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_1_12 00:00:00",
+            "showStart": "2024_1_19 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"7,22\"}",
+            "goto": "2_108_{openPanel:\"8,9\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_1_12 00:00:00",
+            "showStart": "2024_1_19 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"5,9\"}",
+            "goto": "2_18_{subType: \"EXPLOIT\"}",
             "page": 1
         },
         {
@@ -37,7 +37,7 @@
             "tag": 0,
             "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "2_74_{selectVlaue:3}",
+            "goto": "2_151_{Design:137}",
             "page": 1
         },
         {
@@ -55,9 +55,9 @@
             "type": 1,
             "pic": 6,
             "tag": 0,
-            "showStart": "2024_1_5 00:00:00",
+            "showStart": "2024_1_12 00:00:00",
             "showEnd": "",
-            "goto": "2_8",
+            "goto": "2_74_{selectVlaue:3}",
             "page": 2
         },
         {
@@ -203,15 +203,25 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4589,
+            "pic": 4592,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:138}",
+            "page": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "pic": 4589,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:137}",
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4587,
             "tag": 0,
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 23,
+            "id": 24,
             "type": 2,
             "pic": 4583,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 24,
+            "id": 25,
             "type": 2,
             "pic": 4582,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:134}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4578,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:133}",
             "page": 0
         }
     ]
