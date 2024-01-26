@@ -14050,6 +14050,76 @@
                     "Title": "覆骸冥土",
                     "Redirect": "map|module",
                     "Go": "1;app/WarTeamBossGotoPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2873,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240119,
+                    "End": "*",
+                    "Map": 1655,
+                    "Name": "命定时刻",
+                    "Title": "浸染",
+                    "Redirect": "map|module",
+                    "Go": "1655;app/MainLineAdventureChapterPanel&&80009"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2875,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240119,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "功勋商店更新",
+                    "Title": "功勋商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4592
+                    },
+                    "ID": 2877,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240119,
+                    "End": "*",
+                    "Map": 1655,
+                    "Name": "恶魔之门 魔使结界",
+                    "Title": "夜居魔使",
+                    "Redirect": "map|module",
+                    "Go": "1655;app/SpetYeJuMoShiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4593
+                    },
+                    "ID": 2879,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240119,
+                    "End": 20240202,
+                    "Map": 1655,
+                    "Name": "魔血剑姬超进化",
+                    "Title": "血刎剑姬",
+                    "Redirect": "map|module",
+                    "Go": "1655;app/MoxuejianjiEvolutionarySalesMainPanel"
                 }
             ]
         },
@@ -47205,6 +47275,57 @@
                     "Title": "兑钻奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2866,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240112,
+                    "End": 20240126,
+                    "Map": 103,
+                    "Name": "冬日特惠宝箱",
+                    "Title": "冬日特惠宝箱",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ElevenDoubleGiftBagMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2876,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240119,
+                    "End": 20240126,
+                    "Map": 11897,
+                    "Name": "冬令营主题活动",
+                    "Title": "齐聚冬令营",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/WinterCampGoToMapMap"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2878,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240119,
+                    "End": 20240126,
+                    "Map": 103,
+                    "Name": "共赴冰雪征程",
+                    "Title": "共赴冰雪征程",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinSell_HiWord"
                 }
             ],
             "_text": [
@@ -47230,23 +47351,6 @@
                     "Title": "断罪之刻",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2831,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231215,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "VIP权益更新",
-                    "Title": "VIP特权更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NewVIPEquityPanel"
                 },
                 {
                     "Details": {
@@ -47388,40 +47492,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2866,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240112,
-                    "End": 20240126,
-                    "Map": 103,
-                    "Name": "冬日特惠宝箱",
-                    "Title": "冬日特惠宝箱",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ElevenDoubleGiftBagMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2873,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240119,
-                    "End": "*",
-                    "Map": 1655,
-                    "Name": "命定时刻",
-                    "Title": "浸染",
-                    "Redirect": "map|module",
-                    "Go": "1655;app/MainLineAdventureChapterPanel&&80009"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2874,
                     "isNew": 1,
                     "kinds": 1,
@@ -47434,93 +47504,6 @@
                     "Title": "魔血剑姬超进化",
                     "Redirect": "map|module",
                     "Go": "103;app/MoxuejianjiEvolutionarySalesMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2875,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240119,
-                    "End": "*",
-                    "Map": 1147,
-                    "Name": "功勋商店更新",
-                    "Title": "功勋商店更新",
-                    "Redirect": "map|module",
-                    "Go": "1147;app/PveRewardMallMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2876,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240119,
-                    "End": 20240126,
-                    "Map": 11897,
-                    "Name": "冬令营主题活动",
-                    "Title": "齐聚冬令营",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/WinterCampGoToMapMap"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4592
-                    },
-                    "ID": 2877,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240119,
-                    "End": "*",
-                    "Map": 1655,
-                    "Name": "恶魔之门 魔使结界",
-                    "Title": "夜居魔使",
-                    "Redirect": "map|module",
-                    "Go": "1655;app/SpetYeJuMoShiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2878,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240119,
-                    "End": 20240126,
-                    "Map": 103,
-                    "Name": "共赴冰雪征程",
-                    "Title": "共赴冰雪征程",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SkinSell_HiWord"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4593
-                    },
-                    "ID": 2879,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240119,
-                    "End": 20240202,
-                    "Map": 1655,
-                    "Name": "魔血剑姬超进化",
-                    "Title": "血刎剑姬",
-                    "Redirect": "map|module",
-                    "Go": "1655;app/MoxuejianjiEvolutionarySalesMainPanel"
                 },
                 {
                     "Details": {
@@ -47541,6 +47524,195 @@
                 },
                 {
                     "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2881,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240126,
+                    "End": 20240223,
+                    "Map": 103,
+                    "Name": "刻印抽奖机寒假版",
+                    "Title": "刻印抽奖机寒假版",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkMachine0707Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2882,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240126,
+                    "End": "*",
+                    "Map": 1656,
+                    "Name": "云霄之间",
+                    "Title": "泛舟",
+                    "Redirect": "map|module",
+                    "Go": "1656;app/MainLineAdventureChapterPanel&&70023"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4594
+                    },
+                    "ID": 2883,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240126,
+                    "End": "*",
+                    "Map": 1656,
+                    "Name": "灵魂之舟 彼岸摆渡",
+                    "Title": "摆渡者·费雷",
+                    "Redirect": "map|module",
+                    "Go": "1656;app/SpetBaiDuZheFuLeiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2884,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240126,
+                    "End": 20240202,
+                    "Map": 1656,
+                    "Name": "黑玉之谜集合面板",
+                    "Title": "黑玉之谜",
+                    "Redirect": "map|module",
+                    "Go": "1656;app/CultivationGoToMapMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2885,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240126,
+                    "End": 20240301,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP特惠商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4595
+                    },
+                    "ID": 2886,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240126,
+                    "End": 20240301,
+                    "Map": 1,
+                    "Name": "寒假月签",
+                    "Title": "阿帕",
+                    "Redirect": "map|module",
+                    "Go": "1;app/SummerHolidaySign2023"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2887,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240126,
+                    "End": 20240301,
+                    "Map": 1,
+                    "Name": "寒假月签",
+                    "Title": "寒假签到领好礼",
+                    "Redirect": "map|module",
+                    "Go": "1;app/SummerHolidaySign2023"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2888,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240126,
+                    "End": 20240223,
+                    "Map": 5,
+                    "Name": "精灵图鉴追溯",
+                    "Title": "精灵图鉴点亮计划",
+                    "Redirect": "map|module",
+                    "Go": "5;app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2889,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240126,
+                    "End": 20240301,
+                    "Map": 103,
+                    "Name": "2024寒假尊享特权钻石月卡",
+                    "Title": "寒假尊享特权钻石月卡",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DiamondMonthlyCardOf2019MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2890,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240126,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "【双端】刻印之轮更新",
+                    "Title": "刻印之轮浩瀚召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkJackpotPermanentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2891,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240126,
+                    "End": 20240301,
+                    "Map": 1427,
+                    "Name": "【双端】道具回收系统更新",
+                    "Title": "道具回收系统更新",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
                     "ID": 2274,
@@ -47557,7 +47729,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2861,2866,2874,2878,2880"
+            "Important": "2881,2885,2889,2890,2891"
         }
     }
 }

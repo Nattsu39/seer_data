@@ -34973,7 +34973,7 @@
                             "Lv": "50 51"
                         }
                     ],
-                    "WildBonusProb": 300,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5280,
                     "ItemBonusID": 1
@@ -36429,7 +36429,7 @@
                             "Name": "火炎贝"
                         }
                     ],
-                    "WildBonusProb": 1000,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 1000,
                     "BonusID": 5592,
                     "ItemBonusID": 1
@@ -36488,50 +36488,6 @@
                 "InitY": 350
             },
             {
-                "Monsters": {
-                    "Monster": [
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        },
-                        {
-                            "ID": 525,
-                            "Lv": "57 58"
-                        }
-                    ],
-                    "WildBonusProb": 10,
-                    "WildBonusTotalProb": 100,
-                    "BonusID": 5593,
-                    "ItemBonusID": 1
-                },
                 "ID": 1072,
                 "Name": "龙脉入口",
                 "InitX": 518,
@@ -36695,7 +36651,7 @@
                             "Lv": "15 16"
                         }
                     ],
-                    "WildBonusProb": 100,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 100,
                     "BonusID": 5605,
                     "ItemBonusID": 1
@@ -45339,6 +45295,52 @@
                 "InitY": 400
             },
             {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        },
+                        {
+                            "ID": 4596,
+                            "Lv": "18 24"
+                        }
+                    ]
+                },
+                "ID": 1656,
+                "Name": "灵沉之湖",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -45881,6 +45883,12 @@
             {
                 "ID": 2098,
                 "Name": "夜染山丘",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2099,
+                "Name": "灵沉之湖",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -56047,12 +56055,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1655,
+                    "RandMaps": 1656,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1655,
+                    "RandMaps": 1656,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56064,7 +56072,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20240119,
+                "ID": 20240126,
                 "Desc": "每次发版需同步更新版本号"
             }
         }
