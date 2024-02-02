@@ -36830,65 +36830,6 @@
                 "Monsters": {
                     "Monster": [
                         {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        },
-                        {
-                            "ID": 442,
-                            "Lv": "49 51",
-                            "Name": "闪光依依"
-                        }
-                    ],
-                    "WildBonusProb": 50,
-                    "WildBonusTotalProb": 100,
-                    "BonusID": 5616,
-                    "ItemBonusID": 1
-                },
-                "ID": 1102,
-                "Name": "虚无圣域",
-                "InitX": 120,
-                "InitY": 450
-            },
-            {
-                "Monsters": {
-                    "Monster": [
-                        {
                             "ID": 523,
                             "Lv": "37 39"
                         },
@@ -39482,7 +39423,7 @@
                             "Lv": "15 16"
                         }
                     ],
-                    "WildBonusProb": 100,
+                    "WildBonusProb": 0,
                     "WildBonusTotalProb": 100,
                     "BonusID": 5617,
                     "ItemBonusID": 1
@@ -45341,6 +45282,12 @@
                 "InitY": 400
             },
             {
+                "ID": 1657,
+                "Name": "涤魂大地",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -45889,6 +45836,12 @@
             {
                 "ID": 2099,
                 "Name": "灵沉之湖",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2100,
+                "Name": "涤魂大地",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -56055,12 +56008,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1656,
+                    "RandMaps": 1657,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1656,
+                    "RandMaps": 1657,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56072,7 +56025,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20240126,
+                "ID": 20240202,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

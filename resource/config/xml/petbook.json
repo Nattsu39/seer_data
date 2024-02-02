@@ -1179,27 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4594,
-                        "ImageID": 4594,
+                        "ID": 4597,
+                        "ImageID": 4597,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1656;app/SpetBaiDuZheFuLeiMainPanel"
+                        "Go": "1657;app/SpetZhiLingZheWeiYiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4595,
-                        "ImageID": 4595,
+                        "ID": 4598,
+                        "ImageID": 4598,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1;app/SummerHolidaySign2023"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4596,
-                        "ImageID": 4596,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1656
+                        "Go": "1652;app/MonthlyPetInFebruary2024Panel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -25737,7 +25729,7 @@
                 "Type": "次元",
                 "Height": 88,
                 "Weight": 24,
-                "Features": "吕恩是吕布的第一形态，擅长用戟的吕恩从未放弃过对自己的锻炼，在战斗中他总能在最后关头存货下来，成为战场上的唯一幸存者。",
+                "Features": "吕恩是吕布的第一形态，擅长用戟的吕恩从未放弃过对自己的锻炼，在战斗中他总能在最后关头存活下来，成为战场上的唯一幸存者。",
                 "mapID": 97
             },
             {
@@ -48121,7 +48113,7 @@
                 "Weight": 46,
                 "Features": "2024年包月精灵，十二诗灵之一月的雪鸮，倾听她的灵语，寂静的冬天焕发出生命的活力！",
                 "Redirect": "map|module",
-                "Go": "1652;app/MonthlyPetInJanuary2024Panel"
+                "Go": "1652;app/VipMouthPet2024Panel"
             },
             {
                 "ID": 4586,
@@ -48234,6 +48226,27 @@
                 "Features": "栖息在灵沉之湖的小生物，非常胆小容易受到惊吓，有时会帮忙摆渡者们收集并指引灵魂力量。",
                 "Redirect": "map",
                 "Go": 1656
+            },
+            {
+                "ID": 4597,
+                "DefName": "织灵者·维伊",
+                "Type": "圣灵 超能",
+                "Height": 167,
+                "Weight": 60,
+                "Features": "灵魂的力量从灵沉之湖汇聚而来，经由织灵者的双手化形为丝线，最后编织成为灵魂生物瑞波。",
+                "Redirect": "map|module",
+                "Go": "1657;app/SpetZhiLingZheWeiYiMainPanel",
+                "jumptarget": "151/191"
+            },
+            {
+                "ID": 4598,
+                "DefName": "卡米拉",
+                "Type": "机械",
+                "Height": 154,
+                "Weight": 42,
+                "Features": "2024年包月精灵，十二诗灵之二月的相机，捕捉回忆的闪光，将一切铭刻在脑海之中。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInFebruary2024Panel"
             }
         ]
     }
