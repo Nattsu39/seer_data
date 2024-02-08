@@ -5645,6 +5645,18 @@
                                         "title": "森翠骑士",
                                         "Desc": "通关S-曜焰万象·文森特【地狱难度】关卡获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 6,
+                                        "Threshold": 6,
+                                        "AchievementPoint": 20,
+                                        "icon": 1,
+                                        "achName": "灵巢之主",
+                                        "proicon": 1333,
+                                        "SpeNameBonus": 482,
+                                        "title": "灵巢之主",
+                                        "Desc": "通关SS-灵巢之主·索杰德尔【地狱难度】关卡获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 160,
@@ -12250,11 +12262,58 @@
                                         "title": "滑雪专家",
                                         "Desc": "购买极限滑雪·黑沃德皮肤获得",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 31,
+                                        "Threshold": 31,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "宴会贵客",
+                                        "proicon": 1330,
+                                        "SpeNameBonus": 479,
+                                        "title": "宴会贵客",
+                                        "Desc": "参与春节活动【今夜的菜单】获得",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "攻击+45 特攻+45 特防+30"
+                                    },
+                                    {
+                                        "ID": 32,
+                                        "Threshold": 32,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "序外执行者",
+                                        "proicon": 1331,
+                                        "SpeNameBonus": 480,
+                                        "title": "序外执行者",
+                                        "Desc": "参与春节活动【序外执行者】获得",
+                                        "titleColor": "0xFFFFFF",
+                                        "AbilityTitle": 1,
+                                        "abtext": "速度+25，攻击+20，特攻+20，体力+70"
                                     }
                                 ],
                                 "ID": 152,
                                 "Type": 0,
                                 "Desc": "限定分类8"
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "苍夜传说",
+                                        "proicon": 1332,
+                                        "SpeNameBonus": 481,
+                                        "title": "苍夜传说",
+                                        "Desc": "参与春节活动【新春VIP回馈】获得",
+                                        "titleColor": "0xFFFFFF"
+                                    }
+                                ],
+                                "ID": 166,
+                                "Type": 0,
+                                "Desc": "限定分类9"
                             }
                         ],
                         "ID": 44,

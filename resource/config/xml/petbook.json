@@ -1179,19 +1179,113 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4597,
-                        "ImageID": 4597,
+                        "ID": 4603,
+                        "ImageID": 4603,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1657;app/SpetZhiLingZheWeiYiMainPanel"
+                        "Go": "1662;app/SpetJiaSiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4598,
-                        "ImageID": 4598,
+                        "ID": 4604,
+                        "ImageID": 4604,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInFebruary2024Panel"
+                        "Go": "103;app/GetSBLDAndSFKTMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 592,
+                        "MonID": 3393,
+                        "ImageID": 1400592,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SkinSell_HiWord"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 593,
+                        "MonID": 4275,
+                        "ImageID": 1400593,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 594,
+                        "MonID": 4498,
+                        "ImageID": 1400594,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 595,
+                        "MonID": 3964,
+                        "ImageID": 1400595,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 596,
+                        "MonID": 4422,
+                        "ImageID": 1400596,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 597,
+                        "MonID": 4589,
+                        "ImageID": 1400597,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42458
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42459
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42460
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42461
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42462
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42463
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42464
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42465
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42466
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42467
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48247,6 +48341,68 @@
                 "Features": "2024年包月精灵，十二诗灵之二月的相机，捕捉回忆的闪光，将一切铭刻在脑海之中。",
                 "Redirect": "map|module",
                 "Go": "1652;app/MonthlyPetInFebruary2024Panel"
+            },
+            {
+                "ID": 4599,
+                "DefName": "灵巢之主·索杰德尔",
+                "Type": "轮回",
+                "Height": 365,
+                "Weight": 156,
+                "Features": "灵魂来去之间，律法为其指引。索杰德尔是黑玉岛负责掌控灵魂力量的主宰，尊重任何一个生命的选择和归宿。",
+                "Redirect": "map|module",
+                "Go": "1658;app/SpetSuoJieDeErMainPanel",
+                "jumptarget": "151/192"
+            },
+            {
+                "ID": 4600,
+                "DefName": "斯布林蒂",
+                "Type": "自然 超能",
+                "Height": 181,
+                "Weight": 57,
+                "Features": "首位序外执行者，坐落在古都中央负责管理基础服务模组，她的信息网如温柔的枝叶般向外延伸，因此她也被亲切地称为源之大树。",
+                "Redirect": "map|module",
+                "Go": "103;app/GetSBLDAndSFKTMainPanel"
+            },
+            {
+                "ID": 4601,
+                "DefName": "露琪",
+                "Type": "暗影 火",
+                "Height": 80,
+                "Weight": 39,
+                "Features": "露琪是古堡的管家，除了需要招待客人，还需要保证古堡的清洁卫生，她的目标是让造访古堡的每一位宾客都感到开心满意。",
+                "Redirect": "map|module",
+                "Go": "1660;app/GiftShowdownEnterPanel"
+            },
+            {
+                "ID": 4602,
+                "DefName": "金瑞福龙",
+                "Type": "火 龙",
+                "Height": 97,
+                "Weight": 48,
+                "Features": "2024春节签到精灵，龙舞春风辞旧岁，福临人间庆新年！",
+                "Redirect": "map|module",
+                "Go": "app/SignPopUp20240208Panel"
+            },
+            {
+                "ID": 4603,
+                "DefName": "贾斯",
+                "Type": "自然 神秘",
+                "Height": 169,
+                "Weight": 49,
+                "Features": "文森特的伴侣，温柔知性，机敏开朗，最喜欢做的事情是在后院中欣赏花朵的摇曳。但她的生命也如花一般脆弱。",
+                "Redirect": "map|module",
+                "Go": "1662;app/SpetJiaSiMainPanel",
+                "jumptarget": "151/193"
+            },
+            {
+                "ID": 4604,
+                "DefName": "萨芙凯特",
+                "Type": "次元 水",
+                "Height": 176,
+                "Weight": 52,
+                "Features": "第二位序外执行者，坐落在远离都市的海面上负责应急响应，她性格外向，活泼爽朗，经常利用海洋的温度来进行自我冷却。",
+                "Redirect": "map|module",
+                "Go": "103;app/GetSBLDAndSFKTMainPanel"
             }
         ]
     }

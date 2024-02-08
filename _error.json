@@ -1,7 +1,22 @@
 {
+    "btl_condition.json": {
+        "url": "http://seerh5.61.com/resource/config/json/btl_condition_20fa229b.json",
+        "filename": "btl_condition.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
+    },
+    "maps.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/maps_fea797ff.json",
+        "filename": "maps.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "maps_temp.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/maps_temp_10b32744.json",
+        "filename": "maps_temp.json",
+        "exception": "ReadTimeout('timed out')"
     }
 }
