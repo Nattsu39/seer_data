@@ -1179,113 +1179,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4603,
-                        "ImageID": 4603,
+                        "ID": 4605,
+                        "ImageID": 4605,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1662;app/SpetJiaSiMainPanel"
+                        "Go": "1663;app/SpetWuXianMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4604,
-                        "ImageID": 4604,
+                        "ID": 4606,
+                        "ImageID": 4606,
+                        "Label": 0,
+                        "Redirect": "alarm",
+                        "Go": "请前往《赛尔号巅峰之战》参与SPT限时活动获得！"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4607,
+                        "ImageID": 4607,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/GetSBLDAndSFKTMainPanel"
+                        "Go": "11897;app/LanternFestivalThemeSpiritMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 592,
-                        "MonID": 3393,
-                        "ImageID": 1400592,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/SkinSell_HiWord"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 593,
-                        "MonID": 4275,
-                        "ImageID": 1400593,
+                        "ID": 598,
+                        "MonID": 3301,
+                        "ImageID": 1400598,
                         "Label": 0,
                         "Redirect": "map|module",
                         "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 594,
-                        "MonID": 4498,
-                        "ImageID": 1400594,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 595,
-                        "MonID": 3964,
-                        "ImageID": 1400595,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 596,
-                        "MonID": 4422,
-                        "ImageID": 1400596,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 597,
-                        "MonID": 4589,
-                        "ImageID": 1400597,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42458
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42459
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42460
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42461
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42462
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42463
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42464
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42465
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42466
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42467
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47028,7 +46951,7 @@
                 "Weight": 257,
                 "Features": "斯克鲁的超进化形态，霜寒之力已经融入他的身躯，任何伤害到他的敌人都无法逃离他的封印！",
                 "Redirect": "alarm",
-                "Go": "请前往《赛尔号巅峰之战》参与SPT限时活动获得！"
+                "Go": "精灵已绝版！"
             },
             {
                 "ID": 4464,
@@ -48369,9 +48292,7 @@
                 "Type": "暗影 火",
                 "Height": 80,
                 "Weight": 39,
-                "Features": "露琪是古堡的管家，除了需要招待客人，还需要保证古堡的清洁卫生，她的目标是让造访古堡的每一位宾客都感到开心满意。",
-                "Redirect": "map|module",
-                "Go": "1660;app/GiftShowdownEnterPanel"
+                "Features": "露琪是古堡的管家，除了需要招待客人，还需要保证古堡的清洁卫生，她的目标是让造访古堡的每一位宾客都感到开心满意。"
             },
             {
                 "ID": 4602,
@@ -48379,9 +48300,7 @@
                 "Type": "火 龙",
                 "Height": 97,
                 "Weight": 48,
-                "Features": "2024春节签到精灵，龙舞春风辞旧岁，福临人间庆新年！",
-                "Redirect": "map|module",
-                "Go": "app/SignPopUp20240208Panel"
+                "Features": "2024春节签到精灵，龙舞春风辞旧岁，福临人间庆新年！"
             },
             {
                 "ID": 4603,
@@ -48403,6 +48322,37 @@
                 "Features": "第二位序外执行者，坐落在远离都市的海面上负责应急响应，她性格外向，活泼爽朗，经常利用海洋的温度来进行自我冷却。",
                 "Redirect": "map|module",
                 "Go": "103;app/GetSBLDAndSFKTMainPanel"
+            },
+            {
+                "ID": 4605,
+                "DefName": "无限·欧根尼克",
+                "Type": "圣灵 次元",
+                "Height": 171,
+                "Weight": 49,
+                "Features": "「启明星」之孤星，欧根尼克的研究范围从浩瀚星辰覆盖到微观粒子。她认为宏观宇宙和微观世界都蕴含着无限的力量，而她要做的，就是将它们完全绽放。",
+                "Redirect": "map|module",
+                "Go": "1663;app/SpetWuXianMainPanel",
+                "jumptarget": "151/194"
+            },
+            {
+                "ID": 4606,
+                "DefName": "加尔鲁特",
+                "Type": "草",
+                "Height": 107,
+                "Weight": 86,
+                "Features": "加尔鲁什的进化形态，获得现任草系精灵王的认可后实力进一步提升，已经能熟练采用站立姿态进入战斗！",
+                "Redirect": "alarm",
+                "Go": "请前往《赛尔号巅峰之战》参与SPT限时活动获得！"
+            },
+            {
+                "ID": 4607,
+                "DefName": "小灯龙",
+                "Type": "光 超能",
+                "Height": 57,
+                "Weight": 28,
+                "Features": "元宵时节遇到的精灵，喜欢藏在密集的人群中和大家一起闹腾！",
+                "Redirect": "map|module",
+                "Go": "11897;app/LanternFestivalThemeSpiritMainPanel"
             }
         ]
     }
