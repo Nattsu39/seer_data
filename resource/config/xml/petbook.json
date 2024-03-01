@@ -1179,36 +1179,34 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4605,
-                        "ImageID": 4605,
+                        "ID": 4608,
+                        "ImageID": 4608,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1663;app/SpetWuXianMainPanel"
+                        "Go": "1664;app/SpetChenXiJuXiangMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4606,
-                        "ImageID": 4606,
+                        "ID": 4609,
+                        "ImageID": 4609,
                         "Label": 0,
-                        "Redirect": "alarm",
-                        "Go": "请前往《赛尔号巅峰之战》参与SPT限时活动获得！"
+                        "Redirect": "map|module",
+                        "Go": "1652;app/MonthlyPetInMarch2024Panel"
                     },
                     {
                         "type": 0,
-                        "ID": 4607,
-                        "ImageID": 4607,
+                        "ID": 4610,
+                        "ImageID": 4610,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/LanternFestivalThemeSpiritMainPanel"
+                        "Go": "11888;app/OpenSchool2020MainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 598,
-                        "MonID": 3301,
-                        "ImageID": 1400598,
-                        "Label": 0,
+                        "type": 2,
+                        "ID": 446,
+                        "Label": 1,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48263,7 +48261,7 @@
                 "Weight": 42,
                 "Features": "2024年包月精灵，十二诗灵之二月的相机，捕捉回忆的闪光，将一切铭刻在脑海之中。",
                 "Redirect": "map|module",
-                "Go": "1652;app/MonthlyPetInFebruary2024Panel"
+                "Go": "1652;app/VipMouthPet2024Panel"
             },
             {
                 "ID": 4599,
@@ -48350,9 +48348,38 @@
                 "Type": "光 超能",
                 "Height": 57,
                 "Weight": 28,
-                "Features": "元宵时节遇到的精灵，喜欢藏在密集的人群中和大家一起闹腾！",
+                "Features": "元宵时节遇到的精灵，喜欢藏在密集的人群中和大家一起闹腾！"
+            },
+            {
+                "ID": 4608,
+                "DefName": "尘息巨像",
+                "Type": "远古 地面",
+                "Height": 2800,
+                "Weight": 1800,
+                "Features": "在创世古迹的沙丘上突然出现的巨大石像，手中的巨锤可以汇聚尘沙释放山岳之力。他们和尘息游龙一样，被击破后会化为尘沙融入土地，然后再次汇聚成形。",
                 "Redirect": "map|module",
-                "Go": "11897;app/LanternFestivalThemeSpiritMainPanel"
+                "Go": "1664;app/SpetChenXiJuXiangMainPanel",
+                "jumptarget": "151/195"
+            },
+            {
+                "ID": 4609,
+                "DefName": "克罗恩",
+                "Type": "光",
+                "Height": 171,
+                "Weight": 49,
+                "Features": "2024年包月精灵，十二诗灵之三月的皇冠，知识的光辉带来指引，在无知的黑夜里。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInMarch2024Panel"
+            },
+            {
+                "ID": 4610,
+                "DefName": "小卷",
+                "Type": "机械 超能",
+                "Height": 98,
+                "Weight": 40,
+                "Features": "小规的好友，卷笔刀化身的机巧少女。读万卷书，行万里路！",
+                "Redirect": "map|module",
+                "Go": "11888;app/OpenSchool2020MainPanel"
             }
         ]
     }

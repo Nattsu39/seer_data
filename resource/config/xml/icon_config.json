@@ -113,7 +113,7 @@
                 "exMapList": 50000,
                 "ui": "pvpPreIcon",
                 "tips": "巅峰联赛 全新赛季",
-                "mouseClickFunc": "map:1095"
+                "mouseClickFunc": "mapApp:1095,PeakJihad2023MainPanel"
             },
             {
                 "direction": "right",
@@ -168,15 +168,6 @@
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 3,
-                "exMapList": 50000,
-                "ui": "SpringFestivalSummaryIcon",
-                "tips": "福龙贺岁",
-                "mouseClickFunc": "app:TheCastleBanquetCollectionMainPanel"
             },
             {
                 "direction": "right_side",
