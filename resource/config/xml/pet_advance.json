@@ -716,6 +716,76 @@
                 "ExCoinB": 3,
                 "Desc": "20231124 神谕进阶-守护者艾里克",
                 "StatID": 2311240600
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "139 70 95 129 94 123",
+                        "NewRace": "168 70 114 138 114 136"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2358,
+                        "NewSeId": 6113
+                    },
+                    "spMove": {
+                        "SpMoves": "28630 28631 37167"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37168
+                    },
+                    "AdvEffect": {
+                        "Id": 1819,
+                        "Des": "<font color='#FF7751'>自身出战时将己方上只精灵所处的能力状态转移给自身；回合开始时令对手随机3项能力等级-1，然后若双方所处的能力下降总项数不低于6，</font>则消除对手回合类效果并使对手害怕，<font color='#FF7751'>未触发则令对手沉默并解除双方能力下降状态，每解除一方自身抵挡1次对手的攻击</font>（boss无效）"
+                    },
+                    "MonsterId": 3156
+                },
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3177,
+                            "BossID": 1010044,
+                            "Desc": "——我们是两面，我们是一体，你带着使徒叛离天界，我于深渊带上冠冕。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3165,
+                            "BossID": 1010045,
+                            "Desc": "——利维坦的踪迹还没找到吗？看来你也有失手的时候。"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3561,
+                            "BossID": 1010046,
+                            "Desc": "——你为什么会在这里？！我不是来找你的，快让开，不然那个奇形怪状的家伙要追上来了！"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 3580,
+                            "BossID": 1010047,
+                            "Desc": "——充沛的魔力，你也有邪灵的力量吗？但我现在可没功夫关心你的事情，告诉我他去了哪里？"
+                        }
+                    ],
+                    "OutNum": "5_6_7",
+                    "OutPro": "200_350_450",
+                    "FreeBattleKey": 206190,
+                    "FreeBattleCnt": 5
+                },
+                "Exchange": {
+                    "ItemID": "1725816_1725817_1725818",
+                    "ProductID": "260637_260638_260639"
+                },
+                "QianDuan": {},
+                "ID": 11,
+                "TimeFlag": 1058,
+                "SubFreeKey": 21,
+                "SubCostKey": 22,
+                "AllProgress": 4,
+                "PerCostCoinA": 85,
+                "OutItemKey": 123610,
+                "ExCoinB": 3,
+                "Desc": "20240308 神谕进阶-路希菲尔德",
+                "StatID": 2403080600
             }
         ],
         "BackMonsters": {

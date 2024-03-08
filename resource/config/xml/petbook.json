@@ -1179,34 +1179,33 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4608,
-                        "ImageID": 4608,
+                        "ID": 4611,
+                        "ImageID": 4611,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1664;app/SpetChenXiJuXiangMainPanel"
+                        "Go": "1665;app/SpetYuanXiaoMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4609,
-                        "ImageID": 4609,
+                        "type": 1,
+                        "ID": 599,
+                        "MonID": 3425,
+                        "ImageID": 1400599,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInMarch2024Panel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4610,
-                        "ImageID": 4610,
+                        "type": 1,
+                        "ID": 600,
+                        "MonID": 3627,
+                        "ImageID": 1400600,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11888;app/OpenSchool2020MainPanel"
+                        "Go": "103;app/DimensionKingNewSkinSalesMainPanel"
                     },
                     {
-                        "type": 2,
-                        "ID": 446,
-                        "Label": 1,
-                        "Redirect": "map|module",
-                        "Go": "1638;app/TiMiOfXiangWeiTianDiGoToMapPanel"
+                        "type": 3,
+                        "ID": 42474
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48377,9 +48376,18 @@
                 "Type": "机械 超能",
                 "Height": 98,
                 "Weight": 40,
-                "Features": "小规的好友，卷笔刀化身的机巧少女。读万卷书，行万里路！",
+                "Features": "小规的好友，卷笔刀化身的机巧少女。读万卷书，行万里路！"
+            },
+            {
+                "ID": 4611,
+                "DefName": "渊枭",
+                "Type": "混沌 暗影",
+                "Height": 5800,
+                "Weight": 6800000,
+                "Features": "黑夜之神弑序神罗从深渊中召唤出的庞大异兽，它们周身包裹着黑夜铠甲，口中能释放出黑夜异火，目标是吞噬宇宙中的所有物质。",
                 "Redirect": "map|module",
-                "Go": "11888;app/OpenSchool2020MainPanel"
+                "Go": "1665;app/SpetYuanXiaoMainPanel",
+                "jumptarget": "151/196"
             }
         ]
     }
