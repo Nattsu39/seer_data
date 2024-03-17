@@ -14468,6 +14468,162 @@
                     "Title": "加尔鲁特",
                     "Redirect": "alarm",
                     "Go": "请前往《赛尔号巅峰之战》参与SPT限时活动获得！"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2954,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240301,
+                    "End": 20240412,
+                    "Map": 5,
+                    "Name": "精灵图鉴追溯",
+                    "Title": "精灵图鉴点亮计划",
+                    "Redirect": "map|module",
+                    "Go": "5;app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2943,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240301,
+                    "End": "*",
+                    "Map": 1664,
+                    "Name": "云霄之间",
+                    "Title": "次元时刻",
+                    "Redirect": "map|module",
+                    "Go": "1664;app/MainLineAdventureChapterPanel&&70028"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2944,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240301,
+                    "End": "*",
+                    "Map": 1664,
+                    "Name": "命定时刻",
+                    "Title": "融合",
+                    "Redirect": "map|module",
+                    "Go": "1664;app/MainLineAdventureChapterPanel&&80013"
+                },
+                {
+                    "Details": {
+                        "mc": 3
+                    },
+                    "ID": 2947,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240301,
+                    "End": 20240403,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统更新",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4609
+                    },
+                    "ID": 2951,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240301,
+                    "End": 20240403,
+                    "Map": 1664,
+                    "Name": "3月专属VIP精灵",
+                    "Title": "克罗恩",
+                    "Redirect": "map|module",
+                    "Go": "1664;app/MonthlyPetInMarch2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2,
+                        "monID": 4608
+                    },
+                    "ID": 2952,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240301,
+                    "End": "*",
+                    "Map": 1664,
+                    "Name": "浮尘巨像 狂暴之砂",
+                    "Title": "尘息巨像",
+                    "Redirect": "map|module",
+                    "Go": "1664;app/SpetChenXiJuXiangMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2956,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240308,
+                    "End": "*",
+                    "Map": 1665,
+                    "Name": "命定时刻",
+                    "Title": "深渊之启",
+                    "Redirect": "map|module",
+                    "Go": "1665;app/MainLineAdventureChapterPanel&&80014"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2957,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240308,
+                    "End": "*",
+                    "Map": 1665,
+                    "Name": "幽灯寻途",
+                    "Title": "黯辉",
+                    "Redirect": "map|module",
+                    "Go": "1665;app/MainLineAdventureChapterPanel&&50011"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4611
+                    },
+                    "ID": 2962,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240308,
+                    "End": "*",
+                    "Map": 1665,
+                    "Name": "渊枭",
+                    "Title": "渊枭",
+                    "Redirect": "map|module",
+                    "Go": "1665;app/SpetYuanXiaoMainPanel"
                 }
             ]
         },
@@ -48355,99 +48511,6 @@
                     "Title": "皮肤商城更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SkinShopMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2832,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20231215,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "神谕进阶返场",
-                    "Title": "神谕归来",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AdvancedPetBackMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2859,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240105,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "特性晶片 限时折扣",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2861,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240105,
-                    "End": "*",
-                    "Map": 1095,
-                    "Name": "S1赛季战令",
-                    "Title": "S1赛季战令",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2890,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240126,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "【双端】刻印之轮更新",
-                    "Title": "刻印之轮浩瀚召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/MarkJackpotPermanentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2903,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240208,
-                    "End": 20240315,
-                    "Map": 103,
-                    "Name": "圣殿英雄团更新",
-                    "Title": "圣殿英雄团全员回归",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPreAllBackPanel"
                 },
                 {
                     "Details": {
@@ -48465,91 +48528,6 @@
                     "Title": "兑钻奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2943,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240301,
-                    "End": "*",
-                    "Map": 1664,
-                    "Name": "云霄之间",
-                    "Title": "次元时刻",
-                    "Redirect": "map|module",
-                    "Go": "1664;app/MainLineAdventureChapterPanel&&70028"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2944,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240301,
-                    "End": "*",
-                    "Map": 1664,
-                    "Name": "命定时刻",
-                    "Title": "融合",
-                    "Redirect": "map|module",
-                    "Go": "1664;app/MainLineAdventureChapterPanel&&80013"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2945,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240301,
-                    "End": 20240329,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2946,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240301,
-                    "End": 20240403,
-                    "Map": 1652,
-                    "Name": "3月专属VIP精灵",
-                    "Title": "3月专属VIP精灵",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/MonthlyPetInMarch2024Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 3
-                    },
-                    "ID": 2947,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240301,
-                    "End": 20240403,
-                    "Map": 1427,
-                    "Name": "道具回收系统更新",
-                    "Title": "道具回收系统更新",
-                    "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
                 },
                 {
                     "Details": {
@@ -48590,6 +48568,133 @@
                     "Details": {
                         "mc": 1
                     },
+                    "ID": 2903,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240208,
+                    "End": 20240315,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "圣殿英雄团全员回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPreAllBackPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2958,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240308,
+                    "End": 20240315,
+                    "Map": 11897,
+                    "Name": "植树节主题活动",
+                    "Title": "奇妙植树节",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ArborDayActivityMainGoToMapPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2832,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20231215,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "神谕进阶返场",
+                    "Title": "神谕归来",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetBackMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2861,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240105,
+                    "End": "*",
+                    "Map": 1095,
+                    "Name": "S1赛季战令",
+                    "Title": "S1赛季战令",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2890,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240126,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "【双端】刻印之轮更新",
+                    "Title": "刻印之轮浩瀚召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkJackpotPermanentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2945,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240301,
+                    "End": 20240329,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2946,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240301,
+                    "End": 20240403,
+                    "Map": 1652,
+                    "Name": "3月专属VIP精灵",
+                    "Title": "3月专属VIP精灵",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInMarch2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
                     "ID": 2950,
                     "isNew": 1,
                     "kinds": 1,
@@ -48602,42 +48707,6 @@
                     "Title": "VIP权益更新",
                     "Redirect": "map|module",
                     "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4609
-                    },
-                    "ID": 2951,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240301,
-                    "End": 20240403,
-                    "Map": 1664,
-                    "Name": "3月专属VIP精灵",
-                    "Title": "克罗恩",
-                    "Redirect": "map|module",
-                    "Go": "1664;app/MonthlyPetInMarch2024Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 2,
-                        "monID": 4608
-                    },
-                    "ID": 2952,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240301,
-                    "End": "*",
-                    "Map": 1664,
-                    "Name": "浮尘巨像 狂暴之砂",
-                    "Title": "尘息巨像",
-                    "Redirect": "map|module",
-                    "Go": "1664;app/SpetChenXiJuXiangMainPanel"
                 },
                 {
                     "Details": {
@@ -48658,20 +48727,174 @@
                 },
                 {
                     "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2955,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240308,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "特性晶片 限时折扣",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
-                    "ID": 2954,
+                    "ID": 2959,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240308,
+                    "End": 20240322,
+                    "Map": 103,
+                    "Name": "不羁·弗里德全新皮肤",
+                    "Title": "弗里德全新皮肤",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DimensionKingNewSkinSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2960,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240308,
+                    "End": 20240329,
+                    "Map": 103,
+                    "Name": "神谕进阶第11期",
+                    "Title": "光影侵神 幽瞑梦呓",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3156"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2961,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240308,
+                    "End": 20240322,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2963,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240301,
-                    "End": 20240412,
-                    "Map": 5,
-                    "Name": "精灵图鉴追溯",
-                    "Title": "精灵图鉴点亮计划",
+                    "Start": 20240315,
+                    "End": "*",
+                    "Map": 1666,
+                    "Name": "命定时刻",
+                    "Title": "神昭",
                     "Redirect": "map|module",
-                    "Go": "5;app/LightBookMainPanel"
+                    "Go": "1666;app/MainLineAdventureChapterPanel&&80015"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4612
+                    },
+                    "ID": 2964,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240315,
+                    "End": "*",
+                    "Map": 1666,
+                    "Name": "光明之幻灵 圣念噬魂",
+                    "Title": "魂弦",
+                    "Redirect": "map|module",
+                    "Go": "1666;app/SpetHunXianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2965,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240315,
+                    "End": 20240322,
+                    "Map": 103,
+                    "Name": "大暗黑天萌皮集结",
+                    "Title": "大暗黑天萌皮集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DarkSkyCuteSkinGatheringMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2966,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240315,
+                    "End": 20240322,
+                    "Map": 11897,
+                    "Name": "盖伦星系主题活动",
+                    "Title": "重返盖伦",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/GaiLunXingXiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2967,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240315,
+                    "End": 20240412,
+                    "Map": 103,
+                    "Name": "圣殿英雄团",
+                    "Title": "圣光灵神巡回",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2968,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240315,
+                    "End": 20240322,
+                    "Map": 103,
+                    "Name": "艾欧丽娅 战力觉醒",
+                    "Title": "艾欧丽娅 战力觉醒",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AoliaFeatureUpgradeMainPanel"
                 },
                 {
                     "Details": {
@@ -48691,7 +48914,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2945,2946,2950,2951,2953"
+            "Important": "2959,2960,2965,2967,2968"
         }
     }
 }

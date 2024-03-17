@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_3_8 00:00:00",
+            "showStart": "2024_3_15 00:00:00",
             "showEnd": "",
-            "goto": "2_110_{ moduleID:187 }",
+            "goto": "2_151_{Design:146}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_3_1 00:00:00",
+            "showStart": "2024_3_15 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:145}",
+            "goto": "2_108_{openPanel:\"8,15\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_3_1 00:00:00",
-            "showEnd": "",
-            "goto": "2_108_{openPanel:\"8,14\"}",
+            "showStart": "2024_3_8 00:00:00",
+            "showEnd": "2024_3_29 00:00:00",
+            "goto": "2_110_{ moduleID:187 }",
             "page": 1
         },
         {
@@ -35,7 +35,7 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_3_1 00:00:00",
+            "showStart": "2024_3_8 00:00:00",
             "showEnd": "",
             "goto": "2_108_{openPanel:\"5,11\"}",
             "page": 1
@@ -203,15 +203,25 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4611,
+            "pic": 4612,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:146}",
+            "page": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "pic": 4611,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:145}",
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4608,
             "tag": 0,
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 23,
+            "id": 24,
             "type": 2,
             "pic": 4605,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 24,
+            "id": 25,
             "type": 2,
             "pic": 4603,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:142}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4599,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:141}",
             "page": 0
         }
     ]
