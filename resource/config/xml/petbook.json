@@ -1179,20 +1179,44 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4612,
-                        "ImageID": 4612,
+                        "ID": 4613,
+                        "ImageID": 4613,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1666;app/SpetHunXianMainPanel"
+                        "Go": "1667;app/SpetAiKeTeXiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4614,
+                        "ImageID": 4614,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1667
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4615,
+                        "ImageID": 4615,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1667;app/QiLianXiXiGoToMapPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4616,
+                        "ImageID": 4616,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1147;app/PveRewardMallMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 601,
-                        "MonID": 3667,
-                        "ImageID": 1400601,
+                        "ID": 602,
+                        "MonID": 4194,
+                        "ImageID": 1400602,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/DarkSkyCuteSkinGatheringMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -15542,7 +15566,10 @@
                 "Weight": 240,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "鱼龙王是鱼龙中的霸者！潜能的爆发使他上天入海，无所不能！"
+                "Features": "鱼龙王的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
+                "Redirect": "map|module",
+                "Go": "1;app/StarWishdDriftBottleMainPanel",
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1201,
@@ -15552,7 +15579,10 @@
                 "Weight": 250,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "难以想象上古炎兽和赫尔托克合体会是什么样,然而它们却真的合体了，火焰至尊炎魔由此诞生了！"
+                "Features": "炎魔的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
+                "Redirect": "map|module",
+                "Go": "1;app/StarWishdDriftBottleMainPanel",
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1202,
@@ -15562,7 +15592,10 @@
                 "Weight": 250,
                 "Foundin": "--",
                 "Food": "未知",
-                "Features": "灵光兽的进化形态，拥有着强大的惊人能力，然而却从不轻易显露，视乎任何功名利禄在它眼中都已是过眼云烟！"
+                "Features": "始祖灵兽的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
+                "Redirect": "map|module",
+                "Go": "1;app/StarWishdDriftBottleMainPanel",
+                "jumptarget": "110/3_3/1"
             },
             {
                 "ID": 1203,
@@ -48386,6 +48419,47 @@
                 "Redirect": "map|module",
                 "Go": "1666;app/SpetHunXianMainPanel",
                 "jumptarget": "151/197"
+            },
+            {
+                "ID": 4613,
+                "DefName": "艾克特希",
+                "Type": "地面 龙",
+                "Height": 171,
+                "Weight": 57,
+                "Features": "路过罗萨村的游者，身上似乎流淌着龙族的血脉。她的行踪神秘而诡异，时刻提防着周围的人。",
+                "Redirect": "map|module",
+                "Go": "1667;app/SpetAiKeTeXiMainPanel",
+                "jumptarget": "151/198"
+            },
+            {
+                "ID": 4614,
+                "DefName": "罗萨",
+                "Type": "草",
+                "Height": 60,
+                "Weight": 40,
+                "Features": "罗萨村的村民，头上的花苞会在小时候就显现出不同的颜色。只要确保摄入纯净的水源和均衡的营养，罗萨们就可以茁壮成长。",
+                "Redirect": "map",
+                "Go": 1667
+            },
+            {
+                "ID": 4615,
+                "DefName": "罗萨尔",
+                "Type": "远古 草",
+                "Height": 70,
+                "Weight": 55,
+                "Features": "罗萨村的村民，当罗萨成长到一定年纪后，身上的绿叶会慢慢蜕变成粉色的花苞，变为罗萨尔。此时她们会享受一生中最美丽，也是最后的一段时光。",
+                "Redirect": "map|module",
+                "Go": "1667;app/QiLianXiXiGoToMapPanel"
+            },
+            {
+                "ID": 4616,
+                "DefName": "佩斯莉",
+                "Type": "冰 龙",
+                "Height": 181,
+                "Weight": 75,
+                "Features": "卡德玛斯特曾经的好友，因为使用禁卡而被卡牌协会除名。据说她从过去穿越而来，但没人知晓她此行的目的。",
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel"
             }
         ]
     }

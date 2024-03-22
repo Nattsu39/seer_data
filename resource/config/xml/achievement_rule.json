@@ -7103,12 +7103,20 @@
                 "Desc": "新因子关卡1"
             },
             {
-                "Rule": {
-                    "ID": 1,
-                    "Threshold": 1,
-                    "AchievementPoint": 10,
-                    "SpeNameBonus": 464
-                },
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 464
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 486
+                    }
+                ],
                 "ID": 161,
                 "Type": 1,
                 "Desc": "新剧情"
