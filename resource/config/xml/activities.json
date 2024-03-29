@@ -14659,6 +14659,93 @@
                     "Title": "魂弦",
                     "Redirect": "map|module",
                     "Go": "1666;app/SpetHunXianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2969,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240322,
+                    "End": "*",
+                    "Map": 1667,
+                    "Name": "风的追忆",
+                    "Title": "灾影",
+                    "Redirect": "map|module",
+                    "Go": "1667;app/MainLineAdventureChapterPanel&&100001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4613
+                    },
+                    "ID": 2973,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240322,
+                    "End": "*",
+                    "Map": 1667,
+                    "Name": "砾石金开 龙脉游者",
+                    "Title": "艾克特希",
+                    "Redirect": "map|module",
+                    "Go": "1667;app/SpetAiKeTeXiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2975,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240322,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "功勋商店上新",
+                    "Title": "功勋商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2976,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240322,
+                    "End": "*",
+                    "Map": 1,
+                    "Name": "星愿商店上新",
+                    "Title": "星愿商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1;app/StarWishdDriftBottleMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4616
+                    },
+                    "ID": 2978,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240322,
+                    "End": "*",
+                    "Map": 1667,
+                    "Name": "功勋商店上新",
+                    "Title": "佩斯莉",
+                    "Redirect": "map|module",
+                    "Go": "1667;app/PveRewardMallMainPanel"
                 }
             ]
         },
@@ -48717,6 +48804,75 @@
                     "Title": "艾欧丽娅 战力觉醒",
                     "Redirect": "map|module",
                     "Go": "103;app/AoliaFeatureUpgradeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2945,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240301,
+                    "End": 20240329,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2960,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240308,
+                    "End": 20240329,
+                    "Map": 103,
+                    "Name": "神谕进阶第11期",
+                    "Title": "光影侵神 幽瞑梦呓",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3156"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2970,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240322,
+                    "End": 20240329,
+                    "Map": 1667,
+                    "Name": "罗萨村的嬉戏",
+                    "Title": "罗萨村的嬉戏",
+                    "Redirect": "map|module",
+                    "Go": "1667;app/QiLianXiXiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4615
+                    },
+                    "ID": 2977,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240322,
+                    "End": 20240329,
+                    "Map": 1667,
+                    "Name": "罗萨村的嬉戏",
+                    "Title": "罗萨尔",
+                    "Redirect": "map|module",
+                    "Go": "1667;app/QiLianXiXiGoToMapPanel"
                 }
             ],
             "_text": [
@@ -48759,23 +48915,6 @@
                     "Title": "刻印之轮浩瀚召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/MarkJackpotPermanentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2945,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240301,
-                    "End": 20240329,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -48849,23 +48988,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2960,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240308,
-                    "End": 20240329,
-                    "Map": 103,
-                    "Name": "神谕进阶第11期",
-                    "Title": "光影侵神 幽瞑梦呓",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AdvancedPetMainPanel_3156"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2967,
                     "isNew": 1,
                     "kinds": 1,
@@ -48878,40 +49000,6 @@
                     "Title": "圣光灵神巡回",
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2969,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240322,
-                    "End": "*",
-                    "Map": 1667,
-                    "Name": "风的追忆",
-                    "Title": "灾影",
-                    "Redirect": "map|module",
-                    "Go": "1667;app/MainLineAdventureChapterPanel&&100001"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2970,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240322,
-                    "End": 20240329,
-                    "Map": 1667,
-                    "Name": "罗萨村的嬉戏",
-                    "Title": "罗萨村的嬉戏",
-                    "Redirect": "map|module",
-                    "Go": "1667;app/QiLianXiXiGoToMapPanel"
                 },
                 {
                     "Details": {
@@ -48949,24 +49037,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4613
-                    },
-                    "ID": 2973,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240322,
-                    "End": "*",
-                    "Map": 1667,
-                    "Name": "砾石金开 龙脉游者",
-                    "Title": "艾克特希",
-                    "Redirect": "map|module",
-                    "Go": "1667;app/SpetAiKeTeXiMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 2974,
@@ -48986,71 +49056,104 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2975,
+                    "ID": 2979,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240322,
+                    "Start": 20240329,
                     "End": "*",
-                    "Map": 1147,
-                    "Name": "功勋商店上新",
-                    "Title": "功勋商店更新",
+                    "Map": 1668,
+                    "Name": "完美谎言",
+                    "Title": "山焰",
                     "Redirect": "map|module",
-                    "Go": "1147;app/PveRewardMallMainPanel"
+                    "Go": "1668;app/MainLineAdventureChapterPanel&&110001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4617
+                    },
+                    "ID": 2980,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240329,
+                    "End": "*",
+                    "Map": 1668,
+                    "Name": "炽烈雷鸣 焰啸长徙",
+                    "Title": "猛虎之刃·泰伯",
+                    "Redirect": "map|module",
+                    "Go": "1668;app/SpetTaiBoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2981,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240329,
+                    "End": 20240412,
+                    "Map": 103,
+                    "Name": "路希菲尔德皮肤售卖",
+                    "Title": "邪魔侵染",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuchfieldSkinSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2982,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240329,
+                    "End": 20240426,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2976,
+                    "ID": 2983,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240322,
+                    "Start": 20240329,
                     "End": "*",
-                    "Map": 1,
-                    "Name": "星愿商店上新",
-                    "Title": "星愿商店更新",
+                    "Map": 1668,
+                    "Name": "幽灯寻途",
+                    "Title": "绝壑",
                     "Redirect": "map|module",
-                    "Go": "1;app/StarWishdDriftBottleMainPanel"
+                    "Go": "1668;app/MainLineAdventureChapterPanel&&50012"
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4615
+                        "mc": 2
                     },
-                    "ID": 2977,
+                    "ID": 2984,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240322,
-                    "End": 20240329,
-                    "Map": 1667,
-                    "Name": "罗萨村的嬉戏",
-                    "Title": "罗萨尔",
+                    "Type": 2,
+                    "Start": 20240329,
+                    "End": 20240403,
+                    "Map": 11897,
+                    "Name": "春日茶话会",
+                    "Title": "春日茶话会",
                     "Redirect": "map|module",
-                    "Go": "1667;app/QiLianXiXiGoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4616
-                    },
-                    "ID": 2978,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240322,
-                    "End": "*",
-                    "Map": 1667,
-                    "Name": "功勋商店上新",
-                    "Title": "佩斯莉",
-                    "Redirect": "map|module",
-                    "Go": "1667;app/PveRewardMallMainPanel"
+                    "Go": "11897;app/PrincessDayPartyMainPanel"
                 },
                 {
                     "Details": {
@@ -49070,7 +49173,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2971,2972,2974,2975,2976"
+            "Important": "2971,2972,2974,2981,2982"
         }
     }
 }

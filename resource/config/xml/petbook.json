@@ -1179,44 +1179,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4613,
-                        "ImageID": 4613,
+                        "ID": 4617,
+                        "ImageID": 4617,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1667;app/SpetAiKeTeXiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4614,
-                        "ImageID": 4614,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1667
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4615,
-                        "ImageID": 4615,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1667;app/QiLianXiXiGoToMapPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4616,
-                        "ImageID": 4616,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1147;app/PveRewardMallMainPanel"
+                        "Go": "1668;app/SpetTaiBoMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 602,
-                        "MonID": 4194,
-                        "ImageID": 1400602,
+                        "ID": 603,
+                        "MonID": 4514,
+                        "ImageID": 1400603,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "11897;app/PrincessDayPartyMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 604,
+                        "MonID": 3156,
+                        "ImageID": 1400604,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/LuchfieldSkinSalesMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48460,6 +48445,17 @@
                 "Features": "卡德玛斯特曾经的好友，因为使用禁卡而被卡牌协会除名。据说她从过去穿越而来，但没人知晓她此行的目的。",
                 "Redirect": "map|module",
                 "Go": "1147;app/PveRewardMallMainPanel"
+            },
+            {
+                "ID": 4617,
+                "DefName": "猛虎之刃·泰伯",
+                "Type": "火 电",
+                "Height": 280,
+                "Weight": 235,
+                "Features": "活动在流岩岭的泰伯一族，她们骑乘猛虎并掌控着火焰和雷电之力。在灵格星系危难之际，她们是十分可靠的伙伴。",
+                "Redirect": "map|module",
+                "Go": "1668;app/SpetTaiBoMainPanel",
+                "jumptarget": "151/199"
             }
         ]
     }
