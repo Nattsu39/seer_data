@@ -492,6 +492,49 @@
                 "FifthSkillJump": "SpiritFragmentSystemBagPanel",
                 "StatDes1": "0308路希菲尔德神谕",
                 "StatDes2": "2024运营活动"
+            },
+            {
+                "Compone": {
+                    "Name": " "
+                },
+                "MainPanel": {
+                    "FreeTime": {
+                        "Id": 414
+                    },
+                    "PayTime": {
+                        "Id": 415
+                    }
+                },
+                "ComparePanel": {
+                    "OldEffect": {
+                        "Id": 909
+                    }
+                },
+                "InfoPanel": {
+                    "PetIcon": {
+                        "Offset": "2_15",
+                        "Scale": 0.78
+                    },
+                    "AdvEffect": {
+                        "Id": 1825
+                    }
+                },
+                "ChallengePanel": {
+                    "Time": {
+                        "Id": 414
+                    },
+                    "Tips": {
+                        "Text": "<font color='#FF7751'>【活动规则】：</font><br>1、$START-$END期间可以通过试炼获取复苏结晶<br>2、精灵的元素觉醒需要<font color='#FF7751'>已解锁第五技能及专属特性</font><br>3、每天拥有<font color='#FF7751'>6次</font>试炼机会，每场战斗胜利后可获取5~7个复苏结晶<br>4、元素试炼为1V1单精灵作战，且仅能使用$PET完成挑战<br>5、消耗<font color='#FF7751'>720个复苏结晶</font>即可完成元素觉醒。"
+                    }
+                },
+                "ID": 12,
+                "PetID": 3613,
+                "OldEffID": 1191,
+                "NewEffID": 2215,
+                "Jump": "MoleculeIntensificationMainPanel",
+                "FifthSkillJump": "MoleculeIntensificationMainPanel",
+                "StatDes1": "0403芳馨·茉蕊儿元素觉醒",
+                "StatDes2": "2024运营活动"
             }
         ]
     }

@@ -14186,7 +14186,7 @@
                     "End": 20240301,
                     "Map": 5,
                     "Name": "精灵图鉴追溯",
-                    "Title": "精灵图鉴点亮计划",
+                    "Title": "精灵图鉴点亮计划第一期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
                 },
@@ -14482,7 +14482,7 @@
                     "End": 20240412,
                     "Map": 5,
                     "Name": "精灵图鉴追溯",
-                    "Title": "精灵图鉴点亮计划",
+                    "Title": "精灵图鉴点亮计划第二期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
                 },
@@ -14746,6 +14746,58 @@
                     "Title": "佩斯莉",
                     "Redirect": "map|module",
                     "Go": "1667;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2979,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240329,
+                    "End": "*",
+                    "Map": 1668,
+                    "Name": "完美谎言",
+                    "Title": "山焰",
+                    "Redirect": "map|module",
+                    "Go": "1668;app/MainLineAdventureChapterPanel&&110001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4617
+                    },
+                    "ID": 2980,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240329,
+                    "End": "*",
+                    "Map": 1668,
+                    "Name": "炽烈雷鸣 焰啸长徙",
+                    "Title": "猛虎之刃·泰伯",
+                    "Redirect": "map|module",
+                    "Go": "1668;app/SpetTaiBoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2983,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240329,
+                    "End": "*",
+                    "Map": 1668,
+                    "Name": "幽灯寻途",
+                    "Title": "绝壑",
+                    "Redirect": "map|module",
+                    "Go": "1668;app/MainLineAdventureChapterPanel&&50012"
                 }
             ]
         },
@@ -48873,6 +48925,57 @@
                     "Title": "罗萨尔",
                     "Redirect": "map|module",
                     "Go": "1667;app/QiLianXiXiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2946,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240301,
+                    "End": 20240403,
+                    "Map": 1652,
+                    "Name": "3月专属VIP精灵",
+                    "Title": "3月专属VIP精灵",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInMarch2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2971,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240322,
+                    "End": 20240403,
+                    "Map": 103,
+                    "Name": "兌钻消费奖励系统更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2984,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240329,
+                    "End": 20240403,
+                    "Map": 11897,
+                    "Name": "春日茶话会",
+                    "Title": "春日茶话会",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/PrincessDayPartyMainPanel"
                 }
             ],
             "_text": [
@@ -48915,23 +49018,6 @@
                     "Title": "刻印之轮浩瀚召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/MarkJackpotPermanentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2946,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240301,
-                    "End": 20240403,
-                    "Map": 1652,
-                    "Name": "3月专属VIP精灵",
-                    "Title": "3月专属VIP精灵",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/MonthlyPetInMarch2024Panel"
                 },
                 {
                     "Details": {
@@ -49005,23 +49091,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 2971,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240322,
-                    "End": 20240403,
-                    "Map": 103,
-                    "Name": "兌钻消费奖励系统更新",
-                    "Title": "兑钻奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 2972,
                     "isNew": 1,
                     "kinds": 1,
@@ -49051,41 +49120,6 @@
                     "Title": "星际招募奖池更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 2979,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240329,
-                    "End": "*",
-                    "Map": 1668,
-                    "Name": "完美谎言",
-                    "Title": "山焰",
-                    "Redirect": "map|module",
-                    "Go": "1668;app/MainLineAdventureChapterPanel&&110001"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4617
-                    },
-                    "ID": 2980,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240329,
-                    "End": "*",
-                    "Map": 1668,
-                    "Name": "炽烈雷鸣 焰啸长徙",
-                    "Title": "猛虎之刃·泰伯",
-                    "Redirect": "map|module",
-                    "Go": "1668;app/SpetTaiBoMainPanel"
                 },
                 {
                     "Details": {
@@ -49125,35 +49159,224 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2983,
+                    "ID": 2985,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240329,
+                    "Start": 20240403,
                     "End": "*",
-                    "Map": 1668,
-                    "Name": "幽灯寻途",
-                    "Title": "绝壑",
+                    "Map": 1669,
+                    "Name": "风的追忆",
+                    "Title": "巫祖",
                     "Redirect": "map|module",
-                    "Go": "1668;app/MainLineAdventureChapterPanel&&50012"
+                    "Go": "1669;app/MainLineAdventureChapterPanel&&100002"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2986,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240403,
+                    "End": 20240426,
+                    "Map": 1652,
+                    "Name": "4月包月精灵",
+                    "Title": "4月包月精灵",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInApril2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4620
+                    },
+                    "ID": 2987,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240403,
+                    "End": 20240412,
+                    "Map": 1669,
+                    "Name": "万灯留影 烛尽留痕",
+                    "Title": "孤烛灯使",
+                    "Redirect": "map|module",
+                    "Go": "1669;app/GetGuDuDengShiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2988,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240403,
+                    "End": 20240426,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 2984,
+                    "ID": 2989,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240329,
-                    "End": 20240403,
-                    "Map": 11897,
-                    "Name": "春日茶话会",
-                    "Title": "春日茶话会",
+                    "Start": 20240404,
+                    "End": 20240407,
+                    "Name": "清明节签到",
+                    "Title": "春日踏青",
+                    "Redirect": "module",
+                    "Go": "app/Qingming20240403PopupPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2990,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240403,
+                    "End": 20240412,
+                    "Map": 103,
+                    "Name": "万灯留影 烛尽留痕",
+                    "Title": "万灯留影 烛尽留痕",
                     "Redirect": "map|module",
-                    "Go": "11897;app/PrincessDayPartyMainPanel"
+                    "Go": "103;app/GetGuDuDengShiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2991,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240403,
+                    "End": 20240412,
+                    "Map": 103,
+                    "Name": "新战斗套装售卖",
+                    "Title": "启明闪耀 晨曦之星",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SalesOfNewCombatSetsMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4619
+                    },
+                    "ID": 2992,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240403,
+                    "End": 20240426,
+                    "Map": 1669,
+                    "Name": "4月包月精灵",
+                    "Title": "贝利弗",
+                    "Redirect": "map|module",
+                    "Go": "1669;app/MonthlyPetInApril2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2993,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240403,
+                    "End": 20240510,
+                    "Map": 1427,
+                    "Name": "道具回收系统更新",
+                    "Title": "道具回收系统更新",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 2994,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240403,
+                    "End": 20240412,
+                    "Map": 11897,
+                    "Name": "清明节主题活动",
+                    "Title": "荷风怜雨殇",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ZTHDJHPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4618
+                    },
+                    "ID": 2995,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240403,
+                    "End": "*",
+                    "Map": 1669,
+                    "Name": "佩洛瑟斯",
+                    "Title": "佩洛瑟斯",
+                    "Redirect": "map|module",
+                    "Go": "1669;app/SpetPeiLuoSeSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2996,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240403,
+                    "End": 20240412,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2997,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240403,
+                    "End": 20240503,
+                    "Map": 103,
+                    "Name": "元素觉醒",
+                    "Title": "花开清明 漫世芳菲",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetMainPanel_3613"
                 },
                 {
                     "Details": {
@@ -49173,7 +49396,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "2971,2972,2974,2981,2982"
+            "Important": "2988,2990,2991,2996,2997"
         }
     }
 }
