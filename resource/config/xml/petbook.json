@@ -1179,37 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4621,
-                        "ImageID": 4621,
+                        "ID": 4623,
+                        "ImageID": 4623,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1670;app/SpetHuanShiYouGuangMainPanel"
+                        "Go": "1671;app/SpetLieYanAiKeTeXiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4622,
-                        "ImageID": 4622,
+                        "ID": 4624,
+                        "ImageID": 4624,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 606,
-                        "MonID": 4622,
-                        "ImageID": 1400606,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 607,
-                        "MonID": 3514,
-                        "ImageID": 1400607,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                        "Go": "11897;app/SpringTourWelfareMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48514,6 +48496,27 @@
                 "Features": "巅峰S2赛季【星光】开启！希望之火，破除黑暗，开拓光明！",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihad2023WarOrdePanel"
+            },
+            {
+                "ID": 4623,
+                "DefName": "裂岩·艾克特希",
+                "Type": "地面 龙",
+                "Height": 174,
+                "Weight": 59,
+                "Features": "艾克特希的超进化形态，这份觉醒爆发的龙魂之力是佩洛瑟斯特地授予艾克特希的。或许她会继承龙族的遗志，将这份力量延续下去。",
+                "Redirect": "map|module",
+                "Go": "1671;app/SpetLieYanAiKeTeXiMainPanel",
+                "jumptarget": "151/202"
+            },
+            {
+                "ID": 4624,
+                "DefName": "阿兜",
+                "Type": "虫",
+                "Height": 66,
+                "Weight": 25,
+                "Features": "非常稀有的传说中的昆虫，有着梦幻般的独角，小小的身体里蕴含着巨大的能量。",
+                "Redirect": "map|module",
+                "Go": "11897;app/SpringTourWelfareMainPanel"
             }
         ]
     }
