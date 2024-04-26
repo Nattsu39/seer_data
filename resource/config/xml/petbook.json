@@ -1179,19 +1179,54 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4623,
-                        "ImageID": 4623,
+                        "ID": 4625,
+                        "ImageID": 4625,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1671;app/SpetLieYanAiKeTeXiMainPanel"
+                        "Go": "1672;app/SpetFUERGEANMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4624,
-                        "ImageID": 4624,
+                        "ID": 4626,
+                        "ImageID": 4626,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/SpringTourWelfareMainPanel"
+                        "Go": "1652;app/MonthlyPetInMay2024Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4627,
+                        "ImageID": 4627,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/GetHeSiTiYaPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 608,
+                        "MonID": 4394,
+                        "ImageID": 1400608,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/LabourDayGoToMapPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 609,
+                        "MonID": 4586,
+                        "ImageID": 1400609,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1652;app/LegendOfSkywalkerSkinSalesMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 610,
+                        "MonID": 4593,
+                        "ImageID": 1400610,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48517,6 +48552,37 @@
                 "Features": "非常稀有的传说中的昆虫，有着梦幻般的独角，小小的身体里蕴含着巨大的能量。",
                 "Redirect": "map|module",
                 "Go": "11897;app/SpringTourWelfareMainPanel"
+            },
+            {
+                "ID": 4625,
+                "DefName": "伏尔格安",
+                "Type": "混沌 火",
+                "Height": 185,
+                "Weight": 72,
+                "Features": "盟会的烬灭长老，擅长操控血焰与幻焰两种强大的焰术，虽然他仍然身处盟会，但他的内心早已背弃初衷，源源不断的烬灭之火难掩他想要吞噬一切的野心。",
+                "Redirect": "map|module",
+                "Go": "1672;app/SpetFUERGEANMainPanel",
+                "jumptarget": "151/203"
+            },
+            {
+                "ID": 4626,
+                "DefName": "夏厄普",
+                "Type": "地面 战斗",
+                "Height": 172,
+                "Weight": 64,
+                "Features": "2024年包月精灵，十二诗灵之五月的锋芒，雷霆万钧，激荡风云，名为勇气的力量让我更加强大。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInMay2024Panel"
+            },
+            {
+                "ID": 4627,
+                "DefName": "赫斯提亚",
+                "Type": "光 火",
+                "Height": 168,
+                "Weight": 47,
+                "Features": "圣火女神，掌管着光与火的力量，自诞生之初就受神恩洗礼，纤华不染。",
+                "Redirect": "map|module",
+                "Go": "103;app/GetHeSiTiYaPanel"
             }
         ]
     }
