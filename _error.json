@@ -1,7 +1,22 @@
 {
-    "pvp_shop.json": {
-        "url": "http://seerh5.61.com/resource/config/json/pvp_shop_95b4f8df.json",
-        "filename": "pvp_shop.json",
+    "starmaplist.json": {
+        "url": "http://seerh5.61.com/resource/config/json/starmaplist_ad41e9b.json",
+        "filename": "starmaplist.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "retrieve.json": {
+        "url": "http://seerh5.61.com/resource/config/json/retrieve_f266f89b.json",
+        "filename": "retrieve.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "pvp_BossConfig.json": {
+        "url": "http://seerh5.61.com/resource/config/json/pvp_BossConfig_263404c9.json",
+        "filename": "pvp_BossConfig.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "PveBossBraveTower.json": {
+        "url": "http://seerh5.61.com/resource/config/json/PveBossBraveTower_4d528474.json",
+        "filename": "PveBossBraveTower.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
@@ -9,29 +24,19 @@
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "ogre.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/ogre_d57fa1d9.json",
-        "filename": "ogre.json",
+    "Wishrank.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/Wishrank_d70eefd.json",
+        "filename": "Wishrank.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "JackPotShop.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/JackPotShop_6b7276cb.json",
-        "filename": "JackPotShop.json",
+    "petbook_0428.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/petbook_0428_68da4a82.json",
+        "filename": "petbook_0428.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "dialog.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/dialog_4a05e008.json",
-        "filename": "dialog.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "petbook_temp.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/petbook_temp_606f2ddd.json",
-        "filename": "petbook_temp.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "light_book.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/light_book_393ab815.json",
-        "filename": "light_book.json",
+    "mapStarIntro.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/mapStarIntro_b41d3692.json",
+        "filename": "mapStarIntro.json",
         "exception": "ReadTimeout('timed out')"
     }
 }
