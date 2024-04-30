@@ -535,6 +535,49 @@
                 "FifthSkillJump": "MoleculeIntensificationMainPanel",
                 "StatDes1": "0403芳馨·茉蕊儿元素觉醒",
                 "StatDes2": "2024运营活动"
+            },
+            {
+                "Compone": {
+                    "Name": " "
+                },
+                "MainPanel": {
+                    "FreeTime": {
+                        "Id": 421
+                    },
+                    "PayTime": {
+                        "Id": 422
+                    }
+                },
+                "ComparePanel": {
+                    "OldEffect": {
+                        "Id": 1204
+                    }
+                },
+                "InfoPanel": {
+                    "PetIcon": {
+                        "Offset": "2_15",
+                        "Scale": 0.78
+                    },
+                    "AdvEffect": {
+                        "Id": 1834
+                    }
+                },
+                "ChallengePanel": {
+                    "Time": {
+                        "Id": 421
+                    },
+                    "Tips": {
+                        "Text": "<font color='#FF7751'>【活动规则】：</font><br>1、$START-$END期间可以通过试炼获取蚀影结晶<br>2、精灵的元素觉醒需要<font color='#FF7751'>已解锁第五技能及专属特性</font><br>3、每天拥有<font color='#FF7751'>6次</font>试炼机会，每场战斗胜利后可获取5~7个蚀影结晶<br>4、元素试炼为1V1单精灵作战，且仅能使用$PET完成挑战<br>5、消耗<font color='#FF7751'>720个蚀影结晶</font>即可完成元素觉醒。"
+                    }
+                },
+                "ID": 13,
+                "PetID": 3941,
+                "OldEffID": 1539,
+                "NewEffID": 2220,
+                "Jump": "ChaosShadowSpiritKingMainPanel",
+                "FifthSkillJump": "ChaosShadowSpiritKingMainPanel",
+                "StatDes1": "0503混沌暗王霍德尔元素觉醒",
+                "StatDes2": "2024运营活动"
             }
         ]
     }

@@ -1179,54 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4625,
-                        "ImageID": 4625,
+                        "ID": 4628,
+                        "ImageID": 4628,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1672;app/SpetFUERGEANMainPanel"
+                        "Go": "1673;app/SpetHeBuLuoMainPanel"
                     },
                     {
-                        "type": 0,
-                        "ID": 4626,
-                        "ImageID": 4626,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInMay2024Panel"
+                        "type": 3,
+                        "ID": 42482
                     },
                     {
-                        "type": 0,
-                        "ID": 4627,
-                        "ImageID": 4627,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/GetHeSiTiYaPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 608,
-                        "MonID": 4394,
-                        "ImageID": 1400608,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/LabourDayGoToMapPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 609,
-                        "MonID": 4586,
-                        "ImageID": 1400609,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1652;app/LegendOfSkywalkerSkinSalesMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 610,
-                        "MonID": 4593,
-                        "ImageID": 1400610,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "type": 3,
+                        "ID": 42483
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48583,6 +48548,17 @@
                 "Features": "圣火女神，掌管着光与火的力量，自诞生之初就受神恩洗礼，纤华不染。",
                 "Redirect": "map|module",
                 "Go": "103;app/GetHeSiTiYaPanel"
+            },
+            {
+                "ID": 4628,
+                "DefName": "圣血猎者·赫布洛",
+                "Type": "混沌 圣灵",
+                "Height": 196,
+                "Weight": 135,
+                "Features": "赫布洛是一位独行的猎手，他掌控着神圣力量，当他将自己的鲜血注入圣剑后，能够爆发出突破自我极限的威力。",
+                "Redirect": "map|module",
+                "Go": "1673;app/SpetHeBuLuoMainPanel",
+                "jumptarget": "151/204"
             }
         ]
     }

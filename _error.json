@@ -1,12 +1,22 @@
 {
-    "partner.json": {
-        "url": "http://seerh5.61.com/resource/config/json/partner_52f82d21.json",
-        "filename": "partner.json",
+    "fightLabMonsterConfig.json": {
+        "url": "http://seerh5.61.com/resource/config/json/fightLabMonsterConfig_43e711c6.json",
+        "filename": "fightLabMonsterConfig.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "pvp_task.json": {
-        "url": "http://seerh5.61.com/resource/config/json/pvp_task_4e85af5b.json",
-        "filename": "pvp_task.json",
+    "newSeer7Sign.json": {
+        "url": "http://seerh5.61.com/resource/config/json/newSeer7Sign_5ade5d53.json",
+        "filename": "newSeer7Sign.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "medaltask.json": {
+        "url": "http://seerh5.61.com/resource/config/json/medaltask_16c66d91.json",
+        "filename": "medaltask.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "h5_boss_info.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/h5_boss_info_3383a552.json",
+        "filename": "h5_boss_info.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
@@ -14,24 +24,9 @@
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "mapobject_config.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/mapobject_config_c26b1be0.json",
-        "filename": "mapobject_config.json",
-        "exception": "ReadTimeout('timed out')"
-    },
     "ActivityMapEventStage.json": {
         "url": "http://seerh5.61.com/resource/config/xml/ActivityMapEventStage_90b0f1d8.json",
         "filename": "ActivityMapEventStage.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "NationaltemplecardGroup.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/NationaltemplecardGroup_cd778172.json",
-        "filename": "NationaltemplecardGroup.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "SpringCustomPetInfo.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/SpringCustomPetInfo_49152138.json",
-        "filename": "SpringCustomPetInfo.json",
         "exception": "ReadTimeout('timed out')"
     }
 }
