@@ -15094,6 +15094,93 @@
                     "Title": "星途",
                     "Redirect": "map|module",
                     "Go": "1672;app/MainLineAdventureChapterPanel&&50014"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3017,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 11897,
+                    "Name": "天下棋局主题活动",
+                    "Title": "天下棋局主题活动",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/LabourDayGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4627
+                    },
+                    "ID": 3021,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 1672,
+                    "Name": "圣火女神 限时降临",
+                    "Title": "赫斯提亚",
+                    "Redirect": "map|module",
+                    "Go": "1672;app/GetHeSiTiYaPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3028,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240501,
+                    "End": 20240506,
+                    "Map": 1672,
+                    "Name": "劳动节签到",
+                    "Title": "棋枰雅战 劳动欢歌",
+                    "Redirect": "map|module",
+                    "Go": "1672;app/Labourday20240426PopupPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4628
+                    },
+                    "ID": 3031,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240503,
+                    "End": "*",
+                    "Map": 1673,
+                    "Name": "圣武狩猎 以血为剑",
+                    "Title": "圣血猎者·赫布洛",
+                    "Redirect": "map|module",
+                    "Go": "1673;app/SpetHeBuLuoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3032,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240503,
+                    "End": "*",
+                    "Map": 1673,
+                    "Name": "风的追忆",
+                    "Title": "浅风",
+                    "Redirect": "map|module",
+                    "Go": "1673;app/MainLineAdventureChapterPanel&&100006"
                 }
             ]
         },
@@ -49613,6 +49700,176 @@
                     "Title": "花开清明 漫世芳菲",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetMainPanel_3613"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3006,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240412,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "天启帝君限时返场",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3016,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "英雄圣殿套装集合售卖",
+                    "Title": "圣殿的传承",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AnnualFeePackageSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3018,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "兑钻消费新奖励",
+                    "Title": "兑钻消费新奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3020,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "圣火女神 限时降临",
+                    "Title": "圣火女神 限时降临",
+                    "Redirect": "map|module",
+                    "Go": "103;app/GetHeSiTiYaPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3023,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 1652,
+                    "Name": "空元行者传说皮肤",
+                    "Title": "天地为局 纵横命宇",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/LegendOfSkywalkerSkinSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3024,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "全新能力目镜售卖",
+                    "Title": "全新漫游者系列目镜",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AbilityGlassesSellingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3027,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240426,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "刻印回溯 限时开启",
+                    "Title": "刻印回溯 限时开启",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkRecallEnterPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3034,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240503,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "莱达神祇冠名刻印",
+                    "Title": "莱达神祇冠名刻印",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LaiDaAnnualFeeEngravingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3035,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240503,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "一键极品 限时优惠",
+                    "Title": "一键极品 限时优惠",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3036,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240503,
+                    "End": 20240510,
+                    "Map": 103,
+                    "Name": "罗开的折扣商店",
+                    "Title": "罗开的折扣商店",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20220722MainPanel"
                 }
             ],
             "_text": [
@@ -49728,23 +49985,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3006,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240412,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "圣殿英雄团更新",
-                    "Title": "天启帝君限时返场",
-                    "Redirect": "map|module",
-                    "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3002,
                     "isNew": 1,
                     "kinds": 1,
@@ -49777,108 +50017,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3016,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "英雄圣殿套装集合售卖",
-                    "Title": "圣殿的传承",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AnnualFeePackageSalesMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3018,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "兑钻消费新奖励",
-                    "Title": "兑钻消费新奖励",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3020,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "圣火女神 限时降临",
-                    "Title": "圣火女神 限时降临",
-                    "Redirect": "map|module",
-                    "Go": "103;app/GetHeSiTiYaPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3023,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 1652,
-                    "Name": "空元行者传说皮肤",
-                    "Title": "天地为局 纵横命宇",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/LegendOfSkywalkerSkinSalesMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3024,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "全新能力目镜售卖",
-                    "Title": "全新漫游者系列目镜",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AbilityGlassesSellingMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3027,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "刻印回溯 限时开启",
-                    "Title": "刻印回溯 限时开启",
-                    "Redirect": "map|module",
-                    "Go": "103;app/MarkRecallEnterPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 3029,
@@ -49893,41 +50031,6 @@
                     "Title": "星河商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4628
-                    },
-                    "ID": 3031,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240503,
-                    "End": "*",
-                    "Map": 1673,
-                    "Name": "圣武狩猎 以血为剑",
-                    "Title": "圣血猎者·赫布洛",
-                    "Redirect": "map|module",
-                    "Go": "1673;app/SpetHeBuLuoMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3032,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240503,
-                    "End": "*",
-                    "Map": 1673,
-                    "Name": "风的追忆",
-                    "Title": "浅风",
-                    "Redirect": "map|module",
-                    "Go": "1673;app/MainLineAdventureChapterPanel&&100006"
                 },
                 {
                     "Details": {
@@ -49948,106 +50051,140 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3034,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240503,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "莱达神祇冠名刻印",
-                    "Title": "莱达神祇冠名刻印",
-                    "Redirect": "map|module",
-                    "Go": "103;app/LaiDaAnnualFeeEngravingMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3035,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240503,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "一键极品 限时优惠",
-                    "Title": "一键极品 限时优惠",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3036,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240503,
-                    "End": 20240510,
-                    "Map": 103,
-                    "Name": "罗开的折扣商店",
-                    "Title": "罗开的折扣商店",
-                    "Redirect": "map|module",
-                    "Go": "103;app/LuoKaiShop20220722MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3017,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 11897,
-                    "Name": "天下棋局主题活动",
-                    "Title": "天下棋局主题活动",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/LabourDayGoToMapPanel"
-                },
-                {
-                    "Details": {
                         "mc": 0,
-                        "monID": 4627
+                        "monID": 4629
                     },
-                    "ID": 3021,
+                    "ID": 3037,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20240426,
-                    "End": 20240510,
-                    "Map": 1672,
-                    "Name": "圣火女神 限时降临",
-                    "Title": "赫斯提亚",
+                    "Start": 20240510,
+                    "End": "*",
+                    "Map": 1674,
+                    "Name": "狂风棘刺 冻霜踏地",
+                    "Title": "霜之荆棘·蒙鲁特",
                     "Redirect": "map|module",
-                    "Go": "1672;app/GetHeSiTiYaPanel"
+                    "Go": "1674;app/SpetMengLuTeMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3028,
+                    "ID": 3038,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240501,
-                    "End": 20240506,
-                    "Map": 1672,
-                    "Name": "劳动节签到",
-                    "Title": "棋枰雅战 劳动欢歌",
+                    "Start": 20240510,
+                    "End": "*",
+                    "Map": 1674,
+                    "Name": "风的追忆",
+                    "Title": "高墙",
                     "Redirect": "map|module",
-                    "Go": "1672;app/Labourday20240426PopupPanel"
+                    "Go": "1674;app/MainLineAdventureChapterPanel&&100007"
+                },
+                {
+                    "Details": {
+                        "mc": 0
+                    },
+                    "ID": 3039,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": 20240517,
+                    "Map": 11897,
+                    "Name": "温暖之种",
+                    "Title": "温暖之种",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/WenNuanZhiZhongGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3040,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": "*",
+                    "Map": 1674,
+                    "Name": "群星待觉",
+                    "Title": "失序",
+                    "Redirect": "map|module",
+                    "Go": "1674;app/MainLineAdventureChapterPanel&&120001"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3041,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240510,
+                    "End": 20240524,
+                    "Map": 103,
+                    "Name": "兑钻消费新奖励",
+                    "Title": "兑钻消费新奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3042,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240510,
+                    "End": 20240607,
+                    "Map": 103,
+                    "Name": "圣殿英雄团更新",
+                    "Title": "重生之翼 巡回返场",
+                    "Redirect": "map|module",
+                    "Go": "103;app/TempleHeroAltarPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3043,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240510,
+                    "End": 20240517,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3044,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": 20240614,
+                    "Map": 1427,
+                    "Name": "道具回收系统",
+                    "Title": "能源研究站",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
                 },
                 {
                     "Details": {
@@ -50067,7 +50204,7 @@
                     "Go": "app/StarWishdDriftBottleMainPanel"
                 }
             ],
-            "Important": "3033,3020,3023,3024,3034"
+            "Important": "3029,3033,3041,3042,3043"
         }
     }
 }

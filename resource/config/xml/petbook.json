@@ -1179,19 +1179,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4628,
-                        "ImageID": 4628,
+                        "ID": 4629,
+                        "ImageID": 4629,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1673;app/SpetHeBuLuoMainPanel"
+                        "Go": "1674;app/SpetMengLuTeMainPanel"
                     },
                     {
-                        "type": 3,
-                        "ID": 42482
+                        "type": 0,
+                        "ID": 4630,
+                        "ImageID": 4630,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1674
                     },
                     {
-                        "type": 3,
-                        "ID": 42483
+                        "type": 1,
+                        "ID": 611,
+                        "MonID": 4246,
+                        "ImageID": 1400611,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -25950,7 +25959,7 @@
                 "Weight": 46,
                 "Features": "丽莎布布超进化，草系融合主宠的最强形态——蒙娜丽莎！大自然的力量运用的炉火纯青，一切绿叶和植物都在她的手中掌控！",
                 "mapID": 981,
-                "jumptarget": 91
+                "jumptarget": "91/2189"
             },
             {
                 "ID": 2190,
@@ -26261,7 +26270,7 @@
                 "Weight": 77,
                 "Features": "鲁斯王超进化，水系融合主宠的最强形态——利爪鲁斯王！惊涛和骇浪尽在他的掌控，只要在水中他就没有任何对手，锋利的爪子和强劲的双鳍让他在水中无可匹敌！",
                 "mapID": 981,
-                "jumptarget": 91
+                "jumptarget": "91/2220"
             },
             {
                 "ID": 2221,
@@ -26272,8 +26281,7 @@
                 "Weight": 88,
                 "Features": "魔焰猩猩超进化，火系融合主宠的最强形态——炽焰金刚！鬃毛燃起了熊熊烈焰，躯干变得更加坚不可摧，炽焰金刚就是力量速度与火焰的化身！",
                 "mapID": 981,
-                "nature": "开朗",
-                "jumptarget": 91
+                "jumptarget": "91/2221"
             },
             {
                 "ID": 2222,
@@ -48559,6 +48567,27 @@
                 "Redirect": "map|module",
                 "Go": "1673;app/SpetHeBuLuoMainPanel",
                 "jumptarget": "151/204"
+            },
+            {
+                "ID": 4629,
+                "DefName": "霜之荆棘·蒙鲁特",
+                "Type": "自然 冰",
+                "Height": 201,
+                "Weight": 150,
+                "Features": "里里维斯的首席骑士，手持寒芒之枪，蔓延的荆棘和凛冽的寒风警告着任何想要侵犯里里维斯的敌人。",
+                "Redirect": "map|module",
+                "Go": "1674;app/SpetMengLuTeMainPanel",
+                "jumptarget": "151/205"
+            },
+            {
+                "ID": 4630,
+                "DefName": "洛克斯",
+                "Type": "超能",
+                "Height": 96,
+                "Weight": 19,
+                "Features": "镇守在里里维斯皇宫城墙之上的卫兵，他们虽然生性胆小、容易受惊，但机警的他们在努力保护着皇宫周围的安全。",
+                "Redirect": "map",
+                "Go": 1674
             }
         ]
     }
