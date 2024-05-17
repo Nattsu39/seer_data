@@ -15181,6 +15181,58 @@
                     "Title": "浅风",
                     "Redirect": "map|module",
                     "Go": "1673;app/MainLineAdventureChapterPanel&&100006"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4629
+                    },
+                    "ID": 3037,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240510,
+                    "End": "*",
+                    "Map": 1674,
+                    "Name": "狂风棘刺 冻霜踏地",
+                    "Title": "霜之荆棘·蒙鲁特",
+                    "Redirect": "map|module",
+                    "Go": "1674;app/SpetMengLuTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3038,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": "*",
+                    "Map": 1674,
+                    "Name": "风的追忆",
+                    "Title": "高墙",
+                    "Redirect": "map|module",
+                    "Go": "1674;app/MainLineAdventureChapterPanel&&100007"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3040,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": "*",
+                    "Map": 1674,
+                    "Name": "群星待觉",
+                    "Title": "失序",
+                    "Redirect": "map|module",
+                    "Go": "1674;app/MainLineAdventureChapterPanel&&120001"
                 }
             ]
         },
@@ -16657,10 +16709,10 @@
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20180727,
-                    "End": 20180831,
+                    "End": "*",
                     "Map": 103,
-                    "Name": "刻印抽奖机更新",
-                    "Title": "刻印抽奖机更新",
+                    "Name": "刻印抽奖机",
+                    "Title": "刻印抽奖机",
                     "Redirect": "map|module",
                     "Go": "103;app/MarkMachine0707Panel"
                 },
@@ -33813,23 +33865,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1,
-                        "Des": "刻印抽奖机再更新，精美刻印火热来袭。全新奖励！等你领取！快来获取你的刻印吧！",
-                        "Prize": "偃月之云α、偃月之华α、偃月之霜α、偃月之光α"
-                    },
-                    "ID": 1687,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20210709,
-                    "End": 20210827,
-                    "Map": 103,
-                    "Name": "夏季刻印抽奖机",
-                    "Title": "夏季刻印抽奖机",
-                    "Redirect": "map|module",
-                    "Go": "103;app/MarkMachine0707Panel"
-                },
-                {
-                    "Details": {
                         "mc": 0,
                         "icon": 2,
                         "monID": 4260
@@ -49870,6 +49905,57 @@
                     "Title": "罗开的折扣商店",
                     "Redirect": "map|module",
                     "Go": "103;app/LuoKaiShop20220722MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3005,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240412,
+                    "End": 20240517,
+                    "Map": 103,
+                    "Name": "VIP权益更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0
+                    },
+                    "ID": 3039,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": 20240517,
+                    "Map": 11897,
+                    "Name": "温暖之种",
+                    "Title": "温暖之种",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/WenNuanZhiZhongGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3043,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240510,
+                    "End": 20240517,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
                 }
             ],
             "_text": [
@@ -49968,23 +50054,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3005,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240412,
-                    "End": 20240517,
-                    "Map": 103,
-                    "Name": "VIP权益更新",
-                    "Title": "VIP权益更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3002,
                     "isNew": 1,
                     "kinds": 1,
@@ -50051,75 +50120,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4629
-                    },
-                    "ID": 3037,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240510,
-                    "End": "*",
-                    "Map": 1674,
-                    "Name": "狂风棘刺 冻霜踏地",
-                    "Title": "霜之荆棘·蒙鲁特",
-                    "Redirect": "map|module",
-                    "Go": "1674;app/SpetMengLuTeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3038,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240510,
-                    "End": "*",
-                    "Map": 1674,
-                    "Name": "风的追忆",
-                    "Title": "高墙",
-                    "Redirect": "map|module",
-                    "Go": "1674;app/MainLineAdventureChapterPanel&&100007"
-                },
-                {
-                    "Details": {
-                        "mc": 0
-                    },
-                    "ID": 3039,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240510,
-                    "End": 20240517,
-                    "Map": 11897,
-                    "Name": "温暖之种",
-                    "Title": "温暖之种",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/WenNuanZhiZhongGoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3040,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240510,
-                    "End": "*",
-                    "Map": 1674,
-                    "Name": "群星待觉",
-                    "Title": "失序",
-                    "Redirect": "map|module",
-                    "Go": "1674;app/MainLineAdventureChapterPanel&&120001"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3041,
@@ -50154,37 +50154,123 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
+                        "mc": 0,
+                        "monID": 4631
                     },
-                    "ID": 3043,
+                    "ID": 3045,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240510,
-                    "End": 20240517,
-                    "Map": 103,
-                    "Name": "皮肤商城更新",
-                    "Title": "皮肤商城更新",
+                    "Type": 0,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 1675,
+                    "Name": "半弧成圆 风砂之握",
+                    "Title": "塞弥丝珂",
                     "Redirect": "map|module",
-                    "Go": "103;app/SkinShopMainPanel"
+                    "Go": "1675;app/SpetSaiMiSiKeMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3044,
+                    "ID": 3046,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240510,
-                    "End": 20240614,
-                    "Map": 1427,
-                    "Name": "道具回收系统",
-                    "Title": "能源研究站",
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 5,
+                    "Name": "精灵图鉴点亮计划第四期",
+                    "Title": "图鉴点亮计划第四期",
                     "Redirect": "map|module",
-                    "Go": "1427;app/PropRecoveryS1Panel"
+                    "Go": "5;app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3047,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 1675,
+                    "Name": "风的追忆",
+                    "Title": "传承",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/MainLineAdventureChapterPanel&&100008"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3048,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 1675,
+                    "Name": "完美谎言",
+                    "Title": "新的据点",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/MainLineAdventureChapterPanel&&110004"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3049,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": 20240524,
+                    "Map": 1675,
+                    "Name": "盖伦新生",
+                    "Title": "盖伦新生",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/GaiLunXinShengGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3050,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240517,
+                    "End": 20240621,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3051,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240517,
+                    "End": 20240530,
+                    "Map": 103,
+                    "Name": "大暗黑天突破",
+                    "Title": "大暗黑天 终极突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaanheitianMainPanel"
                 },
                 {
                     "Details": {
@@ -50202,9 +50288,44 @@
                     "Title": "星愿漂流瓶",
                     "Redirect": "module",
                     "Go": "app/StarWishdDriftBottleMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 1687,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20210709,
+                    "End": "*",
+                    "Map": 1,
+                    "Name": "刻印抽奖机",
+                    "Title": "刻印抽奖机",
+                    "Redirect": "module",
+                    "Go": "app/MarkMachine0707Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3044,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240510,
+                    "End": 20240614,
+                    "Map": 1427,
+                    "Name": "道具回收系统",
+                    "Title": "能源研究站",
+                    "Redirect": "map|module",
+                    "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3029,3033,3041,3042,3043"
+            "Important": "3033,3041,3042,3050,3051",
+            "shopcenter": "2274:1,1687:3,3044:21,3051:9,3050:10,3042:11,3041:12,3033:13,3029:14,3015:15,3002:16,2974:17,2972:18,2955:19,2953:20,2890:43"
         }
     }
 }
