@@ -7300,13 +7300,36 @@
                 "Desc": "新巅峰赛季成就"
             },
             {
-                "Rule": {
-                    "ID": 1,
-                    "Threshold": 1,
-                    "AchievementPoint": 10,
-                    "SpeNameBonus": 481,
-                    "Desc": "苍夜传说"
-                },
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 481,
+                        "Desc": "苍夜传说"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 15,
+                        "SpeNameBonus": 493,
+                        "Desc": "洛林卡之星"
+                    },
+                    {
+                        "ID": 3,
+                        "Threshold": 3,
+                        "AchievementPoint": 15,
+                        "SpeNameBonus": 494,
+                        "Desc": "星光之旅"
+                    },
+                    {
+                        "ID": 4,
+                        "Threshold": 4,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 495,
+                        "Desc": "储匿有方"
+                    }
+                ],
                 "ID": 166,
                 "Type": 0,
                 "Desc": "其他杂项类称号9"

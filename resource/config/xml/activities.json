@@ -15233,6 +15233,75 @@
                     "Title": "失序",
                     "Redirect": "map|module",
                     "Go": "1674;app/MainLineAdventureChapterPanel&&120001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4631
+                    },
+                    "ID": 3045,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 1675,
+                    "Name": "半弧成圆 风砂之握",
+                    "Title": "塞弥丝珂",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/SpetSaiMiSiKeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3046,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 5,
+                    "Name": "精灵图鉴点亮计划第四期",
+                    "Title": "图鉴点亮计划第四期",
+                    "Redirect": "map|module",
+                    "Go": "5;app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3047,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 1675,
+                    "Name": "风的追忆",
+                    "Title": "传承",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/MainLineAdventureChapterPanel&&100008"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3048,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": "*",
+                    "Map": 1675,
+                    "Name": "完美谎言",
+                    "Title": "新的据点",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/MainLineAdventureChapterPanel&&110004"
                 }
             ]
         },
@@ -49956,6 +50025,40 @@
                     "Title": "皮肤商城更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3041,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240510,
+                    "End": 20240524,
+                    "Map": 103,
+                    "Name": "兑钻消费新奖励",
+                    "Title": "兑钻消费新奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3049,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240517,
+                    "End": 20240524,
+                    "Map": 1675,
+                    "Name": "盖伦新生",
+                    "Title": "盖伦新生",
+                    "Redirect": "map|module",
+                    "Go": "1675;app/GaiLunXinShengGoToMapPanel"
                 }
             ],
             "_text": [
@@ -49965,40 +50068,6 @@
         },
         "New": {
             "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2890,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240126,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "【双端】刻印之轮更新",
-                    "Title": "刻印之轮浩瀚召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/MarkJackpotPermanentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2953,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240301,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "山祇之息",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
                 {
                     "Details": {
                         "mc": 1
@@ -50032,23 +50101,6 @@
                     "Title": "神谕归来",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetBackMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2974,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240322,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "星际招募奖池更新",
-                    "Title": "星际招募奖池更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -50111,29 +50163,12 @@
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20240503,
-                    "End": 20240531,
+                    "End": 20240801,
                     "Map": 103,
                     "Name": "混沌暗王 元素觉醒",
                     "Title": "冥淩浃行 永夜未央",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetMainPanel_3941"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3041,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240510,
-                    "End": 20240524,
-                    "Map": 103,
-                    "Name": "兑钻消费新奖励",
-                    "Title": "兑钻消费新奖励",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
@@ -50151,92 +50186,6 @@
                     "Title": "重生之翼 巡回返场",
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPrePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4631
-                    },
-                    "ID": 3045,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240517,
-                    "End": "*",
-                    "Map": 1675,
-                    "Name": "半弧成圆 风砂之握",
-                    "Title": "塞弥丝珂",
-                    "Redirect": "map|module",
-                    "Go": "1675;app/SpetSaiMiSiKeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3046,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240517,
-                    "End": "*",
-                    "Map": 5,
-                    "Name": "精灵图鉴点亮计划第四期",
-                    "Title": "图鉴点亮计划第四期",
-                    "Redirect": "map|module",
-                    "Go": "5;app/LightBookMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3047,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240517,
-                    "End": "*",
-                    "Map": 1675,
-                    "Name": "风的追忆",
-                    "Title": "传承",
-                    "Redirect": "map|module",
-                    "Go": "1675;app/MainLineAdventureChapterPanel&&100008"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3048,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240517,
-                    "End": "*",
-                    "Map": 1675,
-                    "Name": "完美谎言",
-                    "Title": "新的据点",
-                    "Redirect": "map|module",
-                    "Go": "1675;app/MainLineAdventureChapterPanel&&110004"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3049,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240517,
-                    "End": 20240524,
-                    "Map": 1675,
-                    "Name": "盖伦新生",
-                    "Title": "盖伦新生",
-                    "Redirect": "map|module",
-                    "Go": "1675;app/GaiLunXinShengGoToMapPanel"
                 },
                 {
                     "Details": {
@@ -50271,6 +50220,126 @@
                     "Title": "大暗黑天 终极突破",
                     "Redirect": "map|module",
                     "Go": "103;app/DaanheitianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3052,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240524,
+                    "End": "*",
+                    "Map": 1676,
+                    "Name": "风的追忆",
+                    "Title": "密道",
+                    "Redirect": "map|module",
+                    "Go": "1676;app/MainLineAdventureChapterPanel&&100009"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3053,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240524,
+                    "End": 20240607,
+                    "Map": 103,
+                    "Name": "兑钻消费新奖励",
+                    "Title": "兑钻消费新奖励",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3054,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240524,
+                    "End": 20240531,
+                    "Map": 103,
+                    "Name": "星际座驾 折扣售卖",
+                    "Title": "星际座驾 折扣售卖",
+                    "Redirect": "map|module",
+                    "Go": "103;app/VehicleDiscountedSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4632
+                    },
+                    "ID": 3055,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240524,
+                    "End": "*",
+                    "Map": 1676,
+                    "Name": "异味之身 水道的捡拾者",
+                    "Title": "卡威治",
+                    "Redirect": "map|module",
+                    "Go": "1676;app/SpetKaWeiZhiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3056,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240524,
+                    "End": 20240531,
+                    "Map": 103,
+                    "Name": "枫眠传说皮肤售卖",
+                    "Title": "空庭晚来风",
+                    "Redirect": "map|module",
+                    "Go": "103;app/FengmianLegendarySkinSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3057,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240524,
+                    "End": 20240531,
+                    "Map": 11897,
+                    "Name": "初夏的坚果",
+                    "Title": "初夏的坚果",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ChuXiaOfJianGuoGoToMapMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3058,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240524,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "功勋商店更新",
+                    "Title": "功勋商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
                 },
                 {
                     "Details": {
@@ -50324,8 +50393,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3033,3041,3042,3050,3051",
-            "shopcenter": "2274:1,1687:3,3044:21,3051:9,3050:10,3042:11,3041:12,3033:13,3029:14,3015:15,3002:16,2974:17,2972:18,2955:19,2953:20,2890:43"
+            "Important": "3053,3054,3058,3056,3057",
+            "shopcenter": "2274:1,1687:3,3044:21,3053:12,3054:17,3056:20,3051:9,3050:10,3042:11,3033:13,3029:14,3015:15,3002:16,2972:18,2955:19"
         }
     }
 }
