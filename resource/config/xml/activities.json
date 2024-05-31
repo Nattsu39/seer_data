@@ -15302,6 +15302,41 @@
                     "Title": "新的据点",
                     "Redirect": "map|module",
                     "Go": "1675;app/MainLineAdventureChapterPanel&&110004"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3052,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240524,
+                    "End": "*",
+                    "Map": 1676,
+                    "Name": "风的追忆",
+                    "Title": "密道",
+                    "Redirect": "map|module",
+                    "Go": "1676;app/MainLineAdventureChapterPanel&&100009"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4632
+                    },
+                    "ID": 3055,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240524,
+                    "End": "*",
+                    "Map": 1676,
+                    "Name": "异味之身 水道的捡拾者",
+                    "Title": "卡威治",
+                    "Redirect": "map|module",
+                    "Go": "1676;app/SpetKaWeiZhiMainPanel"
                 }
             ]
         },
@@ -50059,65 +50094,6 @@
                     "Title": "盖伦新生",
                     "Redirect": "map|module",
                     "Go": "1675;app/GaiLunXinShengGoToMapPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2955,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240308,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "特性晶片 限时折扣",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 2972,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240322,
-                    "End": 20240628,
-                    "Map": 103,
-                    "Name": "神谕商店第二期",
-                    "Title": "神谕归来",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AdvancedPetBackMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3002,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240412,
-                    "End": 20240712,
-                    "Map": 1095,
-                    "Name": "S2赛季战令",
-                    "Title": "S2赛季战令",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
                 },
                 {
                     "Details": {
@@ -50152,6 +50128,116 @@
                     "Title": "星河商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3051,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240517,
+                    "End": 20240531,
+                    "Map": 103,
+                    "Name": "大暗黑天突破",
+                    "Title": "大暗黑天 终极突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaanheitianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3054,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240524,
+                    "End": 20240531,
+                    "Map": 103,
+                    "Name": "星际座驾 折扣售卖",
+                    "Title": "星际座驾 折扣售卖",
+                    "Redirect": "map|module",
+                    "Go": "103;app/VehicleDiscountedSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3056,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240524,
+                    "End": 20240531,
+                    "Map": 103,
+                    "Name": "枫眠传说皮肤售卖",
+                    "Title": "空庭晚来风",
+                    "Redirect": "map|module",
+                    "Go": "103;app/FengmianLegendarySkinSalesMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3057,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240524,
+                    "End": 20240531,
+                    "Map": 11897,
+                    "Name": "初夏的坚果",
+                    "Title": "初夏的坚果",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ChuXiaOfJianGuoGoToMapMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 2972,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240322,
+                    "End": 20240628,
+                    "Map": 103,
+                    "Name": "神谕商店第二期",
+                    "Title": "神谕归来",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetBackMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3002,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240412,
+                    "End": 20240712,
+                    "Map": 1095,
+                    "Name": "S2赛季战令",
+                    "Title": "S2赛季战令",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
                 },
                 {
                     "Details": {
@@ -50208,40 +50294,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3051,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240517,
-                    "End": 20240530,
-                    "Map": 103,
-                    "Name": "大暗黑天突破",
-                    "Title": "大暗黑天 终极突破",
-                    "Redirect": "map|module",
-                    "Go": "103;app/DaanheitianMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3052,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240524,
-                    "End": "*",
-                    "Map": 1676,
-                    "Name": "风的追忆",
-                    "Title": "密道",
-                    "Redirect": "map|module",
-                    "Go": "1676;app/MainLineAdventureChapterPanel&&100009"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3053,
                     "isNew": 1,
                     "kinds": 1,
@@ -50257,89 +50309,175 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
+                        "mc": 2
                     },
-                    "ID": 3054,
+                    "ID": 3059,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240524,
-                    "End": 20240531,
-                    "Map": 103,
-                    "Name": "星际座驾 折扣售卖",
-                    "Title": "星际座驾 折扣售卖",
+                    "Type": 2,
+                    "Start": 20240531,
+                    "End": "*",
+                    "Map": 1677,
+                    "Name": "风的追忆",
+                    "Title": "腐坏",
                     "Redirect": "map|module",
-                    "Go": "103;app/VehicleDiscountedSalesMainPanel"
+                    "Go": "1677;app/MainLineAdventureChapterPanel&&100010"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3060,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240531,
+                    "End": "*",
+                    "Map": 1677,
+                    "Name": "完美谎言",
+                    "Title": "进化论",
+                    "Redirect": "map|module",
+                    "Go": "1677;app/MainLineAdventureChapterPanel&&110005"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3061,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240531,
+                    "End": "*",
+                    "Map": 1677,
+                    "Name": "群星待觉",
+                    "Title": "异常的求援",
+                    "Redirect": "map|module",
+                    "Go": "1677;app/MainLineAdventureChapterPanel&&120002"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4632
+                        "monID": 4633
                     },
-                    "ID": 3055,
+                    "ID": 3062,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20240524,
+                    "Start": 20240531,
                     "End": "*",
-                    "Map": 1676,
-                    "Name": "异味之身 水道的捡拾者",
-                    "Title": "卡威治",
+                    "Map": 1677,
+                    "Name": "因子关卡",
+                    "Title": "腐坏幽魔·克劳里菲",
                     "Redirect": "map|module",
-                    "Go": "1676;app/SpetKaWeiZhiMainPanel"
+                    "Go": "1677;app/SpetKeLaoLiFeiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3063,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240531,
+                    "End": 20240607,
+                    "Map": 11897,
+                    "Name": "惊异马戏团",
+                    "Title": "惊异马戏团",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/FuliCollectionPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3056,
+                    "ID": 3064,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20240524,
-                    "End": 20240531,
+                    "Start": 20240531,
+                    "End": "*",
                     "Map": 103,
-                    "Name": "枫眠传说皮肤售卖",
-                    "Title": "空庭晚来风",
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/FengmianLegendarySkinSalesMainPanel"
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3057,
+                    "ID": 3065,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20240524,
-                    "End": 20240531,
-                    "Map": 11897,
-                    "Name": "初夏的坚果",
-                    "Title": "初夏的坚果",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/ChuXiaOfJianGuoGoToMapMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3058,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240524,
+                    "Start": 20240531,
                     "End": "*",
                     "Map": 1147,
                     "Name": "功勋商店更新",
                     "Title": "功勋商店更新",
                     "Redirect": "map|module",
                     "Go": "1147;app/PveRewardMallMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3066,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240531,
+                    "End": 20240705,
+                    "Map": 1652,
+                    "Name": "6月包月精灵",
+                    "Title": "6月包月精灵",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInJune2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3067,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240531,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4634
+                    },
+                    "ID": 3068,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240531,
+                    "End": 20240705,
+                    "Map": 1677,
+                    "Name": "6月包月精灵",
+                    "Title": "佩里德",
+                    "Redirect": "map|module",
+                    "Go": "1677;app/MonthlyPetInJune2024Panel"
                 },
                 {
                     "Details": {
@@ -50393,8 +50531,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3053,3054,3058,3056,3057",
-            "shopcenter": "2274:1,1687:3,3044:21,3053:12,3054:17,3056:20,3051:9,3050:10,3042:11,3033:13,3029:14,3015:15,3002:16,2972:18,2955:19"
+            "Important": "3063,3064,3065,3066,3077",
+            "shopcenter": "2274:1,1687:3,3044:21,3064:9,3066:14,3067:15,3053:12,3050:10,3042:11,3033:13,3002:16,2972:18"
         }
     }
 }

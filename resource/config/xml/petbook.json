@@ -1179,29 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4632,
-                        "ImageID": 4632,
+                        "ID": 4633,
+                        "ImageID": 4633,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1676;app/SpetKaWeiZhiMainPanel"
+                        "Go": "1677;app/SpetKeLaoLiFeiMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 613,
-                        "MonID": 3954,
-                        "ImageID": 1400613,
+                        "type": 0,
+                        "ID": 4634,
+                        "ImageID": 4634,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/FengmianLegendarySkinSalesMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 614,
-                        "MonID": 4623,
-                        "ImageID": 1400614,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1652;app/MonthlyPetInJune2024Panel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48610,6 +48600,27 @@
                 "Redirect": "map|module",
                 "Go": "1676;app/SpetKaWeiZhiMainPanel",
                 "jumptarget": "151/207"
+            },
+            {
+                "ID": 4633,
+                "DefName": "腐坏幽魔·克劳里菲",
+                "Type": "邪灵 混沌",
+                "Height": 201,
+                "Weight": 86,
+                "Features": "克劳里菲曾是里里维斯地区的最有威望的魔法师，能够使用变化多端的自然魔法，但誓要守护西叶的她却也在腐坏的侵袭下逐渐失去了自我。",
+                "Redirect": "map|module",
+                "Go": "1677;app/SpetKeLaoLiFeiMainPanel",
+                "jumptarget": "151/208"
+            },
+            {
+                "ID": 4634,
+                "DefName": "佩里德",
+                "Type": "暗影 圣灵",
+                "Height": 157,
+                "Weight": 44,
+                "Features": "2024年包月精灵，十二诗灵之六月的极昼，天光蔽目，暗言迷心，只有洞悉真相后，才能做出正确的判断。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInJune2024Panel"
             }
         ]
     }
