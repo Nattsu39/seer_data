@@ -1179,19 +1179,110 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4633,
-                        "ImageID": 4633,
+                        "ID": 4635,
+                        "ImageID": 4635,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1677;app/SpetKeLaoLiFeiMainPanel"
+                        "Go": "1678;app/SpetFLSXiYeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4634,
-                        "ImageID": 4634,
+                        "ID": 4636,
+                        "ImageID": 4636,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInJune2024Panel"
+                        "Go": "1679;app/Anniversary15thActivityMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4637,
+                        "ImageID": 4637,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4638,
+                        "ImageID": 4638,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4639,
+                        "ImageID": 4639,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4640,
+                        "ImageID": 4640,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 615,
+                        "MonID": 4564,
+                        "ImageID": 1400615,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 616,
+                        "MonID": 4636,
+                        "ImageID": 1400616,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/Anniversary15thActivityMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 617,
+                        "MonID": 3788,
+                        "ImageID": 1400617,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/TianZunSkinSellMainPanel"
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42486
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42487
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42488
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42489
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42490
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42491
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42492
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42493
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48621,6 +48712,67 @@
                 "Features": "2024年包月精灵，十二诗灵之六月的极昼，天光蔽目，暗言迷心，只有洞悉真相后，才能做出正确的判断。",
                 "Redirect": "map|module",
                 "Go": "1652;app/MonthlyPetInJune2024Panel"
+            },
+            {
+                "ID": 4635,
+                "DefName": "枫落殇·西叶",
+                "Type": "远古 草",
+                "Height": 166,
+                "Weight": 52,
+                "Features": "里里维斯区域的领主，悠久的自然之心一直以来都守护着这片森林，只是腐坏在幽深之处低语，记忆也化为枫叶坠入了大地。",
+                "Redirect": "map|module",
+                "Go": "1678;app/SpetFLSXiYeMainPanel",
+                "jumptarget": "151/209"
+            },
+            {
+                "ID": 4636,
+                "DefName": "西塔伦",
+                "Type": "草 超能",
+                "Height": 155,
+                "Weight": 39,
+                "Features": "洛林卡星上遇到的新伙伴——想变成一朵绒绒菊，随风飘荡，永远也不停歇。",
+                "Redirect": "map|module",
+                "Go": "1679;app/Anniversary15thActivityMainPanel"
+            },
+            {
+                "ID": 4637,
+                "DefName": "绒绒菊",
+                "Type": "自然",
+                "Height": 77,
+                "Weight": 8,
+                "Features": "洛林卡星上的奇特生物，大多分布在奥瑞亚区，强风吹过后它的绒毛会随风飘扬。",
+                "Redirect": "map|module",
+                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+            },
+            {
+                "ID": 4638,
+                "DefName": "阳光菊",
+                "Type": "自然 超能",
+                "Height": 79,
+                "Weight": 10,
+                "Features": "绒绒菊特殊的变种之一，在经过连续的阳光暴晒后，头部会生长出黄色花朵，巨大的花盘中会散发出阳光的气味。",
+                "Redirect": "map|module",
+                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+            },
+            {
+                "ID": 4639,
+                "DefName": "蜜桃鸟",
+                "Type": "飞行",
+                "Height": 65,
+                "Weight": 18,
+                "Features": "洛林卡星上颜色酷似蜜桃的鸟类，会在树梢或灌木丛中将自己团成一团伪装成蜜桃，并散发果香来引诱昆虫。",
+                "Redirect": "map|module",
+                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+            },
+            {
+                "ID": 4640,
+                "DefName": "黄桃鸟",
+                "Type": "飞行 光",
+                "Height": 67,
+                "Weight": 20,
+                "Features": "蜜桃鸟的稀有变种，通体金黄色，体内物质可以合成发光源，在黑夜中对昆虫有绝对吸引力。",
+                "Redirect": "map|module",
+                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
             }
         ]
     }

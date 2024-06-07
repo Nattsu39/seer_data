@@ -38597,6 +38597,58 @@
                 "name": "主线任务22-09-16"
             },
             {
+                "item": {
+                    "dialog": [
+                        {
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "嗨，小赛尔，欢迎来到碧玉沙滩。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "你好呀，摩根。你这背后都是些什么呀？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "你说这些石头啊，这些是最近退潮后，咱们发现的一些珍贵的原石，正准备拿去鉴定呢。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "听起来很有趣的样子！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "是的呢，你想试试吗？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "当然！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "npcName": "摩根 ",
+                            "npcID": 4538,
+                            "dialogArr": "来，先挑一块原石吧，看看你的运气如何。",
+                            "questionArr": "好！"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "剧情引导"
+                },
+                "activityID": 95,
+                "name": "20220930玖莉娜活动"
+            },
+            {
                 "item": [
                     {
                         "dialog": [
@@ -54951,23 +55003,37 @@
                         "dialog": [
                             {
                                 "index": 1,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "欢迎来到三角迷阵的考验。在这里，你需要完成棋盘的部署来强化你的军队，以此来获得更高的得分。",
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "这片密林……不知道栖息着怎样的生命",
                                 "questionArr": "…"
                             },
                             {
                                 "index": 2,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "每日首次完成挑战即可获得100个棋弈之元，当然，你也可以继续游戏来完成【围攻挑战】或者磨炼技术。",
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "哔——探测到生命信号！信号源西偏南15°，15米处！",
                                 "questionArr": "…"
                             },
                             {
                                 "index": 3,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "废话就不说了，快点击【开始挑战】吧！",
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "啊……这是……一枚精灵蛋！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "侠客，你可以试着孵化它吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "哔——正在打开孵化舱",
                                 "questionArr": "…"
                             }
                         ],
@@ -54978,38 +55044,45 @@
                         "dialog": [
                             {
                                 "index": 1,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "棋盘上已经部署了一些军队了，让我们继续部署。选择右下角的棋子放置到棋盘上的空位即可。",
-                                "questionArr": "…"
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "咦？这里好像和分子转化仪的操作界面有些不太一样",
+                                "questionArr": "有指南吗？"
                             },
                             {
                                 "index": 2,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "注意，一旦触发了三角迷阵效果，也就是放置的棋子和相邻的两个棋子（围成一个三角空间）组成了A+B=C的算式。那么就可以获得这三个兵种各一个。",
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "哔——目标精灵蛋的生物结构不适用于分子转化仪，需要使用特殊孵化舱",
                                 "questionArr": "…"
                             },
                             {
                                 "index": 3,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "收集兵种组成军队，可以获得更高的得分；棋盘上还有一块风水宝地，称为【奖励模块】。在这里触发三角迷阵效果可以获得双倍的兵种奖励。",
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "指南加载中…………",
                                 "questionArr": "…"
                             },
                             {
                                 "index": 4,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "对了，还有最上方的隐藏效果，这个就留给你自己探索吧，毕竟也不是那么隐藏。",
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "哔哔——加载完毕！放置精灵蛋就能按顺序依次孵化它们。",
                                 "questionArr": "…"
                             },
                             {
                                 "index": 5,
-                                "npcName": "空元行者",
-                                "npcID": 5713,
-                                "dialogArr": "目标是尽可能多的触发三角迷阵效果获得更高的分数。快来试试吧。",
-                                "questionArr": "…"
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "孵化仓需要积蓄足够的能量才能完成孵化，普通精灵蛋需要20分钟，稀有精灵蛋需要40分钟",
+                                "questionArr": "唉？"
+                            },
+                            {
+                                "index": 6,
+                                "npcName": "侠客",
+                                "npcID": 5642,
+                                "dialogArr": "但是！现在孵化仓里能量充盈，第一次孵化可以不用等待立刻孵化完成，快来试试吧！",
+                                "questionArr": "嗯嗯！"
                             }
                         ],
                         "id": 2,
@@ -55017,145 +55090,451 @@
                     }
                 ],
                 "activityID": 153,
-                "name": "20240426围攻：三角迷阵"
+                "name": "202400607峡谷勘探和孵蛋"
             },
             {
                 "item": [
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "咦……？这个洞穴是？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A？？？",
+                                "npcID": 5787,
+                                "dialogArr": "谁在那里？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B？？？",
+                                "npcID": 5788,
+                                "dialogArr": "呃——你就是学会派来的新型机器人吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "我是赛尔，你们是……？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A？？？",
+                                "npcID": 5787,
+                                "dialogArr": "竟然会说话！我们是工业学会的扳手。让我猜猜看，你这对白是预设文本吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "我怎么听不懂你在说什么……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "哇！还有实时拟算响应！好厉害，不愧是领衔人牵头的最新项目！",
+                                "questionArr": "……"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "哎呀，没事没事！你来了就好！我们正在进行一项地底勘探研究，非常需要你的协助！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "这里的岩层质地异常坚硬，一般的冲击钻根本无法下探，而你需要做的非常简单——向下！向前！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "如果有什么发现就再好不过了……总之先出发吧，开启新的探险！",
+                                "questionArr": "出发……？/出发！"
+                            }
+                        ],
                         "id": 0,
-                        "name": 0
+                        "name": "主面板"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "咦？这是……一块化石？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "喔！这是一块真兽类哺乳动物化石？！可以说是包括洛林卡人在内，现存许多动物的祖先了",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "嗯！我记得距今约5000万年前，洛林卡进入了火山活动的活跃期，星球表面氧含量骤降，剧毒的气体和全球骤升的高温几乎灭绝了地表所有的大型生命，几乎只有这些动物幸存了下来。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "听起来好专业！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "谢谢夸奖！这些都是学会资料库里看到的，你应该也能查阅到吧！",
+                                "questionArr": "呃……你们是干什么的？"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "我们是生命科学部的实习研究员，我们的毕业论文课题正是是地层化石与生命演化！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "伟大的新型机器人！我们的毕业论文……就都靠你！",
+                                "questionArr": "哎哎哎，记得挂我名字。"
+                            }
+                        ],
                         "id": 1,
-                        "name": 111
+                        "name": "哺乳动物化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "咦……这是一只爬行动物？唔……不对，它的手臂上好像还长着羽毛。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这应该是……麦迪阿特原始鸟，由前代领衔人发现的远古物种。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "喔！这么说…蜜桃鸟和黄桃鸟都是从这种生物演化而来的？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "好像不是这样……我记得曾经在学会的图鉴中看到过，蜜桃鸟和黄桃鸟似乎被归为了【特异物种】。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 2,
-                        "name": 222
+                        "name": "鸟化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "这个是……恐龙？！好大只！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "根据记录，这种已经是很小只的版本了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "距今1.6亿年前，洛林卡星的地表遍布似乎这样的巨型霸主！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这么说来麦迪阿特原始鸟也得叫它们一声祖宗呢，快让我记录一下……",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 3,
-                        "name": 333
+                        "name": "恐龙化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "食人花？！竟然还有这种东西的化石？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这真的很难得！",
+                                "questionArr": "怎么说？"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "是啊，植物因为没有骨骼，通常会被微生物分解得一干二净……学会可查的化石标本通常都是印有轮廓的模铸化石，像这种被钙质填充得如此完好的实体，简直是可遇不可求！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "而且学会最近有一种假说，他们认为绒绒菊就是这种肉食植物的祖先，后来的漫长演化中它们甚至以恐龙为食！",
+                                "questionArr": "好刺激/好恐怖"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "但那篇论文不是因为论据不充分被退稿了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "我们这块化石……或许恰好可以填补那块空白页！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "哈哈哈，朋友，我们毕业在望！",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 4,
-                        "name": 444
+                        "name": "巨型食肉花化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这就是恐龙们的祖先了，他们从水中爬上陆地，即将成为这片土地未来的新主人。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "这大概是……四足动物化石，和巨型肉食植物同属于近似的时期，他们逐渐用肺取代了腮，为生命走出了全新的方向！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A       ",
+                                "npcID": 5785,
+                                "dialogArr": "说起来，咱们星球表面的巨型遗迹石也是从此时开始诞生，一部分裸露出地表的遗迹石受到高浓度氧气的滋养逐渐生长，成为今天参天石柱。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B       ",
+                                "npcID": 5786,
+                                "dialogArr": "嗯……虽然没有什么实用价值，但看起来倒也不赖，或许适合打卡约会？",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 5,
-                        "name": 555
+                        "name": "两栖类四足动物化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "这是什么？",
+                                "questionArr": "看着很酷！/看着很丑！"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这应该是……巨型节肢动物？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "合理，它们诞生于距今约3.1亿年前，高氧环境使得它们生长得巨大无比，它们的出现几乎结束了一切大型植物的陆地霸主地位。",
+                                "questionArr": "哇…"
+                            }
+                        ],
                         "id": 6,
-                        "name": 666
+                        "name": "巨型节肢类昆虫化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "这是……",
+                                "questionArr": "小鳍鱼！/利牙鱼！"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "那是什么？学会最新发现的古生物吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "眼前这个，应该是洛林卡文明最早的鱼类，洛林卡颌甲鱼。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "它们的板骨像盔甲一样覆盖在整个头部，用来保护脆弱的眼睛和鳃……可以说是洛林卡星所有现存鱼类的祖先了。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 7,
-                        "name": 777
+                        "name": "有颌鱼化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "这是个小家伙，看着像是一只虫子？",
+                                "questionArr": "好可爱…/好瘆人…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "这是米特拉原虫，一种早期水生虫。它在物种演化中发挥着非常重要的作用。",
+                                "questionArr": "什么作用？"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "据可靠资料，米特拉原虫善于挖掘，并以沉积的【碳】为食，它们使漫长岁月沉积在水中的大量有机碳重新进入生态循环，然后物种大爆发就开始了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这家伙随后也演化出诸多潜穴生物，似乎后来也有走入了地下的分支。",
+                                "questionArr": "原来这么复杂！"
+                            }
+                        ],
                         "id": 8,
-                        "name": 888
+                        "name": "米特拉原虫化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "这块石头的纹理好独特，这也是化石吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "你很敏锐嘛！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "这些其实是光合细菌的层叠化石。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "竟然是细菌吗？！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "它们为洛林卡星带来了大量的氧气，在生命演化的早期至关重要！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "而且…在这块化石底部，那些模糊的堆积，其实是更早时期的原始菌化石。它们用肉眼很难分辨，也很难确定具体种类。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "但可以肯定，生命在这之前，已经跋涉了很长的路途。",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 9,
-                        "name": 999
+                        "name": "光合细菌层叠化石"
                     },
                     {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "（历经万难终于挖掘到了地底深处）喔……这似乎是金属材质，看起来已经沉寂了很久。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "在这么深的底层，竟然没有大面积锈蚀？难道这也是什么远古生物的化石？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "不——这种东西怎么看也不像是生命体的遗骸。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "保险起见，我们还是联络一下导师吧！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "那我们的开采工作，就先告一段落啦！这些资料也足够我们写出几篇很有料的论文了，真是辛苦你了！",
+                                "questionArr": "不客气，我收获了很多知识！/不客气，我收获了很多晖金铸币！"
+                            },
+                            {
+                                "npcName": "扳手A",
+                                "npcID": 5785,
+                                "dialogArr": "走吧，回学会报道吧，新型机器人，你要和我们一起回去吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "不了，我的朋友还在等我。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "扳手B",
+                                "npcID": 5786,
+                                "dialogArr": "那么……再见啦！后会有期~",
+                                "questionArr": "…"
+                            }
+                        ],
                         "id": 10,
-                        "name": 10
-                    },
-                    {
-                        "dialog": {
-                            "index": 1,
-                            "npcName": "露琪",
-                            "npcID": 5778,
-                            "dialogArr": "占位",
-                            "questionArr": "…"
-                        },
-                        "id": 11,
-                        "name": 11
+                        "name": "新星数据块"
                     }
                 ],
                 "activityID": 154,
-                "name": "占位"
+                "name": "20240607周年庆活动：地底探险"
             }
         ]
     }
