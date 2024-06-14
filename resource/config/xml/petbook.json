@@ -1179,78 +1179,117 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4635,
-                        "ImageID": 4635,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1678;app/SpetFLSXiYeMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4636,
-                        "ImageID": 4636,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4637,
-                        "ImageID": 4637,
+                        "ID": 4641,
+                        "ImageID": 4641,
                         "Label": 0,
                         "Redirect": "map|module",
                         "Go": "1679;app/ValleyExpeditionHatchMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4638,
-                        "ImageID": 4638,
+                        "ID": 4642,
+                        "ImageID": 4642,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                        "Go": "1682;app/SpetNSZTAiMuHeiZiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4639,
-                        "ImageID": 4639,
+                        "ID": 4643,
+                        "ImageID": 4643,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                        "Go": "1680;app/GearAndStarPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4640,
-                        "ImageID": 4640,
+                        "ID": 4644,
+                        "ImageID": 4644,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                        "Go": "1681;app/GearAndStarPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4645,
+                        "ImageID": 4645,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 1682
                     },
                     {
                         "type": 1,
-                        "ID": 615,
-                        "MonID": 4564,
-                        "ImageID": 1400615,
+                        "ID": 618,
+                        "MonID": 4644,
+                        "ImageID": 1400618,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1679;app/AnniversaryLimitSkinSalesMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 616,
-                        "MonID": 4636,
-                        "ImageID": 1400616,
+                        "ID": 619,
+                        "MonID": 4643,
+                        "ImageID": 1400619,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityMainPanel"
+                        "Go": "1679;app/AnniversaryLimitSkinSalesMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 617,
-                        "MonID": 3788,
-                        "ImageID": 1400617,
+                        "ID": 620,
+                        "MonID": 4511,
+                        "ImageID": 1400620,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/TianZunSkinSellMainPanel"
+                        "Go": "1679;app/QunXingSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 621,
+                        "MonID": 4364,
+                        "ImageID": 1400621,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/QunXingSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 622,
+                        "MonID": 3763,
+                        "ImageID": 1400622,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/QunXingSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 623,
+                        "MonID": 3056,
+                        "ImageID": 1400623,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1679;app/QunXingSkinSellMainPanel"
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42496
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42497
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42498
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42499
+                    },
+                    {
+                        "type": 3,
+                        "ID": 42500
                     },
                     {
                         "type": 3,
@@ -48773,6 +48812,57 @@
                 "Features": "蜜桃鸟的稀有变种，通体金黄色，体内物质可以合成发光源，在黑夜中对昆虫有绝对吸引力。",
                 "Redirect": "map|module",
                 "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+            },
+            {
+                "ID": 4641,
+                "DefName": "米特拉异虫",
+                "Type": "虫",
+                "Height": 34,
+                "Weight": 9,
+                "Features": "在洛林卡星山谷禁区发现的奇异生命，远古时代曾是米特拉源虫的一支，因陨石的降临而产生异变，具有相当的智能。",
+                "Redirect": "map|module",
+                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+            },
+            {
+                "ID": 4642,
+                "DefName": "逆世之瞳·哀目黑子",
+                "Type": "邪灵 暗影",
+                "Height": 168,
+                "Weight": 53,
+                "Features": "哀目黑子继承了「倒吊人」的力量，过去的牺牲并非毫无意义，逆世的蜕变终将迎来新生，她永远铭记，「吾心为哀」。",
+                "Redirect": "map|module",
+                "Go": "1682;app/SpetNSZTAiMuHeiZiMainPanel",
+                "jumptarget": "151/210"
+            },
+            {
+                "ID": 4643,
+                "DefName": "蓓丽安特",
+                "Type": "圣灵 神秘",
+                "Height": 178,
+                "Weight": 53,
+                "Features": "「群星之集」的指引者——群星与魔法，世界本源的回响。",
+                "Redirect": "map|module",
+                "Go": "1680;app/GearAndStarPanel"
+            },
+            {
+                "ID": 4644,
+                "DefName": "克雷弗德",
+                "Type": "电 机械",
+                "Height": 187,
+                "Weight": 64,
+                "Features": "「工业学会」的领衔人——能源、技术， 文明演化的黄金螺旋。",
+                "Redirect": "map|module",
+                "Go": "1681;app/GearAndStarPanel"
+            },
+            {
+                "ID": 4645,
+                "DefName": "佩因尔",
+                "Type": "超能 水",
+                "Height": 84,
+                "Weight": 39,
+                "Features": "里里维斯皇宫藏书阁的负责人，他最喜欢研究远古魔法的知识，他可以在书阁里待一整天也不会厌倦。",
+                "Redirect": "map",
+                "Go": 1682
             }
         ]
     }

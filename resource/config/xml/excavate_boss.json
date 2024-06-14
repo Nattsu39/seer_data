@@ -1,0 +1,978 @@
+{
+    "_declaration": {
+        "version": 1,
+        "encoding": "UTF-8",
+        "standalone": "yes"
+    },
+    "Root": {
+        "excavate_boss": [
+            {
+                "ID": 1,
+                "monsterId": 480,
+                "monsterName": "埃尔特",
+                "monsterLv": 50,
+                "baseData": "300_300_100_200_200_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2330
+            },
+            {
+                "ID": 2,
+                "monsterId": 203,
+                "monsterName": "晶岩兽",
+                "monsterLv": 50,
+                "baseData": "300_300_100_200_200_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2285
+            },
+            {
+                "ID": 3,
+                "monsterId": 553,
+                "monsterName": "丫丫",
+                "monsterLv": 50,
+                "baseData": "300_300_100_200_200_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2332
+            },
+            {
+                "ID": 4,
+                "monsterId": 119,
+                "monsterName": "莱尼",
+                "monsterLv": 50,
+                "baseData": "300_300_100_200_200_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2433
+            },
+            {
+                "ID": 5,
+                "monsterId": 576,
+                "monsterName": "德普",
+                "monsterLv": 60,
+                "baseData": "400_400_200_300_300_700",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3669
+            },
+            {
+                "ID": 6,
+                "monsterId": 381,
+                "monsterName": "史空",
+                "monsterLv": 60,
+                "baseData": "400_400_200_300_300_700",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1319
+            },
+            {
+                "ID": 7,
+                "monsterId": 622,
+                "monsterName": "加鲁德",
+                "monsterLv": 60,
+                "baseData": "300_300_200_300_300_700",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2394
+            },
+            {
+                "ID": 8,
+                "monsterId": 3596,
+                "monsterName": "泰图",
+                "monsterLv": 60,
+                "baseData": "400_400_200_300_300_700",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1522
+            },
+            {
+                "ID": 9,
+                "monsterId": 668,
+                "monsterName": "普拉顿",
+                "monsterLv": 70,
+                "baseData": "500_500_300_400_400_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1536
+            },
+            {
+                "ID": 10,
+                "monsterId": 376,
+                "monsterName": "寄宿岩",
+                "monsterLv": 70,
+                "baseData": "400_400_300_400_400_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2034
+            },
+            {
+                "ID": 11,
+                "monsterId": 207,
+                "monsterName": "星吉拉",
+                "monsterLv": 70,
+                "baseData": "500_500_300_400_400_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2895
+            },
+            {
+                "ID": 12,
+                "monsterId": 194,
+                "monsterName": "罗卡尔",
+                "monsterLv": 70,
+                "baseData": "500_500_300_400_400_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3023
+            },
+            {
+                "ID": 13,
+                "monsterId": 1728,
+                "monsterName": "库贝多",
+                "monsterLv": 80,
+                "baseData": "600_600_300_400_400_1200",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2286
+            },
+            {
+                "ID": 14,
+                "monsterId": 554,
+                "monsterName": "远古甲虫",
+                "monsterLv": 80,
+                "baseData": "600_600_300_400_400_1200",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1754
+            },
+            {
+                "ID": 15,
+                "monsterId": 573,
+                "monsterName": "布莱卡恩",
+                "monsterLv": 80,
+                "baseData": "600_600_300_400_400_1200",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2834
+            },
+            {
+                "ID": 16,
+                "monsterId": 579,
+                "monsterName": "库洛卡",
+                "monsterLv": 80,
+                "baseData": "500_500_300_400_500_1200",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "3031_3565"
+            },
+            {
+                "ID": 17,
+                "monsterId": 659,
+                "monsterName": "加洛德",
+                "monsterLv": 90,
+                "baseData": "700_700_400_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "2677_2955"
+            },
+            {
+                "ID": 18,
+                "monsterId": 844,
+                "monsterName": "伏地兽",
+                "monsterLv": 90,
+                "baseData": "700_700_400_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2373
+            },
+            {
+                "ID": 19,
+                "monsterId": 4083,
+                "monsterName": "毕兹",
+                "monsterLv": 90,
+                "baseData": "700_700_400_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3070
+            },
+            {
+                "ID": 20,
+                "monsterId": 2628,
+                "monsterName": "泰灵",
+                "monsterLv": 90,
+                "baseData": "700_700_400_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3565
+            },
+            {
+                "ID": 21,
+                "monsterId": 1312,
+                "monsterName": "格雷迪",
+                "monsterLv": 100,
+                "baseData": "1000_1000_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1652
+            },
+            {
+                "ID": 22,
+                "monsterId": 1136,
+                "monsterName": "沃斯特",
+                "monsterLv": 100,
+                "baseData": "1000_1000_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3586
+            },
+            {
+                "ID": 23,
+                "monsterId": 1151,
+                "monsterName": "努加达斯",
+                "monsterLv": 100,
+                "baseData": "1000_1000_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3500
+            },
+            {
+                "ID": 24,
+                "monsterId": 1377,
+                "monsterName": "纳特",
+                "monsterLv": 100,
+                "baseData": "2400_1200_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2343
+            },
+            {
+                "ID": 25,
+                "monsterId": 4570,
+                "monsterName": "拜拉",
+                "monsterLv": 100,
+                "baseData": "8000_1200_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "3604_333"
+            },
+            {
+                "ID": 26,
+                "monsterId": 3179,
+                "monsterName": "黑炎贝鲁",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "214_333"
+            },
+            {
+                "ID": 27,
+                "monsterId": 4624,
+                "monsterName": "阿兜",
+                "monsterLv": 100,
+                "baseData": "2500_1200_600_800_800_2000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 302
+            },
+            {
+                "ID": 28,
+                "monsterId": 280,
+                "monsterName": "沙罗希瓦",
+                "monsterLv": 100,
+                "baseData": "2500_1500_800_1500_1500_3000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2345
+            },
+            {
+                "ID": 29,
+                "monsterId": 2382,
+                "monsterName": "特蒙勒",
+                "monsterLv": 100,
+                "baseData": "2500_1500_800_1500_1500_3000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2344
+            },
+            {
+                "ID": 30,
+                "monsterId": 1143,
+                "monsterName": "鲁迪诺斯",
+                "monsterLv": 100,
+                "baseData": "2500_1500_800_1500_1500_3000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "1539_1521"
+            },
+            {
+                "ID": 31,
+                "monsterId": 343,
+                "monsterName": "索比拉特",
+                "monsterLv": 75,
+                "baseData": "500_500_300_500_500_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "  ",
+                "monsterNewse": "1933_2321"
+            },
+            {
+                "ID": 32,
+                "monsterId": 3368,
+                "monsterName": "加奥什",
+                "monsterLv": 75,
+                "baseData": "500_500_300_500_500_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1319
+            },
+            {
+                "ID": 33,
+                "monsterId": 925,
+                "monsterName": "古尔扎迪",
+                "monsterLv": 75,
+                "baseData": "200_200_200_200_200_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "1219_1516"
+            },
+            {
+                "ID": 34,
+                "monsterId": 779,
+                "monsterName": "迪普利德",
+                "monsterLv": 75,
+                "baseData": "500_500_300_500_500_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "1608_2848"
+            },
+            {
+                "ID": 35,
+                "monsterId": 384,
+                "monsterName": "波戈",
+                "monsterLv": 100,
+                "baseData": "500_500_300_500_500_1000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1536
+            },
+            {
+                "ID": 36,
+                "monsterId": 1397,
+                "monsterName": "查迪斯",
+                "monsterLv": 100,
+                "baseData": "500_500_300_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1565
+            },
+            {
+                "ID": 37,
+                "monsterId": 804,
+                "monsterName": "迪符特",
+                "monsterLv": 100,
+                "baseData": "500_500_300_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2344
+            },
+            {
+                "ID": 38,
+                "monsterId": 391,
+                "monsterName": "塔西亚",
+                "monsterLv": 100,
+                "baseData": "500_500_300_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 2344
+            },
+            {
+                "ID": 39,
+                "monsterId": 1341,
+                "monsterName": "洛拉菲德",
+                "monsterLv": 120,
+                "baseData": "500_500_300_500_500_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 3672
+            },
+            {
+                "ID": 40,
+                "monsterId": 274,
+                "monsterName": "塔克林",
+                "monsterLv": 120,
+                "baseData": "1500_1500_700_1200_1200_4000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "2955_2927_111"
+            },
+            {
+                "ID": 41,
+                "monsterId": 3881,
+                "monsterName": "蛊",
+                "monsterLv": 120,
+                "baseData": "1600_1600_700_1200_1200_4000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 1321
+            },
+            {
+                "ID": 42,
+                "monsterId": 1730,
+                "monsterName": "库贝萨",
+                "monsterLv": 120,
+                "baseData": "1600_1600_700_1200_1200_10000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": 150
+            },
+            {
+                "ID": 43,
+                "monsterId": 2799,
+                "monsterName": "晶甲·暴岩",
+                "monsterLv": 120,
+                "baseData": "1600_1600_700_1200_1200_4000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "3643_1565"
+            },
+            {
+                "ID": 44,
+                "monsterId": 3607,
+                "monsterName": "斯瓦尼根",
+                "monsterLv": 120,
+                "baseData": "1600_1600_700_1200_1200_4000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "2344_3282"
+            },
+            {
+                "ID": 45,
+                "monsterId": 3605,
+                "monsterName": "拉贾克斯",
+                "monsterLv": 120,
+                "baseData": "1900_1900_900_2000_2000_8000",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterNewse": "257_184"
+            },
+            {
+                "ID": 1000,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688"
+            },
+            {
+                "ID": 1001,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1002,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1003,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1100,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688"
+            },
+            {
+                "ID": 1101,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1102,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1103,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1200,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688"
+            },
+            {
+                "ID": 1201,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1202,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1203,
+                "monsterId": 5785,
+                "monsterName": "赛尔",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37280_37279_28689_28688",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1010,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690"
+            },
+            {
+                "ID": 1011,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1012,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1013,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1110,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690"
+            },
+            {
+                "ID": 1111,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1112,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1113,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1210,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690"
+            },
+            {
+                "ID": 1211,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1212,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1213,
+                "monsterId": 5786,
+                "monsterName": "赛尔·毁灭型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37283_37282_37281_28691_28690",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1020,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692"
+            },
+            {
+                "ID": 1021,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1022,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1023,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1120,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692"
+            },
+            {
+                "ID": 1121,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1122,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1123,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1220,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692"
+            },
+            {
+                "ID": 1221,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1222,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1223,
+                "monsterId": 5787,
+                "monsterName": "赛尔·坚壁型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37286_37285_37284_28693_28692",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1030,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694"
+            },
+            {
+                "ID": 1031,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1032,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1033,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 50,
+                "baseData": "300_300_100_250_250_500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1130,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694"
+            },
+            {
+                "ID": 1131,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1132,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1133,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 75,
+                "baseData": "500_500_300_400_400_800",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 116
+            },
+            {
+                "ID": 1230,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694"
+            },
+            {
+                "ID": 1231,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 207
+            },
+            {
+                "ID": 1232,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 3649
+            },
+            {
+                "ID": 1233,
+                "monsterId": 5788,
+                "monsterName": "赛尔·极速型",
+                "monsterLv": 100,
+                "baseData": "1200_1200_600_800_800_1500",
+                "mintmarkData": "0_0_0_0_0_0",
+                "extraData": "0_0_0_0_0_0",
+                "monsterMove": "37289_37288_37287_28695_28694",
+                "monsterNewse": 116
+            }
+        ]
+    }
+}

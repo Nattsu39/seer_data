@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_5_31 00:00:00",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:158}",
+            "goto": "2_151_{Design:159}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_5_31 00:00:00",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "3_请前往赛尔号页游参与周年庆活动",
+            "goto": "2_108_{openPanel:\"10,12\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_5_31 00:00:00",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "2_235",
+            "goto": "3_请前往赛尔号页游参与周年庆精彩活动",
             "page": 1
         },
         {
@@ -35,9 +35,9 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_5_31 00:00:00",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"10,11\"}",
+            "goto": "3_请前往赛尔号页游参与周年庆精彩活动",
             "page": 1
         },
         {
@@ -45,9 +45,9 @@
             "type": 1,
             "pic": 5,
             "tag": 0,
-            "showStart": "2024_5_31 00:00:00",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"11,6\"}",
+            "goto": "3_请前往赛尔号页游参与周年庆精彩活动",
             "page": 2
         },
         {
@@ -55,9 +55,9 @@
             "type": 1,
             "pic": 6,
             "tag": 0,
-            "showStart": "2024_5_31 00:00:00",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "3_请前往赛尔号页游参与周年庆活动",
+            "goto": "2_18_{subType: \"ITEM\"}",
             "page": 2
         },
         {
@@ -65,9 +65,9 @@
             "type": 1,
             "pic": 7,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_6_14 00:00:00",
             "showEnd": "",
-            "goto": "2_18_{subType: \"ITEM\"}",
+            "goto": "2_110_{ moduleID:188 }",
             "page": 2
         },
         {
@@ -75,9 +75,9 @@
             "type": 1,
             "pic": 8,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_6_7 00:00:00",
             "showEnd": "",
-            "goto": "2_148",
+            "goto": "2_235",
             "page": 2
         },
         {
@@ -203,15 +203,25 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4635,
+            "pic": 4642,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:159}",
+            "page": 0
+        },
+        {
+            "id": 22,
+            "type": 2,
+            "pic": 4635,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:158}",
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4633,
             "tag": 0,
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 23,
+            "id": 24,
             "type": 2,
             "pic": 4632,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 24,
+            "id": 25,
             "type": 2,
             "pic": 4631,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:155}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4629,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:154}",
             "page": 0
         }
     ]

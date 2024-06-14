@@ -70,6 +70,15 @@
                 "mouseClickFunc": "app:Yearvip2024MainPanel"
             },
             {
+                "direction": "left_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "15xinyuan_icon",
+                "tips": "15周年心愿单",
+                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:clickEnterSubPanel"
+            },
+            {
                 "direction": "left_side",
                 "priority": 2,
                 "exMapList": 50000,
