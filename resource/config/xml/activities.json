@@ -15446,23 +15446,6 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3072,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240607,
-                    "End": 20240705,
-                    "Map": 1680,
-                    "Name": "罗赫特卖",
-                    "Title": "罗赫特卖",
-                    "Redirect": "map|module",
-                    "Go": "1680;app/Anniversary15thActivityShopPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
                     "ID": 3073,
                     "isNew": 1,
                     "kinds": 1,
@@ -15615,42 +15598,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4643
-                    },
-                    "ID": 3103,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240614,
-                    "End": 20240705,
-                    "Map": 1680,
-                    "Name": "群星之集 指引者",
-                    "Title": "蓓丽安特",
-                    "Redirect": "map|module",
-                    "Go": "1680;app/GearAndStarPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4644
-                    },
-                    "ID": 3104,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240614,
-                    "End": 20240705,
-                    "Map": 1681,
-                    "Name": "工业学会 领衔人",
-                    "Title": "克雷弗德",
-                    "Redirect": "map|module",
-                    "Go": "1681;app/GearAndStarPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 3105,
@@ -15699,6 +15646,160 @@
                     "Title": "山谷勘探",
                     "Redirect": "map|module",
                     "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3108,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": "*",
+                    "Map": 1683,
+                    "Name": "风的追忆",
+                    "Title": "标记",
+                    "Redirect": "map|module",
+                    "Go": "1683;app/MainLineAdventureChapterPanel&&100013"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3109,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": "*",
+                    "Map": 1683,
+                    "Name": "完美谎言",
+                    "Title": "极之道",
+                    "Redirect": "map|module",
+                    "Go": "1683;app/MainLineAdventureChapterPanel&&110007"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3112,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": 20240705,
+                    "Map": 1680,
+                    "Name": "罗赫特卖",
+                    "Title": "罗赫特卖",
+                    "Redirect": "map|module",
+                    "Go": "1680;app/Anniversary15thActivityShopPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3113,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": 20240705,
+                    "Map": 1679,
+                    "Name": "遗迹石大鉴定",
+                    "Title": "遗迹石大鉴定",
+                    "Redirect": "map|module",
+                    "Go": "1679;app/JiuLiNaOfStoneShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3114,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": 20240705,
+                    "Map": 1679,
+                    "Name": "宇宙之声",
+                    "Title": "宇宙之声",
+                    "Redirect": "map|module",
+                    "Go": "1679;app/TheVoiceOfTheUniverseMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4646
+                    },
+                    "ID": 3116,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240621,
+                    "End": "*",
+                    "Map": 1683,
+                    "Name": "极念之间 哀宙外的访客",
+                    "Title": "时钟试炼官·极",
+                    "Redirect": "map|module",
+                    "Go": "1683;app/SpetSZSLGJiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3117,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": 20240705,
+                    "Map": 1679,
+                    "Name": "派特的研究",
+                    "Title": "派特的研究",
+                    "Redirect": "map|module",
+                    "Go": "1679;app/PatsResearchOf15thMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3122,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240621,
+                    "End": 20240802,
+                    "Map": 5,
+                    "Name": "精灵图鉴点亮计划第五期",
+                    "Title": "图鉴点亮计划第五期",
+                    "Redirect": "map|module",
+                    "Go": "5;app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3102,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240614,
+                    "End": "*",
+                    "Map": 1147,
+                    "Name": "功勋商店更新",
+                    "Title": "功勋商店更新",
+                    "Redirect": "map|module",
+                    "Go": "1147;app/PveRewardMallMainPanel"
                 }
             ]
         },
@@ -50677,15 +50778,7 @@
                     "Title": "图鉴点亮计划第四期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -50702,7 +50795,15 @@
                     "Title": "神谕归来",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetBackMainPanel"
-                },
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 1
@@ -50928,23 +51029,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3093,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240614,
-                    "End": 20240705,
-                    "Map": 1679,
-                    "Name": "齿轮与繁星",
-                    "Title": "齿轮与繁星",
-                    "Redirect": "map|module",
-                    "Go": "1679;app/GearAndStarPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3096,
                     "isNew": 1,
                     "kinds": 1,
@@ -50994,57 +51078,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3102,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240614,
-                    "End": "*",
-                    "Map": 1147,
-                    "Name": "功勋商店更新",
-                    "Title": "功勋商店更新",
-                    "Redirect": "map|module",
-                    "Go": "1147;app/PveRewardMallMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3108,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": "*",
-                    "Map": 1683,
-                    "Name": "风的追忆",
-                    "Title": "标记",
-                    "Redirect": "map|module",
-                    "Go": "1683;app/MainLineAdventureChapterPanel&&100013"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3109,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": "*",
-                    "Map": 1683,
-                    "Name": "完美谎言",
-                    "Title": "极之道",
-                    "Redirect": "map|module",
-                    "Go": "1683;app/MainLineAdventureChapterPanel&&110007"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3110,
@@ -51062,74 +51095,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3111,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1679,
-                    "Name": "洛林卡之星 荣誉挑战",
-                    "Title": "洛林卡之星 荣誉挑战",
-                    "Redirect": "map|module",
-                    "Go": "1679;app/Anniversary15thActivityMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3112,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1680,
-                    "Name": "罗赫特卖",
-                    "Title": "罗赫特卖",
-                    "Redirect": "map|module",
-                    "Go": "1680;app/Anniversary15thActivityShopPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3113,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1679,
-                    "Name": "遗迹石大鉴定",
-                    "Title": "遗迹石大鉴定",
-                    "Redirect": "map|module",
-                    "Go": "1679;app/JiuLiNaOfStoneShopMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3114,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1679,
-                    "Name": "宇宙之声",
-                    "Title": "宇宙之声",
-                    "Redirect": "map|module",
-                    "Go": "1679;app/TheVoiceOfTheUniverseMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3115,
@@ -51144,41 +51109,6 @@
                     "Title": "刻印回溯 限时开启",
                     "Redirect": "map|module",
                     "Go": "103;app/MarkRecallEnterPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4646
-                    },
-                    "ID": 3116,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240621,
-                    "End": "*",
-                    "Map": 1683,
-                    "Name": "极念之间 哀宙外的访客",
-                    "Title": "时钟试炼官·极",
-                    "Redirect": "map|module",
-                    "Go": "1683;app/SpetSZSLGJiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3117,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1679,
-                    "Name": "派特的研究",
-                    "Title": "派特的研究",
-                    "Redirect": "map|module",
-                    "Go": "1679;app/PatsResearchOf15thMainPanel"
                 },
                 {
                     "Details": {
@@ -51250,74 +51180,174 @@
                 },
                 {
                     "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3093,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240614,
+                    "End": 20240705,
+                    "Map": 1679,
+                    "Name": "齿轮与繁星",
+                    "Title": "齿轮与繁星",
+                    "Redirect": "map|module",
+                    "Go": "1679;app/GearAndStarPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4650
+                    },
+                    "ID": 3126,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240628,
+                    "End": "*",
+                    "Map": 1684,
+                    "Name": "逆鳞的风暴 纯黑的狂想",
+                    "Title": "风暴龙灵",
+                    "Redirect": "map|module",
+                    "Go": "1684;app/SpetFengBaoLongLingMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
-                    "ID": 3122,
+                    "ID": 3127,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240628,
+                    "End": "*",
+                    "Map": 1684,
+                    "Name": "风的追忆",
+                    "Title": "风暴",
+                    "Redirect": "map|module",
+                    "Go": "1684;app/MainLineAdventureChapterPanel&&100014"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3128,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240628,
+                    "End": 20240712,
+                    "Map": 1132,
+                    "Name": "天狱的定咎人",
+                    "Title": "莫塔里安回归",
+                    "Redirect": "map|module",
+                    "Go": "1132;app/MoTaLiAnChallengeEnter"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3129,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240628,
+                    "End": "*",
+                    "Map": 1684,
+                    "Name": "群星待觉",
+                    "Title": "泥泞",
+                    "Redirect": "map|module",
+                    "Go": "1684;app/MainLineAdventureChapterPanel&&120003"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3130,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240628,
+                    "End": 20240705,
+                    "Map": 1514,
+                    "Name": "启灵元神的祈福",
+                    "Title": "启灵元神的祈福",
+                    "Redirect": "map|module",
+                    "Go": "1514;app/BlessOfQLYSMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3131,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240628,
+                    "End": 20240927,
+                    "Map": 103,
+                    "Name": "神谕商店更新",
+                    "Title": "神谕归来",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AdvancedPetBackMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3132,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240628,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3133,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240628,
+                    "End": 20240705,
+                    "Map": 103,
+                    "Name": "罗开的折扣商店",
+                    "Title": "罗开的折扣商店",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20220722MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3134,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20240621,
-                    "End": 20240802,
-                    "Map": 5,
-                    "Name": "精灵图鉴点亮计划第五期",
-                    "Title": "图鉴点亮计划第五期",
-                    "Redirect": "map|module",
-                    "Go": "5;app/LightBookMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4647
-                    },
-                    "ID": 3123,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240621,
                     "End": 20240705,
-                    "Map": 1683,
+                    "Map": 1679,
                     "Name": "洛林卡之星 荣誉挑战",
-                    "Title": "星光·丽莎布布",
+                    "Title": "洛林卡之星 荣誉挑战",
                     "Redirect": "map|module",
-                    "Go": "1683;app/Anniversary15thActivityMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4648
-                    },
-                    "ID": 3124,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1683,
-                    "Name": "洛林卡之星 荣誉挑战",
-                    "Title": "星光·鲁斯王",
-                    "Redirect": "map|module",
-                    "Go": "1683;app/Anniversary15thActivityMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4649
-                    },
-                    "ID": 3125,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240621,
-                    "End": 20240705,
-                    "Map": 1683,
-                    "Name": "洛林卡之星 荣誉挑战",
-                    "Title": "星光·魔焰猩猩",
-                    "Redirect": "map|module",
-                    "Go": "1683;app/Anniversary15thActivityMainPanel"
+                    "Go": "1679;app/Anniversary15thActivityMainPanel"
                 },
                 {
                     "Details": {
@@ -51371,8 +51401,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3093,3110,3115,3118,3119",
-            "shopcenter": "2274:1,1687:3,3088:21,3110:43,3115:53,3118:54,3119:48,3120:49,3121:10,3089:44,3091:45,3092:46,3093:47,3096:51,3101:52,3074:11,3075:12,3077:17,3078:19,3079:20,3064:9,3066:14,3067:15,3033:13,3002:16,2972:18"
+            "Important": "3131,3132,3133,3110,3130",
+            "shopcenter": "2274:1,1687:3,3088:21,3131:18,3132:22,3133:23,3110:43,3115:53,3118:54,3119:48,3120:49,3121:10,3089:44,3091:45,3092:46,3093:47,3096:51,3101:52,3074:11,3075:12,3077:17,3078:19,3079:20,3064:9,3066:14,3067:15,3033:13,3002:16"
         }
     }
 }

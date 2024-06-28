@@ -1176,162 +1176,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4646,
-                        "ImageID": 4646,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1683;app/SpetSZSLGJiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4647,
-                        "ImageID": 4647,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4648,
-                        "ImageID": 4648,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4649,
-                        "ImageID": 4649,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 624,
-                        "MonID": 4647,
-                        "ImageID": 1400624,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 625,
-                        "MonID": 4647,
-                        "ImageID": 1400625,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 626,
-                        "MonID": 4647,
-                        "ImageID": 1400626,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 627,
-                        "MonID": 4648,
-                        "ImageID": 1400627,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 628,
-                        "MonID": 4648,
-                        "ImageID": 1400628,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 629,
-                        "MonID": 4648,
-                        "ImageID": 1400629,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 630,
-                        "MonID": 4649,
-                        "ImageID": 1400630,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 631,
-                        "MonID": 4649,
-                        "ImageID": 1400631,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 632,
-                        "MonID": 4649,
-                        "ImageID": 1400632,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1679;app/Anniversary15thActivityShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 633,
-                        "MonID": 4114,
-                        "ImageID": 1400633,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42501
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42502
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42503
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42504
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42505
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42506
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42507
-                    },
-                    {
-                        "type": 3,
-                        "ID": 42508
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4650,
+                    "ImageID": 4650,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1684;app/SpetFengBaoLongLingMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -48912,6 +48764,17 @@
                 "Features": "魔焰猩猩星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
                 "Redirect": "map|module",
                 "Go": "1679;app/Anniversary15thActivityMainPanel"
+            },
+            {
+                "ID": 4650,
+                "DefName": "风暴龙灵",
+                "Type": "龙",
+                "Height": 1700,
+                "Weight": 0,
+                "Features": "逝去的龙族化为灵体守护着黑风山崖，风暴龙灵将用狂风粉碎一切入侵者！",
+                "Redirect": "map|module",
+                "Go": "1684;app/SpetFengBaoLongLingMainPanel",
+                "jumptarget": "151/212"
             }
         ]
     }

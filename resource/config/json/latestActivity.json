@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_6_21 00:00:00",
+            "showStart": "2024_6_28 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:160}",
+            "goto": "2_151_{Design:161}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_6_21 00:00:00",
+            "showStart": "2024_6_28 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"11,7\"}",
+            "goto": "2_110_{ moduleID:164 }",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_6_21 00:00:00",
+            "showStart": "2024_6_28 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"10,13\"}",
+            "goto": "2_110_{ moduleID:264 }",
             "page": 1
         },
         {
@@ -35,30 +35,30 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_6_21 00:00:00",
+            "showStart": "2024_6_28 00:00:00",
             "showEnd": "",
             "goto": "3_请前往赛尔号页游参与周年庆精彩活动",
             "page": 1
         },
         {
             "id": 5,
-            "type": 0,
-            "pic": 0,
+            "type": 1,
+            "pic": 5,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_6_28 00:00:00",
             "showEnd": "",
-            "goto": "",
-            "page": 0
+            "goto": "2_108_{openPanel:\"10,14\"}",
+            "page": 2
         },
         {
             "id": 6,
-            "type": 0,
-            "pic": 0,
+            "type": 1,
+            "pic": 6,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_6_28 00:00:00",
             "showEnd": "",
-            "goto": "",
-            "page": 0
+            "goto": "2_108_{openPanel:\"12,3\"}",
+            "page": 2
         },
         {
             "id": 7,
@@ -203,8 +203,18 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4646,
+            "pic": 4650,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:161}",
+            "page": 0
+        },
+        {
+            "id": 21,
+            "type": 2,
+            "pic": 4646,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:160}",
@@ -238,16 +248,6 @@
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:157}",
-            "page": 0
-        },
-        {
-            "id": 25,
-            "type": 2,
-            "pic": 4632,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:156}",
             "page": 0
         }
     ]

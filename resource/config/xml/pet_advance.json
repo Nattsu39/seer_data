@@ -935,12 +935,11 @@
             "Back": [
                 {
                     "ID": 1,
-                    "IsBack": 1,
+                    "IsBack": 0,
                     "MonsterId": 3514,
                     "TaskId": 1,
                     "PerNeedCoinB": 350,
-                    "Weight": 50,
-                    "desc": "99|2024/6/28"
+                    "Weight": 50
                 },
                 {
                     "ID": 2,
@@ -974,39 +973,52 @@
                 },
                 {
                     "ID": 6,
-                    "IsBack": 1,
+                    "IsBack": 0,
                     "MonsterId": 3507,
                     "TaskId": 6,
                     "PerNeedCoinB": 350,
-                    "Weight": 50,
-                    "desc": "9|2024/6/28"
+                    "Weight": 50
                 },
                 {
                     "ID": 7,
-                    "IsBack": 1,
+                    "IsBack": 0,
                     "MonsterId": 3954,
                     "TaskId": 7,
                     "PerNeedCoinB": 300,
-                    "Weight": 50,
-                    "desc": "999|2024/6/28"
+                    "Weight": 50
                 },
                 {
                     "ID": 8,
-                    "IsBack": 0,
+                    "IsBack": 1,
                     "MonsterId": 3724,
-                    "TaskId": 8
+                    "TaskId": 8,
+                    "PerNeedCoinB": 400,
+                    "Weight": 50,
+                    "desc": "99|2024/9/26"
                 },
                 {
                     "ID": 9,
-                    "IsBack": 0,
+                    "IsBack": 1,
                     "MonsterId": 3716,
-                    "TaskId": 9
+                    "TaskId": 9,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50,
+                    "desc": "9|2024/9/26"
                 },
                 {
                     "ID": 10,
-                    "IsBack": 0,
+                    "IsBack": 1,
                     "MonsterId": 3705,
-                    "TaskId": 10
+                    "TaskId": 10,
+                    "PerNeedCoinB": 350,
+                    "Weight": 50,
+                    "desc": "999|2024/9/26"
+                },
+                {
+                    "ID": 11,
+                    "IsBack": 0,
+                    "MonsterId": 3156,
+                    "TaskId": 11
                 }
             ],
             "free_cnt": 2,
