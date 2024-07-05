@@ -1176,14 +1176,33 @@
         },
         "Hotspot": {
             "item": {
-                "place": {
-                    "type": 0,
-                    "ID": 4650,
-                    "ImageID": 4650,
-                    "Label": 0,
-                    "Redirect": "map|module",
-                    "Go": "1684;app/SpetFengBaoLongLingMainPanel"
-                },
+                "place": [
+                    {
+                        "type": 0,
+                        "ID": 4651,
+                        "ImageID": 4651,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1685;app/SpetTianJieJiQiRenMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4652,
+                        "ImageID": 4652,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1652;app/MonthlyPetInJuly2024Panel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 634,
+                        "MonID": 4442,
+                        "ImageID": 1400634,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    }
+                ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -1891,7 +1910,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "爱旅行的精灵，从出生的那一刻，就开了他持续一生的旅行。走到陆地的尽头，走到海洋的深渊，走到进化那一天的到来。",
-                "mapID": 0
+                "mapID": 400
             },
             {
                 "ID": 57,
@@ -1927,7 +1946,7 @@
                 "Foundin": "--",
                 "Food": "1型电池",
                 "Features": "赫尔卡星人早期的实验开发的机械精灵之一，具有强大的特攻能力，是具有智能系统和自我学习系统的机械精灵战士。",
-                "mapID": 0
+                "mapID": 675
             },
             {
                 "ID": 60,
@@ -2446,7 +2465,7 @@
                 "Foundin": "--",
                 "Food": "原油料理",
                 "Features": "赫尔卡星文明遗迹中诞生的机械系精灵，从诞生开始沉睡了千年等待有人来开启它，现在它等到了小赛尔。",
-                "mapID": 0
+                "mapID": 675
             },
             {
                 "ID": 103,
@@ -2687,7 +2706,8 @@
                 "Foundin": "--",
                 "Food": "蚯蚓煮面",
                 "Features": "强大的战斗系精灵，拥有着无以伦比的先天条件，是非常精于战斗的种族，没有人知道它诞生于哪里。",
-                "mapID": 0
+                "Redirect": "map|module",
+                "Go": "1280;app/SmallMantisForAllPeopleToSendMainPanel"
             },
             {
                 "ID": 123,
@@ -2699,7 +2719,8 @@
                 "Foundin": "--",
                 "Food": "蚯蚓煮面",
                 "Features": "达尔的进化形态，强健的体魄，充满战斗力的旺盛精力，注定了它能够成为最为强有力的武斗家。",
-                "mapID": 0,
+                "Redirect": "map|module",
+                "Go": "1280;app/SmallMantisForAllPeopleToSendMainPanel",
                 "jumptarget": 83
             },
             {
@@ -2712,7 +2733,8 @@
                 "Foundin": "--",
                 "Food": "蚯蚓煮面",
                 "Features": "希路达的光系进化形态，手刀的运用到了炉火纯青的地步，强悍扎实的体魄保证了它持续战斗的优势。",
-                "mapID": 0,
+                "Redirect": "map|module",
+                "Go": "1280;app/YingKaLuoSiMainPanel",
                 "jumptarget": 127
             },
             {
@@ -2761,7 +2783,7 @@
                 "Foundin": "神秘空间",
                 "Food": "未知",
                 "Features": "神秘的暗影系精灵，几乎没有重量，在太空中操纵着黑暗力量，神出鬼没，生活得非常悠然自得。",
-                "mapID": 0
+                "mapID": 316
             },
             {
                 "ID": 129,
@@ -2857,7 +2879,7 @@
                 "Foundin": "拜伦号精灵舱",
                 "Food": "未知",
                 "Features": "水泡状暗影精灵，喜欢生活在满是电力的环境中，非常顽皮可爱，总是成群得嬉戏玩耍，灵巧，难以捕获。",
-                "mapID": 0
+                "mapID": 316
             },
             {
                 "ID": 137,
@@ -3023,7 +3045,7 @@
                 "Foundin": "--",
                 "Food": "吸盘鱼干",
                 "Features": "奇异机敏的精灵，成群结队得一块嬉戏玩耍，冲撞弹跳，为将来战斗力的成长奠定了良好的基础。",
-                "mapID": 103
+                "mapID": 400
             },
             {
                 "ID": 151,
@@ -3035,7 +3057,7 @@
                 "Foundin": "--",
                 "Food": "吸盘鱼干",
                 "Features": "查克的进化形态，活泼好动的性格一点没有改变，但是开始更懂得针对性的训练自己，不断挑战新高。",
-                "mapID": 103
+                "mapID": 400
             },
             {
                 "ID": 152,
@@ -3047,7 +3069,7 @@
                 "Foundin": "--",
                 "Food": "吸盘鱼干",
                 "Features": "查莫斯的进化形态，有着迅猛强力的战斗风格的查理几斯，能够驱使光和暗，是非常勇敢善战的精灵。",
-                "mapID": 103
+                "mapID": 400
             },
             {
                 "ID": 153,
@@ -48260,9 +48282,7 @@
                 "Type": "自然 超能",
                 "Height": 181,
                 "Weight": 57,
-                "Features": "首位序外执行者，坐落在古都中央负责管理基础服务模组，她的信息网如温柔的枝叶般向外延伸，因此她也被亲切地称为源之大树。",
-                "Redirect": "map|module",
-                "Go": "103;app/GetSBLDAndSFKTMainPanel"
+                "Features": "首位序外执行者，坐落在古都中央负责管理基础服务模组，她的信息网如温柔的枝叶般向外延伸，因此她也被亲切地称为源之大树。"
             },
             {
                 "ID": 4601,
@@ -48297,9 +48317,7 @@
                 "Type": "次元 水",
                 "Height": 176,
                 "Weight": 52,
-                "Features": "第二位序外执行者，坐落在远离都市的海面上负责应急响应，她性格外向，活泼爽朗，经常利用海洋的温度来进行自我冷却。",
-                "Redirect": "map|module",
-                "Go": "103;app/GetSBLDAndSFKTMainPanel"
+                "Features": "第二位序外执行者，坐落在远离都市的海面上负责应急响应，她性格外向，活泼爽朗，经常利用海洋的温度来进行自我冷却。"
             },
             {
                 "ID": 4605,
@@ -48629,9 +48647,7 @@
                 "Type": "草 超能",
                 "Height": 155,
                 "Weight": 39,
-                "Features": "洛林卡星上遇到的新伙伴——想变成一朵绒绒菊，随风飘荡，永远也不停歇。",
-                "Redirect": "map|module",
-                "Go": "1679;app/Anniversary15thActivityMainPanel"
+                "Features": "洛林卡星上遇到的新伙伴——想变成一朵绒绒菊，随风飘荡，永远也不停歇。"
             },
             {
                 "ID": 4637,
@@ -48639,9 +48655,7 @@
                 "Type": "自然",
                 "Height": 77,
                 "Weight": 8,
-                "Features": "洛林卡星上的奇特生物，大多分布在奥瑞亚区，强风吹过后它的绒毛会随风飘扬。",
-                "Redirect": "map|module",
-                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                "Features": "洛林卡星上的奇特生物，大多分布在奥瑞亚区，强风吹过后它的绒毛会随风飘扬。"
             },
             {
                 "ID": 4638,
@@ -48649,9 +48663,7 @@
                 "Type": "自然 超能",
                 "Height": 79,
                 "Weight": 10,
-                "Features": "绒绒菊特殊的变种之一，在经过连续的阳光暴晒后，头部会生长出黄色花朵，巨大的花盘中会散发出阳光的气味。",
-                "Redirect": "map|module",
-                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                "Features": "绒绒菊特殊的变种之一，在经过连续的阳光暴晒后，头部会生长出黄色花朵，巨大的花盘中会散发出阳光的气味。"
             },
             {
                 "ID": 4639,
@@ -48659,9 +48671,7 @@
                 "Type": "飞行",
                 "Height": 65,
                 "Weight": 18,
-                "Features": "洛林卡星上颜色酷似蜜桃的鸟类，会在树梢或灌木丛中将自己团成一团伪装成蜜桃，并散发果香来引诱昆虫。",
-                "Redirect": "map|module",
-                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                "Features": "洛林卡星上颜色酷似蜜桃的鸟类，会在树梢或灌木丛中将自己团成一团伪装成蜜桃，并散发果香来引诱昆虫。"
             },
             {
                 "ID": 4640,
@@ -48669,9 +48679,7 @@
                 "Type": "飞行 光",
                 "Height": 67,
                 "Weight": 20,
-                "Features": "蜜桃鸟的稀有变种，通体金黄色，体内物质可以合成发光源，在黑夜中对昆虫有绝对吸引力。",
-                "Redirect": "map|module",
-                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                "Features": "蜜桃鸟的稀有变种，通体金黄色，体内物质可以合成发光源，在黑夜中对昆虫有绝对吸引力。"
             },
             {
                 "ID": 4641,
@@ -48679,9 +48687,7 @@
                 "Type": "虫",
                 "Height": 34,
                 "Weight": 9,
-                "Features": "在洛林卡星山谷禁区发现的奇异生命，远古时代曾是米特拉源虫的一支，因陨石的降临而产生异变，具有相当的智能。",
-                "Redirect": "map|module",
-                "Go": "1679;app/ValleyExpeditionHatchMainPanel"
+                "Features": "在洛林卡星山谷禁区发现的奇异生命，远古时代曾是米特拉源虫的一支，因陨石的降临而产生异变，具有相当的智能。"
             },
             {
                 "ID": 4642,
@@ -48700,9 +48706,7 @@
                 "Type": "圣灵 神秘",
                 "Height": 178,
                 "Weight": 53,
-                "Features": "「群星之集」的指引者——群星与魔法，世界本源的回响。",
-                "Redirect": "map|module",
-                "Go": "1680;app/GearAndStarPanel"
+                "Features": "「群星之集」的指引者——群星与魔法，世界本源的回响。"
             },
             {
                 "ID": 4644,
@@ -48710,9 +48714,7 @@
                 "Type": "电 机械",
                 "Height": 187,
                 "Weight": 64,
-                "Features": "「工业学会」的领衔人——能源、技术， 文明演化的黄金螺旋。",
-                "Redirect": "map|module",
-                "Go": "1681;app/GearAndStarPanel"
+                "Features": "「工业学会」的领衔人——能源、技术， 文明演化的黄金螺旋。"
             },
             {
                 "ID": 4645,
@@ -48741,9 +48743,7 @@
                 "Type": "草",
                 "Height": 87.3,
                 "Weight": 32,
-                "Features": "丽莎布布星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
-                "Redirect": "map|module",
-                "Go": "1679;app/Anniversary15thActivityMainPanel"
+                "Features": "丽莎布布星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！"
             },
             {
                 "ID": 4648,
@@ -48751,9 +48751,7 @@
                 "Type": "水",
                 "Height": 110,
                 "Weight": 47.5,
-                "Features": "鲁斯王星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
-                "Redirect": "map|module",
-                "Go": "1679;app/Anniversary15thActivityMainPanel"
+                "Features": "鲁斯王星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！"
             },
             {
                 "ID": 4649,
@@ -48761,9 +48759,7 @@
                 "Type": "火",
                 "Height": 128,
                 "Weight": 50,
-                "Features": "魔焰猩猩星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
-                "Redirect": "map|module",
-                "Go": "1679;app/Anniversary15thActivityMainPanel"
+                "Features": "魔焰猩猩星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！"
             },
             {
                 "ID": 4650,
@@ -48775,6 +48771,27 @@
                 "Redirect": "map|module",
                 "Go": "1684;app/SpetFengBaoLongLingMainPanel",
                 "jumptarget": "151/212"
+            },
+            {
+                "ID": 4651,
+                "DefName": "天阶机器人",
+                "Type": "机械 超能",
+                "Height": 406,
+                "Weight": 734,
+                "Features": "启明星设计的天阶机器人是天阶通道的重要组件，看似笨重的身躯却有着超高的机动性和拓展性。不要小瞧“量产机”，否则下一秒一道铁壁就会出现在你面前！",
+                "Redirect": "map|module",
+                "Go": "1685;app/SpetTianJieJiQiRenMainPanel",
+                "jumptarget": "151/213"
+            },
+            {
+                "ID": 4652,
+                "DefName": "库恩琪",
+                "Type": "水 次元",
+                "Height": 156,
+                "Weight": 42,
+                "Features": "2024年包月精灵，十二诗灵之七月的海螺，海风为我歌唱，海浪为我起舞，海洋是我的力量，也可以是你的。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInJuly2024Panel\r\n"
             }
         ]
     }

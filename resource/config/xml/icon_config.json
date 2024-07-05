@@ -12,7 +12,7 @@
                 "exMapList": 50000,
                 "ui": "markJackpot_icon",
                 "tips": "刻印之轮",
-                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel"
+                "mouseClickFunc": "app:MarkJackpotPermanentMainPanel"
             },
             {
                 "direction": "left",
@@ -30,7 +30,7 @@
                 "exMapList": 50000,
                 "ui": "shengdianyingxiongtuan_icon",
                 "tips": "圣殿英雄团",
-                "mouseClickFunc": "app:TempleHeroAltarPrePanel"
+                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel"
             },
             {
                 "direction": "left",
@@ -40,6 +40,15 @@
                 "ui": "peakJihad2023WarOrde",
                 "tips": "巅峰战令",
                 "mouseClickFunc": "app:PeakJihad2023WarOrdePanel"
+            },
+            {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "monthlycard",
+                "tips": "2024暑假尊享特权钻石月卡",
+                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel"
             },
             {
                 "direction": "left_side",
@@ -68,15 +77,6 @@
                 "tips": "2024年费",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016",
                 "mouseClickFunc": "app:Yearvip2024MainPanel"
-            },
-            {
-                "direction": "left_bar",
-                "shownewseer": 0,
-                "priority": 3,
-                "exMapList": 50000,
-                "ui": "15xinyuan_icon",
-                "tips": "15周年心愿单",
-                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:clickEnterSubPanel"
             },
             {
                 "direction": "left_side",
@@ -168,15 +168,6 @@
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
-                "ui": "15AnniversaryEnter",
-                "tips": "15周年庆典",
-                "mouseClickFunc": "app:Anniversary15thActivityEnterPanel"
             },
             {
                 "direction": "right_side",
