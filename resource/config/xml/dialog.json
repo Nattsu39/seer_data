@@ -30980,6 +30980,65 @@
                 "name": "主线任务22-07-08"
             },
             {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "娜娜薇尔",
+                            "npcID": 4653,
+                            "dialogArr": "这里就是我们的芯片仓库了，天阶工程需要用到的芯片都存放在这里。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "小赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "这里好像...有那么亿点点乱。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "娜娜薇尔",
+                            "npcID": 4653,
+                            "dialogArr": "唉，可不是嘛，小赛尔快帮帮我！整理一下这些芯片，按照要求整理芯片还可以获得奖励哦！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "小赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "有奖励！...说吧，需要我怎么做？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "娜娜薇尔",
+                            "npcID": 4653,
+                            "dialogArr": "上面的是需要准备提交的芯片盒，让提交芯片的元素种类和能量点数满足右边的整理任务要求，就可以提交获得分数了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "娜娜薇尔",
+                            "npcID": 4653,
+                            "dialogArr": "交换芯片和提交整理任务都会消耗1次操作次数，一定要在次数用完之前，提交尽量多的任务哦！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "小赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "好的，我明白了！",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "规则引导"
+                },
+                "activityID": 77,
+                "name": "0708基站的文件梳理/20230616霍光的武器库/20240712芯片仓库的帮手"
+            },
+            {
                 "item": [
                     {
                         "dialog": [
@@ -56499,6 +56558,114 @@
                 },
                 "activityID": 157,
                 "name": "20240705天文馆联动-银河补给站"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "瓦普特号要参加天阶计划的跃迁，赛尔，你愿意帮我们对舰船设备进行一些测试么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "设备测试？是这些设备么，看上去都还能用啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "是啊，但是这些部件都或多或少的受损了，需要经过测试才能确定是继续使用还是进行回收。正好你来了，要不要来体验一下这个设备测试机。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "好啊好啊，需要我做什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "拿着，这个设备箱，里面有一些初始设备，设备测试机会随机从设备箱中选取部件进行测试。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "好，我这就启动看看！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "这里有100设备积分你也先拿着吧，可以帮助你更好地进行测试。而且我们也准备了丰厚的报酬，测试中获得的舰船配件还可以兑换精美好礼哦！",
+                                "questionArr": "谢谢你！"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "活动剧情"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "机器启动了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "这个“动力机”可以为你的设备测试提供动力，不过一旦动能压力超过了7，测试机就会因为承受不住压力而停止运作。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "原来是这样，那我必须在压力超过7之前关闭机器。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "没错。你在测试机中不断投入设备会增加测试设备的强度，这里用刻度表示，最大为50。强度越强，奖励的设备积分也越高。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "这里好像有奇怪的东西。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "这个特殊的标识是关键设备格，总共有6个，每当你达到其中1个时，可以收获舰船配件，那可是非常有用的宝贝。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "我",
+                                "npcID": 5545,
+                                "dialogArr": "我会好好保存这些配件的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "瓦普特",
+                                "npcID": 4414,
+                                "dialogArr": "嗯，等你收集足够数量的舰船配件就来兑换奖励吧！",
+                                "questionArr": "好的！"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "活动剧情"
+                    }
+                ],
+                "activityID": 158,
+                "name": "20240712-瓦普特号的养护工作"
             }
         ]
     }

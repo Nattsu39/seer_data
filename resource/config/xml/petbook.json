@@ -1179,28 +1179,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4651,
-                        "ImageID": 4651,
+                        "ID": 4653,
+                        "ImageID": 4653,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1685;app/SpetTianJieJiQiRenMainPanel"
+                        "Go": "1687;app/SpetNaNaWeiErMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4652,
-                        "ImageID": 4652,
+                        "ID": 4654,
+                        "ImageID": 4654,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInJuly2024Panel"
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
                     },
                     {
                         "type": 1,
-                        "ID": 634,
-                        "MonID": 4442,
-                        "ImageID": 1400634,
+                        "ID": 635,
+                        "MonID": 4654,
+                        "ImageID": 1400635,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 636,
+                        "MonID": 4001,
+                        "ImageID": 1400636,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48791,7 +48800,28 @@
                 "Weight": 42,
                 "Features": "2024年包月精灵，十二诗灵之七月的海螺，海风为我歌唱，海浪为我起舞，海洋是我的力量，也可以是你的。",
                 "Redirect": "map|module",
-                "Go": "1652;app/MonthlyPetInJuly2024Panel\r\n"
+                "Go": "1652;app/MonthlyPetInJuly2024Panel"
+            },
+            {
+                "ID": 4653,
+                "DefName": "娜娜薇尔",
+                "Type": "次元 战斗",
+                "Height": 164,
+                "Weight": 53,
+                "Features": "瓦普特号上的天才机械师，少女自主探寻了次元的奥秘后将其应用到了装甲上，她的存在让瓦普特号无惧各种意外情况。",
+                "Redirect": "map|module",
+                "Go": "1687;app/SpetNaNaWeiErMainPanel",
+                "jumptarget": "151/214"
+            },
+            {
+                "ID": 4654,
+                "DefName": "鲸沫",
+                "Type": "水 战斗",
+                "Height": 166,
+                "Weight": 45,
+                "Features": "巅峰S3赛季【逐浪】开启！大海将见证一切荣耀，巨浪来袭，战至巅峰！",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023WarOrdePanel"
             }
         ]
     }

@@ -15852,6 +15852,59 @@
                     "Title": "泥泞",
                     "Redirect": "map|module",
                     "Go": "1684;app/MainLineAdventureChapterPanel&&120003"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4652
+                    },
+                    "ID": 3135,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240705,
+                    "End": 20240802,
+                    "Map": 1652,
+                    "Name": "7月包月精灵",
+                    "Title": "库恩琪",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInJuly2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4651
+                    },
+                    "ID": 3138,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240705,
+                    "End": "*",
+                    "Map": 1685,
+                    "Name": "无限组装 天阶工程的碎片",
+                    "Title": "天阶机器人",
+                    "Redirect": "map|module",
+                    "Go": "1685;app/SpetTianJieJiQiRenMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3140,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240705,
+                    "End": "*",
+                    "Map": 1685,
+                    "Name": "风的追忆",
+                    "Title": "天阶",
+                    "Redirect": "map|module",
+                    "Go": "1685;app/MainLineAdventureChapterPanel&&100015"
                 }
             ]
         },
@@ -51204,15 +51257,7 @@
                     "Title": "星河长明商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -51230,6 +51275,31 @@
                     "Redirect": "map|module",
                     "Go": "1095;app/PeakJihad2023WarOrdePanel"
                 },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3128,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240628,
+                    "End": 20240712,
+                    "Map": 1132,
+                    "Name": "天狱的定咎人",
+                    "Title": "莫塔里安回归",
+                    "Redirect": "map|module",
+                    "Go": "1132;app/MoTaLiAnChallengeEnter"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 1
@@ -51334,41 +51404,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3128,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240628,
-                    "End": 20240712,
-                    "Map": 1132,
-                    "Name": "天狱的定咎人",
-                    "Title": "莫塔里安回归",
-                    "Redirect": "map|module",
-                    "Go": "1132;app/MoTaLiAnChallengeEnter"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4652
-                    },
-                    "ID": 3135,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240705,
-                    "End": 20240802,
-                    "Map": 1652,
-                    "Name": "7月包月精灵",
-                    "Title": "库恩琪",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/MonthlyPetInJuly2024Panel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3136,
@@ -51403,24 +51438,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4651
-                    },
-                    "ID": 3138,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20240705,
-                    "End": "*",
-                    "Map": 1685,
-                    "Name": "无限组装 天阶工程的碎片",
-                    "Title": "天阶机器人",
-                    "Redirect": "map|module",
-                    "Go": "1685;app/SpetTianJieJiQiRenMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3139,
@@ -51435,23 +51452,6 @@
                     "Title": "星河长明商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3140,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240705,
-                    "End": "*",
-                    "Map": 1685,
-                    "Name": "风的追忆",
-                    "Title": "天阶",
-                    "Redirect": "map|module",
-                    "Go": "1685;app/MainLineAdventureChapterPanel&&100015"
                 },
                 {
                     "Details": {
@@ -51523,6 +51523,161 @@
                 },
                 {
                     "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3145,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240712,
+                    "End": 20240719,
+                    "Map": 103,
+                    "Name": "往期刻印回归",
+                    "Title": "经典刻印 限时回归",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkLimitedReturnMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3146,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240712,
+                    "End": "*",
+                    "Map": 1687,
+                    "Name": "风的追忆",
+                    "Title": "跃迁",
+                    "Redirect": "map|module",
+                    "Go": "1687;app/MainLineAdventureChapterPanel&&100016"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4653
+                    },
+                    "ID": 3147,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240712,
+                    "End": "*",
+                    "Map": 1687,
+                    "Name": "次元装甲 瓦普特号机械师",
+                    "Title": "娜娜薇尔",
+                    "Redirect": "map|module",
+                    "Go": "1687;app/SpetNaNaWeiErMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3148,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240712,
+                    "End": "*",
+                    "Map": 1652,
+                    "Name": "刻印回溯常驻",
+                    "Title": "刻印回溯 特权更新",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/Yearvip2024ExclusivecapacityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3149,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240712,
+                    "End": 20240809,
+                    "Map": 1095,
+                    "Name": "S3赛季开启",
+                    "Title": "巅峰圣战 全新赛季",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3150,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240712,
+                    "End": 20241019,
+                    "Map": 1095,
+                    "Name": "S3赛季战令",
+                    "Title": "S3赛季战令",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3151,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240712,
+                    "End": "*",
+                    "Map": 1687,
+                    "Name": "群星待觉",
+                    "Title": "沉沦",
+                    "Redirect": "map|module",
+                    "Go": "1687;app/MainLineAdventureChapterPanel&&120004"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3153,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240712,
+                    "End": 20240719,
+                    "Map": 1687,
+                    "Name": "天阶工程",
+                    "Title": "天阶工程",
+                    "Redirect": "map|module",
+                    "Go": "1687;app/TianJieGongChengGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4654
+                    },
+                    "ID": 3154,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20240712,
+                    "End": 20241019,
+                    "Map": 1687,
+                    "Name": "S3赛季战令",
+                    "Title": "鲸沫",
+                    "Redirect": "map|module",
+                    "Go": "1687;app/PeakJihad2023WarOrdePanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
                     "ID": 2274,
@@ -51540,20 +51695,20 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 1687,
+                    "ID": 3152,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20210709,
-                    "End": "*",
-                    "Map": 1,
-                    "Name": "刻印抽奖机",
-                    "Title": "刻印抽奖机",
-                    "Redirect": "module",
-                    "Go": "app/MarkMachine0707Panel"
+                    "Type": 1,
+                    "Start": 20240712,
+                    "End": 20240830,
+                    "Map": 103,
+                    "Name": "刻印抽奖机暑假版",
+                    "Title": "刻印抽奖机暑假版",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkMachine0707Panel"
                 },
                 {
                     "Details": {
@@ -51573,8 +51728,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3144,3143,3136,3141,3142",
-            "shopcenter": "2274:1,1687:3,3088:21,3136:10,3142:11,3143:12,3137:19,3139:20,3144:43,3131:18,3132:22,3120:49,3067:15,3033:13,3002:16"
+            "Important": "3136,3145,3148,3150,3152",
+            "shopcenter": "2274:1,3152:3,3088:21,3145:14,3148:16,3150:17,3136:10,3142:11,3143:12,3137:19,3139:20,3144:43,3131:18,3132:22,3120:49,3067:15,3033:13"
         }
     }
 }
