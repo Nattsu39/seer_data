@@ -1179,28 +1179,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4655,
-                        "ImageID": 4655,
+                        "ID": 4657,
+                        "ImageID": 4657,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1688;app/SpetMaoDianXiangZuoMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4656,
-                        "ImageID": 4656,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/SummerHolidaySign2024Panel"
+                        "Go": "1689;app/SpetFLSRZhuoBuErMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 637,
-                        "MonID": 3437,
-                        "ImageID": 1400637,
+                        "ID": 638,
+                        "MonID": 4521,
+                        "ImageID": 1400638,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/WoFengSkinMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -2206,7 +2198,7 @@
             {
                 "ID": 81,
                 "hasSound": 1,
-                "DefName": "帕拉斯",
+                "DefName": "帕拉丝",
                 "Type": "机械",
                 "Height": 45,
                 "Weight": 10,
@@ -2278,7 +2270,7 @@
             {
                 "ID": 87,
                 "hasSound": 1,
-                "DefName": "纳齐鲁",
+                "DefName": "纳奇鲁",
                 "Type": "地面",
                 "Height": 81,
                 "Weight": 85,
@@ -6204,7 +6196,7 @@
             {
                 "ID": 414,
                 "hasSound": 1,
-                "DefName": "乌普",
+                "DefName": "乌鲁",
                 "Type": "龙",
                 "Height": 30,
                 "Weight": 15.4,
@@ -48834,6 +48826,17 @@
                 "Features": "生于大地，行于大地，她见证大地的变迁，她即是大地的执行者。",
                 "Redirect": "module",
                 "Go": "app/SummerHolidaySign2024Panel"
+            },
+            {
+                "ID": 4657,
+                "DefName": "浮掠双刃·卓尔布",
+                "Type": "冰 火",
+                "Height": 182,
+                "Weight": 77,
+                "Features": "盟会的守护者，平时会驾驭飞剑在平台巡视。他惯用一冰一火元素的飞剑，在矛盾中寻求平衡即是他所追求的极致之道。",
+                "Redirect": "map|module",
+                "Go": "1689;app/SpetFLSRZhuoBuErMainPanel",
+                "jumptarget": "151/216"
             }
         ]
     }
