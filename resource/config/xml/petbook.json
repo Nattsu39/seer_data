@@ -1179,20 +1179,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4657,
-                        "ImageID": 4657,
+                        "ID": 4658,
+                        "ImageID": 4658,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1689;app/SpetFLSRZhuoBuErMainPanel"
+                        "Go": "1690;app/SpetFSSKuBiMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4659,
+                        "ImageID": 4659,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1652;app/MonthlyPetInAugust2024Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4660,
+                        "ImageID": 4660,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/MidsummerFestivalThemeSpriteNewMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 638,
-                        "MonID": 4521,
-                        "ImageID": 1400638,
+                        "ID": 639,
+                        "MonID": 3802,
+                        "ImageID": 1400639,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/WoFengSkinMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48837,6 +48853,37 @@
                 "Redirect": "map|module",
                 "Go": "1689;app/SpetFLSRZhuoBuErMainPanel",
                 "jumptarget": "151/216"
+            },
+            {
+                "ID": 4658,
+                "DefName": "仿生兽·库比",
+                "Type": "虚空 混沌",
+                "Height": 167,
+                "Weight": 65,
+                "Features": "能力奇特的虚空生物，拥有近乎完美的伪装能力。听命于伏尔格安的它，喜欢收集过去伪装过角色的面具。",
+                "Redirect": "map|module",
+                "Go": "1690;app/SpetFSSKuBiMainPanel",
+                "jumptarget": "151/217"
+            },
+            {
+                "ID": 4659,
+                "DefName": "芙拉尔",
+                "Type": "飞行 火",
+                "Height": 159,
+                "Weight": 46,
+                "Features": "2024年包月精灵，十二诗灵之八月的流火，随身跟随小火灵的神秘少女，能够操控火焰的她将用火焰焚烬所见的一切罪恶。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInAugust2024Panel"
+            },
+            {
+                "ID": 4660,
+                "DefName": "飘香小锅",
+                "Type": "火 超能",
+                "Height": 75,
+                "Weight": 31,
+                "Features": "仲夏节又到来了，这一次新朋友飘香小锅立志于要用美食成为节日中最火热的存在！",
+                "Redirect": "map|module",
+                "Go": "11897;app/MidsummerFestivalThemeSpriteNewMainPanel"
             }
         ]
     }
