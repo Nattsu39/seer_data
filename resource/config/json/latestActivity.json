@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_8_02 00:00:00",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:166}",
+            "goto": "2_151_{Design:167}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_8_02 00:00:00",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"10,19\"}",
+            "goto": "2_110_{ moduleID:187 }",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_8_02 00:00:00",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"11,9\"}",
+            "goto": "2_110_{ moduleID:164 }",
             "page": 1
         },
         {
@@ -35,9 +35,9 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_8_02 00:00:00",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "2_282",
+            "goto": "2_165",
             "page": 1
         },
         {
@@ -45,9 +45,9 @@
             "type": 1,
             "pic": 5,
             "tag": 0,
-            "showStart": "2024_8_02 00:00:00",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "2_144",
+            "goto": "2_108_{openPanel:\"10,20\"}",
             "page": 2
         },
         {
@@ -55,30 +55,30 @@
             "type": 1,
             "pic": 6,
             "tag": 0,
-            "showStart": "2024_8_02 00:00:00",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "2_144_{ panelName:\"MALL\" }",
+            "goto": "2_108_{openPanel:\"12,6\"}",
             "page": 2
         },
         {
             "id": 7,
-            "type": 0,
-            "pic": 0,
+            "type": 1,
+            "pic": 7,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "",
-            "page": 0
+            "goto": "3_请前往赛尔号页游参与精彩活动",
+            "page": 2
         },
         {
             "id": 8,
-            "type": 0,
-            "pic": 0,
+            "type": 1,
+            "pic": 8,
             "tag": 0,
-            "showStart": "",
+            "showStart": "2024_8_09 00:00:00",
             "showEnd": "",
-            "goto": "",
-            "page": 0
+            "goto": "3_请前往赛尔号页游参与精彩活动",
+            "page": 2
         },
         {
             "id": 9,
@@ -203,8 +203,18 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4658,
+            "pic": 4661,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:167}",
+            "page": 0
+        },
+        {
+            "id": 21,
+            "type": 2,
+            "pic": 4658,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:166}",
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 21,
+            "id": 22,
             "type": 2,
             "pic": 4655,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4653,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:163}",
-            "page": 0
-        },
-        {
-            "id": 23,
-            "type": 2,
-            "pic": 4651,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:162}",
             "page": 0
         }
     ]

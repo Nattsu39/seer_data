@@ -1179,36 +1179,38 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4658,
-                        "ImageID": 4658,
+                        "ID": 4661,
+                        "ImageID": 4661,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1690;app/SpetFSSKuBiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4659,
-                        "ImageID": 4659,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInAugust2024Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4660,
-                        "ImageID": 4660,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/MidsummerFestivalThemeSpriteNewMainPanel"
+                        "Go": "1691;app/SpetWuWeiJueZheMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 639,
-                        "MonID": 3802,
-                        "ImageID": 1400639,
+                        "ID": 640,
+                        "MonID": 3482,
+                        "ImageID": 1400640,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/QiXiSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 641,
+                        "MonID": 3783,
+                        "ImageID": 1400641,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/QiXiSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 642,
+                        "MonID": 4377,
+                        "ImageID": 1400642,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1634;app/DiDuoSingupMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -46115,8 +46117,8 @@
                 "Height": 168,
                 "Weight": 49,
                 "Features": "“嘿，我是蒂朵，在一家游泳馆里担任经理。如果你也想要享受这个盛夏的欢乐，那就快来找我吧！”",
-                "Redirect": "alarm",
-                "Go": "精灵已绝版！"
+                "Redirect": "map|module",
+                "Go": "1634;app/MillionsStarsToWatch_EnterPanel"
             },
             {
                 "ID": 4378,
@@ -46125,8 +46127,8 @@
                 "Height": 153,
                 "Weight": 67,
                 "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”",
-                "Redirect": "alarm",
-                "Go": "精灵已绝版！"
+                "Redirect": "map|module",
+                "Go": "1634;app/SpetQTPanel"
             },
             {
                 "ID": 4379,
@@ -46207,8 +46209,8 @@
                 "Height": 194,
                 "Weight": 118,
                 "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！",
-                "Redirect": "alarm",
-                "Go": "精灵已绝版！"
+                "Redirect": "map|module",
+                "Go": "103;app/DaantiaoDiShengMainPanel"
             },
             {
                 "ID": 4387,
@@ -48528,9 +48530,7 @@
                 "Type": "虫",
                 "Height": 66,
                 "Weight": 25,
-                "Features": "非常稀有的传说中的昆虫，有着梦幻般的独角，小小的身体里蕴含着巨大的能量。",
-                "Redirect": "map|module",
-                "Go": "11897;app/SpringTourWelfareMainPanel"
+                "Features": "非常稀有的传说中的昆虫，有着梦幻般的独角，小小的身体里蕴含着巨大的能量。"
             },
             {
                 "ID": 4625,
@@ -48881,9 +48881,18 @@
                 "Type": "火 超能",
                 "Height": 75,
                 "Weight": 31,
-                "Features": "仲夏节又到来了，这一次新朋友飘香小锅立志于要用美食成为节日中最火热的存在！",
+                "Features": "仲夏节又到来了，这一次新朋友飘香小锅立志于要用美食成为节日中最火热的存在！"
+            },
+            {
+                "ID": 4661,
+                "DefName": "无为觉者",
+                "Type": "普通",
+                "Height": 188,
+                "Weight": 90,
+                "Features": "虚实交错的力量将包括无为觉者本人在内的一切笼罩在了阴影之下。生命的意义总在被追寻与赋予，而在他的周遭仅有永恒的消解。",
                 "Redirect": "map|module",
-                "Go": "11897;app/MidsummerFestivalThemeSpriteNewMainPanel"
+                "Go": "1691;app/SpetWuWeiJueZheMainPanel",
+                "jumptarget": "151/218"
             }
         ]
     }

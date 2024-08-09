@@ -233,14 +233,14 @@
         },
         {
             "id": 22,
-            "moduleId": 250,
-            "actionName": "暑假签到",
-            "controller": "AutoOpenSummerSignController",
+            "moduleId": 165,
+            "actionName": "2023国庆签到",
+            "controller": "AutoOpenDailySignNationalDay2023",
             "state": 1,
-            "param1": "201441,121531",
+            "param1": "1000629",
             "param2": "",
-            "startTime": "2024/7/19",
-            "endTime": "2024/8/23"
+            "startTime": "2024/8/9",
+            "endTime": "2024/8/16"
         },
         {
             "id": 23,
@@ -277,14 +277,14 @@
         },
         {
             "id": 26,
-            "moduleId": 261,
-            "actionName": "2023国庆签到",
-            "controller": "AutoOpenDailySignNationalDay2023",
+            "moduleId": 250,
+            "actionName": "暑假签到",
+            "controller": "AutoOpenSummerSignController",
             "state": 1,
-            "param1": "1000625",
+            "param1": "201441,121531",
             "param2": "",
-            "startTime": "2023/9/28",
-            "endTime": "2023/10/6"
+            "startTime": "2024/7/19",
+            "endTime": "2024/8/23"
         },
         {
             "id": 27,

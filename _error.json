@@ -1,12 +1,17 @@
 {
+    "mallrefresh.json": {
+        "url": "http://seerh5.61.com/resource/config/json/mallrefresh_13d11e11.json",
+        "filename": "mallrefresh.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "A15thStarStory.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/A15thStarStory_3062aa33.json",
-        "filename": "A15thStarStory.json",
+    "maps.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/maps_79adf018.json",
+        "filename": "maps.json",
         "exception": "ReadTimeout('timed out')"
     }
 }

@@ -30,7 +30,7 @@
                 "exMapList": 50000,
                 "ui": "shengdianyingxiongtuan_icon",
                 "tips": "圣殿英雄团",
-                "mouseClickFunc": "app:TempleHeroAltarPreAllBackPanel"
+                "mouseClickFunc": "app:TempleHeroAltarPrePanel"
             },
             {
                 "direction": "left",
@@ -168,6 +168,24 @@
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "K13StarRegression_icon",
+                "tips": "K13星回归",
+                "mouseClickFunc": "app:K13StarRegressionGoToMapPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "festivalqixi_icon",
+                "tips": "七夕主题活动",
+                "mouseClickFunc": "app:QixiSetOfGoToMapPanel"
             },
             {
                 "direction": "right_side",

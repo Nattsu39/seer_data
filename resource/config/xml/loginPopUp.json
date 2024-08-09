@@ -40,20 +40,22 @@
                 "weekOnce": 0
             },
             {
-                "panel": "SceneActivityPanel",
-                "type": "app",
-                "flushDefer": 0,
-                "dayOnce": 0,
-                "isReturn": 0,
-                "weekOnce": 23626
-            },
-            {
                 "panel": "SummerHolidaySign2024Panel",
                 "start": 20240719,
                 "end": 20240823,
                 "type": "app",
                 "flushDefer": 0,
                 "dayOnce": 1,
+                "isReturn": 1,
+                "weekOnce": 0
+            },
+            {
+                "panel": "DiDuoPopUpPanel",
+                "start": 20240809,
+                "end": 20240906,
+                "type": "app",
+                "flushDefer": 0,
+                "dayOnce": 0,
                 "isReturn": 1,
                 "weekOnce": 0
             },
@@ -86,6 +88,14 @@
                 "dayOnce": 1,
                 "isReturn": 1,
                 "weekOnce": 0
+            },
+            {
+                "panel": "SceneActivityPanel",
+                "type": "app",
+                "flushDefer": 0,
+                "dayOnce": 0,
+                "isReturn": 0,
+                "weekOnce": 23626
             }
         ]
     }
