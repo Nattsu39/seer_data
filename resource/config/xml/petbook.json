@@ -1179,38 +1179,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4661,
-                        "ImageID": 4661,
+                        "ID": 4662,
+                        "ImageID": 4662,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1691;app/SpetWuWeiJueZheMainPanel"
+                        "Go": "1693;app/SpetLPFXSangDuoMuMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4663,
+                        "ImageID": 4663,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/GuanYinPingEvolutionarySalesMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4664,
+                        "ImageID": 4664,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/SummerArtPartyGoToMapPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 640,
-                        "MonID": 3482,
-                        "ImageID": 1400640,
+                        "ID": 643,
+                        "MonID": 4275,
+                        "ImageID": 1400643,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/QiXiSkinSellMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 641,
-                        "MonID": 3783,
-                        "ImageID": 1400641,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/QiXiSkinSellMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 642,
-                        "MonID": 4377,
-                        "ImageID": 1400642,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1634;app/DiDuoSingupMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -48893,6 +48891,37 @@
                 "Redirect": "map|module",
                 "Go": "1691;app/SpetWuWeiJueZheMainPanel",
                 "jumptarget": "151/218"
+            },
+            {
+                "ID": 4662,
+                "DefName": "雷瀑飞雪·桑多姆",
+                "Type": "冰 电",
+                "Height": 182,
+                "Weight": 84,
+                "Features": "窃影会成员，拥有操控飞雪和雷电的力量，在战斗中是不容被忽视的存在。曾经有人看见他如瀑布般乘雪疾驰而下，一击制敌。",
+                "Redirect": "map|module",
+                "Go": "1693;app/SpetLPFXSangDuoMuMainPanel",
+                "jumptarget": "151/219"
+            },
+            {
+                "ID": 4663,
+                "DefName": "凌虎·关银屏",
+                "Type": "火 战斗",
+                "Height": 172,
+                "Weight": 51,
+                "Features": "在战斗中关银屏领悟了所学武学的精髓，激发了自身真正的能力，在战斗中她将所向披靡！",
+                "Redirect": "map|module",
+                "Go": "103;app/GuanYinPingEvolutionarySalesMainPanel"
+            },
+            {
+                "ID": 4664,
+                "DefName": "菠萝霸王",
+                "Type": "电",
+                "Height": 78,
+                "Weight": 41,
+                "Features": "酷酷的菠萝霸王是豹豹大师的帮厨，善用双刀的他是一名切片好手。一个人工作的时候他会下意识的不停说出帅气又有点尴尬的台词。",
+                "Redirect": "map|module",
+                "Go": "11897;app/SummerArtPartyGoToMapPanel"
             }
         ]
     }
