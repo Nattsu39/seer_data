@@ -1179,36 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4662,
-                        "ImageID": 4662,
+                        "ID": 4665,
+                        "ImageID": 4665,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1693;app/SpetLPFXSangDuoMuMainPanel"
+                        "Go": "1694;app/SpetCSZZLiSaiTeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4663,
-                        "ImageID": 4663,
+                        "ID": 4666,
+                        "ImageID": 4666,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/GuanYinPingEvolutionarySalesMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4664,
-                        "ImageID": 4664,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/SummerArtPartyGoToMapPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 643,
-                        "MonID": 4275,
-                        "ImageID": 1400643,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1;app/WarTeamBossGotoPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -24541,7 +24524,7 @@
                 "Height": 121,
                 "Weight": 102,
                 "Features": "小云兽同托鲁克一样，也是天空之城的居民，在天空之城还有许许多多和小云兽一样的奇特生物。",
-                "mapID": 0
+                "mapID": 965
             },
             {
                 "ID": 2047,
@@ -24551,7 +24534,7 @@
                 "Height": 231,
                 "Weight": "255kg",
                 "Features": "天空之城——托鲁克的故乡，云天兽是天空之城的守护者，但遭到了暗黑魔君的魔化，对赛尔和托鲁克兵刃相向。",
-                "mapID": 0
+                "mapID": 965
             },
             {
                 "ID": 2048,
@@ -24561,7 +24544,7 @@
                 "Height": 20,
                 "Weight": 4.5,
                 "Features": "受到黑暗力量被魔化的暗黑托达，相比托达虽然速度稍慢，但是攻击力要更胜一筹。",
-                "mapID": 0
+                "mapID": 965
             },
             {
                 "ID": 2049,
@@ -24571,7 +24554,7 @@
                 "Height": 110,
                 "Weight": 17,
                 "Features": "遭到魔化的托鲁克，暗黑魔君索伦森入侵天空之城后魔化了托鲁克，使托鲁克变成了黑暗形态，因为强大的黑暗力量，暗黑托鲁克似乎比托鲁克更加强大。",
-                "mapID": 0
+                "mapID": 965
             },
             {
                 "ID": 2050,
@@ -24855,7 +24838,7 @@
                 "Height": 101,
                 "Weight": 43,
                 "Features": "翔鹰兽的第一形态，它具有鹰的速度和凶蛮野兽的力量，速度与力量结合于一体的他在对决中常常立于不败之地。",
-                "mapID": 0
+                "mapID": 965
             },
             {
                 "ID": 2078,
@@ -24865,7 +24848,7 @@
                 "Height": 156,
                 "Weight": 89,
                 "Features": "天之印守护者翔鹰兽的特点就是拥有极快的速度和极高的闪避能力。他擅长躲避敌人的攻击并利用自己的高速来制服对手。",
-                "mapID": 0
+                "mapID": 965
             },
             {
                 "ID": 2079,
@@ -48837,9 +48820,7 @@
                 "Type": "圣灵 地面",
                 "Height": 168,
                 "Weight": 43,
-                "Features": "生于大地，行于大地，她见证大地的变迁，她即是大地的执行者。",
-                "Redirect": "module",
-                "Go": "app/SummerHolidaySign2024Panel"
+                "Features": "生于大地，行于大地，她见证大地的变迁，她即是大地的执行者。"
             },
             {
                 "ID": 4657,
@@ -48919,9 +48900,28 @@
                 "Type": "电",
                 "Height": 78,
                 "Weight": 41,
-                "Features": "酷酷的菠萝霸王是豹豹大师的帮厨，善用双刀的他是一名切片好手。一个人工作的时候他会下意识的不停说出帅气又有点尴尬的台词。",
+                "Features": "酷酷的菠萝霸王是豹豹大师的帮厨，善用双刀的他是一名切片好手。一个人工作的时候他会下意识的不停说出帅气又有点尴尬的台词。"
+            },
+            {
+                "ID": 4665,
+                "DefName": "重塑之子·利塞特",
+                "Type": "光 暗影",
+                "Height": 194,
+                "Weight": 90,
+                "Features": "神明的子嗣在此刻融合了光夜之力，不稳定的能量在他体内显现，他的目的只有一个，那就是重塑一切…",
                 "Redirect": "map|module",
-                "Go": "11897;app/SummerArtPartyGoToMapPanel"
+                "Go": "1694;app/SpetCSZZLiSaiTeMainPanel",
+                "jumptarget": "151/220"
+            },
+            {
+                "ID": 4666,
+                "DefName": "拟态绞索",
+                "Type": "机械 龙",
+                "Height": 312,
+                "Weight": 286,
+                "Features": "“巨械的装甲……亡魂的宝玉……还有……异兽的脊骨！去尽情享受你的新生吧！”魔女与它对上了眼眸。",
+                "Redirect": "map|module",
+                "Go": "1;app/WarTeamBossGotoPanel"
             }
         ]
     }
