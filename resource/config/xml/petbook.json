@@ -1179,19 +1179,73 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4665,
-                        "ImageID": 4665,
+                        "ID": 4667,
+                        "ImageID": 4667,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1694;app/SpetCSZZLiSaiTeMainPanel"
+                        "Go": "1695;app/SpetLongLingZhanShiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4666,
-                        "ImageID": 4666,
+                        "ID": 4668,
+                        "ImageID": 4668,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1;app/WarTeamBossGotoPanel"
+                        "Go": "1652;app/MonthlyPetInSeptember2024Panel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 644,
+                        "MonID": 4169,
+                        "ImageID": 1400644,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ShenluoAndShenghuaSkinPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 645,
+                        "MonID": 4321,
+                        "ImageID": 1400645,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ShenluoAndShenghuaSkinPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 646,
+                        "MonID": 4505,
+                        "ImageID": 1400646,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 647,
+                        "MonID": 4647,
+                        "ImageID": 1400647,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/StarlightHiddenMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 648,
+                        "MonID": 4648,
+                        "ImageID": 1400648,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/StarlightHiddenMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 649,
+                        "MonID": 4649,
+                        "ImageID": 1400649,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/StarlightHiddenMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -1233,7 +1287,8 @@
                 "Foundin": "--",
                 "Food": "蜜制朝露",
                 "Features": "布布种子有一副娇气的外表，但生性比较顽皮，走路时总爱一跳一跳的前进，从小就有当医生的梦想。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 2,
@@ -1245,7 +1300,8 @@
                 "Foundin": "--",
                 "Food": "蜜制朝露",
                 "Features": "布布种子的进化形态，不再像种子时代那么娇弱粘人，变成了坚强的战士。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 3,
@@ -1257,7 +1313,8 @@
                 "Foundin": "--",
                 "Food": "蜜制朝露",
                 "Features": "布布草的进化形态，终于修成正果了，绽放出艳丽的花朵，绽放出美丽的同时，放射出了它巨大的能量。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 4,
@@ -1269,7 +1326,8 @@
                 "Foundin": "--",
                 "Food": "凉拌绿藻",
                 "Features": "伊优的外表比较奇特，求胜心极强，不管是和谁战斗都会竭尽全力，喜欢在海水中自由自在的玩耍。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 5,
@@ -1281,7 +1339,8 @@
                 "Foundin": "--",
                 "Food": "凉拌绿藻",
                 "Features": "伊优的进化形态，用格斗天才来形容它一点都不过分，超强的特攻特防天赋，可以让他成长为无敌的战士。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 6,
@@ -1293,7 +1352,8 @@
                 "Foundin": "--",
                 "Food": "凉拌绿藻",
                 "Features": "尤里安的进化形态，缺少水分对于他来说可不大好哦，只要让他回家喝饱水，他就是战场上最强的战士。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 7,
@@ -1305,7 +1365,8 @@
                 "Foundin": "--",
                 "Food": "爆裂坚果",
                 "Features": "小火猴的身手非常敏捷，有点害羞，不过内心却蕴藏着战斗的向往，喜欢在火山区上串下跳得收集火山灰玩耍。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 8,
@@ -1317,7 +1378,8 @@
                 "Foundin": "--",
                 "Food": "爆裂坚果",
                 "Features": "小火猴的进化形态，速度方面更胜以往，灵巧的避免各种危险的进攻，成为主人的得力助手。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 9,
@@ -1329,7 +1391,8 @@
                 "Foundin": "--",
                 "Food": "爆裂坚果",
                 "Features": "烈火猴的进化形态，有着惊人的速度和力量，长期累积的战斗经验使其成熟起来，成为战斗中强悍无敌的斗士。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 10,
@@ -3588,7 +3651,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "祖拉是一只善于用意念力和超能力的精灵，柔软的触角保护着它，让它可以悠闲冷静得观察敌人，找出致命弱点。",
-                "mapID": 0
+                "mapID": 497
             },
             {
                 "ID": 197,
@@ -3600,7 +3663,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "祖拉的进化形态，生成了保护性极强的幻影斗篷，侠客一般游走四方，寻找能够与自己匹敌的宿命对手。",
-                "mapID": 0
+                "mapID": 497
             },
             {
                 "ID": 198,
@@ -4537,7 +4600,8 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "尹赫是精灵世界的一朵奇葩，经过了派特博士安排的特别训练，它的身上兼备了速度与智慧。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 276,
@@ -4549,7 +4613,8 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "尹赫的进化形态，与生俱来的战斗天赋十分了得，闲暇的时候它喜欢思考一些匪夷所思的东西。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 277,
@@ -4561,7 +4626,8 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "尹泰奇的进化形态，灵活的身体能够自如穿梭于不同的位面，除此之外精湛的使毒技巧不容小窥。",
-                "mapID": 0
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 278,
@@ -4812,7 +4878,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "机敏可爱、虎虎生风的迅牙虎是非常稀有的精灵，炫彩的外形、超强的战斗力，让所有热爱精灵的人都将它视为珍宝。",
-                "mapID": 5
+                "mapID": 670
             },
             {
                 "ID": 299,
@@ -4824,7 +4890,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "迅牙虎的进化形态，成年的猛虎利爪坚韧、威风八面，是非常强悍的精灵年兽，传说中的精灵兽王。",
-                "mapID": 5
+                "mapID": 670
             },
             {
                 "ID": 300,
@@ -5854,7 +5920,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "基摩是一种聪明的精灵，它们居住在用雪堆建而成的隐蔽洞穴内，懒洋洋地躲在洞穴里呆上一整天是它们最爱干的事。",
-                "mapID": 5
+                "mapID": 51
             },
             {
                 "ID": 386,
@@ -5866,7 +5932,7 @@
                 "Foundin": "斯诺星",
                 "Food": "未知",
                 "Features": "基摩的进化形态，基维奥拉的獠牙是相当可怕的武器，无论是被刺上一下或咬上一下，都是很痛苦的事情，闲暇的时候它们喜欢用冰块来磨牙。",
-                "mapID": 5
+                "mapID": 51
             },
             {
                 "ID": 387,
@@ -6358,7 +6424,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "第一只融合而生的双属性精灵，尽管没有翅膀，但是却能依靠它的超能力为自己塑造一对光之羽翼。",
-                "mapID": 910
+                "mapID": 5
             },
             {
                 "ID": 428,
@@ -6370,7 +6436,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "桑帕的进化形态，比起桑帕，它可以更好的控制飞行和超能两种属性的技能，性情温和，平易近人，是我们的好伙伴。",
-                "mapID": 910
+                "mapID": 5
             },
             {
                 "ID": 429,
@@ -6382,7 +6448,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "利桑的进化形态，成熟的艾克里桑可以完美地支配这两种截然不同的能力，幻化出的金色羽翼，可以释放出能切割一切的羽毛利刃。",
-                "mapID": 910
+                "mapID": 5
             },
             {
                 "ID": 430,
@@ -6539,7 +6605,7 @@
                 "Foundin": "克洛斯星",
                 "Food": "未知",
                 "Features": "浑身散发着金色的光芒，是一种罕见的精灵。不过，闪光依依似乎非常喜欢捉迷藏呢，是一个十足的调皮鬼哦！",
-                "mapID": 0
+                "mapID": 5
             },
             {
                 "ID": 443,
@@ -6551,7 +6617,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "闪光依依的进化形态，攻击和速度都在原有的基础上大大提升了，擅长带有毒药的突刺攻击。",
-                "mapID": 0
+                "mapID": 5
             },
             {
                 "ID": 444,
@@ -6563,7 +6629,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "闪光依丁丝的进化形态，浑身被金色的光芒所笼罩，进化后的它，除了强悍的攻击和速度之外，附加属性的技能也是相当有威胁的。",
-                "mapID": 0
+                "mapID": 5
             },
             {
                 "ID": 445,
@@ -6996,7 +7062,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "埃尔特是暴食一族的新宠儿，它的食物和别人可是不一样的哦，它喜欢吃光，经常会因为吃的太多而把一个地方搞的一片黑暗，是个让人头疼的小家伙。",
-                "mapID": 0
+                "mapID": 913
             },
             {
                 "ID": 481,
@@ -7008,7 +7074,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "埃尔特的进化形态，在暴食一族中，它的食量是最大的，在它吃东西的时候可千万不能去惹它哦，不然没有人可以制服抓狂的埃洛兽。",
-                "mapID": 0
+                "mapID": 913
             },
             {
                 "ID": 482,
@@ -8355,7 +8421,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "祖洛是一只善于用意念力和超能力的精灵，柔软的触角保护着它，在宇宙的各处游荡着，寻找与自己志趣相投的同伴。",
-                "mapID": 0
+                "mapID": 497
             },
             {
                 "ID": 595,
@@ -8367,7 +8433,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "祖洛的进化形态，侠客一般游走四方，一个偶然的机会遇见了亚梅丝，两人无论是实力还是性格都一拍即合，立志一同拯救世界。",
-                "mapID": 0
+                "mapID": 497
             },
             {
                 "ID": 596,
@@ -8511,7 +8577,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "尼洛是布林克斯和克斯莉的后代，与生俱来的冰系操控能力，可以远距离攻击到它的对手。",
-                "mapID": 0
+                "mapID": 5
             },
             {
                 "ID": 608,
@@ -8523,7 +8589,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "尼洛的进化形态，头顶的蓝宝石是它的能量源泉，可以源源不断地输送寒冰能量。",
-                "mapID": 0
+                "mapID": 5
             },
             {
                 "ID": 609,
@@ -8535,7 +8601,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "特洛的进化形态，锋利的爪子，寒冷的气息，一击完美的体型，这都是强者的象征，可泰勒拥有其他精灵无法超远的潜质。",
-                "mapID": 0
+                "mapID": 5
             },
             {
                 "ID": 610,
@@ -9223,7 +9289,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "普顿浑身被黑暗气息笼罩，是一只非常调皮的精灵，非常渴望和大家交朋友，可是身上的黑暗气息经常会让其他精灵不敢靠近。",
-                "mapID": 463
+                "mapID": 736
             },
             {
                 "ID": 668,
@@ -9235,7 +9301,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "普顿的进化形态，擅长施放强烈的暗影气息攻击对手，让对手受到强烈的精神压迫。",
-                "mapID": 463
+                "mapID": 736
             },
             {
                 "ID": 669,
@@ -9247,7 +9313,8 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "哈德是博士最新研制出的机械精灵，全身都由最坚硬的金属构成，拥有超高的防御能力。如果你能帮助博士收集到精灵样本的话，博士就会将哈德赠送给你哦！",
-                "mapID": 5
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 670,
@@ -9259,7 +9326,8 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "哈德的进化形态，体内储存了海量的核能，拖着长长的尾巴，可以让自己始终保持最高速飞行。",
-                "mapID": 5
+                "Redirect": "module",
+                "Go": "app/SeerBookScoreRewardPanel"
             },
             {
                 "ID": 671,
@@ -9773,7 +9841,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "拉比隶属龙族，可是却受到了邪恶的诅咒，全身被附上了冰霜，被龙族誉为不祥的存在，因此只能到处流浪。",
-                "mapID": 0
+                "mapID": 486
             },
             {
                 "ID": 714,
@@ -9785,7 +9853,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "拉比的进化形态，虽然体内蕴含着冰霜能量，可是自身却非常怕冷，喜欢泡温泉。",
-                "mapID": 0
+                "mapID": 486
             },
             {
                 "ID": 715,
@@ -9797,7 +9865,7 @@
                 "Foundin": "怀特矿场",
                 "Food": "未知",
                 "Features": "拉萨克的进化形态，身为龙族，强大的力量是它最为得意的武器，可以轻易的敲碎岩石，带有冰霜之力的巨大拳头更是无人能敌。",
-                "mapID": 0
+                "mapID": 486
             },
             {
                 "ID": 716,
@@ -9809,7 +9877,7 @@
                 "Foundin": "怀特矿场",
                 "Food": "未知",
                 "Features": "康康是怀特星球的原住居民，性格善良，受到德拉萨的欺压，被奴役在怀特矿场开采资源。",
-                "mapID": 484
+                "mapID": 486
             },
             {
                 "ID": 717,
@@ -9821,7 +9889,7 @@
                 "Foundin": "怀特矿场",
                 "Food": "未知",
                 "Features": "康康的进化形态，非常怕热，是一个很容易出汗的精灵，但是它却可以在瞬间让身上的汗水凝结成冰，从而达到硬化身体的目的。",
-                "mapID": 484
+                "mapID": 486
             },
             {
                 "ID": 718,
@@ -10874,7 +10942,7 @@
                 "Foundin": "格雷斯",
                 "Food": "未知",
                 "Features": "吉嘟生活在格雷斯星，长的特别乖巧可爱，竖着一双大大的耳朵，仿佛可以听到任何声音！",
-                "mapID": 0
+                "mapID": 451
             },
             {
                 "ID": 806,
@@ -10886,7 +10954,7 @@
                 "Foundin": "格雷斯",
                 "Food": "未知",
                 "Features": "吉嘟的进化形态，没有见到它的人很难想象它会长着这么一双大耳朵！“大耳”的称号也由此诞生了！",
-                "mapID": 0
+                "mapID": 451
             },
             {
                 "ID": 807,
@@ -11256,7 +11324,7 @@
                 "Foundin": "格雷斯星",
                 "Food": "未知",
                 "Features": "托特生活在格雷斯星的黯夜广场，平时不断练习格斗技巧，梦想能够成为一名光荣的战士！",
-                "mapID": 0
+                "mapID": 455
             },
             {
                 "ID": 843,
@@ -11268,7 +11336,7 @@
                 "Foundin": "格雷斯星",
                 "Food": "未知",
                 "Features": "托特的进化形态，平时的勤加训练使其拥有强壮的体格，头顶的一对尖角也为其增加了威武的气息！",
-                "mapID": 0
+                "mapID": 455
             },
             {
                 "ID": 844,
@@ -11280,7 +11348,7 @@
                 "Foundin": "格雷斯星",
                 "Food": "未知",
                 "Features": "托瑞斯的进化形态，俨然已经成为一名英勇的战士，对待敌人毫不手软，锋利的巨爪会瞬间将其撕裂！",
-                "mapID": 0
+                "mapID": 455
             },
             {
                 "ID": 845,
@@ -11689,7 +11757,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "杰尼是一只与众不同的精灵，虽然看起来很柔弱，但是可爱机灵的它有着不为人知的潜力。",
-                "mapID": 102
+                "mapID": 5
             },
             {
                 "ID": 879,
@@ -11701,7 +11769,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "杰尼的进化形态，长大的壳使它不容易受到外界的伤害,眼神也比之前更加坚定。",
-                "mapID": 102
+                "mapID": 5
             },
             {
                 "ID": 880,
@@ -11761,7 +11829,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "达迪拉是一只非常灵活的精灵，活泼好动的它经常在自己的星球上到处乱跑。",
-                "mapID": 669
+                "mapID": 5
             },
             {
                 "ID": 885,
@@ -11773,7 +11841,7 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "达迪拉的进化形态，身体各部分都出现了明显的变化，四肢比之前更加有力，四肢上的利爪是它的武器。",
-                "mapID": 669
+                "mapID": 5
             },
             {
                 "ID": 886,
@@ -48732,7 +48800,9 @@
                 "Type": "草",
                 "Height": 87.3,
                 "Weight": 32,
-                "Features": "丽莎布布星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！"
+                "Features": "丽莎布布星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
+                "Redirect": "module",
+                "Go": "app/StarlightHiddenMainPanel"
             },
             {
                 "ID": 4648,
@@ -48740,7 +48810,9 @@
                 "Type": "水",
                 "Height": 110,
                 "Weight": 47.5,
-                "Features": "鲁斯王星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！"
+                "Features": "鲁斯王星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
+                "Redirect": "module",
+                "Go": "app/StarlightHiddenMainPanel"
             },
             {
                 "ID": 4649,
@@ -48748,7 +48820,9 @@
                 "Type": "火",
                 "Height": 128,
                 "Weight": 50,
-                "Features": "魔焰猩猩星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！"
+                "Features": "魔焰猩猩星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
+                "Redirect": "module",
+                "Go": "app/StarlightHiddenMainPanel"
             },
             {
                 "ID": 4650,
@@ -48922,6 +48996,27 @@
                 "Features": "“巨械的装甲……亡魂的宝玉……还有……异兽的脊骨！去尽情享受你的新生吧！”魔女与它对上了眼眸。",
                 "Redirect": "map|module",
                 "Go": "1;app/WarTeamBossGotoPanel"
+            },
+            {
+                "ID": 4667,
+                "DefName": "龙灵战士",
+                "Type": "战斗 龙",
+                "Height": 10000,
+                "Weight": 11000,
+                "Features": "空元行者使用百目巫祖的书籍所召唤出的远古龙战士，只存在于传说中的巨型石像突然现身，这一次他们将成为战场上万夫莫当的存在。",
+                "Redirect": "map|module",
+                "Go": "1695;app/SpetLongLingZhanShiMainPanel",
+                "jumptarget": "151/221"
+            },
+            {
+                "ID": 4668,
+                "DefName": "尚克斯",
+                "Type": "虚空 邪灵",
+                "Height": 178,
+                "Weight": 62,
+                "Features": "2024年包月精灵，十二诗灵之九月的枷锁。“将罪孽束缚，于是邪恶不再蔓延；将心束缚，于是人不再悲伤……”",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInSeptember2024Panel"
             }
         ]
     }

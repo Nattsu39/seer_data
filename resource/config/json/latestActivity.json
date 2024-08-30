@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "2024_8_30 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:169}",
+            "goto": "2_151_{Design:170}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "2024_8_30 00:00:00",
             "showEnd": "",
-            "goto": "2_74",
+            "goto": "2_108_{openPanel:\"11,12\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "2024_8_30 00:00:00",
             "showEnd": "",
-            "goto": "2_74",
+            "goto": "3_请前往赛尔号页游参与精彩活动",
             "page": 1
         },
         {
@@ -35,50 +35,50 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "2024_8_30 00:00:00",
             "showEnd": "",
-            "goto": "2_110_{ moduleID:188 }",
+            "goto": "3_请前往赛尔号页游参与精彩活动",
             "page": 1
         },
         {
             "id": 5,
-            "type": 1,
-            "pic": 5,
+            "type": 0,
+            "pic": 0,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"11,11\"}",
-            "page": 2
+            "goto": "",
+            "page": 0
         },
         {
             "id": 6,
-            "type": 1,
-            "pic": 6,
+            "type": 0,
+            "pic": 0,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"12,7\"}",
-            "page": 2
+            "goto": "",
+            "page": 0
         },
         {
             "id": 7,
-            "type": 1,
-            "pic": 7,
+            "type": 0,
+            "pic": 0,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"12,8\"}",
-            "page": 2
+            "goto": "",
+            "page": 0
         },
         {
             "id": 8,
-            "type": 1,
-            "pic": 8,
+            "type": 0,
+            "pic": 0,
             "tag": 0,
-            "showStart": "2024_8_23 00:00:00",
+            "showStart": "",
             "showEnd": "",
-            "goto": "3_请前往赛尔号页游参与精彩活动",
-            "page": 2
+            "goto": "",
+            "page": 0
         },
         {
             "id": 9,
@@ -203,8 +203,18 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4665,
+            "pic": 4667,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:170}",
+            "page": 0
+        },
+        {
+            "id": 21,
+            "type": 2,
+            "pic": 4665,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:169}",
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 21,
+            "id": 22,
             "type": 2,
             "pic": 4661,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4658,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:166}",
-            "page": 0
-        },
-        {
-            "id": 23,
-            "type": 2,
-            "pic": 4657,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:165}",
             "page": 0
         }
     ]
