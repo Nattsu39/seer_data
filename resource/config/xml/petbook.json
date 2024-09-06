@@ -1179,73 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4667,
-                        "ImageID": 4667,
+                        "ID": 4669,
+                        "ImageID": 4669,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1695;app/SpetLongLingZhanShiMainPanel"
+                        "Go": "1696;app/SpetZiJingMoShouMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4668,
-                        "ImageID": 4668,
+                        "ID": 4670,
+                        "ImageID": 4670,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInSeptember2024Panel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 644,
-                        "MonID": 4169,
-                        "ImageID": 1400644,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ShenluoAndShenghuaSkinPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 645,
-                        "MonID": 4321,
-                        "ImageID": 1400645,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ShenluoAndShenghuaSkinPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 646,
-                        "MonID": 4505,
-                        "ImageID": 1400646,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 647,
-                        "MonID": 4647,
-                        "ImageID": 1400647,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/StarlightHiddenMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 648,
-                        "MonID": 4648,
-                        "ImageID": 1400648,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/StarlightHiddenMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 649,
-                        "MonID": 4649,
-                        "ImageID": 1400649,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/StarlightHiddenMainPanel"
+                        "Redirect": "map",
+                        "Go": 415
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -46165,9 +46111,7 @@
                 "Type": "光 次元",
                 "Height": 168,
                 "Weight": 49,
-                "Features": "“嘿，我是蒂朵，在一家游泳馆里担任经理。如果你也想要享受这个盛夏的欢乐，那就快来找我吧！”",
-                "Redirect": "map|module",
-                "Go": "1634;app/MillionsStarsToWatch_EnterPanel"
+                "Features": "“嘿，我是蒂朵，在一家游泳馆里担任经理。如果你也想要享受这个盛夏的欢乐，那就快来找我吧！”"
             },
             {
                 "ID": 4378,
@@ -46175,9 +46119,7 @@
                 "Type": "水 次元",
                 "Height": 153,
                 "Weight": 67,
-                "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”",
-                "Redirect": "map|module",
-                "Go": "1634;app/SpetQTPanel"
+                "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”"
             },
             {
                 "ID": 4379,
@@ -46257,9 +46199,7 @@
                 "Type": "次元",
                 "Height": 194,
                 "Weight": 118,
-                "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！",
-                "Redirect": "map|module",
-                "Go": "103;app/DaantiaoDiShengMainPanel"
+                "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！"
             },
             {
                 "ID": 4387,
@@ -48993,9 +48933,7 @@
                 "Type": "机械 龙",
                 "Height": 312,
                 "Weight": 286,
-                "Features": "“巨械的装甲……亡魂的宝玉……还有……异兽的脊骨！去尽情享受你的新生吧！”魔女与它对上了眼眸。",
-                "Redirect": "map|module",
-                "Go": "1;app/WarTeamBossGotoPanel"
+                "Features": "“巨械的装甲……亡魂的宝玉……还有……异兽的脊骨！去尽情享受你的新生吧！”魔女与它对上了眼眸。"
             },
             {
                 "ID": 4667,
@@ -49017,6 +48955,27 @@
                 "Features": "2024年包月精灵，十二诗灵之九月的枷锁。“将罪孽束缚，于是邪恶不再蔓延；将心束缚，于是人不再悲伤……”",
                 "Redirect": "map|module",
                 "Go": "1652;app/MonthlyPetInSeptember2024Panel"
+            },
+            {
+                "ID": 4669,
+                "DefName": "紫烬魔兽",
+                "Type": "远古 火",
+                "Height": 213,
+                "Weight": 195,
+                "Features": "三长老伏尔格安的护卫，在吸收了熔岩的烬灭之力后实力大幅增长，如今狂暴的魔兽将用火焰燃尽眼前的一切！",
+                "Redirect": "map|module",
+                "Go": "1696;app/SpetZiJingMoShouMainPanel",
+                "jumptarget": "151/222"
+            },
+            {
+                "ID": 4670,
+                "DefName": "月光飞贼",
+                "Type": "冰 光",
+                "Height": 102,
+                "Weight": 39,
+                "Features": "月圆之夜现身的小章鱼，喜欢收集各种宝物，当它出现时要保护好你身边的“亮晶晶”哟！",
+                "Redirect": "map",
+                "Go": 415
             }
         ]
     }
