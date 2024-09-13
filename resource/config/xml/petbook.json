@@ -1179,19 +1179,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4669,
-                        "ImageID": 4669,
+                        "ID": 4671,
+                        "ImageID": 4671,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1696;app/SpetZiJingMoShouMainPanel"
+                        "Go": "1697;app/SpetSYJXKuLaTaKeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4670,
-                        "ImageID": 4670,
+                        "ID": 4672,
+                        "ImageID": 4672,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 415
+                        "Redirect": "map|module",
+                        "Go": "11897;app/ZTHDJHPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4673,
+                        "ImageID": 4673,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "11897;app/ZTHDJHPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 650,
+                        "MonID": 4279,
+                        "ImageID": 1400650,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;103;app/SaiLeNieSkinMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 651,
+                        "MonID": 3697,
+                        "ImageID": 1400651,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -45135,7 +45161,7 @@
                 "Weight": 48,
                 "Features": "传说之中沉睡的女神，据说只有在满月之夜才会苏醒。苏醒的她定当以神的圣光照亮黑暗，驱散邪恶！",
                 "Redirect": "map|module",
-                "Go": "1;app/AwakenGoddessMainPanel"
+                "Go": "11897;app/ZTHDJHPanel"
             },
             {
                 "ID": 4280,
@@ -48973,9 +48999,38 @@
                 "Type": "冰 光",
                 "Height": 102,
                 "Weight": 39,
-                "Features": "月圆之夜现身的小章鱼，喜欢收集各种宝物，当它出现时要保护好你身边的“亮晶晶”哟！",
-                "Redirect": "map",
-                "Go": 415
+                "Features": "月圆之夜现身的小章鱼，喜欢收集各种宝物，当它出现时要保护好你身边的“亮晶晶”哟！"
+            },
+            {
+                "ID": 4671,
+                "DefName": "噬夜疾袭·库拉塔克",
+                "Type": "暗影 火",
+                "Height": 172,
+                "Weight": 70,
+                "Features": "库拉塔克终于觉醒了自身的力量，幽夜之火将会吞噬敌人眼中的一切光亮，而下一秒她的短刃就将一击制敌！",
+                "Redirect": "map|module",
+                "Go": "1697;app/SpetSYJXKuLaTaKeMainPanel",
+                "jumptarget": "151/223"
+            },
+            {
+                "ID": 4672,
+                "DefName": "月光·阿尔莫尼",
+                "Type": "光 飞行",
+                "Height": 213,
+                "Weight": 195,
+                "Features": "满月女神的赐福使月光一族获得了源自神庭的强大力量。阿尔莫尼觉醒了属于他的力量，进化到了全新的形态！",
+                "Redirect": "map|module",
+                "Go": "11897;app/ZTHDJHPanel"
+            },
+            {
+                "ID": 4673,
+                "DefName": "月影·阿德洛卡",
+                "Type": "暗影",
+                "Height": 213,
+                "Weight": 195,
+                "Features": "虽然月影军团不复存在，但月光一族的宿敌并未消失。月影•阿德洛卡的出现代表着新危机的开始!",
+                "Redirect": "map|module",
+                "Go": "11897;app/ZTHDJHPanel"
             }
         ]
     }

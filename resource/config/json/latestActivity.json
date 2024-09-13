@@ -5,9 +5,9 @@
             "type": 1,
             "pic": 1,
             "tag": 0,
-            "showStart": "2024_9_6 00:00:00",
+            "showStart": "2024_9_13 00:00:00",
             "showEnd": "",
-            "goto": "2_151_{Design:171}",
+            "goto": "2_151_{Design:172}",
             "page": 1
         },
         {
@@ -15,9 +15,9 @@
             "type": 1,
             "pic": 2,
             "tag": 0,
-            "showStart": "2024_9_6 00:00:00",
+            "showStart": "2024_9_13 00:00:00",
             "showEnd": "",
-            "goto": "2_108_{openPanel:\"10,22\"}",
+            "goto": "2_108_{openPanel:\"10,23\"}",
             "page": 1
         },
         {
@@ -25,9 +25,9 @@
             "type": 1,
             "pic": 3,
             "tag": 0,
-            "showStart": "2024_9_6 00:00:00",
+            "showStart": "2024_9_13 00:00:00",
             "showEnd": "",
-            "goto": "2_144_{ panelName:\"MALL\" }",
+            "goto": "2_108_{openPanel:\"12,9\"}",
             "page": 1
         },
         {
@@ -35,9 +35,9 @@
             "type": 1,
             "pic": 4,
             "tag": 0,
-            "showStart": "2024_9_6 00:00:00",
+            "showStart": "2024_9_13 00:00:00",
             "showEnd": "",
-            "goto": "3_请前往赛尔号页游参与精彩活动",
+            "goto": "2_108_{openPanel:\"12,10\"}",
             "page": 1
         },
         {
@@ -203,8 +203,18 @@
         {
             "id": 21,
             "type": 2,
-            "pic": 4669,
+            "pic": 4671,
             "tag": 1,
+            "showStart": "",
+            "showEnd": "",
+            "goto": "2_151_{Design:172}",
+            "page": 0
+        },
+        {
+            "id": 21,
+            "type": 2,
+            "pic": 4669,
+            "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:171}",
@@ -221,7 +231,7 @@
             "page": 0
         },
         {
-            "id": 21,
+            "id": 22,
             "type": 2,
             "pic": 4665,
             "tag": 0,
@@ -231,23 +241,13 @@
             "page": 0
         },
         {
-            "id": 22,
+            "id": 23,
             "type": 2,
             "pic": 4662,
             "tag": 0,
             "showStart": "",
             "showEnd": "",
             "goto": "2_151_{Design:168}",
-            "page": 0
-        },
-        {
-            "id": 23,
-            "type": 2,
-            "pic": 4661,
-            "tag": 0,
-            "showStart": "",
-            "showEnd": "",
-            "goto": "2_151_{Design:167}",
             "page": 0
         }
     ]
