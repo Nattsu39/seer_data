@@ -1179,45 +1179,19 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4671,
-                        "ImageID": 4671,
+                        "ID": 4674,
+                        "ImageID": 4674,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1697;app/SpetSYJXKuLaTaKeMainPanel"
+                        "Go": "1698;app/SpetWuJiShiZheMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4672,
-                        "ImageID": 4672,
+                        "ID": 4675,
+                        "ImageID": 4675,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "11897;app/ZTHDJHPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4673,
-                        "ImageID": 4673,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "11897;app/ZTHDJHPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 650,
-                        "MonID": 4279,
-                        "ImageID": 1400650,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;103;app/SaiLeNieSkinMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 651,
-                        "MonID": 3697,
-                        "ImageID": 1400651,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/HelpingGodPetZhaoCaiMianPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49018,9 +48992,7 @@
                 "Type": "光 飞行",
                 "Height": 213,
                 "Weight": 195,
-                "Features": "满月女神的赐福使月光一族获得了源自神庭的强大力量。阿尔莫尼觉醒了属于他的力量，进化到了全新的形态！",
-                "Redirect": "map|module",
-                "Go": "11897;app/ZTHDJHPanel"
+                "Features": "满月女神的赐福使月光一族获得了源自神庭的强大力量。阿尔莫尼觉醒了属于他的力量，进化到了全新的形态！"
             },
             {
                 "ID": 4673,
@@ -49028,9 +49000,28 @@
                 "Type": "暗影",
                 "Height": 213,
                 "Weight": 195,
-                "Features": "虽然月影军团不复存在，但月光一族的宿敌并未消失。月影•阿德洛卡的出现代表着新危机的开始!",
+                "Features": "虽然月影军团不复存在，但月光一族的宿敌并未消失。月影•阿德洛卡的出现代表着新危机的开始!"
+            },
+            {
+                "ID": 4674,
+                "DefName": "无极使者",
+                "Type": "次元",
+                "Height": 178,
+                "Weight": 67,
+                "Features": "空元行者使用《救赎的圣歌》所召唤出的无极使者拥有着掌控次元空间的能力，过去的群星陨落，但现在亦能重现璀璨之光。",
                 "Redirect": "map|module",
-                "Go": "11897;app/ZTHDJHPanel"
+                "Go": "1698;app/SpetWuJiShiZheMainPanel",
+                "jumptarget": "151/224"
+            },
+            {
+                "ID": 4675,
+                "DefName": "招财",
+                "Type": "地面 暗影",
+                "Height": 172,
+                "Weight": 53,
+                "Features": "星缘商会在卡尔迪地区的负责人之一，热情优雅的她会竭诚为您提供商会服务，但当她说出“合作愉快哟~”时，你才会恍然意识到什么。",
+                "Redirect": "map|module",
+                "Go": "103;app/HelpingGodPetZhaoCaiMianPanel"
             }
         ]
     }
