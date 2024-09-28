@@ -42,6 +42,15 @@
                 "mouseClickFunc": "app:PeakJihad2023WarOrdePanel"
             },
             {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "diamondCard_icon",
+                "tips": "国庆钻石金卡",
+                "mouseClickFunc": "app:NationalDayDimandCardMainPanel"
+            },
+            {
                 "direction": "left_side",
                 "shownewseer": 0,
                 "priority": 1,
@@ -165,9 +174,9 @@
                 "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "ShangHuiZhouKan_icon",
-                "tips": "国庆精彩预告",
-                "mouseClickFunc": "app:GuoQingYuRe2024Panel"
+                "ui": "XingYuanKaFeiTing_icon",
+                "tips": "穹明号回归专题",
+                "mouseClickFunc": "app:QiongMingHaoGoToMapPanel"
             },
             {
                 "direction": "right_side",

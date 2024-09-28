@@ -1176,24 +1176,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4674,
-                        "ImageID": 4674,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1698;app/SpetWuJiShiZheMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4675,
-                        "ImageID": 4675,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/HelpingGodPetZhaoCaiMianPanel"
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4682,
+                    "ImageID": 4682,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1701;app/SpetKongHuiXingTuMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -47407,7 +47397,10 @@
                 "Type": "水 超能",
                 "Height": 168,
                 "Weight": 52,
-                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。"
+                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。",
+                "Redirect": "map|module",
+                "Go": "1700;app/SpetWeiYueMainPanel",
+                "jumptarget": "151/153"
             },
             {
                 "ID": 4511,
@@ -47426,7 +47419,9 @@
                 "Type": "圣灵 自然",
                 "Height": 166,
                 "Weight": 46,
-                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。"
+                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。",
+                "Redirect": "map|module",
+                "Go": "1700;app/StarCafeMainPanel"
             },
             {
                 "ID": 4512,
@@ -47434,7 +47429,9 @@
                 "Type": "光",
                 "Height": 134,
                 "Weight": 33,
-                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。"
+                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。",
+                "Redirect": "map",
+                "Go": 1612
             },
             {
                 "ID": 4513,
@@ -47442,7 +47439,9 @@
                 "Type": "光 神秘",
                 "Height": 136,
                 "Weight": 34,
-                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。"
+                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。",
+                "Redirect": "map",
+                "Go": 1612
             },
             {
                 "ID": 4514,
@@ -47461,7 +47460,9 @@
                 "Type": "水 神秘",
                 "Height": 186,
                 "Weight": 77,
-                "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。"
+                "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。",
+                "Redirect": "map|module",
+                "Go": "1700;app/GetHuoGuangMainPanel"
             },
             {
                 "ID": 4516,
@@ -49019,9 +49020,48 @@
                 "Type": "地面 暗影",
                 "Height": 172,
                 "Weight": 53,
-                "Features": "星缘商会在卡尔迪地区的负责人之一，热情优雅的她会竭诚为您提供商会服务，但当她说出“合作愉快哟~”时，你才会恍然意识到什么。",
+                "Features": "星缘商会在卡尔迪地区的负责人之一，热情优雅的她会竭诚为您提供商会服务，但当她说出“合作愉快哟~”时，你才会恍然意识到什么。"
+            },
+            {
+                "ID": 4676,
+                "DefName": "神觉·米斯蒂克",
+                "Type": "神秘",
+                "Height": 192,
+                "Weight": 93,
+                "Features": "过去的魔盒力量得到彻底解放，米斯蒂克以全新的姿态降临战场，精灵王者的力量将扭转整个战局！",
                 "Redirect": "map|module",
-                "Go": "103;app/HelpingGodPetZhaoCaiMianPanel"
+                "Go": "1699;app/MisticSuperevolutionOutputMainPanel"
+            },
+            {
+                "ID": 4677,
+                "DefName": "星辰万象·天启星魂",
+                "Type": "轮回 神秘",
+                "Height": 165,
+                "Weight": 43,
+                "Features": "天启星魂不容许任何人探求“虚无”这份自灭的灾祸，即使为此铤而走险的狂人史不绝书，即使无人知晓她名讳的惨烈与厚重。",
+                "Redirect": "map|module",
+                "Go": "103;app/TianQiXingHunEvoMainPanel"
+            },
+            {
+                "ID": 4681,
+                "DefName": "伏奥诺",
+                "Type": "电",
+                "Height": 170,
+                "Weight": 47,
+                "Features": "2024年包月精灵，十二诗灵之十月的唱片，当音乐再度响起，仿佛种种过往皆在眼前，而这就是唱片的回忆……",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInOctober2024Panel"
+            },
+            {
+                "ID": 4682,
+                "DefName": "空洄星徒",
+                "Type": "光 神秘",
+                "Height": 162,
+                "Weight": 43,
+                "Features": "可以在宇宙中随心传送的少女，负责为其他的成员们带去重要的讯息，她的身世似乎还隐藏着什么秘密……",
+                "Redirect": "map|module",
+                "Go": "1701;app/SpetKongHuiXingTuMainPanel",
+                "jumptarget": "151/225"
             }
         ]
     }
