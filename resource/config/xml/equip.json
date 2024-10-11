@@ -558,7 +558,7 @@
                 "SuitNewseId": 7704,
                 "SuitEffectID": 631,
                 "SuitEffectArgs": "20 0 0 0 0 0",
-                "Name": "后裔手铠",
+                "Name": "后羿手铠",
                 "Desc": "背包内精灵攻击+20点，赛尔与赛尔之间对战无效"
             },
             {
@@ -582,7 +582,7 @@
                 "SuitNewseId": 7704,
                 "SuitEffectID": 631,
                 "SuitEffectArgs": "20 0 0 0 0 0",
-                "Name": "后裔战靴",
+                "Name": "后羿战靴",
                 "Desc": "背包内精灵攻击+20点，赛尔与赛尔之间对战无效"
             },
             {
@@ -7070,7 +7070,7 @@
                 "Part": 1,
                 "Target": 0,
                 "Name": "漫游者-AS",
-                "Desc": "背包内全体精灵攻击+30点、特攻+30点、速度+15点"
+                "Desc": "背包内所有精灵攻击+30点、特攻+30点、速度+15点"
             },
             {
                 "Rank": [
@@ -7090,7 +7090,7 @@
                 "Part": 1,
                 "Target": 0,
                 "Name": "漫游者-AH",
-                "Desc": "背包内全体精灵攻击+30点、特攻+30点、体力+40点"
+                "Desc": "背包内所有精灵攻击+30点、特攻+30点、体力+40点"
             },
             {
                 "Rank": [
@@ -7110,7 +7110,7 @@
                 "Part": 1,
                 "Target": 0,
                 "Name": "漫游者-S",
-                "Desc": "背包内全体精灵速度+20点"
+                "Desc": "背包内所有精灵速度+20点"
             },
             {
                 "Rank": [
@@ -7203,6 +7203,282 @@
                 "AddArgs": "0 50 50 50 50 50 50",
                 "Name": "漆黑之刺",
                 "Desc": "背包内所有精灵全属性+50，造成的攻击伤害提升40%；己方的首发精灵获得300点护盾且首次攻击必定打出致命一击（仅限赛尔与BOSS间对战）"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 304,
+                "ItemID": 1301059,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 0,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 452,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 0 0 0 20 90",
+                "Name": "星光海啸战盔",
+                "Desc": "背包内所有精灵体力+90点、速度+20点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 305,
+                "ItemID": 1301060,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 3,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 452,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 0 0 0 20 90",
+                "Name": "星光海啸战臂",
+                "Desc": "背包内所有精灵体力+90点、速度+20点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 306,
+                "ItemID": 1301061,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 2,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 452,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 0 0 0 20 90",
+                "Name": "星光海啸束腰",
+                "Desc": "背包内所有精灵体力+90点、速度+20点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 307,
+                "ItemID": 1301062,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 4,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 452,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 0 0 0 20 90",
+                "Name": "星光海啸战靴",
+                "Desc": "背包内所有精灵体力+90点、速度+20点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 308,
+                "ItemID": 1301067,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 0,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 454,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 60 0 60 0 0 0",
+                "Name": "星光烈焰战盔",
+                "Desc": "背包内所有精灵攻击+60点、特攻+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 309,
+                "ItemID": 1301068,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 3,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 454,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 60 0 60 0 0 0",
+                "Name": "星光烈焰战臂",
+                "Desc": "背包内所有精灵攻击+60点、特攻+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 310,
+                "ItemID": 1301069,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 2,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 454,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 60 0 60 0 0 0",
+                "Name": "星光烈焰束腰",
+                "Desc": "背包内所有精灵攻击+60点、特攻+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 311,
+                "ItemID": 1301070,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 4,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 454,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 60 0 60 0 0 0",
+                "Name": "星光烈焰战靴",
+                "Desc": "背包内所有精灵攻击+60点、特攻+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 312,
+                "ItemID": 1301075,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 0,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 456,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 60 0 60 0 0",
+                "Name": "星光绿光战盔",
+                "Desc": "背包内所有精灵防御+60点、特防+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 313,
+                "ItemID": 1301076,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 3,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 456,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 60 0 60 0 0",
+                "Name": "星光绿光战臂",
+                "Desc": "背包内所有精灵防御+60点、特防+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 314,
+                "ItemID": 1301077,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 2,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 456,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 60 0 60 0 0",
+                "Name": "星光绿光束腰",
+                "Desc": "背包内所有精灵防御+60点、特防+60点"
+            },
+            {
+                "Rank": [
+                    {
+                        "Lv": 1,
+                        "Attribute": "0 0 0 0 0 0",
+                        "AddWay": 1,
+                        "BattleLv": "0 0 0 0 0 0",
+                        "OtherAttribute": "0 0 0"
+                    }
+                ],
+                "ID": 315,
+                "ItemID": 1301078,
+                "Quality": 3,
+                "Occasion": 0,
+                "Part": 4,
+                "Target": 0,
+                "MonID": 0,
+                "SuitID": 456,
+                "SuitNewseId": 7773,
+                "AddArgs": "0 0 60 0 60 0 0",
+                "Name": "星光绿光战靴",
+                "Desc": "背包内所有精灵防御+60点、特防+60点"
             }
         ]
     }

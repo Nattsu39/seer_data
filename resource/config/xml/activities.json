@@ -16213,7 +16213,7 @@
                     "Start": 20240802,
                     "End": 20240906,
                     "Map": 5,
-                    "Name": "精灵图鉴点亮计划",
+                    "Name": "精灵图鉴点亮计划第六期",
                     "Title": "图鉴点亮计划第六期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
@@ -16545,8 +16545,8 @@
                     "Start": 20240906,
                     "End": 2024101110,
                     "Map": 5,
-                    "Name": "精灵图鉴点亮计划",
-                    "Title": "精灵图鉴点亮计划",
+                    "Name": "精灵图鉴点亮计划第七期",
+                    "Title": "精灵图鉴点亮计划第七期",
                     "Redirect": "map|module",
                     "Go": "5;app/LightBookMainPanel"
                 },
@@ -16775,6 +16775,74 @@
                     "Title": "星沉",
                     "Redirect": "map|module",
                     "Go": "1699;app/MainLineAdventureChapterPanel&&110014"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3254,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240920,
+                    "End": "*",
+                    "Name": "二代刻印宝石新种类",
+                    "Title": "全新二代刻印宝石",
+                    "Redirect": "module",
+                    "Go": "app/CountermarkCenterTipsPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3283,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241004,
+                    "End": "*",
+                    "Map": 1701,
+                    "Name": "星光·帕诺杯",
+                    "Title": "授勋仪式",
+                    "Redirect": "map|module",
+                    "Go": "1701;app/MainLineAdventureChapterPanel&&130001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3284,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241004,
+                    "End": "*",
+                    "Map": 1701,
+                    "Name": "完美谎言",
+                    "Title": "谎言破碎之后",
+                    "Redirect": "map|module",
+                    "Go": "1701;app/MainLineAdventureChapterPanel&&110015"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4682
+                    },
+                    "ID": 3286,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241004,
+                    "End": "*",
+                    "Map": 1701,
+                    "Name": "星昼逸行 空宙游灵",
+                    "Title": "空洄星徒",
+                    "Redirect": "map|module",
+                    "Go": "1701;app/SpetKongHuiXingTuMainPanel"
                 }
             ]
         },
@@ -53404,6 +53472,174 @@
                     "Title": "招财",
                     "Redirect": "map|module",
                     "Go": "1698;app/HelpingGodPetZhaoCaiMianPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3228,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240830,
+                    "End": 2024101110,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3277,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240927,
+                    "End": 20241011,
+                    "Map": 103,
+                    "Name": "国庆钻石金卡",
+                    "Title": "国庆狂欢 钻石金卡",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NationalDayDimandCardMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3288,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241004,
+                    "End": 2024101110,
+                    "Map": 103,
+                    "Name": "一键极品限时折扣",
+                    "Title": "一键极品 限时折扣",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3273,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240927,
+                    "End": 2024101110,
+                    "Map": 103,
+                    "Name": "【复用】抗性指定道具售卖",
+                    "Title": "精灵抗性的新研究",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ResistanceItemShop"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3272,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240927,
+                    "End": 2024101110,
+                    "Map": 103,
+                    "Name": "兑钻消费奖励",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3267,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241001,
+                    "End": 20241008,
+                    "Name": "国庆签到",
+                    "Title": "欢度国庆",
+                    "Redirect": "module",
+                    "Go": "app/GuoqingSignUpPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3275,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20240927,
+                    "End": 2024101110,
+                    "Map": 1700,
+                    "Name": "商业街主题活动",
+                    "Title": "璀璨集市",
+                    "Redirect": "map|module",
+                    "Go": "1700;app/NationalDayActivityGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3285,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241004,
+                    "End": 2024101110,
+                    "Map": 1701,
+                    "Name": "星光帕诺杯报名赛",
+                    "Title": "星光璀璨  帕诺之巅",
+                    "Redirect": "map|module",
+                    "Go": "1701;app/XingGuangBeiPrePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3287,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241004,
+                    "End": 2024101110,
+                    "Map": 1700,
+                    "Name": "探寻美味餐厅",
+                    "Title": "探寻美味餐厅",
+                    "Redirect": "map|module",
+                    "Go": "1700;app/NationalDayActivityGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3289,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241004,
+                    "End": 2024101110,
+                    "Name": "万圣节皮肤人选投票",
+                    "Title": "南瓜庆典嘉宾票选",
+                    "Redirect": "module",
+                    "Go": "app/SkinVote20241004Panel"
                 }
             ],
             "_text": [
@@ -53536,23 +53772,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3228,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240830,
-                    "End": 2024101110,
-                    "Map": 103,
-                    "Name": "VIP特惠商城更新",
-                    "Title": "VIP权益更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3239,
                     "isNew": 1,
                     "kinds": 1,
@@ -53582,22 +53801,6 @@
                     "Title": "圣殿英雄团更新",
                     "Redirect": "map|module",
                     "Go": "103;app/TempleHeroAltarPreAllBackPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3254,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240920,
-                    "End": "*",
-                    "Name": "二代刻印宝石新种类",
-                    "Title": "全新二代刻印宝石",
-                    "Redirect": "module",
-                    "Go": "app/CountermarkCenterTipsPanel"
                 },
                 {
                     "Details": {
@@ -53687,22 +53890,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3267,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241001,
-                    "End": 20241008,
-                    "Name": "国庆签到",
-                    "Title": "欢度国庆",
-                    "Redirect": "module",
-                    "Go": "app/GuoqingSignUpPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3268,
@@ -53734,57 +53921,6 @@
                     "Title": "神谕归来",
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetBackMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3272,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240927,
-                    "End": 2024101110,
-                    "Map": 103,
-                    "Name": "兑钻消费奖励",
-                    "Title": "兑钻奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3273,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240927,
-                    "End": 2024101110,
-                    "Map": 103,
-                    "Name": "【复用】抗性指定道具售卖",
-                    "Title": "精灵抗性的新研究",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ResistanceItemShop"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3275,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20240927,
-                    "End": 2024101110,
-                    "Map": 1700,
-                    "Name": "商业街主题活动",
-                    "Title": "璀璨集市",
-                    "Redirect": "map|module",
-                    "Go": "1700;app/NationalDayActivityGoToMapPanel"
                 },
                 {
                     "Details": {
@@ -53858,137 +53994,173 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3283,
+                    "ID": 3290,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20241004,
+                    "Start": 20241011,
+                    "End": 2024101810,
+                    "Map": 1702,
+                    "Name": "飞船舱室清洁计划",
+                    "Title": "飞船舱室清洁计划",
+                    "Redirect": "map|module",
+                    "Go": "1702;app/ShipCleanerEnter"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3291,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241011,
+                    "End": 2024101810,
+                    "Map": 1702,
+                    "Name": "星光帕诺杯精灵大乱斗",
+                    "Title": "精灵大乱斗",
+                    "Redirect": "map|module",
+                    "Go": "1702;app/ElfBattle2024MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3292,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241011,
+                    "End": 20241018,
+                    "Map": 1702,
+                    "Name": "海啸擂台 精灵挑战",
+                    "Title": "海啸擂台 精灵挑战",
+                    "Redirect": "map|module",
+                    "Go": "1702;app/WorldBossBingPaNuoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3293,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241011,
                     "End": "*",
-                    "Map": 1701,
+                    "Map": 1702,
                     "Name": "星光·帕诺杯",
-                    "Title": "授勋仪式",
+                    "Title": "激浪狂流",
                     "Redirect": "map|module",
-                    "Go": "1701;app/MainLineAdventureChapterPanel&&130001"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3284,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241004,
-                    "End": "*",
-                    "Map": 1701,
-                    "Name": "完美谎言",
-                    "Title": "谎言破碎之后",
-                    "Redirect": "map|module",
-                    "Go": "1701;app/MainLineAdventureChapterPanel&&110015"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3285,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241004,
-                    "End": 2024101110,
-                    "Map": 1701,
-                    "Name": "星光帕诺杯报名赛",
-                    "Title": "星光璀璨  帕诺之巅",
-                    "Redirect": "map|module",
-                    "Go": "1701;app/XingGuangBeiPrePanel"
+                    "Go": "1702;app/MainLineAdventureChapterPanel&&130002"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4682
+                        "monID": 4683
                     },
-                    "ID": 3286,
+                    "ID": 3294,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20241004,
+                    "Start": 20241011,
                     "End": "*",
-                    "Map": 1701,
-                    "Name": "星昼逸行 空宙游灵",
-                    "Title": "空洄星徒",
+                    "Map": 1702,
+                    "Name": "狂流浪涌 武装领航",
+                    "Title": "帕诺·海啸武装",
                     "Redirect": "map|module",
-                    "Go": "1701;app/SpetKongHuiXingTuMainPanel"
+                    "Go": "1702;app/SpetPNHaiXiaoWuZhuangMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3287,
+                    "ID": 3295,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20241004,
-                    "End": 2024101110,
-                    "Map": 1700,
-                    "Name": "探寻美味餐厅",
-                    "Title": "探寻美味餐厅",
+                    "Start": 20241011,
+                    "End": 2024112210,
+                    "Map": 5,
+                    "Name": "精灵图鉴点亮计划第八期",
+                    "Title": "精灵图鉴点亮计划",
                     "Redirect": "map|module",
-                    "Go": "1700;app/NationalDayActivityGoToMapPanel"
+                    "Go": "5;app/LightBookMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3288,
+                    "ID": 3296,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20241004,
-                    "End": 2024101110,
+                    "Start": 20241011,
+                    "End": 2024111510,
                     "Map": 103,
-                    "Name": "一键极品限时折扣",
-                    "Title": "一键极品 限时折扣",
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3297,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241011,
+                    "End": 2024102510,
+                    "Map": 103,
+                    "Name": "兌钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3289,
+                    "ID": 3298,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20241004,
-                    "End": 2024101110,
-                    "Name": "万圣节皮肤人选投票",
-                    "Title": "南瓜庆典嘉宾票选",
+                    "Start": 20241011,
+                    "End": 2024110110,
+                    "Map": 1702,
+                    "Name": "星光·帕诺杯活动面板",
+                    "Title": "星光·帕诺杯",
+                    "Redirect": "map|module",
+                    "Go": "1702;app/XingGuangPaNuoBeiMainPanel",
+                    "Settop": 4
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3299,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241011,
+                    "End": 2024102510,
+                    "Name": "光之守护 集结赠礼",
+                    "Title": "光之守护 集结赠礼",
                     "Redirect": "module",
-                    "Go": "app/SkinVote20241004Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3277,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240927,
-                    "End": 20241011,
-                    "Map": 103,
-                    "Name": "国庆钻石金卡",
-                    "Title": "国庆狂欢 钻石金卡",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NationalDayDimandCardMainPanel"
+                    "Go": "app/PopUp20241011Panel",
+                    "Settop": 3
                 },
                 {
                     "Details": {
@@ -54060,7 +54232,7 @@
                 }
             ],
             "Important": "3266,3268,3278,3279,3280",
-            "shopcenter": "2274:1,1687:3,3218:21,3265:9,3266:18,3268:20,3269:43,3272:46,3273:47,3276:51,3288:52,3278:53,3279:54,3280:22,3277:23,3246:45,3239:13,3228:14,3198:10,3179:12,3171:44,3148:16,3150:17,3067:15"
+            "shopcenter": "2274:1,1687:3,3218:21,3296:14,3297:46,3265:9,3266:18,3268:20,3269:43,3276:51,3278:53,3279:54,3280:22,3246:45,3239:13,3198:10,3179:12,3171:44,3148:16,3150:17,3067:15"
         }
     }
 }
