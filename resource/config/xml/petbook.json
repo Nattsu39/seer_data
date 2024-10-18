@@ -1176,14 +1176,102 @@
         },
         "Hotspot": {
             "item": {
-                "place": {
-                    "type": 0,
-                    "ID": 4682,
-                    "ImageID": 4682,
-                    "Label": 0,
-                    "Redirect": "map|module",
-                    "Go": "1701;app/SpetKongHuiXingTuMainPanel"
-                },
+                "place": [
+                    {
+                        "type": 0,
+                        "ID": 4678,
+                        "ImageID": 4678,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/GetDiJiaAoTeManMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4679,
+                        "ImageID": 4679,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/SairoUltramanOutputMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4680,
+                        "ImageID": 4680,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/AoTeMan_BeiLiYaMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4684,
+                        "ImageID": 4684,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1703;app/SpetPNLieYanWuZhuangMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4685,
+                        "ImageID": 4685,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 658,
+                        "MonID": 4679,
+                        "ImageID": 1400658,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/AotemanSkinPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 659,
+                        "MonID": 4680,
+                        "ImageID": 1400659,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/AotemanSkinPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 660,
+                        "MonID": 4680,
+                        "ImageID": 1400660,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/AotemanSkinPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 661,
+                        "MonID": 4685,
+                        "ImageID": 1400661,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 662,
+                        "MonID": 3670,
+                        "ImageID": 1400662,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 663,
+                        "MonID": 4684,
+                        "ImageID": 1400663,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1703;app/FireTeamGameEnter"
+                    }
+                ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -30617,7 +30705,8 @@
                 "Height": 173,
                 "Weight": 70,
                 "Features": "魂•斩月的超进化形态，夺命镰刀的威力变得更加强大，斩月毁天都不在话下！",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 2694,
@@ -32457,7 +32546,8 @@
                 "Height": 154,
                 "Weight": 100,
                 "Features": "在一次太阳黑子的剧烈活动中，伴随耀斑出现的精灵。在烈日的炙烤中诞生恐怖的日光力量!",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 2900,
@@ -37925,7 +38015,8 @@
                 "Height": 190,
                 "Weight": 80,
                 "Features": "波塞冬的完全体形态。手执海神之戟，秉承海皇之傲！海洋的力量运用的更加炉火纯青！",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 3507,
@@ -48814,9 +48905,7 @@
                 "Type": "水 战斗",
                 "Height": 166,
                 "Weight": 45,
-                "Features": "巅峰S3赛季【逐浪】开启！大海将见证一切荣耀，巨浪来袭，战至巅峰！",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                "Features": "巅峰S3赛季【逐浪】开启！大海将见证一切荣耀，巨浪来袭，战至巅峰！"
             },
             {
                 "ID": 4655,
@@ -49043,6 +49132,36 @@
                 "Go": "103;app/TianQiXingHunEvoMainPanel"
             },
             {
+                "ID": 4678,
+                "DefName": "迪迦奥特曼",
+                "Type": "光 超能",
+                "Height": 5300,
+                "Weight": 44000000,
+                "Features": "迪迦奥特曼原本是光之国身处的地球上的超古代战士，得到人类的光之后现身于世，必杀技是哉佩利敖光线。",
+                "Redirect": "module",
+                "Go": "app/GetDiJiaAoTeManMainPanel"
+            },
+            {
+                "ID": 4679,
+                "DefName": "赛罗奥特曼",
+                "Type": "圣灵 战斗",
+                "Height": 4900,
+                "Weight": 35000000,
+                "Features": "M78星云·光之国出身的年轻奥特战士，隶属于奥特宇宙警备队。从奥特之王口中得知自己的身世，和伙伴们一起成功拯救被贝利亚奥特曼威胁的光之国。",
+                "Redirect": "module",
+                "Go": "app/SairoUltramanOutputMainPanel"
+            },
+            {
+                "ID": 4680,
+                "DefName": "贝利亚奥特曼",
+                "Type": "远古 邪灵",
+                "Height": 5500,
+                "Weight": 60000000,
+                "Features": "出生在奥特之星却背叛了光之国，是邪恶的奥特曼。拥有能操纵100头怪兽能力的终极战斗仪，他的目的是向奥特一族复仇和称霸整个银河！",
+                "Redirect": "map|module",
+                "Go": "103;app/AoTeMan_BeiLiYaMainPanel"
+            },
+            {
                 "ID": 4681,
                 "DefName": "伏奥诺",
                 "Type": "电",
@@ -49062,6 +49181,38 @@
                 "Redirect": "map|module",
                 "Go": "1701;app/SpetKongHuiXingTuMainPanel",
                 "jumptarget": "151/225"
+            },
+            {
+                "ID": 4683,
+                "DefName": "帕诺·海啸武装",
+                "Type": "机械 水",
+                "Height": 60,
+                "Weight": 40,
+                "Features": "好伙伴帕诺获得了全新的海啸武装，能够使用能量光波控制水流干扰对手，战斗力相比之前得到了大幅提升。",
+                "Redirect": "map|module",
+                "Go": "1702;app/SpetPNHaiXiaoWuZhuangMainPanel",
+                "jumptarget": "151/226"
+            },
+            {
+                "ID": 4684,
+                "DefName": "帕诺·烈焰武装",
+                "Type": "机械 火",
+                "Height": 63,
+                "Weight": 45,
+                "Features": "好伙伴帕诺获得了全新的烈焰武装，能够使用能量光波从内部引爆障碍，突破能力得到了大幅增强。",
+                "Redirect": "map|module",
+                "Go": "1703;app/SpetPNLieYanWuZhuangMainPanel",
+                "jumptarget": "151/227"
+            },
+            {
+                "ID": 4685,
+                "DefName": "云盈",
+                "Type": "混沌 飞行",
+                "Height": 174,
+                "Weight": 55,
+                "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023WarOrdePanel"
             }
         ]
     }

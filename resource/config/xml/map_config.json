@@ -18946,12 +18946,49 @@
                 "group": 42
             },
             {
+                "Entries": {
+                    "Entry": {
+                        "FromMap": 1703,
+                        "PosX": 745,
+                        "PosY": 365
+                    }
+                },
+                "changeMapComp": {
+                    "component": {
+                        "name": "door_0",
+                        "hit": "comp_0",
+                        "targetID": 1703
+                    }
+                },
                 "id": 1702,
                 "name": "海啸擂台",
-                "x": 580,
-                "y": 410,
+                "x": 550,
+                "y": 420,
                 "sound": "BGM_829",
                 "scenenpc": "4683|1|480|330|20241011|20241018",
+                "group": 43
+            },
+            {
+                "Entries": {
+                    "Entry": {
+                        "FromMap": 1702,
+                        "PosX": 215,
+                        "PosY": 365
+                    }
+                },
+                "changeMapComp": {
+                    "component": {
+                        "name": "door_0",
+                        "hit": "comp_0",
+                        "targetID": 1702
+                    }
+                },
+                "id": 1703,
+                "name": "烈焰擂台",
+                "x": 550,
+                "y": 420,
+                "sound": "BGM_830",
+                "scenenpc": "4684|1|480|330|20241018|20241025",
                 "group": 43
             },
             {
