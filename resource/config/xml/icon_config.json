@@ -175,15 +175,6 @@
                 "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "XingYuanKaFeiTing_icon",
-                "tips": "穹明号回归专题",
-                "mouseClickFunc": "app:QiongMingHaoGoToMapPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
                 "ui": "XingGuangPaNuoBei_icon",
                 "tips": "精灵王争霸赛",
                 "mouseClickFunc": "app:XingGuangPaNuoBeiMainPanel"
@@ -191,11 +182,20 @@
             {
                 "direction": "right_bar",
                 "shownewseer": 0,
-                "priority": 5,
+                "priority": 4,
                 "exMapList": 50000,
                 "ui": "aoTeMan_icon",
                 "tips": "奥特曼联动",
                 "mouseClickFunc": "app:UltramanSeriesGoToMapPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "ceshizhaomu_icon",
+                "tips": "测试招募",
+                "mouseClickFunc": "app:UnityRecruitPanel"
             },
             {
                 "direction": "right_side",

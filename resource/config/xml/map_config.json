@@ -18195,33 +18195,6 @@
                 "group": 34
             },
             {
-                "id": 1611,
-                "name": "广华宫",
-                "x": 550,
-                "y": 420,
-                "sound": "BGM_739",
-                "scenenpc": "4510|1|264|467|20230602|20230707",
-                "group": 36
-            },
-            {
-                "id": 1612,
-                "name": "梦星阁",
-                "x": 750,
-                "y": 400,
-                "sound": "BGM_740",
-                "scenenpc": "4500|1|180|400|20230609|20230707",
-                "group": 36
-            },
-            {
-                "id": 1613,
-                "name": "瓏啸擂台",
-                "x": 510,
-                "y": 395,
-                "sound": "BGM_741",
-                "scenenpc": "4515|1|220|380|20230616|20230707",
-                "group": 36
-            },
-            {
                 "id": 1614,
                 "name": "夕阳驿站",
                 "x": 580,
@@ -18928,15 +18901,6 @@
                 "group": 13
             },
             {
-                "id": 1700,
-                "name": "星缘咖啡厅",
-                "x": 520,
-                "y": 420,
-                "sound": "BGM_827",
-                "scenenpc": "5797|1|255|455|20240927|20241025",
-                "group": 36
-            },
-            {
                 "id": 1701,
                 "name": "失序之罅",
                 "x": 580,
@@ -18947,18 +18911,32 @@
             },
             {
                 "Entries": {
-                    "Entry": {
-                        "FromMap": 1703,
-                        "PosX": 745,
-                        "PosY": 365
-                    }
+                    "Entry": [
+                        {
+                            "FromMap": 1703,
+                            "PosX": 745,
+                            "PosY": 365
+                        },
+                        {
+                            "FromMap": 1704,
+                            "PosX": 215,
+                            "PosY": 365
+                        }
+                    ]
                 },
                 "changeMapComp": {
-                    "component": {
-                        "name": "door_0",
-                        "hit": "comp_0",
-                        "targetID": 1703
-                    }
+                    "component": [
+                        {
+                            "name": "door_0",
+                            "hit": "comp_0",
+                            "targetID": 1704
+                        },
+                        {
+                            "name": "door_1",
+                            "hit": "comp_1",
+                            "targetID": 1703
+                        }
+                    ]
                 },
                 "id": 1702,
                 "name": "海啸擂台",
@@ -18970,18 +18948,32 @@
             },
             {
                 "Entries": {
-                    "Entry": {
-                        "FromMap": 1702,
-                        "PosX": 215,
-                        "PosY": 365
-                    }
+                    "Entry": [
+                        {
+                            "FromMap": 1702,
+                            "PosX": 215,
+                            "PosY": 365
+                        },
+                        {
+                            "FromMap": 1704,
+                            "PosX": 745,
+                            "PosY": 365
+                        }
+                    ]
                 },
                 "changeMapComp": {
-                    "component": {
-                        "name": "door_0",
-                        "hit": "comp_0",
-                        "targetID": 1702
-                    }
+                    "component": [
+                        {
+                            "name": "door_0",
+                            "hit": "comp_0",
+                            "targetID": 1702
+                        },
+                        {
+                            "name": "door_1",
+                            "hit": "comp_1",
+                            "targetID": 1704
+                        }
+                    ]
                 },
                 "id": 1703,
                 "name": "烈焰擂台",
@@ -18989,6 +18981,43 @@
                 "y": 420,
                 "sound": "BGM_830",
                 "scenenpc": "4684|1|480|330|20241018|20241025",
+                "group": 43
+            },
+            {
+                "Entries": {
+                    "Entry": [
+                        {
+                            "FromMap": 1703,
+                            "PosX": 215,
+                            "PosY": 365
+                        },
+                        {
+                            "FromMap": 1702,
+                            "PosX": 745,
+                            "PosY": 365
+                        }
+                    ]
+                },
+                "changeMapComp": {
+                    "component": [
+                        {
+                            "name": "door_0",
+                            "hit": "comp_0",
+                            "targetID": 1703
+                        },
+                        {
+                            "name": "door_1",
+                            "hit": "comp_1",
+                            "targetID": 1702
+                        }
+                    ]
+                },
+                "id": 1704,
+                "name": "绿光擂台",
+                "x": 550,
+                "y": 420,
+                "sound": "BGM_831",
+                "scenenpc": "4686|1|480|330|20241025|20241031",
                 "group": 43
             },
             {

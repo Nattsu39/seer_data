@@ -1179,97 +1179,64 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4678,
-                        "ImageID": 4678,
+                        "ID": 4686,
+                        "ImageID": 4686,
                         "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/GetDiJiaAoTeManMainPanel"
+                        "Redirect": "map|module",
+                        "Go": "1704;app/SpetPNLuGuangWuZhuangMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4679,
-                        "ImageID": 4679,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/SairoUltramanOutputMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4680,
-                        "ImageID": 4680,
+                        "ID": 4687,
+                        "ImageID": 4687,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/AoTeMan_BeiLiYaMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4684,
-                        "ImageID": 4684,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1703;app/SpetPNLieYanWuZhuangMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4685,
-                        "ImageID": 4685,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                        "Go": "1704;app/MainLineAdventureOverview"
                     },
                     {
                         "type": 1,
-                        "ID": 658,
-                        "MonID": 4679,
-                        "ImageID": 1400658,
+                        "ID": 664,
+                        "MonID": 4683,
+                        "ImageID": 1400664,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/AotemanSkinPanel"
+                        "Go": "103;app/PaNuoSkinSellPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 659,
-                        "MonID": 4680,
-                        "ImageID": 1400659,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/AotemanSkinPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 660,
-                        "MonID": 4680,
-                        "ImageID": 1400660,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/AotemanSkinPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 661,
-                        "MonID": 4685,
-                        "ImageID": 1400661,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 662,
-                        "MonID": 3670,
-                        "ImageID": 1400662,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023WarOrdePanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 663,
+                        "ID": 665,
                         "MonID": 4684,
-                        "ImageID": 1400663,
+                        "ImageID": 1400665,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1703;app/FireTeamGameEnter"
+                        "Go": "103;app/PaNuoSkinSellPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 666,
+                        "MonID": 4686,
+                        "ImageID": 1400666,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/PaNuoSkinSellPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 667,
+                        "MonID": 4438,
+                        "ImageID": 1400667,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 668,
+                        "MonID": 4686,
+                        "ImageID": 1400668,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1704;app/RepairTheObservationTerraceMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -47488,10 +47455,7 @@
                 "Type": "水 超能",
                 "Height": 168,
                 "Weight": 52,
-                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。",
-                "Redirect": "map|module",
-                "Go": "1700;app/SpetWeiYueMainPanel",
-                "jumptarget": "151/153"
+                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。"
             },
             {
                 "ID": 4511,
@@ -47510,9 +47474,7 @@
                 "Type": "圣灵 自然",
                 "Height": 166,
                 "Weight": 46,
-                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。",
-                "Redirect": "map|module",
-                "Go": "1700;app/StarCafeMainPanel"
+                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。"
             },
             {
                 "ID": 4512,
@@ -47520,9 +47482,7 @@
                 "Type": "光",
                 "Height": 134,
                 "Weight": 33,
-                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。",
-                "Redirect": "map",
-                "Go": 1612
+                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。"
             },
             {
                 "ID": 4513,
@@ -47530,9 +47490,7 @@
                 "Type": "光 神秘",
                 "Height": 136,
                 "Weight": 34,
-                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。",
-                "Redirect": "map",
-                "Go": 1612
+                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。"
             },
             {
                 "ID": 4514,
@@ -47551,9 +47509,7 @@
                 "Type": "水 神秘",
                 "Height": 186,
                 "Weight": 77,
-                "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。",
-                "Redirect": "map|module",
-                "Go": "1700;app/GetHuoGuangMainPanel"
+                "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。"
             },
             {
                 "ID": 4516,
@@ -49213,6 +49169,27 @@
                 "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihad2023WarOrdePanel"
+            },
+            {
+                "ID": 4686,
+                "DefName": "帕诺·绿光武装",
+                "Type": "机械 草",
+                "Height": 63,
+                "Weight": 45,
+                "Features": "好伙伴帕诺获得了全新的绿光武装，能够调整武装形态适应复杂环境，是宇宙探索的得力助手。",
+                "Redirect": "map|module",
+                "Go": "1704;app/SpetPNLuGuangWuZhuangMainPanel",
+                "jumptarget": "151/228"
+            },
+            {
+                "ID": 4687,
+                "DefName": "小妮",
+                "Type": "冰 神秘",
+                "Height": 63,
+                "Weight": 45,
+                "Features": "果蔬仓库的管理员，有些内向但工作认真负责。最近，她遇到了离奇的南瓜窃案……",
+                "Redirect": "map|module",
+                "Go": "1704;app/MainLineAdventureOverview"
             }
         ]
     }
