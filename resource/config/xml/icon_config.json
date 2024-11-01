@@ -70,16 +70,6 @@
                 "mouseClickFunc": "app:Yearvip2024MainPanel"
             },
             {
-                "direction": "left_bar",
-                "shownewseer": 0,
-                "priority": 3,
-                "exMapList": 50000,
-                "ui": "vipGiftBoxListCollection",
-                "tips": "周边礼盒信息登记",
-                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:iniVipGiftBoxListCollection",
-                "mouseClickFunc": "app:VIPGiftBoxListCollectionAndStatisticsPanel"
-            },
-            {
                 "direction": "left_side",
                 "priority": 2,
                 "exMapList": 50000,
@@ -177,7 +167,7 @@
                 "exMapList": 50000,
                 "ui": "XingGuangPaNuoBei_icon",
                 "tips": "精灵王争霸赛",
-                "mouseClickFunc": "app:XingGuangPaNuoBeiMainPanel"
+                "mouseClickFunc": "app:StarlightPanoCupAwardsCeremonyMainPanel"
             },
             {
                 "direction": "right_bar",
@@ -187,15 +177,6 @@
                 "ui": "aoTeMan_icon",
                 "tips": "奥特曼联动",
                 "mouseClickFunc": "app:UltramanSeriesGoToMapPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "ceshizhaomu_icon",
-                "tips": "测试招募",
-                "mouseClickFunc": "app:UnityRecruitPanel"
             },
             {
                 "direction": "right_side",

@@ -1179,64 +1179,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4686,
-                        "ImageID": 4686,
+                        "ID": 4688,
+                        "ImageID": 4688,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1704;app/SpetPNLuGuangWuZhuangMainPanel"
+                        "Go": "1705;app/SpetKuLuoMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4687,
-                        "ImageID": 4687,
+                        "ID": 4689,
+                        "ImageID": 4689,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1704;app/MainLineAdventureOverview"
+                        "Go": "1652;app/MonthlyPetInNovember2024Panel"
                     },
                     {
                         "type": 1,
-                        "ID": 664,
-                        "MonID": 4683,
-                        "ImageID": 1400664,
+                        "ID": 669,
+                        "MonID": 4599,
+                        "ImageID": 1400669,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/PaNuoSkinSellPanel"
+                        "Go": "103;app/MasterSpiritNestWanShengSkinForSaleMianPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 665,
-                        "MonID": 4684,
-                        "ImageID": 1400665,
+                        "ID": 670,
+                        "MonID": 3623,
+                        "ImageID": 1400670,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/PaNuoSkinSellPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 666,
-                        "MonID": 4686,
-                        "ImageID": 1400666,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/PaNuoSkinSellPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 667,
-                        "MonID": 4438,
-                        "ImageID": 1400667,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 668,
-                        "MonID": 4686,
-                        "ImageID": 1400668,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1704;app/RepairTheObservationTerraceMainPanel"
+                        "Go": "103;app/GuiMianYouDieSkinPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49185,11 +49158,32 @@
                 "ID": 4687,
                 "DefName": "小妮",
                 "Type": "冰 神秘",
-                "Height": 63,
-                "Weight": 45,
+                "Height": 70,
+                "Weight": 38,
                 "Features": "果蔬仓库的管理员，有些内向但工作认真负责。最近，她遇到了离奇的南瓜窃案……",
                 "Redirect": "map|module",
                 "Go": "1704;app/MainLineAdventureOverview"
+            },
+            {
+                "ID": 4688,
+                "DefName": "库洛妮",
+                "Type": "冰 神秘",
+                "Height": 154,
+                "Weight": 52,
+                "Features": "库洛妮并不喜欢自己的外貌，现在的她经常会化身为小形态，使用“小妮”的身份进行活动。",
+                "Redirect": "map|module",
+                "Go": "1705;app/SpetKuLuoMainPanel",
+                "jumptarget": "151/229"
+            },
+            {
+                "ID": 4689,
+                "DefName": "艾瑞吉",
+                "Type": "远古 草",
+                "Height": 172,
+                "Weight": 49,
+                "Features": "2024年包月精灵，十二诗灵之十一月的柑橘，秋风带来柑橘的清香，橘叶乘着风将丰收的喜悦带向远方……",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInNovember2024Panel"
             }
         ]
     }
