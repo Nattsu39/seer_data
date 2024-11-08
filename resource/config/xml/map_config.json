@@ -440,6 +440,11 @@
                             "FromMap": 12,
                             "PosX": 165,
                             "PosY": 360
+                        },
+                        {
+                            "FromMap": 1706,
+                            "PosX": 460,
+                            "PosY": 220
                         }
                     ]
                 },
@@ -461,6 +466,11 @@
                             "name": "door_1",
                             "hit": "comp_1",
                             "targetID": 12
+                        },
+                        {
+                            "name": "door_2",
+                            "hit": "comp_2",
+                            "targetID": 1706
                         }
                     ]
                 },
@@ -19027,6 +19037,28 @@
                 "y": 400,
                 "sound": "BGM_832",
                 "scenenpc": "4688|1|485|460|20241101|20241108"
+            },
+            {
+                "Entries": {
+                    "Entry": {
+                        "FromMap": 11,
+                        "PosX": 155,
+                        "PosY": 405
+                    }
+                },
+                "changeMapComp": {
+                    "component": {
+                        "name": "door_0",
+                        "hit": "comp_0",
+                        "targetID": 11
+                    }
+                },
+                "id": 1706,
+                "name": "藤蔓通道",
+                "x": 310,
+                "y": 410,
+                "sound": "BGM_833",
+                "scenenpc": "4690|1|435|410|20241108|20241115"
             },
             {
                 "id": 5001,

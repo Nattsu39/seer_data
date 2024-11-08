@@ -1179,37 +1179,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4688,
-                        "ImageID": 4688,
+                        "ID": 4690,
+                        "ImageID": 4690,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1705;app/SpetKuLuoMainPanel"
+                        "Go": "1706;app/SpetBianYiELanMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4689,
-                        "ImageID": 4689,
+                        "ID": 4691,
+                        "ImageID": 4691,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInNovember2024Panel"
+                        "Go": "1706;app/VIPDiscountByArticle20241108MainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4692,
+                        "ImageID": 4692,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1706;app/TrackRareSpiritsGuideMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 669,
-                        "MonID": 4599,
-                        "ImageID": 1400669,
+                        "ID": 671,
+                        "MonID": 4688,
+                        "ImageID": 1400671,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/MasterSpiritNestWanShengSkinForSaleMianPanel"
+                        "Go": "1705;app/PumpkinGuessEnter"
                     },
                     {
                         "type": 1,
-                        "ID": 670,
-                        "MonID": 3623,
-                        "ImageID": 1400670,
+                        "ID": 672,
+                        "MonID": 3529,
+                        "ImageID": 1400672,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/GuiMianYouDieSkinPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49056,9 +49064,7 @@
                 "Type": "轮回 神秘",
                 "Height": 165,
                 "Weight": 43,
-                "Features": "天启星魂不容许任何人探求“虚无”这份自灭的灾祸，即使为此铤而走险的狂人史不绝书，即使无人知晓她名讳的惨烈与厚重。",
-                "Redirect": "map|module",
-                "Go": "103;app/TianQiXingHunEvoMainPanel"
+                "Features": "天启星魂不容许任何人探求“虚无”这份自灭的灾祸，即使为此铤而走险的狂人史不绝书，即使无人知晓她名讳的惨烈与厚重。"
             },
             {
                 "ID": 4678,
@@ -49184,6 +49190,37 @@
                 "Features": "2024年包月精灵，十二诗灵之十一月的柑橘，秋风带来柑橘的清香，橘叶乘着风将丰收的喜悦带向远方……",
                 "Redirect": "map|module",
                 "Go": "1652;app/MonthlyPetInNovember2024Panel"
+            },
+            {
+                "ID": 4690,
+                "DefName": "变异鳄兰",
+                "Type": "暗影 草",
+                "Height": 142,
+                "Weight": 70,
+                "Features": "克洛斯星地心的植物在吸收了庞大的能量后发生了变异，被生存本能所控制的它在不断破坏着克洛斯星。",
+                "Redirect": "map|module",
+                "Go": "1706;app/SpetBianYiELanMainPanel",
+                "jumptarget": "151/230"
+            },
+            {
+                "ID": 4691,
+                "DefName": "墨韵",
+                "Type": "水 龙",
+                "Height": 167,
+                "Weight": 47,
+                "Features": "饱读诗书的龙族少女，只因怀揣着对江湖与侠义的向往而在世间行走，开始了自己的修行之路。",
+                "Redirect": "map|module",
+                "Go": "103;app/VIPDiscountByArticle20241108MainPanel"
+            },
+            {
+                "ID": 4692,
+                "DefName": "无间巨兽",
+                "Type": "超能",
+                "Height": 102,
+                "Weight": 34,
+                "Features": "深渊巨兽的超进化形态，拥有更灵活的身形和更强大的攻击能力，它将成为精灵捕捉场霸主的有力竞争者。",
+                "Redirect": "map|module",
+                "Go": "1706;app/TrackRareSpiritsGuideMainPanel"
             }
         ]
     }
