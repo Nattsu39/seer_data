@@ -1179,45 +1179,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4690,
-                        "ImageID": 4690,
+                        "ID": 4693,
+                        "ImageID": 4693,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1706;app/SpetBianYiELanMainPanel"
+                        "Go": "1707;app/SpetXGMoGuGuaiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4691,
-                        "ImageID": 4691,
+                        "ID": 4694,
+                        "ImageID": 4694,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1706;app/VIPDiscountByArticle20241108MainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4692,
-                        "ImageID": 4692,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1706;app/TrackRareSpiritsGuideMainPanel"
+                        "Go": "1707;app/DiamondHardnessChallengeMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 671,
-                        "MonID": 4688,
-                        "ImageID": 1400671,
+                        "ID": 673,
+                        "MonID": 4693,
+                        "ImageID": 1400673,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1705;app/PumpkinGuessEnter"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 672,
-                        "MonID": 3529,
-                        "ImageID": 1400672,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1707;app/StarlightMushroomMonsterExperienceMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49221,6 +49204,27 @@
                 "Features": "深渊巨兽的超进化形态，拥有更灵活的身形和更强大的攻击能力，它将成为精灵捕捉场霸主的有力竞争者。",
                 "Redirect": "map|module",
                 "Go": "1706;app/TrackRareSpiritsGuideMainPanel"
+            },
+            {
+                "ID": 4693,
+                "DefName": "星光·蘑菇怪",
+                "Type": "草",
+                "Height": 145,
+                "Weight": 93,
+                "Features": "为了守护重要的同伴，克洛斯星回应了小蘑菇的愿望，地心的能量不断注入它的体内，星光·蘑菇怪诞生了！",
+                "Redirect": "map|module",
+                "Go": "1707;app/SpetXGMoGuGuaiMainPanel",
+                "jumptarget": "151/231"
+            },
+            {
+                "ID": 4694,
+                "DefName": "石晶晶",
+                "Type": "远古 地面",
+                "Height": 52,
+                "Weight": 34,
+                "Features": "在克洛斯星奇异能量的影响下，金刚石变异成了神奇的小精灵，如今它还在适应着这具坚硬的小小身体。",
+                "Redirect": "map|module",
+                "Go": "1707;app/DiamondHardnessChallengeMainPanel"
             }
         ]
     }

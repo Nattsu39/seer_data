@@ -40751,7 +40751,7 @@
                                 "Lv": 20
                             },
                             "Id": 1,
-                            "AppearTime": "21 23",
+                            "AppearTime": "0 23",
                             "BossCatchable": 1,
                             "BossVisible": 0,
                             "Name": "卢比"
@@ -40763,7 +40763,7 @@
                                 "Lv": 20
                             },
                             "Id": 2,
-                            "AppearTime": "6 8",
+                            "AppearTime": "0 23",
                             "BossCatchable": 1,
                             "BossVisible": 0,
                             "Name": "艾米"
@@ -40775,7 +40775,7 @@
                                 "Lv": 20
                             },
                             "Id": 3,
-                            "AppearTime": "9 11",
+                            "AppearTime": "0 23",
                             "BossCatchable": 1,
                             "BossVisible": 0,
                             "Name": "寄宿岩"
@@ -40787,7 +40787,7 @@
                                 "Lv": 20
                             },
                             "Id": 4,
-                            "AppearTime": "12 14",
+                            "AppearTime": "0 23",
                             "BossCatchable": 1,
                             "BossVisible": 0,
                             "Name": "阿贡"
@@ -40799,7 +40799,7 @@
                                 "Lv": 20
                             },
                             "Id": 5,
-                            "AppearTime": "15 17",
+                            "AppearTime": "0 23",
                             "BossCatchable": 1,
                             "BossVisible": 0,
                             "Name": "晶岩兽"
@@ -40811,7 +40811,7 @@
                                 "Lv": 20
                             },
                             "Id": 6,
-                            "AppearTime": "18 20",
+                            "AppearTime": "0 23",
                             "BossCatchable": 1,
                             "BossVisible": 0,
                             "Name": "汤尼熊"
@@ -41010,6 +41010,46 @@
                 "InitY": 416
             },
             {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 469,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "16 20"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "16 20"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "16 20"
+                        }
+                    ]
+                },
                 "Bosses": {
                     "Boss": [
                         {
@@ -41045,6 +41085,46 @@
                 "InitY": 440
             },
             {
+                "Monsters": {
+                    "Monster": [
+                        {
+                            "ID": 1450,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 1450,
+                            "Lv": "12 16"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "16 20"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "16 20"
+                        },
+                        {
+                            "ID": 469,
+                            "Lv": "16 20"
+                        }
+                    ]
+                },
                 "ID": 1304,
                 "Name": "暗黑灯海",
                 "InitX": 466,
@@ -45672,6 +45752,27 @@
                 "InitY": 400
             },
             {
+                "Bosses": {
+                    "Boss": {
+                        "BossMon": {
+                            "MonID": 4694,
+                            "Hp": 80,
+                            "Lv": 18
+                        },
+                        "Id": 0,
+                        "AppearTime": "0 23",
+                        "BossCatchable": 1,
+                        "DailyKey": 11902,
+                        "BossVisible": 0,
+                        "Name": "石晶晶"
+                    }
+                },
+                "ID": 1707,
+                "Name": "克洛斯星地心",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -46460,6 +46561,12 @@
             {
                 "ID": 2139,
                 "Name": "藤蔓通道",
+                "InitX": 580,
+                "InitY": 440
+            },
+            {
+                "ID": 2140,
+                "Name": "克洛斯星地心",
                 "InitX": 580,
                 "InitY": 440
             },
@@ -56626,12 +56733,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1706,
+                    "RandMaps": 1707,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1706,
+                    "RandMaps": 1707,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -56643,7 +56750,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20241108,
+                "ID": 20241115,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

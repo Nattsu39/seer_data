@@ -1,12 +1,27 @@
 {
+    "help_tips.json": {
+        "url": "http://seerh5.61.com/resource/config/json/help_tips_f8b9144e.json",
+        "filename": "help_tips.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "side_effect.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/side_effect_acef48a1.json",
+        "filename": "side_effect.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "seerCmdParse.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/seerCmdParse_f13a56f0.json",
-        "filename": "seerCmdParse.json",
+    "shop_config.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/shop_config_2204029a.json",
+        "filename": "shop_config.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "Wishpart.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/Wishpart_bd898960.json",
+        "filename": "Wishpart.json",
         "exception": "ReadTimeout('timed out')"
     }
 }

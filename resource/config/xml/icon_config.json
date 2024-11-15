@@ -70,6 +70,15 @@
                 "mouseClickFunc": "app:Yearvip2024MainPanel"
             },
             {
+                "direction": "left_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "seerNumberPeripheralGiftIcon",
+                "tips": "周边放送",
+                "mouseClickFunc": "app:SeerNumberPeripheralGiftOxLotteryMainPanel"
+            },
+            {
                 "direction": "left_side",
                 "priority": 2,
                 "exMapList": 50000,
@@ -163,11 +172,20 @@
             {
                 "direction": "right_bar",
                 "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "15ZhouNianQing_icon",
+                "tips": "VIP15周年庆典",
+                "mouseClickFunc": "app:Vip15thCollectionPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "aoTeMan_icon",
-                "tips": "奥特曼联动",
-                "mouseClickFunc": "app:UltramanSeriesGoToMapPanel"
+                "ui": "zhoubian_icon",
+                "tips": "周边放送",
+                "mouseClickFunc": "app:SeerNumberPeripheralGiftOxLotteryMainPanel"
             },
             {
                 "direction": "right_side",

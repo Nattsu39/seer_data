@@ -988,7 +988,7 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 1
+            "isshow": 0
         },
         {
             "id": 128700,
@@ -999,7 +999,7 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 1
+            "isshow": 0
         },
         {
             "id": 128720,
@@ -1032,7 +1032,7 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 1
+            "isshow": 0
         },
         {
             "id": 128750,
@@ -1043,7 +1043,7 @@
             "trigger": "界面存在可领取奖励",
             "eliminate": "界面不存在可领取奖励",
             "condition": 0,
-            "isshow": 1
+            "isshow": 0
         },
         {
             "id": 129000,
@@ -1136,10 +1136,21 @@
         {
             "id": 131100,
             "name": "图鉴_图鉴等级",
+            "type": 2,
+            "subtype": 0,
+            "subset": "131120",
+            "trigger": "",
+            "eliminate": "",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 131120,
+            "name": "图鉴等级_奖励",
             "type": 1,
             "subtype": 1,
             "subset": "",
-            "trigger": "界面存在可领取奖励（奖励页签做业务红点）",
+            "trigger": "界面存在可领取奖励",
             "eliminate": "界面不存在可领取奖励",
             "condition": 0,
             "isshow": 1
