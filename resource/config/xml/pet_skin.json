@@ -10974,9 +10974,7 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "海瑟薇",
-                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
-                "GoType": "map|module"
+                "Name": "海瑟薇"
             },
             {
                 "SkinKind": [
@@ -10991,8 +10989,42 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "小蘑菇",
-                "Go": "1707;app/StarlightMushroomMonsterExperienceMainPanel",
+                "Name": "小蘑菇"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 674,
+                "MonID": 4553,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "荆棘之缚·北鸟",
+                "Go": "103;app/GetBeiNiaoSkinPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 675,
+                "MonID": 4343,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "江湖夜雨·凛锋剑心",
+                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
                 "GoType": "map|module"
             }
         ]

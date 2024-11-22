@@ -129,15 +129,6 @@
                 "shownewseer": 0,
                 "priority": 5,
                 "exMapList": 50000,
-                "ui": "yongzhezhengcheng_icon",
-                "tips": "勇者征程",
-                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:onH5Click"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 6,
-                "exMapList": 50000,
                 "ui": "H5icon",
                 "tips": "《赛尔号巅峰之战》",
                 "mouseClickFunc": "app:FlashToH5MainPanel"
@@ -174,9 +165,9 @@
                 "shownewseer": 0,
                 "priority": 4,
                 "exMapList": 50000,
-                "ui": "15ZhouNianQing_icon",
-                "tips": "VIP15周年庆典",
-                "mouseClickFunc": "app:Vip15thCollectionPanel"
+                "ui": "TanSuoZhiNan_icon",
+                "tips": "云霄星异动",
+                "mouseClickFunc": "app:MapStorySeriesGuide"
             },
             {
                 "direction": "right_bar",

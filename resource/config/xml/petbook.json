@@ -1179,28 +1179,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4693,
-                        "ImageID": 4693,
+                        "ID": 4695,
+                        "ImageID": 4695,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1707;app/SpetXGMoGuGuaiMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4694,
-                        "ImageID": 4694,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1707;app/DiamondHardnessChallengeMainPanel"
+                        "Go": "25;app/SpetXiTaNYXMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 673,
-                        "MonID": 4693,
-                        "ImageID": 1400673,
+                        "ID": 674,
+                        "MonID": 4553,
+                        "ImageID": 1400674,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1707;app/StarlightMushroomMonsterExperienceMainPanel"
+                        "Go": "103;app/GetBeiNiaoSkinPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 675,
+                        "MonID": 4343,
+                        "ImageID": 1400675,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -29950,7 +29951,8 @@
                 "Height": 165,
                 "Weight": 48,
                 "Features": "提亚斯的超进化形态！进化后的提亚斯更加美丽动人，但也不要小瞧了她的飞行系魔法！",
-                "mapID": 25
+                "Redirect": "module",
+                "Go": "app/TiyasiSuperEvolveMainPanel"
             },
             {
                 "ID": 2617,
@@ -49225,6 +49227,17 @@
                 "Features": "在克洛斯星奇异能量的影响下，金刚石变异成了神奇的小精灵，如今它还在适应着这具坚硬的小小身体。",
                 "Redirect": "map|module",
                 "Go": "1707;app/DiamondHardnessChallengeMainPanel"
+            },
+            {
+                "ID": 4695,
+                "DefName": "西塔·能源型",
+                "Type": "机械 火",
+                "Height": 80,
+                "Weight": 20,
+                "Features": "于云霄星赫尔卡飞船内部发现的机械精灵，其机体搭载了多个能源模块，为其提供了超长动力和续航。因机械结构、逻辑电路与西塔有诸多相似之处，派特博士便将其命名为西塔·能源型。",
+                "Redirect": "map|module",
+                "Go": "25;app/SpetXiTaNYXMainPanel",
+                "jumptarget": "151/232"
             }
         ]
     }
