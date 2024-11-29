@@ -47,7 +47,7 @@
                 "priority": 1,
                 "exMapList": 50000,
                 "ui": "lotteryIcon",
-                "tips": "契约召唤",
+                "tips": "精灵强化",
                 "mouseClickFunc": "app:TreasureHuntPanel"
             },
             {
@@ -163,20 +163,11 @@
             {
                 "direction": "right_bar",
                 "shownewseer": 0,
-                "priority": 4,
-                "exMapList": 50000,
-                "ui": "TanSuoZhiNan_icon",
-                "tips": "云霄星异动",
-                "mouseClickFunc": "app:MapStorySeriesGuide"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "zhoubian_icon",
-                "tips": "周边放送",
-                "mouseClickFunc": "app:SeerNumberPeripheralGiftOxLotteryMainPanel"
+                "ui": "TanSuoZhiNan_icon",
+                "tips": "赫尔卡拾遗",
+                "mouseClickFunc": "app:MapStorySeriesGuide"
             },
             {
                 "direction": "right_side",

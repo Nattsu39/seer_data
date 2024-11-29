@@ -1618,6 +1618,18 @@
                                         "title": "星光·帕诺杯",
                                         "Desc": "完成【星光·帕诺杯】系列剧情",
                                         "titleColor": "0xFFFFFF"
+                                    },
+                                    {
+                                        "ID": 7,
+                                        "Threshold": 7,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "霜刃曾试",
+                                        "proicon": 1378,
+                                        "SpeNameBonus": 519,
+                                        "title": "霜刃曾试",
+                                        "Desc": "完成【锋雪试剑录】系列剧情",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 161,
@@ -5977,6 +5989,27 @@
                         ],
                         "ID": 49,
                         "Desc": "因子关卡地狱难度"
+                    },
+                    {
+                        "Branch": [
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "侠义之魄",
+                                        "proicon": 1379,
+                                        "Desc": "当期觉醒首次通过【浩瀚昆仑】觉醒试炼"
+                                    }
+                                ],
+                                "ID": 168,
+                                "Desc": "当期觉醒首次通过【浩瀚昆仑】觉醒试炼"
+                            }
+                        ],
+                        "ID": 51,
+                        "Desc": "精灵觉醒"
                     }
                 ],
                 "ID": 2,

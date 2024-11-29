@@ -1983,6 +1983,48 @@
                 "lineInfo": "-649,-174,160,90,0,1|-555,-100,201,0,0,1|-461,-30,153,90,0,2|-370,41,194,0,0,2|-155,41,261,0,0,3|68,41,207,0,0,4|166,-26,147,90,0,4|213,-93,106,0,0,4|361,-93,214,0,0,5|462,-158,140,90,0,5",
                 "ChapterRewardFlagID": 122427,
                 "StoryRewardFlagID": 122428
+            },
+            {
+                "ChapterRewardInfo": {
+                    "PassChapterReward": [
+                        {
+                            "ID": 1,
+                            "NeedPassStoryNum": 2,
+                            "rewardinfo": "1_1706926_2"
+                        },
+                        {
+                            "ID": 2,
+                            "NeedPassStoryNum": 4,
+                            "rewardinfo": "10_161_7"
+                        }
+                    ]
+                },
+                "StoryRewardInfo": {
+                    "PassStoryReward": [
+                        {
+                            "ID": 1,
+                            "PreUnlockStoryID": 0,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "statlogId": 20241129
+                        },
+                        {
+                            "ID": 2,
+                            "PreUnlockStoryID": 1,
+                            "rewardinfo": "1_1_100000;1_1400352_100000;1_400063_3",
+                            "isFuture": 1
+                        }
+                    ]
+                },
+                "ID": 15,
+                "Sort": 6,
+                "Title": "锋雪试剑录",
+                "redID": 2012,
+                "statlogId": 20221125,
+                "Des": "月夜雪逐风,北地剑镝鸣。寒霜凝罗幕，仗剑踏歌行。",
+                "positionInfo": "-270,-152,-392,-208|-270,37,-392,-13",
+                "lineInfo": "-392,-110,207,90,0,1",
+                "ChapterRewardFlagID": 122429,
+                "StoryRewardFlagID": 122430
             }
         ],
         "new": 13
