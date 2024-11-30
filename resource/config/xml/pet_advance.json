@@ -999,6 +999,76 @@
                 "ExCoinB": 3,
                 "Desc": "20240809 神谕进阶-鬼面幽蝶",
                 "StatID": 2408090900
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "165 135 109 70 111 130",
+                        "NewRace": "167 144 111 70 111 137"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2856,
+                        "NewSeId": 6155
+                    },
+                    "spMove": {
+                        "SpMoves": "37691 37692 28910"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 37693
+                    },
+                    "AdvEffect": {
+                        "Id": 1863,
+                        "Des": "<font color='#FF7751'>对手使用攻击技能时当回合自身受到的攻击伤害减少50%且50%闪避对手的攻击，自身体力低于对手时闪避率提升至80%，自身体力高于对手时减伤效果提升至60%\n自身使用技能时随机3项能力等级+1，若使用的技能为攻击技能则攻击、速度额外+1，若使用的技能为属性技能则对手下回合先制-2，若本回合使用的技能无效，则下回合使用技能时上述效果取消技能类型要求同时触发（boss无效）</font>"
+                    },
+                    "MonsterId": 3729
+                },
+                "Battle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 3622,
+                            "BossID": 1010056,
+                            "Desc": "——我不会忘记那次背叛，我必须知道，真正的你是谁。"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 3606,
+                            "BossID": 1010057,
+                            "Desc": "——星球好不容易恢复了稳定，我绝对不允许它再次被侵犯。"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 3680,
+                            "BossID": 1010058,
+                            "Desc": "——大暗黑天的党羽，什么时候又敢如此招摇了？"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 3665,
+                            "BossID": 1010059,
+                            "Desc": "——生命……是死亡的终结，死亡……是生命的开端。"
+                        }
+                    ],
+                    "OutNum": "5_6_7",
+                    "OutPro": "200_350_450",
+                    "FreeBattleKey": 206190,
+                    "FreeBattleCnt": 5
+                },
+                "Exchange": {
+                    "ItemID": "1726188_1726189_1726190",
+                    "ProductID": "260913_260914_260915"
+                },
+                "QianDuan": {},
+                "ID": 15,
+                "TimeFlag": 1058,
+                "SubFreeKey": 27,
+                "SubCostKey": 28,
+                "AllProgress": 4,
+                "PerCostCoinA": 85,
+                "OutItemKey": 123613,
+                "ExCoinB": 3,
+                "Desc": "20240809 神谕进阶-鬼面幽蝶",
+                "StatID": 2408090900
             }
         ],
         "BackMonsters": {
