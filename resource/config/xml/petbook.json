@@ -1203,44 +1203,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4696,
-                        "ImageID": 4696,
+                        "ID": 4702,
+                        "ImageID": 4702,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "30;app/SpetQYLXZhiYanMainPanel"
+                        "Go": "1712;app/SpetShuangJiSuoLingMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4697,
-                        "ImageID": 4697,
+                        "ID": 4703,
+                        "ImageID": 4703,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/JieLuoEnCompletePanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4698,
-                        "ImageID": 4698,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInDecember2024Panel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4699,
-                        "ImageID": 4699,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "30;app/WakeupYiTaOfMemoryMainPanel"
+                        "Redirect": "map",
+                        "Go": 1712
                     },
                     {
                         "type": 1,
-                        "ID": 676,
-                        "MonID": 4697,
-                        "ImageID": 1400676,
+                        "ID": 678,
+                        "MonID": 4333,
+                        "ImageID": 1400678,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/JieLuoEnCompletePanel"
+                        "Go": "103;app/AiBoLaKeSkinSellPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -41420,7 +41404,7 @@
                 "mapID": 1367,
                 "Label": 1,
                 "jumptarget": 118,
-                "Target": 150068
+                "Target": 150067
             },
             {
                 "ID": 3867,
@@ -41683,7 +41667,8 @@
                 "Features": "双姝并蒂妙曼迷离。风姿卓越千裳降临！千裳似乎和千花有一些莫名的联系...",
                 "mapID": 1385,
                 "Label": "0,2,3",
-                "jumptarget": 113
+                "jumptarget": 113,
+                "Target": 150068
             },
             {
                 "ID": 3895,
@@ -45370,7 +45355,8 @@
                 "Features": "全新的功勋兑换精灵，可以自由的操纵沙石发动攻击，画有獠牙的面罩似乎在刻意的隐藏些什么......",
                 "Redirect": "map|module",
                 "Go": "1147;app/PveRewardMallMainPanel",
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 4275,
@@ -46620,7 +46606,7 @@
                 "Redirect": "map|module",
                 "Go": "1563;app/SpetHTKHWMPanel",
                 "jumptarget": "151/99",
-                "Target": "153201/98"
+                "Target": "153201/99"
             },
             {
                 "ID": 4396,
@@ -47798,7 +47784,7 @@
                 "Redirect": "map|module",
                 "Go": "1615;app/SpetBPDNanShuangMainPanel",
                 "jumptarget": "151/154",
-                "Target": "153201/151"
+                "Target": "153201/154"
             },
             {
                 "ID": 4500,
@@ -47834,7 +47820,7 @@
                 "Redirect": "map|module",
                 "Go": "1616;app/SpetZhuoYunMainPanel",
                 "jumptarget": "151/156",
-                "Target": "153201/126"
+                "Target": "153201/156"
             },
             {
                 "ID": 4515,
@@ -49325,7 +49311,7 @@
                 "Redirect": "map|module",
                 "Go": "1691;app/SpetWuWeiJueZheMainPanel",
                 "jumptarget": "151/218",
-                "Target": "153201/228"
+                "Target": "153201/218"
             },
             {
                 "ID": 4662,
@@ -49345,9 +49331,7 @@
                 "Type": "火 战斗",
                 "Height": 172,
                 "Weight": 51,
-                "Features": "在战斗中关银屏领悟了所学武学的精髓，激发了自身真正的能力，在战斗中她将所向披靡！",
-                "Redirect": "map|module",
-                "Go": "103;app/GuanYinPingEvolutionarySalesMainPanel"
+                "Features": "在战斗中关银屏领悟了所学武学的精髓，激发了自身真正的能力，在战斗中她将所向披靡！"
             },
             {
                 "ID": 4664,
@@ -49635,9 +49619,7 @@
                 "Type": "超能",
                 "Height": 102,
                 "Weight": 34,
-                "Features": "深渊巨兽的超进化形态，拥有更灵活的身形和更强大的攻击能力，它将成为精灵捕捉场霸主的有力竞争者。",
-                "Redirect": "map|module",
-                "Go": "1706;app/TrackRareSpiritsGuideMainPanel"
+                "Features": "深渊巨兽的超进化形态，拥有更灵活的身形和更强大的攻击能力，它将成为精灵捕捉场霸主的有力竞争者。"
             },
             {
                 "ID": 4693,
@@ -49658,8 +49640,8 @@
                 "Height": 52,
                 "Weight": 34,
                 "Features": "在克洛斯星奇异能量的影响下，金刚石变异成了神奇的小精灵，如今它还在适应着这具坚硬的小小身体。",
-                "Redirect": "map|module",
-                "Go": "1707;app/DiamondHardnessChallengeMainPanel"
+                "Redirect": "map",
+                "Go": 1707
             },
             {
                 "ID": 4695,
@@ -49714,6 +49696,50 @@
                 "Features": "伊塔是由废弃零件拼凑出来的小家伙，其智能水平远低于普通的机械精灵。尽管它的记忆晶体也是拼合而成，但它仍会努力记录与你在一起的每一刻经历。",
                 "Redirect": "map|module",
                 "Go": "30;app/WakeupYiTaOfMemoryMainPanel"
+            },
+            {
+                "ID": 4700,
+                "DefName": "米格罗斯",
+                "Type": "机械 地面",
+                "Height": 126,
+                "Weight": 65,
+                "Features": "米格罗斯是过去赫尔卡文明制造出的能源型机器人，它可以将能源储备到身后的能源罐中，在战斗时释放出惊人的能量。",
+                "Redirect": "module",
+                "Go": "app/SpetMiGeLuoSiMainPanel",
+                "jumptarget": "151/234",
+                "Target": "153201/234"
+            },
+            {
+                "ID": 4701,
+                "DefName": "霜爪雪貂",
+                "Type": "冰 暗影",
+                "Height": 82,
+                "Weight": 27,
+                "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！",
+                "Redirect": "module",
+                "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
+            },
+            {
+                "ID": 4702,
+                "DefName": "霜寂锁灵",
+                "Type": "混沌 冰",
+                "Height": 276,
+                "Weight": 112,
+                "Features": "传说中在古老秘境守护着宝物的雪山巨人终于现身，失去理智的它将用寒冰之力消灭所有入侵者！",
+                "Redirect": "map|module",
+                "Go": "1712;app/SpetShuangJiSuoLingMainPanel",
+                "jumptarget": "151/235",
+                "Target": "153201/235"
+            },
+            {
+                "ID": 4703,
+                "DefName": "波波鱼",
+                "Type": "电",
+                "Height": 45,
+                "Weight": 18,
+                "Features": "赫尔卡星的本土鱼类，据生物研究证明其拥有难以想象的环境适应力和进化潜力，这或许就是其种族能够留存至今的关键所在。",
+                "Redirect": "map",
+                "Go": 1712
             }
         ]
     }

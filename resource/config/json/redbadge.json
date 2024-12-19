@@ -1,6 +1,39 @@
 {
     "data": [
         {
+            "id": 1,
+            "name": "限时_星际探索限时激励",
+            "type": 2,
+            "subtype": 0,
+            "subset": "2;3",
+            "trigger": "",
+            "eliminate": "",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 2,
+            "name": "星际探索限时激励_星球奖励",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "限时激励存在未领取的星球进度奖励",
+            "eliminate": "限时激励没有未领取的星球进度奖励",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 3,
+            "name": "星际探索限时激励_裂隙奖励",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "限时激励存在未领取的裂隙星级奖励",
+            "eliminate": "限时激励没有未领取的裂隙星级奖励",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
             "id": 110000,
             "name": "主界面_个人信息",
             "type": 2,
@@ -298,6 +331,50 @@
             "isshow": 1
         },
         {
+            "id": 113000,
+            "name": "主界面_邮件",
+            "type": 1,
+            "subtype": 3,
+            "subset": "",
+            "trigger": "存在未读邮件（具体邮件上做业务红点）",
+            "eliminate": "不存在未读邮件",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 114000,
+            "name": "主界面_好友",
+            "type": 2,
+            "subtype": 0,
+            "subset": "114300;114500",
+            "trigger": "",
+            "eliminate": "",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 114300,
+            "name": "好友_好友申请",
+            "type": 1,
+            "subtype": 3,
+            "subset": "",
+            "trigger": "存在未处理好友申请",
+            "eliminate": "不存在未处理好友申请",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 114500,
+            "name": "好友_友谊之星",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "界面存在可领取友谊之星",
+            "eliminate": "界面不存在可领取友谊之星",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
             "id": 115000,
             "name": "主界面_航程指南",
             "type": 2,
@@ -423,7 +500,7 @@
             "name": "主界面_活动中心",
             "type": 2,
             "subtype": 0,
-            "subset": "116100",
+            "subset": "116100;116200",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -443,6 +520,28 @@
         {
             "id": 116110,
             "name": "常驻_星愿好礼",
+            "type": 2,
+            "subtype": 0,
+            "subset": "116111;116112",
+            "trigger": "界面存在可许愿次数",
+            "eliminate": "界面不存在可许愿次数",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 116111,
+            "name": "星愿好礼_签到",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "界面当日可签到领奖",
+            "eliminate": "界面当日不可签到领奖",
+            "condition": 0,
+            "isshow": 0
+        },
+        {
+            "id": 116112,
+            "name": "星愿好礼_许愿",
             "type": 1,
             "subtype": 1,
             "subset": "",
@@ -492,6 +591,17 @@
             "subset": "",
             "trigger": "客户端缓存无点击记录",
             "eliminate": "客户端缓存有点击记录",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 116200,
+            "name": "活动中心_限时",
+            "type": 2,
+            "subtype": 0,
+            "subset": "1",
+            "trigger": "",
+            "eliminate": "",
             "condition": 0,
             "isshow": 1
         },
@@ -573,6 +683,17 @@
             "isshow": 1
         },
         {
+            "id": 120000,
+            "name": "主界面_聊天信息区域",
+            "type": 1,
+            "subtype": 3,
+            "subset": "",
+            "trigger": "存在未查看消息（具体页签上做业务红点）",
+            "eliminate": "不存在未查看消息",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
             "id": 121000,
             "name": "主界面_商城",
             "type": 2,
@@ -650,11 +771,22 @@
             "isshow": 1
         },
         {
+            "id": 122001,
+            "name": "主界面_星际探索和空间裂隙",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "处在空间裂隙开启时间内，且已完成星际探索最后一关",
+            "eliminate": "不处在空间裂隙开启时间内，或未完成星际探索最后一关",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
             "id": 122100,
             "name": "星际探索和空间裂隙_奖励",
             "type": 2,
             "subtype": 0,
-            "subset": "122110;122120",
+            "subset": "122120",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -1314,7 +1446,7 @@
             "name": "全局通道_活动中心",
             "type": 2,
             "subtype": 0,
-            "subset": "116100",
+            "subset": "116100;116200",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -1387,6 +1519,17 @@
             "isshow": 1
         },
         {
+            "id": 221000,
+            "name": "全局通道_星际探索和空间裂隙",
+            "type": 2,
+            "subtype": 0,
+            "subset": "122000",
+            "trigger": "",
+            "eliminate": "",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
             "id": 223000,
             "name": "全局通道_个人信息",
             "type": 2,
@@ -1416,6 +1559,17 @@
             "subset": "",
             "trigger": "客户端缓存无点击记录（具体页签做业务红点）",
             "eliminate": "客户端缓存有点击记录",
+            "condition": 0,
+            "isshow": 1
+        },
+        {
+            "id": 228000,
+            "name": "全局通道_邮件",
+            "type": 2,
+            "subtype": 0,
+            "subset": "113000",
+            "trigger": "",
+            "eliminate": "",
             "condition": 0,
             "isshow": 1
         },
