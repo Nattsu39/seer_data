@@ -1203,28 +1203,46 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4702,
-                        "ImageID": 4702,
+                        "ID": 4704,
+                        "ImageID": 4704,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1712;app/SpetShuangJiSuoLingMainPanel"
+                        "Go": "1713;app/SpetJiGanTiKaMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4703,
-                        "ImageID": 4703,
+                        "ID": 4705,
+                        "ImageID": 4705,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1712
+                        "Redirect": "map|module",
+                        "Go": "1714;app/MainLineAdventureOverview"
                     },
                     {
                         "type": 1,
-                        "ID": 678,
-                        "MonID": 4333,
-                        "ImageID": 1400678,
+                        "ID": 679,
+                        "MonID": 4278,
+                        "ImageID": 1400679,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/AiBoLaKeSkinSellPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 680,
+                        "MonID": 4642,
+                        "ImageID": 1400680,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/AiMuHeiZiSkinSellPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 681,
+                        "MonID": 4542,
+                        "ImageID": 1400681,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1714;app/WinterGiftExchangeMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49673,9 +49691,7 @@
                 "Type": "光 飞行",
                 "Height": 178,
                 "Weight": 54,
-                "Features": "杰洛恩在光的照耀下进一步淬炼了双翼，光的精灵终于以完整的姿态现身世间！",
-                "Redirect": "map|module",
-                "Go": "103;app/JieLuoEnCompletePanel"
+                "Features": "杰洛恩在光的照耀下进一步淬炼了双翼，光的精灵终于以完整的姿态现身世间！"
             },
             {
                 "ID": 4698,
@@ -49715,9 +49731,7 @@
                 "Type": "冰 暗影",
                 "Height": 82,
                 "Weight": 27,
-                "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！",
-                "Redirect": "module",
-                "Go": "app/IceAndSnowFestivalSecondBombMainPanel"
+                "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！"
             },
             {
                 "ID": 4702,
@@ -49740,6 +49754,28 @@
                 "Features": "赫尔卡星的本土鱼类，据生物研究证明其拥有难以想象的环境适应力和进化潜力，这或许就是其种族能够留存至今的关键所在。",
                 "Redirect": "map",
                 "Go": 1712
+            },
+            {
+                "ID": 4704,
+                "DefName": "吉甘提卡",
+                "Type": "超能",
+                "Height": 269,
+                "Weight": 143,
+                "Features": "尘封的雪山秘宝突然苏醒，祖系一族的吉甘提卡终于从沉睡中重获天日，拥有强大力量的它将击退所有对它有敌意的“危险分子”！",
+                "Redirect": "map|module",
+                "Go": "1713;app/SpetJiGanTiKaMainPanel",
+                "jumptarget": "151/236",
+                "Target": "153201/236"
+            },
+            {
+                "ID": 4705,
+                "DefName": "塔琳-MKII",
+                "Type": "机械 超能",
+                "Height": 164,
+                "Weight": 42,
+                "Features": "塔琳-MKII是赫尔卡长老特别定制的家政智械，她经过了人格化的改造，配备了先进的情感模块，平日里也充当着奥菲利娅老师的职责。",
+                "Redirect": "map|module",
+                "Go": "1714;app/MainLineAdventureOverview"
             }
         ]
     }
