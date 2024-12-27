@@ -17558,6 +17558,23 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 3364,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241122,
+                    "End": 2025021410,
+                    "Map": 25,
+                    "Name": "星际探索指南+云霄星异动",
+                    "Title": "星际探索指南",
+                    "Redirect": "map|module",
+                    "Go": "25;app/MapStorySeriesGuide"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 3396,
                     "isNew": 1,
                     "kinds": 1,
@@ -17581,7 +17598,7 @@
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20241213,
-                    "End": 2024122710,
+                    "End": 2025021410,
                     "Map": 1712,
                     "Name": "赫尔卡集合面板",
                     "Title": "重返赫尔卡 第一期",
@@ -17639,6 +17656,110 @@
                     "Title": "破译时空之门",
                     "Redirect": "map|module",
                     "Go": "1712;app/TimeSpaceDoorStudyNO1MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3406,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241220,
+                    "End": "*",
+                    "Map": 1714,
+                    "Name": "年费个人故事",
+                    "Title": "机械与少女",
+                    "Redirect": "map|module",
+                    "Go": "1714;app/MainLineAdventureChapterPanel&&160005"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4704
+                    },
+                    "ID": 3407,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241220,
+                    "End": "*",
+                    "Map": 1713,
+                    "Name": "极限威能 秘宝之灵",
+                    "Title": "吉甘提卡",
+                    "Redirect": "map|module",
+                    "Go": "1713;app/SpetJiGanTiKaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3408,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241220,
+                    "End": 2025021410,
+                    "Map": 1714,
+                    "Name": "时空之门的研究第二期",
+                    "Title": "时空之门的研究",
+                    "Redirect": "map|module",
+                    "Go": "1714;app/TimeSpaceDoorStudyNO1MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3409,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241220,
+                    "End": "*",
+                    "Map": 1713,
+                    "Name": "锋雪试剑录",
+                    "Title": "万载一梦",
+                    "Redirect": "map|module",
+                    "Go": "1713;app/MainLineAdventureChapterPanel&&150004"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3411,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241220,
+                    "End": 2025021410,
+                    "Map": 1714,
+                    "Name": "赫尔卡集合面板",
+                    "Title": "重返赫尔卡 第二期",
+                    "Redirect": "map|module",
+                    "Go": "1714;app/ComebackHeErKa1220GoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4705
+                    },
+                    "ID": 3416,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241220,
+                    "End": "*",
+                    "Map": 1714,
+                    "Name": "塔琳-MKII",
+                    "Title": "塔琳-MKII",
+                    "Redirect": "map|module",
+                    "Go": "1714;app/MainLineAdventureOverview"
                 }
             ]
         },
@@ -55444,23 +55565,6 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3364,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241122,
-                    "End": 2024112910,
-                    "Map": 25,
-                    "Name": "星际探索指南+云霄星异动",
-                    "Title": "星际探索指南",
-                    "Redirect": "map|module",
-                    "Go": "25;app/MapStorySeriesGuide"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
                     "ID": 3351,
                     "isNew": 1,
                     "kinds": 1,
@@ -55728,31 +55832,6 @@
                     "Title": "探秘水银湖生命",
                     "Redirect": "map",
                     "Go": 1712
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3148,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20240712,
-                    "End": "*",
-                    "Map": 1652,
-                    "Name": "刻印回溯常驻",
-                    "Title": "刻印回溯 特权更新",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/Yearvip2024ExclusivecapacityPanel"
                 },
                 {
                     "Details": {
@@ -55771,6 +55850,184 @@
                     "Redirect": "map|module",
                     "Go": "103;app/AdvancedPetBackMainPanel"
                 },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3353,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241115,
+                    "End": 2024122710,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3398,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241213,
+                    "End": 2024122710,
+                    "Map": 1652,
+                    "Name": "空元行者即将离开",
+                    "Title": "空元行者即将离开",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/Year2024PetLeaveSoonMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3404,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241213,
+                    "End": 2024122710,
+                    "Map": 103,
+                    "Name": "拉伯克皮肤售卖",
+                    "Title": "暖阳礼遇",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AiBoLaKeSkinSellPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3369,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241122,
+                    "End": 2024122710,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3376,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241129,
+                    "End": 2024122710,
+                    "Map": 1652,
+                    "Name": "12月包月精灵",
+                    "Title": "12月包月精灵",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/MonthlyPetInDecember2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3415,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241220,
+                    "End": 2024122710,
+                    "Map": 103,
+                    "Name": "哀目黑子皮肤售卖",
+                    "Title": "雪夜漫步",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AiMuHeiZiSkinSellPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3410,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241220,
+                    "End": 2024122710,
+                    "Map": 103,
+                    "Name": "2025年费预约礼包",
+                    "Title": "2025年费即将到来",
+                    "Redirect": "map|module",
+                    "Go": "103;app/YearlyPetYuYuePanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3414,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241220,
+                    "End": 2024122710,
+                    "Map": 1713,
+                    "Name": "祖系巨人VS雪山巨人",
+                    "Title": "寒眠雪山的激战",
+                    "Redirect": "map|module",
+                    "Go": "1713;app/AncestralGiantVsSnowMountainGiantMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3412,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241220,
+                    "End": 2024122710,
+                    "Map": 1714,
+                    "Name": "冬日礼物交换",
+                    "Title": "冬日礼物交换",
+                    "Redirect": "map|module",
+                    "Go": "1714;app/WinterGiftExchangeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3148,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20240712,
+                    "End": "*",
+                    "Map": 1652,
+                    "Name": "刻印回溯常驻",
+                    "Title": "刻印回溯 特权更新",
+                    "Redirect": "map|module",
+                    "Go": "1652;app/Yearvip2024ExclusivecapacityPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 2
@@ -55841,57 +56098,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3353,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241115,
-                    "End": 2024122710,
-                    "Map": 103,
-                    "Name": "VIP特惠商城更新",
-                    "Title": "VIP权益更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3369,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241122,
-                    "End": 2024122710,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3376,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241129,
-                    "End": 2024122710,
-                    "Map": 1652,
-                    "Name": "12月包月精灵",
-                    "Title": "12月包月精灵",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/MonthlyPetInDecember2024Panel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 3383,
@@ -55944,160 +56150,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3398,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241213,
-                    "End": 2024122710,
-                    "Map": 1652,
-                    "Name": "空元行者即将离开",
-                    "Title": "空元行者即将离开",
-                    "Redirect": "map|module",
-                    "Go": "1652;app/Year2024PetLeaveSoonMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3404,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241213,
-                    "End": 2024122710,
-                    "Map": 103,
-                    "Name": "拉伯克皮肤售卖",
-                    "Title": "暖阳礼遇",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AiBoLaKeSkinSellPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3406,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241220,
-                    "End": "*",
-                    "Map": 1714,
-                    "Name": "年费个人故事",
-                    "Title": "机械与少女",
-                    "Redirect": "map|module",
-                    "Go": "1714;app/MainLineAdventureChapterPanel&&160005"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4704
-                    },
-                    "ID": 3407,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20241220,
-                    "End": "*",
-                    "Map": 1713,
-                    "Name": "极限威能 秘宝之灵",
-                    "Title": "吉甘提卡",
-                    "Redirect": "map|module",
-                    "Go": "1713;app/SpetJiGanTiKaMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3408,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241220,
-                    "End": 2025021410,
-                    "Map": 1714,
-                    "Name": "时空之门的研究第二期",
-                    "Title": "时空之门的研究",
-                    "Redirect": "map|module",
-                    "Go": "1714;app/TimeSpaceDoorStudyNO1MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3409,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241220,
-                    "End": "*",
-                    "Map": 1713,
-                    "Name": "锋雪试剑录",
-                    "Title": "万载一梦",
-                    "Redirect": "map|module",
-                    "Go": "1713;app/MainLineAdventureChapterPanel&&150004"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3410,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241220,
-                    "End": 2024122710,
-                    "Map": 103,
-                    "Name": "2025年费预约礼包",
-                    "Title": "2025年费即将到来",
-                    "Redirect": "map|module",
-                    "Go": "103;app/YearlyPetYuYuePanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3411,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241220,
-                    "End": 2024122710,
-                    "Map": 1714,
-                    "Name": "赫尔卡集合面板",
-                    "Title": "重返赫尔卡 第二期",
-                    "Redirect": "map|module",
-                    "Go": "1714;app/ComebackHeErKa1220GoToMapPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3412,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241220,
-                    "End": 2024122710,
-                    "Map": 1714,
-                    "Name": "冬日礼物交换",
-                    "Title": "冬日礼物交换",
-                    "Redirect": "map|module",
-                    "Go": "1714;app/WinterGiftExchangeMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3413,
                     "isNew": 1,
                     "kinds": 1,
@@ -56115,53 +56167,260 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3414,
+                    "ID": 3417,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20241220,
-                    "End": 2024122710,
-                    "Map": 1713,
-                    "Name": "祖系巨人VS雪山巨人",
-                    "Title": "寒眠雪山的激战",
+                    "Start": 20241227,
+                    "End": 2025021410,
+                    "Map": 1716,
+                    "Name": "赫尔卡星的一天",
+                    "Title": "赫尔卡星的一天",
                     "Redirect": "map|module",
-                    "Go": "1713;app/AncestralGiantVsSnowMountainGiantMainPanel"
+                    "Go": "1716;app/HeErKaActivityMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4707
+                    },
+                    "ID": 3418,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241227,
+                    "End": "*",
+                    "Map": 1716,
+                    "Name": "融合意识 武备巅峰",
+                    "Title": "卡塔·武装型",
+                    "Redirect": "map|module",
+                    "Go": "1716;app/SpetKaTaWZXMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3415,
+                    "ID": 3419,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20241220,
-                    "End": 2024122710,
-                    "Map": 103,
-                    "Name": "哀目黑子皮肤售卖",
-                    "Title": "雪夜漫步",
+                    "Start": 20241227,
+                    "End": 2025122610,
+                    "Map": 1715,
+                    "Name": "2025年费输出",
+                    "Title": "黎明之歌",
                     "Redirect": "map|module",
-                    "Go": "103;app/AiMuHeiZiSkinSellPanel"
+                    "Go": "1715;app/Yearvip2025MainPanel",
+                    "Settop": 2
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3420,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025122610,
+                    "Map": 1715,
+                    "Name": "年费伴生皮肤售卖",
+                    "Title": "午后的悠闲时光",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/YearPet2025SkinPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3421,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241227,
+                    "End": 2025010310,
+                    "Map": 1716,
+                    "Name": "[复用]元旦节精灵庆典",
+                    "Title": "祖系新星的试炼",
+                    "Redirect": "map|module",
+                    "Go": "1716;app/NewYearsDaySpiritPageantMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3422,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025013110,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3423,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241227,
+                    "End": 2025020710,
+                    "Name": "精灵图鉴点亮计划",
+                    "Title": "图鉴点亮计划第十期",
+                    "Redirect": "module",
+                    "Go": "app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3424,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025012410,
+                    "Map": 1715,
+                    "Name": "1月包月精灵",
+                    "Title": "美人鱼之歌",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/MonthlyPetIn2025Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3425,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241227,
+                    "End": 2025021410,
+                    "Map": 1716,
+                    "Name": "超级融合士兵改造活动",
+                    "Title": "超级融合士兵",
+                    "Redirect": "map|module",
+                    "Go": "1716;app/SuperFusionSoldierRefitMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3426,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241227,
+                    "End": 2025021410,
+                    "Map": 1716,
+                    "Name": "千年赫尔卡之谜·伊始",
+                    "Title": "千年赫尔卡之谜·伊始",
+                    "Redirect": "map|module",
+                    "Go": "1716;app/QianNianHeErKaZhiMiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3427,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250101,
+                    "End": 20250102,
+                    "Map": 103,
+                    "Name": "欢庆元旦 好礼相送",
+                    "Title": "欢庆元旦 好礼相送",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewYear2023SignInPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3428,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3429,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241227,
+                    "End": "*",
+                    "Map": 1716,
+                    "Name": "千年赫尔卡",
+                    "Title": "文明的终末 1-4节",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/MainLineAdventureChapterPanel&&100100001"
                 },
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4705
+                        "monID": 4706
                     },
-                    "ID": 3416,
+                    "ID": 3430,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20241220,
-                    "End": "*",
-                    "Map": 1714,
-                    "Name": "塔琳-MKII",
-                    "Title": "塔琳-MKII",
+                    "Start": 20241227,
+                    "End": 2025122610,
+                    "Map": 1716,
+                    "Name": "2025年费输出",
+                    "Title": "奥菲利娅",
                     "Redirect": "map|module",
-                    "Go": "1714;app/MainLineAdventureOverview"
+                    "Go": "1716;app/Yearvip2025MainPanel",
+                    "Settop": 1
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4708
+                    },
+                    "ID": 3431,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20241227,
+                    "End": 2025122610,
+                    "Map": 1716,
+                    "Name": "1月包月精灵",
+                    "Title": "波尼啵妮",
+                    "Redirect": "map|module",
+                    "Go": "1716;app/VipMouthPet2025Panel"
                 },
                 {
                     "Details": {
@@ -56231,8 +56490,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3410,3404,3415,3398,3413",
-            "shopcenter": "2274:1,1687:3,3391:21,3410:10,3413:13,3415:17,3398:10,3404:18,3395:20,3376:9,3369:14,3353:15,3347:12,3309:47,3269:43,3148:16"
+            "Important": "3419,3420,3422,3424,3428",
+            "shopcenter": "2274:1,1687:3,3391:21,3419:9,3420:10,3422:11,3424:14,3428:15,3413:13,3395:12,3347:20,3309:47"
         }
     }
 }

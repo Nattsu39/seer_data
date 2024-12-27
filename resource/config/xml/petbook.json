@@ -1203,46 +1203,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4704,
-                        "ImageID": 4704,
+                        "ID": 4706,
+                        "ImageID": 4706,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1713;app/SpetJiGanTiKaMainPanel"
+                        "Go": "1715;app/Yearvip2025MainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4705,
-                        "ImageID": 4705,
+                        "ID": 4707,
+                        "ImageID": 4707,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1714;app/MainLineAdventureOverview"
+                        "Go": "1716;app/SpetKaTaWZXMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4708,
+                        "ImageID": 4708,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1715;app/VipMouthPet2025Panel"
                     },
                     {
                         "type": 1,
-                        "ID": 679,
-                        "MonID": 4278,
-                        "ImageID": 1400679,
+                        "ID": 682,
+                        "MonID": 4706,
+                        "ImageID": 1400682,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 680,
-                        "MonID": 4642,
-                        "ImageID": 1400680,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/AiMuHeiZiSkinSellPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 681,
-                        "MonID": 4542,
-                        "ImageID": 1400681,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1714;app/WinterGiftExchangeMainPanel"
+                        "Go": "1715;app/YearPet2025SkinPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49776,6 +49766,38 @@
                 "Features": "塔琳-MKII是赫尔卡长老特别定制的家政智械，她经过了人格化的改造，配备了先进的情感模块，平日里也充当着奥菲利娅老师的职责。",
                 "Redirect": "map|module",
                 "Go": "1714;app/MainLineAdventureOverview"
+            },
+            {
+                "ID": 4706,
+                "DefName": "奥菲利娅",
+                "Type": "远古 电",
+                "Height": 169,
+                "Weight": 47,
+                "Features": "2025年年费精灵，奥菲利娅，最后的赫尔卡人。她的身上都埋藏着怎样的秘密呢？",
+                "Redirect": "map|module",
+                "Go": "1715;app/Yearvip2025MainPanel"
+            },
+            {
+                "ID": 4707,
+                "DefName": "卡塔·武装型",
+                "Type": "机械 战斗",
+                "Height": 143,
+                "Weight": 69,
+                "Features": "赫尔卡星基于赫卡特改进的先进型武装素体，代号“赫卡忒罗斯”。要完整发挥这具素体的实力，需要搭载融合人格系统。派特博士将其命名为卡塔·武装型。",
+                "Redirect": "map|module",
+                "Go": "1716;app/SpetKaTaWZXMainPanel",
+                "jumptarget": "151/237",
+                "Target": "153201/237"
+            },
+            {
+                "ID": 4708,
+                "DefName": "波尼啵妮",
+                "Type": "水 次元",
+                "Height": 177,
+                "Weight": 46,
+                "Features": "2025年包月精灵，赫星童话之《美人鱼之歌》，故事中有一位热爱收集闪亮石头的人鱼少女，梦想着让这个世界变得更加绚烂。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
             }
         ]
     }

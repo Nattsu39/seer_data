@@ -65,9 +65,9 @@
                 "priority": 2,
                 "exMapList": 50000,
                 "ui": "yearvip_icon",
-                "tips": "2024年费",
+                "tips": "2025年费",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016",
-                "mouseClickFunc": "app:Yearvip2024MainPanel"
+                "mouseClickFunc": "app:Yearvip2025MainPanel"
             },
             {
                 "direction": "left_bar",
@@ -175,8 +175,18 @@
                 "priority": 4,
                 "exMapList": 50000,
                 "ui": "gobacktoherka_icon",
-                "tips": "重返赫尔卡",
-                "mouseClickFunc": "app:ComebackHeErKa1220GoToMapPanel"
+                "tips": "千年赫尔卡之谜",
+                "mouseClickFunc": "app:QianNianHeErKaZhiMiGoToMapPanel"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 6,
+                "exMapList": 50000,
+                "ui": "unityceshi2_icon",
+                "tips": "测试招募",
+                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initUnityRecruitIcon",
+                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:clickUnityRecruitIcon"
             },
             {
                 "direction": "right_side",

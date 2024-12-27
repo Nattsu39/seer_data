@@ -63730,6 +63730,28 @@
                         },
                         "id": 10,
                         "name": "20241220-罗奇2"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "罗开",
+                            "npcID": 5789,
+                            "dialogArr": "瞭望露台出现了一个宝箱，我还没有打开过呢，是你为我准备的礼物吗？",
+                            "questionArr": "…"
+                        },
+                        "id": 11,
+                        "name": "20241220-罗开1"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "罗开",
+                            "npcID": 5789,
+                            "dialogArr": "什么？这个宝箱不是你给我准备的礼物？唉，白高兴我一场。",
+                            "questionArr": "…"
+                        },
+                        "id": 12,
+                        "name": "20241220-罗开2"
                     }
                 ],
                 "activityID": 169,
@@ -64342,6 +64364,115 @@
                         ],
                         "id": 16,
                         "name": "事件3-水银湖里的生物-正确回答"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "赛尔！我想起来了当时大机器人建造时候的样子。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "嗯？伊塔亲眼见证过这么重大的项目。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "伊塔",
+                                "npcID": 5804,
+                                "dialogArr": "可不是嘛！作为时空之门首席研究员的助手，伊塔可是很能干的呢。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "伊塔",
+                                "npcID": 5804,
+                                "dialogArr": "伊塔还记得，在大机器人通电以后，它的双眼可是会不停的发光哦。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "伊塔",
+                                "npcID": 5804,
+                                "dialogArr": "但伊塔有点想不起来大机器人的眼睛是什么颜色了，赛尔你能帮伊塔回想一下吗？",
+                                "questionArr": "紫色与绿色/红色与蓝色/黄色与橙色/蓝色与粉色"
+                            }
+                        ],
+                        "id": 17,
+                        "name": "事件4-巨型机器人的眼睛颜色"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "真的是这样吗？好像与伊塔印象里的有所不同。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "如果大机器人的眼睛发出奇奇怪怪的颜色与光芒了，那就意味着伊塔要跟着研究者们加班了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "对不起！不小心勾起了伊塔痛苦的回忆！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "没关系的！只要伊塔能和大家在一起，就会很开心！和在赛尔身边一样！",
+                                "questionArr": "（伊塔递给你了一些礼物）"
+                            }
+                        ],
+                        "id": 18,
+                        "name": "事件4-巨型机器人的眼睛颜色-错误回答"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "嗯！果然是这个颜色！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "如果大机器人通电后，双眼是发出这个颜色的话，那就代表大家的研究工作都顺利完成了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "原来大机器人的眼睛就是故障提示灯呀。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "没错没错！赛尔好聪明！不亏是伊塔的可靠伙伴！",
+                                "questionArr": "（伊塔递给你了一些礼物）"
+                            }
+                        ],
+                        "id": 19,
+                        "name": "事件4-巨型机器人的眼睛颜色-正确回答"
                     }
                 ],
                 "activityID": 170,
@@ -65763,6 +65894,44 @@
                         },
                         "id": 13,
                         "name": "奥菲利娅的房间1714-交互1"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "这里遗漏了一批金属零件，是用于建造巨型机器人的吗？",
+                            "questionArr": "…"
+                        },
+                        "id": 14,
+                        "name": "机器人中心-交互4"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "咳咳…这个气体怎么对着我喷啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "（仔细检查）看结构应该是给巨型机器人散热用的。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "诶？好像有一些零件也被喷出来了。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 15,
+                        "name": "机器人中心-交互5"
                     }
                 ],
                 "activityID": 172,
@@ -66085,6 +66254,409 @@
                 ],
                 "activityID": 173,
                 "name": "20241213时空之门的研究第一期"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "最上方是行动力，我们只有15次行动机会，一旦归零任务就会失败，所以每一步都要谨慎考虑。",
+                            "questionArr": "…"
+                        },
+                        "id": 1,
+                        "name": "玩法1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "奥菲利娅",
+                                "npcID": 5823,
+                                "dialogArr": "地图上总共展示了6个可以前往的地点，前往地点触发事件后会扣除1次行动力。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "奥菲利娅",
+                                "npcID": 5823,
+                                "dialogArr": "在事件中我们可能会遇到各种选项，每个选项都会影响我们的任务进度、属性值或特性。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "玩法2"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "这里就是我们的属性值，总共分为四个维度，经济、理智、体力和健康，任意一个归零都会导致我们任务失败哦！要时刻小心触发事件的应对选择。",
+                            "questionArr": "…"
+                        },
+                        "id": 3,
+                        "name": "玩法3"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "奥菲利娅",
+                                "npcID": 5823,
+                                "dialogArr": "属性值的上方则是我们的所拥有的特性，从下往上数，第一个是我的专属特性，第二个则是每次任务开始随机获得的特性。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "奥菲利娅",
+                                "npcID": 5823,
+                                "dialogArr": "哦呀，我们还有机会在任务过程中获得第三个特性，前两个特性不会改变，第三个特性则会因为事件经过而变化。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "玩法4"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "最下方会有提示，时刻提醒我们下一步该做什么，如果忘了我之前说的内容，也欢迎重新了解【游戏玩法】哦~",
+                            "questionArr": "…"
+                        },
+                        "id": 5,
+                        "name": "玩法5"
+                    }
+                ],
+                "activityID": 174,
+                "name": "20241227赫尔卡星的一天·奥菲利娅篇"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "长老，士兵们的人格系统数据已顺利接入，实验相关的融合设备正在初始化。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赛尔 ",
+                                "npcID": 5790,
+                                "dialogArr": "一切准备就绪后启动融合人格实验。此次实验是为了进一步校准融合系统的参数，创造能够完全适配赫卡忒罗斯战术素体的意识数据。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5796,
+                                "dialogArr": "长老，我这边还有一个问题。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赛尔   ",
+                                "npcID": 5796,
+                                "dialogArr": "此前的融合人格实验，离不开奥菲利娅小姐实时监控传输数据。目前她不在现场，我们缺少相关研究成员的情况下，是否会对实验顺利推进造成影响。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩   ",
+                                "npcID": 5790,
+                                "dialogArr": "我得承认，奥菲利娅在此前的实验中提供了强有力的数据保障，依凭她的专业能力，我们才能随时把控住实验过程中的变量。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赛尔   ",
+                                "npcID": 5790,
+                                "dialogArr": "这次实验所设置的参数，也是基于上一次实验总结而来。奥菲利娅帮助我们实现了从0到1的突破，接下来的便是进一步的校准与验证实验规模扩张的可行性。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩   ",
+                                "npcID": 5790,
+                                "dialogArr": "但诸位也知道，奥菲利娅不同于我们，她的身体并不与我们一样能够长时间投入科研一线，我另外准许她了一段时间的假期。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩   ",
+                                "npcID": 5790,
+                                "dialogArr": "此次实验过程中，我将暂时接替奥菲利娅的数据监控工作。除此之外，诸位还有什么问题吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "长老，融合设备初始化已完成，可随时开启实验。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赛尔   ",
+                                "npcID": 5790,
+                                "dialogArr": "很好，那就请诸位回到各自的岗位上，融合人格实验将在0.1个标准时后再次开启。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩   ",
+                                "npcID": 5790,
+                                "dialogArr": "不负赫尔卡之荣光。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "爱丽丝 ",
+                                "npcID": 5796,
+                                "dialogArr": "不负赫尔卡之荣光。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "首次进入面板强弹"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "融合数据，正常。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者B",
+                                "npcID": 5796,
+                                "dialogArr": "主脑状态，正常。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者C",
+                                "npcID": 5797,
+                                "dialogArr": "冗余数据比例，36.84%。相较于此前实验下降0.92个百分点。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "很好，准备机体系统装载，再次检查线路桥接状态。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "系统正在装载……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "装载完成，接通电源链接，准备开机。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫卡忒罗斯",
+                                "npcID": 5794,
+                                "dialogArr": "（头部视显点亮）……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫卡忒罗斯",
+                                "npcID": 5794,
+                                "dialogArr": "这就是全新的战斗素体吗？长老，我感到前所未有的强大！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "很高兴见到你的归来，士兵。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者C",
+                                "npcID": 5797,
+                                "dialogArr": "太好了，融合人格实验再次成功了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者D",
+                                "npcID": 5798,
+                                "dialogArr": "赫卡忒罗斯需要进行全面检查，接下来就交给我们吧。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "如此一来，融合实验规模扩张是可行的。随我命令下去，向工程部和军部扩大实验士兵的招募规模。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "首次正常融合"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "融合数据，正常。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者B",
+                                "npcID": 5796,
+                                "dialogArr": "主脑状态，正常。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者C",
+                                "npcID": 5797,
+                                "dialogArr": "警告！冗余数据比例，52.54%。严重超出预期增量！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫卡忒罗斯",
+                                "npcID": 5794,
+                                "dialogArr": "（头部视显点亮，闪烁诡异的红光）……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "我还没开始接下来的机体系统装载啊，怎么回事！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者B",
+                                "npcID": 5796,
+                                "dialogArr": "快！快断开电源！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者D",
+                                "npcID": 5798,
+                                "dialogArr": "赫卡忒罗斯电源链接已断开！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "快将备份数据覆盖士兵的素体！别乱了分寸！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "研究员，检查一下，为何这次融合实验诞出了远超预期的冗余数据？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者C",
+                                "npcID": 5797,
+                                "dialogArr": "抱歉，长老，我们正在全力排查原因。融合实验中还有太多我们无法探知的变量情况，而每次冗余数据的量也是随机产生的，暂未发现明显的规律。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "再去检查一下士兵们的意识数据的情况。没什么问题的话，请诸位回到各自的工作岗位上去，1个标准时后，重启融合实验。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "可是长老……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "我明白诸位可能有所顾忌，但这只是海量实验中的情况个例，此前的融合实验我们都已经顺利推进下去。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "相关研究员会将此次参数记录下去，识别为错误内容。此后未经许可将不得配置此段参数。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "现在诸位还有什么疑问吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者B",
+                                "npcID": 5796,
+                                "dialogArr": "长老，士兵的意识数据已恢复，融合设备也已重启。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "很好，我宣布，1个标准时后，重启融合实验。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "首次变异融合"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "融合数据异常波动，请求终止融合实验！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "允许终止，即刻调用备份数据覆盖士兵素体。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者C",
+                                "npcID": 5797,
+                                "dialogArr": "备份数据已从云端下载，正在传输至士兵素体内部，目前传输状态一切正常。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "研究员，这次融合实验失败的原因是什么？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "长老，与此前融合异常类似，也是完全无法提前预知的情况。我们这边也在全力排查原因，相关研究员也将此次参数记录下去了，不会再次启用此段参数。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "很好，文明的进步本就是曲折发展的过程，只有在不断地试错中，我们才能不断地前进。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "研究者A",
+                                "npcID": 5795,
+                                "dialogArr": "不负赫尔卡之荣光！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "赫尔卡长老",
+                                "npcID": 5790,
+                                "dialogArr": "不负赫尔卡之荣光。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "首次失败融合"
+                    }
+                ],
+                "activityID": 175,
+                "name": "20241227超级融合士兵"
             }
         ]
     }
