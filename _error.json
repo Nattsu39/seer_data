@@ -1,7 +1,17 @@
 {
+    "pass_shop.json": {
+        "url": "http://seerh5.61.com/resource/config/json/pass_shop_ee2517c0.json",
+        "filename": "pass_shop.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
+    },
+    "bufferrecord.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/bufferrecord_a7158034.json",
+        "filename": "bufferrecord.json",
+        "exception": "ReadTimeout('timed out')"
     }
 }
