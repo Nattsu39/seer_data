@@ -1203,36 +1203,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4706,
-                        "ImageID": 4706,
+                        "ID": 4709,
+                        "ImageID": 4709,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1715;app/Yearvip2025MainPanel"
+                        "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4707,
-                        "ImageID": 4707,
+                        "ID": 4710,
+                        "ImageID": 4710,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1716;app/SpetKaTaWZXMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4708,
-                        "ImageID": 4708,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1715;app/VipMouthPet2025Panel"
+                        "Redirect": "map",
+                        "Go": 1717
                     },
                     {
                         "type": 1,
-                        "ID": 682,
-                        "MonID": 4706,
-                        "ImageID": 1400682,
+                        "ID": 683,
+                        "MonID": 4327,
+                        "ImageID": 1400683,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1715;app/YearPet2025SkinPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49798,6 +49790,28 @@
                 "Features": "2025年包月精灵，赫星童话之《美人鱼之歌》，故事中有一位热爱收集闪亮石头的人鱼少女，梦想着让这个世界变得更加绚烂。",
                 "Redirect": "map|module",
                 "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4709,
+                "DefName": "原始预言·吉尼亚斯",
+                "Type": "圣灵 电",
+                "Height": 143,
+                "Weight": 69,
+                "Features": "无人知晓吉尼亚斯是什么时候诞生的，正如赫星铭刻的预言中所记载，远古而神圣的精灵将永远守护着精灵圣殿。",
+                "Redirect": "map|module",
+                "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel",
+                "jumptarget": "151/238",
+                "Target": "153201/238"
+            },
+            {
+                "ID": 4710,
+                "DefName": "古斯",
+                "Type": "电",
+                "Height": 143,
+                "Weight": 69,
+                "Features": "与吉斯十分相像的古斯只存在于真正的精灵圣殿中，当吉斯在输电过程中遭到损坏，古斯就会以“维修者”的身份出现进行维护。",
+                "Redirect": "map",
+                "Go": 1717
             }
         ]
     }

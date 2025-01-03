@@ -25922,6 +25922,680 @@
                     {
                         "dialog": [
                             {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "等离子流平稳，没有太空飓风和磁暴，难得的好天气！做些什么好呢？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "NONO ",
+                                "npcID": 5687,
+                                "dialogArr": "叮——肖恩博士申请访问基地！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "肖恩博士？不会有什么紧张刺激的探险任务吧，访问确认！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 1,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "小赛尔，你在基地真是太好了！",
+                                "questionArr": "博士有什么事吗？"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "还记得失忆的侠客吗？我基于部分记忆残片逆推演算出了整个原本的记忆空间，",
+                                "questionArr": "记得记得，当时我们重现了侠客回忆中的露西欧之洋，很美！"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "之后我又在此基础上进行了改良，现在这项技术的演算母本扩大到了整个宇宙！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "！！如果以整个宇宙的今天为基础逆推，那不就能看到整个宇宙过去发生的事情了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "没错，失落的文明、隐秘的星球……甚至宇宙的起源，都有可能通过其残存的痕迹复原全貌！",
+                                "questionArr": "那我能做些什么呢！"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "扩大母本范围给主机带来了巨量运算负荷，回溯的时间和空间都非常不稳定，我需要一位赛尔进入其中帮忙测试————",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "船上你的冒险经验最为丰富，怎么样，要亲眼看看历史银河最真实的过往吗？",
+                                "questionArr": "就等这句话了！"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "太好了！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 2,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "这就是宇宙逆推演算的实体装置——0xff0000回溯之门0xffffff！",
+                                "questionArr": "好酷！"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "开启后它会联通现实与演算空间，我将留在这里负责数据接收和处理，届时我们可以通过专用通信线路保持联系，怎么样，你准备好了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "没问题！不过博士，我们的目的地是哪里？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "赫尔卡文明！曾经我们有幸回到过千年前的赫星，见证了文明巨人的轰然坍塌。只可惜当时情况危急，没有机会收集详细数据…",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "明白了！目的地：千年前的赫尔卡星！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "目的地参数设置完毕，那么实验，序列号S-SCPT-H001，正式启动！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 3,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "这里是……克洛斯星？！博士，我们是不是搞错了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "（信道噪音）……目标参数可能在回溯过程中出现了偏差，通过回溯之门返航吧，我们再试一次！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 4,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "回溯之门？！发生什么了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "小赛尔，情况不妙，我这边的回溯之门过载故障了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "故障了？是说我现在回不去了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "操作手册……紧急情况处理……第三条……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "等等！这不是博士的发明吗？为什么还要查询操作手册！！！被困在数据空间里慢慢生锈这种事不要啊！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "核查到了！当前空间出现演算错误，主机陷入了死循环，极高的运算负荷导致回溯之门直接过载！",
+                                "questionArr": "……这说明？"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "这说明这个空间中存在着某个演算错误的产物，某个0xff0000“时空的死结”0xffffff。需要你将其解开，设备才能继续运行",
+                                "questionArr": "时空的死结？"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "是的，演算并非100%准确，在过往万千可能性中抓取真实是非常困难的，有时需要计算机的一点“想象力”来辅助，",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "这种高效的运算模式的确很容易出现故障，不过这也说明你的周围一定存在什么不寻常之处，只要解决它就能恢复正常了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "不寻常……阳光似乎灼热得有些过分了，我的主板温度正在攀升……咦？有什么声音！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 6,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "巨型闪光皮皮 ",
+                                "npcID": 5676,
+                                "dialogArr": "哔啵！！！！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔       ",
+                                "npcID": 5545,
+                                "dialogArr": "呜哇哇哇！好大只的闪光皮皮……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士",
+                                "npcID": 5675,
+                                "dialogArr": "这只精灵应该就是数据异常的产物！超量的0xff0000克洛斯光辐射0xffffff让它产生了异变，应该有什么办法……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔       ",
+                                "npcID": 5545,
+                                "dialogArr": "……冲过来啦！！",
+                                "questionArr": "（进入战斗）"
+                            }
+                        ],
+                        "id": 7,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "肖恩博士 ",
+                            "npcID": 5675,
+                            "dialogArr": "克洛斯光中蕴含着庞大的能量，或许0xff0000草系精灵0xffffff可以帮忙吸收，小赛尔，再试试看吧！",
+                            "questionArr": "…"
+                        },
+                        "id": 8,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "肖恩博士 ",
+                            "npcID": 5675,
+                            "dialogArr": "超量的克洛斯光辐射让闪光皮皮产生了异变，小赛尔，试着用 0xff0000草系精灵0xffffff战胜它，帮它驱散辐射吧！",
+                            "questionArr": "…"
+                        },
+                        "id": 9,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "成功了！果然是这样！皮皮恢复正常大小后回溯之门就重启了！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "太好了，小赛尔！我将门的参数重新校对回了千年前的赫尔卡星，小赛尔，再试一次！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 10,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "钢铁、废墟、巨人的遗骸、远处的水银湖畔……赫尔卡星？千年前的赫尔卡星！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "太好了！我们成功了！数据采集模块启动！最大吞吐！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "不过坏消息是，这里似乎也存在演算错误，门又封闭了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "这附近一定有什么0xff0000异常0xffffff，赛尔，0xff0000四处看看吧！0xffffff",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 11,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "是奇塔！赫尔卡星的智慧机械！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "奇怪的奇塔   ",
+                                "npcID": 5677,
+                                "dialogArr": "——————————",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "看起来是坏掉了，对比精灵图鉴，0xff0000头部似乎缺少了重要的核心……0xffffff",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "不如就在附近找找看吧，或许能有什么发现！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 12,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "奇塔似乎是坏掉了，对比精灵图鉴，0xff0000头部似乎缺少了重要的核心……0xffffff",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "不如就在附近找找看吧，或许能有什么发现！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 13,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "奇塔 ",
+                                "npcID": 102,
+                                "dialogArr": "（远眺）拜伦号，已经启航。使命，完成了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "奇塔！你还好吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "奇塔   ",
+                                "npcID": 102,
+                                "dialogArr": "一切都好，我的主。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "主？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "奇塔   ",
+                                "npcID": 102,
+                                "dialogArr": "原来你已忘记。没关系，不重要。从此，赫尔卡星将不再有文明临幸，我们，是最后的余火。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "你……有什么打算？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "奇塔   ",
+                                "npcID": 102,
+                                "dialogArr": "（看向西塔）废墟中还有许多像我们一样的垃圾，回收，一种使命……",
+                                "questionArr": "别这样说……"
+                            },
+                            {
+                                "npcName": "奇塔   ",
+                                "npcID": 102,
+                                "dialogArr": "不，我们自愿成为垃圾，这是唯一的希望。希望……解析不能。回收，必要的事，然后…在废土上……重建一个机械的王国！",
+                                "questionArr": "加油！"
+                            }
+                        ],
+                        "id": 14,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "奇塔 ",
+                            "npcID": 102,
+                            "dialogArr": "机械的……崭新国度！",
+                            "questionArr": "…"
+                        },
+                        "id": 15,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "西塔！西塔！听得懂我说话吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "机械生命，智慧，同伴，应当合作……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "难道它的语言模块坏掉了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "中枢，损毁重度，语言，传递无法……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "嗯……理解，非常困难！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "信息，识别不能，丢失，记忆水晶……请求，帮忙找回……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "似乎是丢了什么重要的东西？不如就0xff0000在附近找找看0xffffff吧，或许能有什么发现！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 16,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "信息，识别不能，丢失，记忆水晶……请求，帮忙找回……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "西塔似乎是丢了什么重要的东西。不如就0xff0000在附近找找看0xffffff吧，或许能有什么发现！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 17,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "记忆水晶 找回！同胞，感谢！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "不客气不客气，举手之劳！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "水晶，颜色失去，存储，泄漏全部。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "诶？是不能用了吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "（说起来，以前在塞西利亚星拾到的记忆水晶都是五颜六色的……）",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "虽然你没有痛苦的表情，但同样作为智械生命，我能理解你的心情。你为什么要找回记忆？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "自我，已经忘记，方向，已经迷失",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "无法帮你恢复记忆，但的确能帮你一个小忙————你的名字是西塔，赫尔卡星了不起的能源机械精灵！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "西塔   ",
+                                "npcID": 59,
+                                "dialogArr": "西塔……西塔……西塔……",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 18,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "西塔   ",
+                            "npcID": 59,
+                            "dialogArr": "西塔……一个名字……",
+                            "questionArr": "…"
+                        },
+                        "id": 19,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": {
+                            "npcName": "小赛尔 ",
+                            "npcID": 5545,
+                            "dialogArr": "看样子那场被镌入史诗的战争已经落幕，传说巨人的残骸已然没有了温度……这已经是千年前的故事了。",
+                            "questionArr": "…"
+                        },
+                        "id": 20,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "回溯之门又正常运行了！看来异常已经全部排除了。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "赫星文明的数据也已经采集完毕，接下来就是解析的工作了。门坐标已调回现实空间，辛苦你了，小赛尔！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "我回来咯！",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 21,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "这里月色真美，千年前的月光哀悼钢铁的文明——如果纽斯看到，一定能写一篇不错的稿子吧？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "是时候回去了",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 22,
+                        "name": "面板2"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "数据缺失严重？我……回来了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔 ",
+                                "npcID": 5545,
+                                "dialogArr": "博士！重大发现！传送坐标又发生了偏移——我看到了一颗从未见过的蓝色星球，似乎有文明的痕迹。但当我靠近它的时候，突然间就回到了这里。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "强制传送是因为你靠近的地点数据严重缺失，系统出于保护将你强制弹出……",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "……那颗星球，从未在赛尔号的星图上出现过，数据缺失意味着，也许从未有其它文明踏足。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "会不会是，这颗星球已经灭亡了，我在推演空间中看到的只是过去残存的影像？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "不。我查了数据记录，星球所在的时间线和我们一致。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "换句话说，这颗神秘的星球，就在此刻宇宙的某处！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "小赛尔   ",
+                                "npcID": 5545,
+                                "dialogArr": "这么说……我们可以去那颗星球冒险了？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "没错！巨大飞船和未知文明……这真是一种唯美的巧合，时空学的浪漫相遇！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "npcName": "肖恩博士 ",
+                                "npcID": 5675,
+                                "dialogArr": "啊哈！我已经定位了那颗星球的坐标，迁跃通道建立！赛尔，现在你已经可以通过0xff0000地图系统0xffffff传送到这颗星球了！",
+                                "questionArr": "好耶！"
+                            }
+                        ],
+                        "id": 23,
+                        "name": "面板2"
+                    }
+                ],
+                "activityID": 67,
+                "name": "奇妙之夏Chapter0"
+            },
+            {
+                "item": [
+                    {
+                        "dialog": [
+                            {
                                 "index": 1,
                                 "npcName": "克洛托",
                                 "npcID": 4231,
@@ -63740,7 +64414,7 @@
                             "questionArr": "…"
                         },
                         "id": 11,
-                        "name": "20241220-罗开1"
+                        "name": "20241227-罗开1"
                     },
                     {
                         "dialog": {
@@ -63751,7 +64425,29 @@
                             "questionArr": "…"
                         },
                         "id": 12,
-                        "name": "20241220-罗开2"
+                        "name": "20241227-罗开2"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "雷蒙",
+                            "npcID": 5602,
+                            "dialogArr": "我的办公室里多了一盒礼箱，是哪位毕业学员送给教官的礼物吗？",
+                            "questionArr": "…"
+                        },
+                        "id": 13,
+                        "name": "20250103-雷蒙1"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "雷蒙",
+                            "npcID": 5602,
+                            "dialogArr": "不过礼箱内的物品我也用不上，那就送给你了吧，祝学员探索顺利。",
+                            "questionArr": "…"
+                        },
+                        "id": 14,
+                        "name": "20250103-雷蒙2"
                     }
                 ],
                 "activityID": 169,
@@ -65932,6 +66628,50 @@
                         ],
                         "id": 15,
                         "name": "机器人中心-交互5"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "这里面卡着一些金属零件，是它们导致齿轮无法旋转的吗？",
+                            "questionArr": "…"
+                        },
+                        "id": 16,
+                        "name": "真正的精灵圣殿1717-交互齿轮1"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "这里面卡着一些金属零件，是它们导致齿轮无法旋转的吗？",
+                            "questionArr": "…"
+                        },
+                        "id": 17,
+                        "name": "真正的精灵圣殿1717-交互齿轮2"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "奇怪，这里漂浮着的精灵怎么没有反应？它们是在休眠吗？",
+                            "questionArr": "…"
+                        },
+                        "id": 18,
+                        "name": "真正的精灵圣殿1717-交互休眠古斯"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "这块宝石似乎唤醒了附近的精灵？快来调查一下吧。",
+                            "questionArr": "…"
+                        },
+                        "id": 19,
+                        "name": "真正的精灵圣殿1717-交互中心宝石"
                     }
                 ],
                 "activityID": 172,
@@ -66657,6 +67397,170 @@
                 ],
                 "activityID": 175,
                 "name": "20241227超级融合士兵"
+            },
+            {
+                "item": {
+                    "dialog": [
+                        {
+                            "index": 1,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "得到了长老的许可，这次我可以重新回到精灵圣殿了。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 2,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "上次的造访实在有些仓促，这次我想自己实地调查一下圣殿内部的情况。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 3,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "来者何人？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 4,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "（诶，忘记还有一个超大的吉尼亚斯守护在圣殿里了。）",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 5,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "（它看上去实在是太威严了，试试看能不能说服它吧。）",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 6,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "我是赫尔卡星长老的助手，时空之门的首席研究员。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 7,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "你来此地是何意？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 8,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "瞻仰雷神大人，并向他献上崇高的敬意。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 9,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "很遗憾，此刻雷神并不在此处。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 10,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "无妨，我回到精灵圣殿并不只为了献意，我还想了解更多关于此地的历史与记忆。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 11,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "你的意愿着实诚恳，但很可惜，你未得到吾等与圣殿的认可，不可长时间在此处逗留。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 12,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "那我为何之前跟随长老可以自由出入圣殿，是因为长老他得到了你们的认可吗？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 13,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "不错，赫尔卡星长老的意志吾们早已知晓，圣殿之门也将永远为他敞开。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 14,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "既然长老可以得到你们的认可，那我一定也可以！你也别小瞧了我的意志啊！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 15,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "你可想得到吾们与圣殿的认可？此乃并非虚言？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 16,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "正是如此！",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 17,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "（短暂的沉默后）也罢，吾已知晓你的本意，请随吾来接受圣殿的试炼。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 18,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "（试炼？我这是触发了什么不得了的东西吗？）",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 19,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "那…那我再多问一嘴，这个试炼是怎样的一个形式啊？",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 20,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "长久以往，吾等在精灵圣殿内组成能源网络，以接受雷神馈送之电能，为赫尔卡星输送源源不断的能量。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 21,
+                            "npcName": "原始预言·吉尼亚斯",
+                            "npcID": 4709,
+                            "dialogArr": "而试炼的内容，便是协助吾等进行能源网络的维护，吾等将在其中见证试炼者之态度与意志。",
+                            "questionArr": "…"
+                        },
+                        {
+                            "index": 22,
+                            "npcName": "奥菲利娅",
+                            "npcID": 5823,
+                            "dialogArr": "我明白了，我一定会赢得你们的认可的。",
+                            "questionArr": "…"
+                        }
+                    ],
+                    "id": 1,
+                    "name": "活动前置"
+                },
+                "activityID": 176,
+                "name": "20250103吉斯的能源网络"
             }
         ]
     }
