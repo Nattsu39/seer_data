@@ -64448,6 +64448,28 @@
                         },
                         "id": 14,
                         "name": "20250103-雷蒙2"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "机械师茜茜",
+                            "npcID": 5589,
+                            "dialogArr": "机械室里忽然多出了一个箱子，里面会有怎样的材料呢？",
+                            "questionArr": "…"
+                        },
+                        "id": 15,
+                        "name": "20250110-茜茜"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "机械师茜茜",
+                            "npcID": 5589,
+                            "dialogArr": "唉，宝箱里的材料不能被用来打造机械铠甲，实在是太可惜了。",
+                            "questionArr": "…"
+                        },
+                        "id": 16,
+                        "name": "20250110-茜茜"
                     }
                 ],
                 "activityID": 169,
@@ -65169,6 +65191,101 @@
                         ],
                         "id": 19,
                         "name": "事件4-巨型机器人的眼睛颜色-正确回答"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "伊塔最近想去赫尔卡星的地下深处进行调查。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "赫尔卡星的地下吗？我记得需要通过神秘通道才行。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "伊塔",
+                                "npcID": 5804,
+                                "dialogArr": "没错！伊塔和赛尔想的一样！于是伊塔前往了神秘通道。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 4,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "可是开启通往地下的电梯需要找到正确颜色的宝石，伊塔不知道，赛尔可以帮伊塔想想吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 5,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "开启神秘通道的宝石吗？我记得颜色是……",
+                                "questionArr": "红色/黄色/蓝色/绿色"
+                            }
+                        ],
+                        "id": 20,
+                        "name": "事件5-开启神秘通道的宝石"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "嗯…是这个颜色吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "伊塔相信赛尔的答案，伊塔决定再去神秘通道试一试！",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "这是伊塔找到的零件，就都送给赛尔了！",
+                                "questionArr": "（伊塔递给你了一些零件）"
+                            }
+                        ],
+                        "id": 21,
+                        "name": "事件5-错误回答"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "果然是这个颜色的宝石吗？",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "好！伊塔这就去神秘通道试一试，这次一定能顺利前往地下。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 3,
+                                "npcName": "伊塔",
+                                "npcID": 4699,
+                                "dialogArr": "还好有赛尔在旁边帮助伊塔，伊塔决定把找到的零件都送给赛尔！",
+                                "questionArr": "（伊塔递给你了一些零件）"
+                            }
+                        ],
+                        "id": 22,
+                        "name": "事件5-正确回答"
                     }
                 ],
                 "activityID": 170,
@@ -66672,6 +66789,57 @@
                         },
                         "id": 19,
                         "name": "真正的精灵圣殿1717-交互中心宝石"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "唔…这里的电流好强烈啊。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "（检查一下）没想到下面还藏有一些金属零件。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 20,
+                        "name": "赫尔卡星荒地-交互电坑1"
+                    },
+                    {
+                        "dialog": [
+                            {
+                                "index": 1,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "借着电火花迸射的光线，可以看到下面似乎有什么东西。",
+                                "questionArr": "…"
+                            },
+                            {
+                                "index": 2,
+                                "npcName": "赛尔",
+                                "npcID": 5545,
+                                "dialogArr": "（检查一下）原来是一些金属零件。",
+                                "questionArr": "…"
+                            }
+                        ],
+                        "id": 21,
+                        "name": "赫尔卡星荒地-交互电坑2"
+                    },
+                    {
+                        "dialog": {
+                            "index": 1,
+                            "npcName": "赛尔",
+                            "npcID": 5545,
+                            "dialogArr": "似乎有些零件卡在这里，保险起见我还是收走吧。",
+                            "questionArr": "…"
+                        },
+                        "id": 22,
+                        "name": "中控台-交互"
                     }
                 ],
                 "activityID": 172,

@@ -1203,28 +1203,46 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4709,
-                        "ImageID": 4709,
+                        "ID": 4711,
+                        "ImageID": 4711,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel"
+                        "Go": "1718;app/SpetQiTaJSXMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4710,
-                        "ImageID": 4710,
+                        "ID": 4712,
+                        "ImageID": 4712,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1717
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023ShopPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 683,
-                        "MonID": 4327,
-                        "ImageID": 1400683,
+                        "ID": 684,
+                        "MonID": 4633,
+                        "ImageID": 1400684,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/KeLaoLiFeiSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 685,
+                        "MonID": 4712,
+                        "ImageID": 1400685,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023ShopPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 686,
+                        "MonID": 4484,
+                        "ImageID": 1400686,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/SeerInterstellarPassportMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49795,8 +49813,8 @@
                 "ID": 4709,
                 "DefName": "原始预言·吉尼亚斯",
                 "Type": "圣灵 电",
-                "Height": 143,
-                "Weight": 69,
+                "Height": 147,
+                "Weight": 49,
                 "Features": "无人知晓吉尼亚斯是什么时候诞生的，正如赫星铭刻的预言中所记载，远古而神圣的精灵将永远守护着精灵圣殿。",
                 "Redirect": "map|module",
                 "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel",
@@ -49807,11 +49825,33 @@
                 "ID": 4710,
                 "DefName": "古斯",
                 "Type": "电",
-                "Height": 143,
-                "Weight": 69,
+                "Height": 53,
+                "Weight": 21,
                 "Features": "与吉斯十分相像的古斯只存在于真正的精灵圣殿中，当吉斯在输电过程中遭到损坏，古斯就会以“维修者”的身份出现进行维护。",
                 "Redirect": "map",
                 "Go": 1717
+            },
+            {
+                "ID": 4711,
+                "DefName": "奇塔·解算型",
+                "Type": "机械 超能",
+                "Height": 139,
+                "Weight": 45,
+                "Features": "这具特化素体专供于赫尔卡星的研究室，拥有着赫尔卡文明最强大的智能集成，它90%的时间都与科研主脑链接，进行着数据解析的工作，派特博士将其命名为奇塔·解算型。",
+                "Redirect": "map|module",
+                "Go": "1718;app/SpetQiTaJSXMainPanel",
+                "jumptarget": "151/239",
+                "Target": "153201/239"
+            },
+            {
+                "ID": 4712,
+                "DefName": "龙琰",
+                "Type": "邪灵 龙",
+                "Height": 136,
+                "Weight": 39,
+                "Features": "巅峰S5赛季【湮光】开启！凭依于龙焉的神秘古龙。曾经统治一方，暴虐无道的邪恶龙帝——她是这么自称的。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023ShopPanel"
             }
         ]
     }

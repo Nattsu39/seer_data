@@ -758,74 +758,38 @@
         },
         {
             "id": 121000,
-            "name": "主界面_商城",
+            "name": "主界面_火星港商城",
             "type": 2,
             "subtype": 0,
-            "subset": "121200;121600;121800",
+            "subset": "121300",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
             "isshow": 1,
-            "desc": ""
+            "desc": "β"
         },
         {
-            "id": 121200,
-            "name": "商城_礼包",
+            "id": 121300,
+            "name": "火星港商城_超值礼包",
             "type": 2,
             "subtype": 0,
-            "subset": "121210;121220",
+            "subset": "121330",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
             "isshow": 1,
-            "desc": ""
+            "desc": "β"
         },
         {
-            "id": 121210,
-            "name": "礼包_日常礼包",
+            "id": 121330,
+            "name": "超值礼包_活动礼包",
             "type": 1,
             "subtype": 1,
             "subset": "",
-            "trigger": "VIP，当日界面存在可领奖VIP每日礼包",
-            "eliminate": "当日界面不存在可领奖VIP每日礼包",
+            "trigger": "界面存在可领奖礼包",
+            "eliminate": "界面不存在可领奖礼包",
             "condition": 0,
             "isshow": 1,
-            "desc": ""
-        },
-        {
-            "id": 121220,
-            "name": "礼包_限时礼包",
-            "type": 1,
-            "subtype": 1,
-            "subset": "",
-            "trigger": "当日界面存在可领奖每日免费礼包或每周免费礼包",
-            "eliminate": "当日界面不存在可领奖每日免费礼包和每周免费礼包",
-            "condition": 0,
-            "isshow": 1,
-            "desc": ""
-        },
-        {
-            "id": 121600,
-            "name": "商城_装扮",
-            "type": 1,
-            "subtype": 2,
-            "subset": "",
-            "trigger": "客户端缓存无点击记录",
-            "eliminate": "客户端缓存有点击记录",
-            "condition": 0,
-            "isshow": 1,
-            "desc": ""
-        },
-        {
-            "id": 121800,
-            "name": "商城_充值",
-            "type": 1,
-            "subtype": 2,
-            "subset": "",
-            "trigger": "客户端缓存无点击记录",
-            "eliminate": "客户端缓存有点击记录",
-            "condition": 0,
-            "isshow": 0,
             "desc": "β"
         },
         {
@@ -1634,15 +1598,15 @@
         },
         {
             "id": 218000,
-            "name": "全局通道_商城",
+            "name": "全局通道_火星港商城",
             "type": 2,
             "subtype": 0,
-            "subset": "121200;121600;121800",
+            "subset": "121300",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
             "isshow": 1,
-            "desc": ""
+            "desc": "β"
         },
         {
             "id": 220000,

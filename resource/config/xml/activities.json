@@ -17898,6 +17898,92 @@
                     "Title": "文明的终末 1-4节",
                     "Redirect": "map|module",
                     "Go": "1715;app/MainLineAdventureChapterPanel&&100100001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3437,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250103,
+                    "End": "*",
+                    "Map": 1717,
+                    "Name": "0103主线剧情",
+                    "Title": "文明的终末 5-11节",
+                    "Redirect": "map|module",
+                    "Go": "1717;app/MainLineAdventureChapterPanel&&100104001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3438,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250103,
+                    "End": 2025021410,
+                    "Map": 1717,
+                    "Name": "吉斯的能源网络",
+                    "Title": "吉斯的能源网络",
+                    "Redirect": "map|module",
+                    "Go": "1717;app/JiSiOfEnergyNetworkMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3432,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250103,
+                    "End": 2025021410,
+                    "Map": 1717,
+                    "Name": "赫尔卡星的一天",
+                    "Title": "赫尔卡星的一天",
+                    "Redirect": "map|module",
+                    "Go": "1717;app/HeErKaActivityMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4709
+                    },
+                    "ID": 3433,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250103,
+                    "End": "*",
+                    "Map": 1717,
+                    "Name": "神殿首领 秩序的维护者",
+                    "Title": "原始预言·吉尼亚斯",
+                    "Redirect": "map|module",
+                    "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3434,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250103,
+                    "End": "*",
+                    "Map": 1717,
+                    "Name": "千年赫尔卡之谜·传承",
+                    "Title": "千年赫尔卡之谜·传承",
+                    "Redirect": "map|module",
+                    "Go": "1717;app/QianNianHeErKaZhiMiGoToMapPanel"
                 }
             ]
         },
@@ -56208,15 +56294,7 @@
                     "Title": "祖系新星的试炼",
                     "Redirect": "map|module",
                     "Go": "1716;app/NewYearsDaySpiritPageantMainPanel"
-                }
-            ],
-            "_text": [
-                "-->\r\n\r\n\t",
-                "\t.\r\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
                 {
                     "Details": {
                         "mc": 2
@@ -56251,6 +56329,31 @@
                     "Redirect": "map|module",
                     "Go": "1095;app/PeakJihad2023WarOrdePanel"
                 },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3436,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250103,
+                    "End": 2025011010,
+                    "Map": 103,
+                    "Name": "【复用】阿尔法熊特训",
+                    "Title": "阿尔法熊限时强化",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AlphaBearLimitedTimeUpMainPanel"
+                }
+            ],
+            "_text": [
+                "-->\r\n\r\n\t",
+                "\t.\r\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 2
@@ -56423,58 +56526,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3432,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250103,
-                    "End": 2025021410,
-                    "Map": 1717,
-                    "Name": "赫尔卡星的一天",
-                    "Title": "赫尔卡星的一天",
-                    "Redirect": "map|module",
-                    "Go": "1717;app/HeErKaActivityMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4709
-                    },
-                    "ID": 3433,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250103,
-                    "End": "*",
-                    "Map": 1717,
-                    "Name": "神殿首领 秩序的维护者",
-                    "Title": "原始预言·吉尼亚斯",
-                    "Redirect": "map|module",
-                    "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3434,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250103,
-                    "End": "*",
-                    "Map": 1717,
-                    "Name": "千年赫尔卡之谜·传承",
-                    "Title": "千年赫尔卡之谜·传承",
-                    "Redirect": "map|module",
-                    "Go": "1717;app/QianNianHeErKaZhiMiGoToMapPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3435,
@@ -56494,57 +56545,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3436,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250103,
-                    "End": 2025011010,
-                    "Map": 103,
-                    "Name": "【复用】阿尔法熊特训",
-                    "Title": "阿尔法熊限时强化",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AlphaBearLimitedTimeUpMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3437,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250103,
-                    "End": "*",
-                    "Map": 1717,
-                    "Name": "0103主线剧情",
-                    "Title": "文明的终末 5-11节",
-                    "Redirect": "map|module",
-                    "Go": "1717;app/MainLineAdventureChapterPanel&&100104001"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3438,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250103,
-                    "End": 2025021410,
-                    "Map": 1717,
-                    "Name": "吉斯的能源网络",
-                    "Title": "吉斯的能源网络",
-                    "Redirect": "map|module",
-                    "Go": "1717;app/JiSiOfEnergyNetworkMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3439,
                     "isNew": 1,
                     "kinds": 1,
@@ -56557,6 +56557,177 @@
                     "Title": "冬日特惠宝箱",
                     "Redirect": "map|module",
                     "Go": "103;app/ElevenDoubleGiftBagMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3440,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250110,
+                    "End": 2025021410,
+                    "Map": 1718,
+                    "Name": "赫尔卡星的一天",
+                    "Title": "赫尔卡星的一天",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/HeErKaActivityMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3441,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250110,
+                    "End": 2025012410,
+                    "Map": 1718,
+                    "Name": "世界BOSS：迎战巨型机器人",
+                    "Title": "迎战巨型机器人",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/FightAndroidBossMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3442,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250110,
+                    "End": "*",
+                    "Map": 1718,
+                    "Name": "千年赫尔卡剧情",
+                    "Title": "文明的终末 12-16节",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/MainLineAdventureChapterPanel&&100111001"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3443,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250110,
+                    "End": 2025012410,
+                    "Map": 103,
+                    "Name": "绝版精灵抽奖",
+                    "Title": "经典萌宠大集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/IndianaSpirit0505MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3444,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250110,
+                    "End": 2025021410,
+                    "Map": 1718,
+                    "Name": "千年赫尔卡之谜·灾厄",
+                    "Title": "千年赫尔卡之谜·灾厄",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/QianNianHeErKaZhiMiGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3445,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250110,
+                    "End": 2025011710,
+                    "Map": 103,
+                    "Name": "克劳里菲皮肤售卖",
+                    "Title": "里里维斯的魔法",
+                    "Redirect": "map|module",
+                    "Go": "103;app/KeLaoLiFeiSkinSellMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4711
+                    },
+                    "ID": 3447,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250110,
+                    "End": "*",
+                    "Map": 1718,
+                    "Name": "最强算力 科技之拥",
+                    "Title": "奇塔·解算型",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/SpetQiTaJSXMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3448,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250110,
+                    "End": 2025041110,
+                    "Map": 1095,
+                    "Name": "巅峰赛季S5更新",
+                    "Title": "巅峰赛季S5更新",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3449,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250110,
+                    "End": 20250411,
+                    "Name": "战令0110",
+                    "Title": "星际通行证开启",
+                    "Redirect": "module",
+                    "Go": "app/SeerInterstellarPassportMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4712
+                    },
+                    "ID": 3450,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250110,
+                    "End": 2025041110,
+                    "Map": 1718,
+                    "Name": "巅峰赛季S5更新",
+                    "Title": "龙琰",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/PeakJihad2023MainPanel"
                 },
                 {
                     "Details": {
@@ -56593,20 +56764,20 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 1687,
+                    "ID": 3446,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20210709,
-                    "End": "*",
-                    "Map": 1,
-                    "Name": "刻印抽奖机",
-                    "Title": "刻印抽奖机",
-                    "Redirect": "module",
-                    "Go": "app/MarkMachine0707Panel"
+                    "Type": 1,
+                    "Start": 20250110,
+                    "End": 2025021410,
+                    "Map": 103,
+                    "Name": "刻印抽奖机新春版",
+                    "Title": "刻印抽奖机新春版",
+                    "Redirect": "map|module",
+                    "Go": "103;app/MarkMachine0707Panel"
                 },
                 {
                     "Details": {
@@ -56626,8 +56797,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3419,3420,3435,3436,3439",
-            "shopcenter": "2274:1,1687:3,3391:21,3435:16,3436:13,3439:17,3419:9,3420:10,3422:11,3424:14,3428:15,3395:12,3347:20,3309:47"
+            "Important": "3419,3420,3443,3445,3449",
+            "shopcenter": "2274:1,3446:3,3391:21,3443:13,3445:18,3449:19,3435:16,3439:17,3419:9,3420:10,3422:11,3424:14,3428:15,3395:12,3347:20"
         }
     }
 }
