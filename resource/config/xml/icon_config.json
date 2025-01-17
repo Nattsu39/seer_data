@@ -12,7 +12,7 @@
                 "exMapList": 50000,
                 "ui": "markJackpot_icon",
                 "tips": "刻印之轮",
-                "mouseClickFunc": "app:MarkJackpotPermanentMainPanel"
+                "mouseClickFunc": "app:MarkJackpotTimeLimitMainPanel"
             },
             {
                 "direction": "left",
@@ -40,6 +40,15 @@
                 "ui": "peakJihad2023WarOrde",
                 "tips": "星际通行证",
                 "mouseClickFunc": "app:SeerInterstellarPassportMainPanel"
+            },
+            {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 5,
+                "exMapList": 50000,
+                "ui": "monthlycard",
+                "tips": "2025寒假尊享特权钻石月卡",
+                "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel"
             },
             {
                 "direction": "left_side",

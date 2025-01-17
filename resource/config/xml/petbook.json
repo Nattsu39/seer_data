@@ -1203,46 +1203,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4711,
-                        "ImageID": 4711,
+                        "ID": 4713,
+                        "ImageID": 4713,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1718;app/SpetQiTaJSXMainPanel"
+                        "Go": "1719;app/SpetYiTaHSXMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4712,
-                        "ImageID": 4712,
+                        "ID": 4714,
+                        "ImageID": 4714,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023ShopPanel"
+                        "Go": "103;app/AncientGiantRobotsForSaleMainPanel"
                     },
                     {
-                        "type": 1,
-                        "ID": 684,
-                        "MonID": 4633,
-                        "ImageID": 1400684,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/KeLaoLiFeiSkinSellMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 685,
-                        "MonID": 4712,
-                        "ImageID": 1400685,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023ShopPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 686,
-                        "MonID": 4484,
-                        "ImageID": 1400686,
+                        "type": 0,
+                        "ID": 4715,
+                        "ImageID": 4715,
                         "Label": 0,
                         "Redirect": "module",
-                        "Go": "app/SeerInterstellarPassportMainPanel"
+                        "Go": "app/SummerHolidaySign2024Panel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 687,
+                        "MonID": 4714,
+                        "ImageID": 1400687,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/RobotSkinSellPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 688,
+                        "MonID": 3830,
+                        "ImageID": 1400688,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49563,9 +49562,7 @@
                 "Type": "混沌 飞行",
                 "Height": 174,
                 "Weight": 55,
-                "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！"
             },
             {
                 "ID": 4686,
@@ -49852,6 +49849,38 @@
                 "Features": "巅峰S5赛季【湮光】开启！凭依于龙焉的神秘古龙。曾经统治一方，暴虐无道的邪恶龙帝——她是这么自称的。",
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihad2023ShopPanel"
+            },
+            {
+                "ID": 4713,
+                "DefName": "伊塔·回溯型",
+                "Type": "机械",
+                "Height": 145,
+                "Weight": 49,
+                "Features": "在奥菲利娅和赛尔号的帮助下，伊塔接受了全面的改造。变得更强大的伊塔，已经迫不及待地准备开启寻找好朋友的冒险了。",
+                "Redirect": "map|module",
+                "Go": "1719;app/SpetYiTaHSXMainPanel",
+                "jumptarget": "151/240",
+                "Target": "153201/240"
+            },
+            {
+                "ID": 4714,
+                "DefName": "古代巨型机器人",
+                "Type": "机械 神秘",
+                "Height": 50000,
+                "Weight": 100000,
+                "Features": "本是承载着未来的钢铁巨人，因赫尔卡人的傲慢而引来灾厄。巨人未能承载文明之耀，它亲手终结了属于智械的时代。",
+                "Redirect": "map|module",
+                "Go": "103;app/AncientGiantRobotsForSaleMainPanel"
+            },
+            {
+                "ID": 4715,
+                "DefName": "希维娜",
+                "Type": "冰 飞行",
+                "Height": 169,
+                "Weight": 47,
+                "Features": "传说中有这么一位寒冰仙子，每到新春伊始她总会在空中起舞，用瑞雪给每一个新年带来冬的祝福。",
+                "Redirect": "module",
+                "Go": "app/SummerHolidaySign2024Panel"
             }
         ]
     }

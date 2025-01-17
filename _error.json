@@ -1,12 +1,37 @@
 {
-    "pvp_task.json": {
-        "url": "http://seerh5.61.com/resource/config/json/pvp_task_ebe92a4b.json",
-        "filename": "pvp_task.json",
+    "toolbar.json": {
+        "url": "http://seerh5.61.com/resource/config/json/toolbar_a29365fe.json",
+        "filename": "toolbar.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "brave_lv.json": {
+        "url": "http://seerh5.61.com/resource/config/json/brave_lv_60da89cb.json",
+        "filename": "brave_lv.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "latestActivity.json": {
+        "url": "http://seerh5.61.com/resource/config/json/latestActivity_f7d36c41.json",
+        "filename": "latestActivity.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "pvp_achieve.json": {
+        "url": "http://seerh5.61.com/resource/config/json/pvp_achieve_75fc440f.json",
+        "filename": "pvp_achieve.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "movesLang.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/movesLang_66cdeabc.json",
+        "filename": "movesLang.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
+    },
+    "effectIcon.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/effectIcon_ec49898b.json",
+        "filename": "effectIcon.json",
+        "exception": "ReadTimeout('timed out')"
     }
 }
