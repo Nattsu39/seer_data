@@ -652,6 +652,30 @@
                     "TagB": 1,
                     "Redirect": "map|module",
                     "Go": "1646;app/SpetFeiYuQiShiMainPanel"
+                },
+                {
+                    "id": 90,
+                    "pid": 4647,
+                    "TagA": 3,
+                    "TagB": 3,
+                    "Redirect": "module",
+                    "Go": "app/StarlightHiddenMainPanel"
+                },
+                {
+                    "id": 91,
+                    "pid": 4648,
+                    "TagA": 3,
+                    "TagB": "1|0",
+                    "Redirect": "module",
+                    "Go": "app/StarlightHiddenMainPanel"
+                },
+                {
+                    "id": 92,
+                    "pid": 4649,
+                    "TagA": 3,
+                    "TagB": 1,
+                    "Redirect": "module",
+                    "Go": "app/StarlightHiddenMainPanel"
                 }
             ],
             "type": [
@@ -1179,63 +1203,79 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4676,
-                        "ImageID": 4676,
+                        "ID": 4716,
+                        "ImageID": 4716,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1699;app/MisticSuperevolutionOutputMainPanel"
+                        "Go": "1720;app/ElderHelkasOutputMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4677,
-                        "ImageID": 4677,
+                        "ID": 4717,
+                        "ImageID": 4717,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/TianQiXingHunEvoMainPanel"
+                        "Go": "103;app/BHYunusSellPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4681,
-                        "ImageID": 4681,
+                        "ID": 4718,
+                        "ImageID": 4718,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 11925
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4719,
+                        "ImageID": 4719,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1652;app/MonthlyPetInOctober2024Panel"
+                        "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4720,
+                        "ImageID": 4720,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1715;app/VipMouthPet2025Panel"
                     },
                     {
                         "type": 1,
-                        "ID": 652,
-                        "MonID": 4187,
-                        "ImageID": 1400652,
+                        "ID": 689,
+                        "MonID": 4600,
+                        "ImageID": 1400689,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/ThreeSistersSkinSellPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 653,
-                        "MonID": 4510,
-                        "ImageID": 1400653,
+                        "ID": 690,
+                        "MonID": 4604,
+                        "ImageID": 1400690,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1700;app/CafeSkinSalesMainPanel"
+                        "Go": "103;app/ThreeSistersSkinSellPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 654,
-                        "MonID": 4500,
-                        "ImageID": 1400654,
+                        "ID": 691,
+                        "MonID": 4450,
+                        "ImageID": 1400691,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1700;app/CafeSkinSalesMainPanel"
+                        "Redirect": "module",
+                        "Go": "app/NewYearConsumptionFeedbackMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 655,
-                        "MonID": 4515,
-                        "ImageID": 1400655,
+                        "ID": 692,
+                        "MonID": 4717,
+                        "ImageID": 1400692,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1700;app/CafeSkinSalesMainPanel"
+                        "Go": "103;app/BHYunusSellPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -2125,7 +2165,8 @@
                 "Food": "闪电能量",
                 "Features": "雷伊是赫尔卡星的神秘精灵，只有当雷雨天才会出现，全身被电流所包围，尽显王者风范。",
                 "mapID": 32,
-                "jumptarget": "200/3"
+                "jumptarget": "200/3",
+                "Target": 150001
             },
             {
                 "ID": 71,
@@ -2765,7 +2806,8 @@
                 "Features": "达尔的进化形态，强健的体魄，充满战斗力的旺盛精力，注定了它能够成为最为强有力的武斗家。",
                 "Redirect": "map|module",
                 "Go": "1280;app/SmallMantisForAllPeopleToSendMainPanel",
-                "jumptarget": 83
+                "jumptarget": 83,
+                "Target": 150002
             },
             {
                 "ID": 124,
@@ -2779,7 +2821,8 @@
                 "Features": "希路达的光系进化形态，手刀的运用到了炉火纯青的地步，强悍扎实的体魄保证了它持续战斗的优势。",
                 "Redirect": "map|module",
                 "Go": "1280;app/YingKaLuoSiMainPanel",
-                "jumptarget": 127
+                "jumptarget": 127,
+                "Target": 150003
             },
             {
                 "ID": 125,
@@ -4422,7 +4465,8 @@
                 "Food": "未知",
                 "Features": "提坦的进化形态，盖亚是精灵世界的战斗大师，它掌握着许许多多原创的战斗技巧，颇具霸者风范。",
                 "mapID": 419,
-                "jumptarget": "200/5"
+                "jumptarget": "200/5",
+                "Target": 150004
             },
             {
                 "ID": 262,
@@ -4894,7 +4938,8 @@
                 "Features": "不知它来自哪里、诞生于何时，因为它的力量可以扭曲时空；它的强大让我们无法探测、无法控制，也许它只是个传说。",
                 "mapID": 1153,
                 "Label": "1,7",
-                "jumptarget": 58
+                "jumptarget": 58,
+                "Target": 150005
             },
             {
                 "ID": 301,
@@ -6907,8 +6952,10 @@
                 "Foundin": "命运之轮",
                 "Food": "未知",
                 "Features": "赛洛的进化形态，可以将制造出的火焰幻化成任何形状，火焰的超高温度可以融化一切金属，因此，它素有火焰魔术师的雅称。",
-                "mapID": 1,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 469,
@@ -7305,7 +7352,8 @@
                 "Food": "未知",
                 "Features": "巴斯特是帕诺星系的守护神，强悍的身体铸就了传说中的最强防御，粗壮的四肢令人毛骨悚然。地面和机械两种属性溶于一身，可以将攻击变得更加直接有效。",
                 "mapID": 666,
-                "jumptarget": "18/4_1/3"
+                "jumptarget": "18/4_1/3",
+                "Target": 164130
             },
             {
                 "ID": 502,
@@ -7318,7 +7366,8 @@
                 "Food": "未知",
                 "Features": "青龙朵拉格是卡兰星系的守护神，万年的锤炼造就了无与伦比的体质，强悍的身体和恐怖的技能，都是作为强者的标志。",
                 "mapID": 666,
-                "jumptarget": "18/4_1/3"
+                "jumptarget": "18/4_1/3",
+                "Target": 164130
             },
             {
                 "ID": 503,
@@ -7331,7 +7380,8 @@
                 "Food": "未知",
                 "Features": "白虎泰格尔是罗格星系的守护神，拥有史无前例的攻击性，修炼了千年的战斗技巧，以及与生俱来的雷电属性，让人望而生畏。",
                 "mapID": 666,
-                "jumptarget": "18/4_1/3"
+                "jumptarget": "18/4_1/3",
+                "Target": 164130
             },
             {
                 "ID": 504,
@@ -7344,7 +7394,8 @@
                 "Food": "未知",
                 "Features": "菲尼克斯是裂空星系的守护神，拥有超快的速度和特殊的重生本领，能够在濒临死亡的时候起死回生。",
                 "mapID": 666,
-                "jumptarget": "18/4_1/3"
+                "jumptarget": "18/4_1/3",
+                "Target": 164130
             },
             {
                 "ID": 505,
@@ -7354,7 +7405,8 @@
                 "Weight": 120,
                 "Features": "第五星系的守护神兽，与青龙白虎朱雀玄武一样孤高绝世的存在，恶灵兽的终极克星！",
                 "mapID": 73,
-                "jumptarget": "18/4_1/3"
+                "jumptarget": "18/4_1/3",
+                "Target": 164130
             },
             {
                 "ID": 506,
@@ -10848,7 +10900,8 @@
                 "Food": "未知",
                 "Features": "卡修的进化形态，经过两次进化后的卡修斯攻击力和速度都有大幅度的提高，能瞬间给予对手致命的打击！",
                 "mapID": 484,
-                "jumptarget": "200/4"
+                "jumptarget": "200/4",
+                "Target": 150006
             },
             {
                 "ID": 799,
@@ -11711,7 +11764,8 @@
                 "Food": "未知",
                 "Features": "布莱克作为光明圣坛的守护者，体内蕴含了深不可测的能量，肩负着守护格雷斯星的重任，有着高超的智慧。",
                 "mapID": 507,
-                "jumptarget": "200/2"
+                "jumptarget": "200/2",
+                "Target": 150007
             },
             {
                 "ID": 876,
@@ -12468,7 +12522,8 @@
                 "Food": "未知",
                 "Features": "西罗尔的进化形态，背甲变得更加的成熟，保护自己的同时，也能作为攻击的武器。",
                 "mapID": 0,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 939,
@@ -15605,7 +15660,8 @@
                 "Features": "鱼龙王的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
                 "Redirect": "map|module",
                 "Go": "1;app/StarWishdDriftBottleMainPanel",
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1201,
@@ -15618,7 +15674,8 @@
                 "Features": "炎魔的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
                 "Redirect": "map|module",
                 "Go": "1;app/StarWishdDriftBottleMainPanel",
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1202,
@@ -15631,7 +15688,8 @@
                 "Features": "始祖灵兽的暗金形态，它的身体散发着只有最强大的精灵才会拥有的暗金之力，成为了暗金精灵家族中的一员。",
                 "Redirect": "map|module",
                 "Go": "1;app/StarWishdDriftBottleMainPanel",
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1203,
@@ -15800,7 +15858,8 @@
                 "Food": "未知",
                 "Features": "魔花仙子得到魔化之能后的形态，拥有强烈的正义感，为了米娜村落可以付出自己的一切",
                 "mapID": 734,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1217,
@@ -15813,7 +15872,8 @@
                 "Food": "棒棒糖",
                 "Features": "木木是布莱克一族的大祭司，拥有预知未来的能力，但是永远无法长大。",
                 "mapID": 10,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1218,
@@ -16761,7 +16821,8 @@
                 "Food": "电光草",
                 "Features": "特里的进化形态，奔跑的时候身上的铃铛会发出悦耳的铃声，可爱的它却拥有强大的电能。",
                 "mapID": 494,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1297,
@@ -16774,7 +16835,8 @@
                 "Food": "未知",
                 "Features": "布鲁克克的超进化形态，为拯救好友格林，体内的隐藏能量被激发。友情是布鲁最珍贵的财富，这也让它变得更加强大。",
                 "mapID": 753,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1298,
@@ -16787,7 +16849,8 @@
                 "Food": "未知",
                 "Features": "作为恶魔星第四领域的守护者，它拥有强大的火系能力，在高温的火焰山脊，它所向无敌！",
                 "mapID": 753,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 1299,
@@ -20436,7 +20499,8 @@
                 "Weight": 48,
                 "Features": "天蛇公主缪斯，在宇宙间不断追寻自己的身世之谜。无意中遇到雷伊和盖亚的她，没想过有一天竟然会与这几个家伙并肩作战。",
                 "mapID": 82,
-                "jumptarget": "200/1"
+                "jumptarget": "200/1",
+                "Target": 150008
             },
             {
                 "ID": 1634,
@@ -22536,7 +22600,8 @@
                 "Weight": 41,
                 "Features": "盖亚的超进化形态，愤怒的利爪将击溃一切敢于危害世界和平的家伙。正义必胜！战神无敌！",
                 "mapID": 998,
-                "jumptarget": 246
+                "jumptarget": 246,
+                "Target": 150009
             },
             {
                 "ID": 1846,
@@ -24121,7 +24186,8 @@
                 "Weight": 0,
                 "Features": "来自魔域的灾星，谱尼的倒影——索伦森",
                 "mapID": 973,
-                "jumptarget": 85
+                "jumptarget": 85,
+                "Target": 150010
             },
             {
                 "ID": 2001,
@@ -25369,7 +25435,8 @@
                 "Weight": 31,
                 "Features": "嘻游天团的第三只精灵，星太白是一位慈祥年长的精灵，但是因为年纪太大，它经常会忘记一些东西。",
                 "mapID": 0,
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 2125,
@@ -26011,7 +26078,8 @@
                 "Weight": 46,
                 "Features": "丽莎布布超进化，草系融合主宠的最强形态——蒙娜丽莎！大自然的力量运用的炉火纯青，一切绿叶和植物都在她的手中掌控！",
                 "mapID": 981,
-                "jumptarget": "91/2189"
+                "jumptarget": "91/2189",
+                "Target": 150011
             },
             {
                 "ID": 2190,
@@ -26322,7 +26390,8 @@
                 "Weight": 77,
                 "Features": "鲁斯王超进化，水系融合主宠的最强形态——利爪鲁斯王！惊涛和骇浪尽在他的掌控，只要在水中他就没有任何对手，锋利的爪子和强劲的双鳍让他在水中无可匹敌！",
                 "mapID": 981,
-                "jumptarget": "91/2220"
+                "jumptarget": "91/2220",
+                "Target": 150012
             },
             {
                 "ID": 2221,
@@ -26333,7 +26402,8 @@
                 "Weight": 88,
                 "Features": "魔焰猩猩超进化，火系融合主宠的最强形态——炽焰金刚！鬃毛燃起了熊熊烈焰，躯干变得更加坚不可摧，炽焰金刚就是力量速度与火焰的化身！",
                 "mapID": 981,
-                "jumptarget": "91/2221"
+                "jumptarget": "91/2221",
+                "Target": 150013
             },
             {
                 "ID": 2222,
@@ -27337,7 +27407,8 @@
                 "Weight": 75,
                 "Features": "战神联盟卡修斯的超进化形态——大地之神卡修斯！拥有毁天灭地的暗影和大地之力！",
                 "mapID": 98,
-                "jumptarget": 231
+                "jumptarget": 231,
+                "Target": 150014
             },
             {
                 "ID": 2324,
@@ -27517,7 +27588,8 @@
                 "Weight": 72,
                 "Features": "战神联盟布莱克的超进化形态——复仇者布莱克！拥有毁天灭地的暗影之力！",
                 "mapID": 1002,
-                "jumptarget": 239
+                "jumptarget": 239,
+                "Target": 150015
             },
             {
                 "ID": 2342,
@@ -27999,7 +28071,8 @@
                 "Weight": 49,
                 "Features": "战神联盟雷伊的超进化形态——雷神雷伊！拥有毁天灭地的雷电之力！",
                 "mapID": 1003,
-                "jumptarget": 233
+                "jumptarget": 233,
+                "Target": 150016
             },
             {
                 "ID": 2395,
@@ -28396,7 +28469,8 @@
                 "Weight": "100kg",
                 "Features": "没有人知道它的来历也没有人见过他的真正面目，因为看到他的人都已经被染成灰烬了。",
                 "mapID": 1011,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 2439,
@@ -28615,7 +28689,8 @@
                 "Weight": 101,
                 "Features": "传说中的另一位天尊，是一位疯狂的武痴，由于常年在深山修炼的缘故导致能一睹真容的人并不多",
                 "mapID": 1011,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 2463,
@@ -29020,7 +29095,8 @@
                 "Weight": 102,
                 "Features": "两位天尊终于合体召唤出了仅存在于传说之中的焱武圣尊，似乎已经没有什么精灵能够打败他了",
                 "mapID": 1011,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 2509,
@@ -29192,7 +29268,8 @@
                 "Weight": 49.9,
                 "Features": "在想要战胜邪恶，在渴望保护伙伴的梦想下，缪斯终于获得了强大的力量而超进化！绯红的神瞳之光终于驱散了战神联盟所面对的黑暗！",
                 "mapID": 10617,
-                "jumptarget": 232
+                "jumptarget": 232,
+                "Target": 150017
             },
             {
                 "ID": 2528,
@@ -29985,7 +30062,8 @@
                 "Height": 165,
                 "Weight": 48,
                 "Features": "提亚斯的超进化形态！进化后的提亚斯更加美丽动人，但也不要小瞧了她的飞行系魔法！",
-                "mapID": 25
+                "Redirect": "module",
+                "Go": "app/TiyasiSuperEvolveMainPanel"
             },
             {
                 "ID": 2617,
@@ -30671,7 +30749,8 @@
                 "Height": 173,
                 "Weight": 70,
                 "Features": "魂•斩月的超进化形态，夺命镰刀的威力变得更加强大，斩月毁天都不在话下！",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 2694,
@@ -31069,7 +31148,8 @@
                 "Weight": 23,
                 "Features": "精灵王小形态。从宇宙最初的火种中诞生的至纯火元素幻化而成！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2738,
@@ -31088,7 +31168,8 @@
                 "Weight": 96,
                 "Features": "精灵王的究极形态。世间至纯之火的拥有者，掌控火焰的一切形态。嫉恶如仇，只想焚尽天下妖魔！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2740,
@@ -31450,7 +31531,8 @@
                 "Weight": 121,
                 "Features": "战神盖亚的究极形态，战神威名不在虚无，遇神杀神，遇魔弑魔!",
                 "mapID": 717,
-                "jumptarget": 219
+                "jumptarget": 219,
+                "Target": 150018
             },
             {
                 "ID": 2781,
@@ -31496,7 +31578,8 @@
                 "Weight": 15,
                 "Features": "光系精灵王小形态。从宇宙最初的光芒中诞生的至纯光元素幻化而成!",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2786,
@@ -31515,7 +31598,8 @@
                 "Weight": 86,
                 "Features": "光系精灵王的究极形态。世间至纯之光的拥有者，掌控光芒的一切形态。勇敢善良，只为给世间带来曙光!",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2788,
@@ -31769,7 +31853,8 @@
                 "Weight": 108,
                 "Features": "大地之神完全体。进化时，大地聚灵，天纵异像，似乎整个星球都在为之颤抖。从大地中汲取的无穷无尽的力量为正义增添了一枚有力的砝码!",
                 "mapID": 445,
-                "jumptarget": 220
+                "jumptarget": 220,
+                "Target": 150019
             },
             {
                 "ID": 2818,
@@ -31913,7 +31998,8 @@
                 "Weight": 72,
                 "Features": "布莱克完全体究极觉醒，夜魔重生，天下臣服。以黑夜的名义守护至高无上的光明!",
                 "mapID": 507,
-                "jumptarget": 229
+                "jumptarget": 229,
+                "Target": 150020
             },
             {
                 "ID": 2834,
@@ -31994,7 +32080,8 @@
                 "Weight": 23,
                 "Features": "冰精灵王小形态，诞生于渺无人烟的极北荒凉之地，诞生之时，所有的寒气都向一个方向凝聚。天地异变!",
                 "mapID": 1100,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2843,
@@ -32013,7 +32100,8 @@
                 "Weight": 96,
                 "Features": "冰精灵王的完全体，最恐怖的冰元素掌控者。虽然力量可怕，属性寒冷。但是心中却燃烧熊熊正义之火!",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2845,
@@ -32085,7 +32173,8 @@
                 "Weight": 49.9,
                 "Features": "将圣剑的力量和瞳之神能完美融合之后的超进化体，上诛天邪下灭魔神，天蛇星新的传说!",
                 "mapID": 10617,
-                "jumptarget": 218
+                "jumptarget": 218,
+                "Target": 150021
             },
             {
                 "ID": 2853,
@@ -32403,7 +32492,8 @@
                 "Weight": 69,
                 "Features": "雷神雷伊的完全体，电系元素的主宰，战神联盟最牢靠的守护者!",
                 "mapID": 1003,
-                "jumptarget": 230
+                "jumptarget": 230,
+                "Target": 150022
             },
             {
                 "ID": 2888,
@@ -32511,7 +32601,8 @@
                 "Height": 154,
                 "Weight": 100,
                 "Features": "在一次太阳黑子的剧烈活动中，伴随耀斑出现的精灵。在烈日的炙烤中诞生恐怖的日光力量!",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 2900,
@@ -33041,7 +33132,8 @@
                 "Weight": 180,
                 "Features": "在泰坦星域中游历的精灵王。强大而富有正义感，但是更喜欢一个人独自行动。传说背后的巨大武器亦是开启次元之门的终极钥匙！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2960,
@@ -33069,7 +33161,8 @@
                 "Weight": 52,
                 "Features": "弗里德的小形态，自小就展现出可以随意控制次元力量的强大能力。",
                 "mapID": 1136,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2963,
@@ -33159,8 +33252,10 @@
                 "Height": 163,
                 "Weight": 65,
                 "Features": "手持光明之剑盾的精灵，守护着内心坚定的信仰！",
-                "mapID": 1147,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 2973,
@@ -33306,7 +33401,8 @@
                 "Weight": 88,
                 "Features": "飞行系精灵王的完全体形态，飞行系的王者，真正的速度之王，没有谁可以追上他驰骋的身影！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2989,
@@ -33379,7 +33475,8 @@
                 "Weight": 38,
                 "Features": "飞行系精灵王的小形态，四处飞行的小凡从小就掌握了飞行系魔法的奥秘！",
                 "mapID": 1157,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 2997,
@@ -33608,7 +33705,8 @@
                 "Features": "龙之子的完全体形态，闪耀着龙族的希望，背负着龙族的使命！",
                 "mapID": 1170,
                 "Label": "0,2,3",
-                "jumptarget": 69
+                "jumptarget": 69,
+                "Target": 150023
             },
             {
                 "ID": 3023,
@@ -33722,7 +33820,8 @@
                 "Weight": 35,
                 "Features": "龙系精灵王的小形态，是龙族的希望！",
                 "mapID": 1170,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3035,
@@ -33741,7 +33840,8 @@
                 "Weight": 78,
                 "Features": "龙系精灵王的完全体形态，得到双龙的庇护后，乔特鲁德如虎添翼，势不可挡！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3037,
@@ -33805,7 +33905,8 @@
                 "Weight": 151,
                 "Features": "焱武圣尊的超进化形态，本已战斗超群的焱武圣尊这下更加不可一世！",
                 "mapID": 1147,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 3044,
@@ -34141,7 +34242,8 @@
                 "Weight": 40,
                 "Features": "神秘系精灵王的小形态，没人知道它的来历！",
                 "mapID": 1178,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3081,
@@ -34160,7 +34262,8 @@
                 "Weight": 80,
                 "Features": "神秘系精灵王的完全体形态，充满着神秘邪恶的气息，令人闻风丧胆！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3084,
@@ -34351,7 +34454,8 @@
                 "Weight": 80,
                 "Features": "永恒之水的主人，可以操控水的最强魔法，是来自古老东方的神奇精灵！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3106,
@@ -34388,7 +34492,8 @@
                 "Weight": 30,
                 "Features": "是沧岚的小形态，喜欢安抚那些情绪不好的精灵。",
                 "mapID": 1186,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3110,
@@ -34661,7 +34766,8 @@
                 "Weight": 74,
                 "Features": "全新的电系精灵王！不仅拥有最强的雷电法术，更是拥有强大的信心和勇气，战神联盟！再次重出宇宙！",
                 "mapID": 1192,
-                "jumptarget": 216
+                "jumptarget": 216,
+                "Target": 150024
             },
             {
                 "ID": 3143,
@@ -34716,7 +34822,8 @@
                 "Weight": 40,
                 "Features": "劳瑞的小形态，具备一定的雷电力量！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3149,
@@ -34735,7 +34842,8 @@
                 "Weight": 80,
                 "Features": "雷电之祖，具备超级强大的雷电法术，并且拥有堪称先知的智慧！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3151,
@@ -34790,7 +34898,10 @@
                 "Height": 180,
                 "Weight": 70,
                 "Features": "神秘异界漆黑花原的守护者，邪魅而诱惑，传说曾经是从其他世界流落过来的圣天使！",
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3157,
@@ -34871,7 +34982,10 @@
                 "Height": 180,
                 "Weight": 100,
                 "Features": "神秘异界强欲荒野的守护兽，轻易的击退了光之子，是前所未有的强敌！",
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3166,
@@ -34917,7 +35031,8 @@
                 "Weight": 72,
                 "Features": "被天邪龙皇吸收掉了诅咒之力的卡修斯，具备单纯的大地元素，能够与大地产生完美的共鸣！",
                 "mapID": 484,
-                "jumptarget": 214
+                "jumptarget": 214,
+                "Target": 150025
             },
             {
                 "ID": 3171,
@@ -34936,7 +35051,8 @@
                 "Weight": 50,
                 "Features": "地面系精灵王的小形态，别看个头小，一样掌握了强大的大地之力！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3173,
@@ -34955,7 +35071,8 @@
                 "Weight": 69,
                 "Features": "传闻中的地面系精灵王，拥有坚固无比的大地守护之力，帮助卡修斯成为了新一代地面系精灵王！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3175,
@@ -34982,8 +35099,10 @@
                 "Height": 180,
                 "Weight": 100,
                 "Features": "神秘异界的君王，原罪王座的主人，传闻是叛出天界的强者，因此拥有了光明和黑暗交织的力量！",
-                "mapID": 1199,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3178,
@@ -35139,7 +35258,8 @@
                 "Features": "大暗黑天长老之一！拥有极其强劲的黑暗破坏魔法，可以利用魔法任意毁灭一切！",
                 "mapID": 1197,
                 "Label": 1,
-                "jumptarget": 101
+                "jumptarget": 101,
+                "Target": 150026
             },
             {
                 "ID": 3195,
@@ -35175,7 +35295,8 @@
                 "Weight": 50,
                 "Features": "是暗影古王的小形态，具备较为初级的暗影之力！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3199,
@@ -35194,7 +35315,8 @@
                 "Weight": 80,
                 "Features": "暗影古王，不仅会上古的招魂咒，更是能够将天魂法阵运用的非常纯熟！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3201,
@@ -35240,7 +35362,8 @@
                 "Weight": 80,
                 "Features": "成为新的超能系精灵王的缪斯，拥有着极强的力量，她不再是那个只能依靠瞳术的天蛇少主，而是拥有了更为强力的超能！",
                 "mapID": 1192,
-                "jumptarget": 210
+                "jumptarget": 210,
+                "Target": 150027
             },
             {
                 "ID": 3206,
@@ -35250,7 +35373,8 @@
                 "Weight": 50,
                 "Features": "是超能之祖的小形态，力量不同于普通的精灵，拥有更强大的水平，但因为还处于小形态，所以对于有些力量使用并不纯熟。",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3207,
@@ -35296,7 +35420,8 @@
                 "Weight": 70,
                 "Features": "是上古的超能魅王，拥有强大的超能之术，这种特殊的能量可以轻易击溃各种屏障！可谓是超凡入圣！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3212,
@@ -35325,7 +35450,8 @@
                 "Features": "是邪皇·威斯克的超进化！堪称万古邪皇！凝聚宇宙中最邪恶的力量！摧毁！屠杀！让所有的光明湮灭！",
                 "mapID": 1197,
                 "Label": "0,2",
-                "jumptarget": 104
+                "jumptarget": 104,
+                "Target": 150028
             },
             {
                 "ID": 3215,
@@ -35406,7 +35532,8 @@
                 "Weight": 73,
                 "Features": "上古的战斗系精灵王，拥有至强的战斗技巧和能力，在上古时期的战斗中所向披靡！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3224,
@@ -35451,7 +35578,8 @@
                 "Weight": 51,
                 "Features": "战斗系精灵王阿尔斯兰的小形态，虽然个头不大，但是战斗的能力已经初步体现出来了！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3232,
@@ -35535,7 +35663,8 @@
                 "Weight": 80,
                 "Features": "在灰之遗迹中获得了极大力量的摩哥斯，终于成为了邪灵之王！他的下一个目标，到底会是什么？",
                 "mapID": 1081,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3241,
@@ -35554,7 +35683,8 @@
                 "Weight": 80,
                 "Features": "获得阿尔斯兰的认可后，终于获得了超级的战斗之力传承，最终和战神联盟一起对抗大暗黑天！",
                 "mapID": 1207,
-                "jumptarget": 207
+                "jumptarget": 207,
+                "Target": 150029
             },
             {
                 "ID": 3243,
@@ -35636,7 +35766,8 @@
                 "Features": "超凡的感知能力，对危险的极度预测能力，都让他成为一只极强的妖族精灵，本次完全体开启，更是让他实力大增，成功帮助妖王探测幻境出口！",
                 "mapID": 1081,
                 "Label": 1,
-                "jumptarget": 102
+                "jumptarget": 102,
+                "Target": 150030
             },
             {
                 "ID": 3252,
@@ -35977,7 +36108,8 @@
                 "Weight": 395,
                 "Features": "青龙的完全体，已经突破自身的极限，达到力量蕴藏于心中，可以随时随地释放出无敌的水系魔法！",
                 "mapID": 1219,
-                "jumptarget": 247
+                "jumptarget": 247,
+                "Target": 150031
             },
             {
                 "ID": 3290,
@@ -36078,7 +36210,8 @@
                 "Weight": 399,
                 "Features": "白虎的完全体，同样已经突破自身的极限，电与战斗的技巧已经融会贯通！",
                 "mapID": 1219,
-                "jumptarget": 228
+                "jumptarget": 228,
+                "Target": 150032
             },
             {
                 "ID": 3302,
@@ -36141,7 +36274,8 @@
                 "Weight": 1000,
                 "Features": "玄武的完全体，身上的装甲更加雄伟，大地的力量也已经完全觉醒了，你们能击溃他的防御吗？",
                 "mapID": 1226,
-                "jumptarget": 223
+                "jumptarget": 223,
+                "Target": 150033
             },
             {
                 "ID": 3309,
@@ -36178,7 +36312,8 @@
                 "Weight": 150,
                 "Features": "索伦森的超进化形态，觉醒了来自混沌的力量，邪恶的黑暗将再次覆盖整个宇宙！",
                 "mapID": 1225,
-                "jumptarget": 88
+                "jumptarget": 88,
+                "Target": 150034
             },
             {
                 "ID": 3313,
@@ -36206,7 +36341,8 @@
                 "Weight": 130,
                 "Features": "麒麟的完全体形态，在谱尼的帮助下拥有了圣灵的力量，与光明的力量完美融合，拥有了与魔君索伦森匹敌的力量！",
                 "mapID": 1225,
-                "jumptarget": 234
+                "jumptarget": 234,
+                "Target": 150035
             },
             {
                 "ID": 3316,
@@ -36215,8 +36351,10 @@
                 "Height": 180,
                 "Weight": 80,
                 "Features": "操控机械力量的精灵，企图利用自己伐木的力量对生命之树造成破坏！",
-                "mapID": 1,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3317,
@@ -36236,7 +36374,8 @@
                 "Weight": 400,
                 "Features": "朱雀的完全体形态，浴火重生之后的朱雀拥有了更强大的火焰，将焚尽世间的一切黑暗！",
                 "mapID": 1219,
-                "jumptarget": 221
+                "jumptarget": 221,
+                "Target": 150036
             },
             {
                 "ID": 3319,
@@ -36255,7 +36394,8 @@
                 "Weight": 41,
                 "Features": "草系精灵王的小形态，身材娇小可爱，与大自然中的植物拥有惊人的亲和度！",
                 "mapID": 1225,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3321,
@@ -36274,7 +36414,8 @@
                 "Weight": 45,
                 "Features": "草系的至尊王者，肩负着守护生命之树的使命，拥有掌控植物的神奇力量！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3323,
@@ -36337,7 +36478,8 @@
                 "Weight": 85,
                 "Features": "六界神王的超进化形态，吸收了来自六界的力量，拥有守护六界的强大能力！",
                 "mapID": 1228,
-                "jumptarget": 248
+                "jumptarget": 248,
+                "Target": 150037
             },
             {
                 "ID": 3330,
@@ -36364,8 +36506,10 @@
                 "Height": 170,
                 "Weight": 70,
                 "Features": "追杀精灵王的精灵猎杀者，对刚刚折跃的精灵王进行猎杀，背后似乎有着庞大的势力！",
-                "mapID": 1228,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3333,
@@ -36420,7 +36564,8 @@
                 "Weight": 70,
                 "Features": "是欧德奈瑞的最小形态，具备一定的能力",
                 "mapID": 1228,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3339,
@@ -36439,7 +36584,8 @@
                 "Weight": 80,
                 "Features": "普通系精灵王，俊朗的外形彰显尊贵的身份，体内凝聚着普通却强大的力量！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3341,
@@ -36466,8 +36612,10 @@
                 "Height": 170,
                 "Weight": 70,
                 "Features": "来自阴冥的上古魅妖，神秘魂王的手下之一，优雅的身姿却拥有着强悍的实力，是精灵王的又一大劲敌！",
-                "mapID": 1230,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3344,
@@ -36512,8 +36660,10 @@
                 "Height": 170,
                 "Weight": 70,
                 "Features": "神秘魂王的手下之一，远古三魅的最后一名成员，掌握了来自暗影的冰雪力量！",
-                "mapID": 1230,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3349,
@@ -36559,7 +36709,8 @@
                 "Weight": 50,
                 "Features": "自然系精灵王的小形态，初步掌握了自然的力量！",
                 "mapID": 1231,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3354,
@@ -36578,7 +36729,8 @@
                 "Weight": 48,
                 "Features": "自然系的精灵王，万物的力量都将汇聚于她的身上，终有一天，万物的生命将走向终点，而她，将与自然融为一体！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3356,
@@ -36713,7 +36865,8 @@
                 "Weight": 50,
                 "Features": "远古系精灵王列奥尼达的小形态，小小的身体却有着远古的洪荒之力！",
                 "mapID": 1235,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3371,
@@ -36732,7 +36885,8 @@
                 "Weight": 80,
                 "Features": "最后一位单属性精灵王，身为远古系的佼佼者，体内的洪荒之力彻底爆发，拥有的战斗力让人惊叹！",
                 "mapID": 1151,
-                "jumptarget": "18/4_1/2"
+                "jumptarget": "18/4_1/2",
+                "Target": 164120
             },
             {
                 "ID": 3373,
@@ -36814,7 +36968,8 @@
                 "Features": "机械系精灵王马尔修斯极速形态的进阶，拥有更快的速度和更强的战斗力！",
                 "mapID": 1236,
                 "Label": 1,
-                "jumptarget": 123
+                "jumptarget": 123,
+                "Target": 150038
             },
             {
                 "ID": 3382,
@@ -36840,8 +36995,10 @@
                 "Height": 160,
                 "Weight": 50,
                 "Features": "拥有无数爆炸物的哥布林精灵，一直信奉爆炸才是解决问题的唯一途径！",
-                "mapID": 1237,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3385,
@@ -36861,7 +37018,8 @@
                 "Features": "机械系精灵王马尔修斯坚壁形态的进阶，拥有更强的护甲和更高的防御力！",
                 "mapID": 1236,
                 "Label": 1,
-                "jumptarget": 99
+                "jumptarget": 99,
+                "Target": 150039
             },
             {
                 "ID": 3387,
@@ -36899,7 +37057,8 @@
                 "Features": "机械系精灵王马尔修斯毁灭形态的进阶，拥有破坏一切的毁灭力量！",
                 "mapID": 1236,
                 "Label": 1,
-                "jumptarget": 97
+                "jumptarget": 97,
+                "Target": 150040
             },
             {
                 "ID": 3391,
@@ -36981,7 +37140,8 @@
                 "Features": "由精灵王和铸魂者共同召唤出来的精灵，她奉命长久地陪伴小赛尔冒险者，帮助他们击败一切拦路之敌！",
                 "mapID": 1240,
                 "Label": "0,2",
-                "jumptarget": 68
+                "jumptarget": 68,
+                "Target": 150041
             },
             {
                 "ID": 3400,
@@ -37019,7 +37179,8 @@
                 "Features": "阿娅的超进化形态，拥有更强的自然力量和冰雪能力，继续陪伴小赛尔踏上征程！",
                 "mapID": 1240,
                 "Label": "0,2",
-                "jumptarget": 125
+                "jumptarget": 125,
+                "Target": 150042
             },
             {
                 "ID": 3404,
@@ -37049,7 +37210,8 @@
                 "Redirect": "map|module",
                 "Go": "1003;app/ShengtingleiyiMainPanel",
                 "Label": "1,2",
-                "jumptarget": 112
+                "jumptarget": 112,
+                "Target": 150043
             },
             {
                 "ID": 3407,
@@ -37122,7 +37284,8 @@
                 "Features": "索伦森的完全体形态，索伦森终于褪去了圣灵的外壳，得到了最原始的混沌力量！",
                 "mapID": 1241,
                 "Label": "1,2,6",
-                "jumptarget": 92
+                "jumptarget": 92,
+                "Target": 150044
             },
             {
                 "ID": 3415,
@@ -37177,7 +37340,8 @@
                 "Weight": 80,
                 "Features": "梦境之神的完全体形态，在索伦森掌握真正混沌力量后，梦境之神赫尔墨斯的能力也得到了提升！",
                 "mapID": 1239,
-                "jumptarget": 119
+                "jumptarget": 119,
+                "Target": 150045
             },
             {
                 "ID": 3421,
@@ -37213,8 +37377,10 @@
                 "Height": 180,
                 "Weight": 80,
                 "Features": "随着命运之轮未来命运的开启，拉里特进化成了拉奥里特，舍弃了盾牌，却拥有了一往无前的力量！",
-                "mapID": 1151,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3425,
@@ -37233,7 +37399,8 @@
                 "Weight": 80,
                 "Features": "拥有神秘战斗能力的战士，需要建立极高的功勋才能得到他的认可！",
                 "mapID": 1147,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 3427,
@@ -37252,7 +37419,8 @@
                 "Weight": 80,
                 "Features": "风暴之神的完全体形态，借助风暴和混沌的力量，速度和能力都更上一层！",
                 "mapID": 1246,
-                "jumptarget": 120
+                "jumptarget": 120,
+                "Target": 150046
             },
             {
                 "ID": 3429,
@@ -37326,7 +37494,8 @@
                 "Features": "阿娅的完全体形态，力量得到进一步提升，同时她将陪伴赛尔到宇宙的尽头！",
                 "mapID": 1240,
                 "Label": "0,2",
-                "jumptarget": 126
+                "jumptarget": 126,
+                "Target": 150047
             },
             {
                 "ID": 3438,
@@ -37345,7 +37514,8 @@
                 "Weight": 80,
                 "Features": "恐惧之神阿瑞波斯的完全体形态，战斗力量更上一层，混沌的力量已融入自身！",
                 "mapID": 1239,
-                "jumptarget": 121
+                "jumptarget": 121,
+                "Target": 150048
             },
             {
                 "ID": 3440,
@@ -37373,7 +37543,8 @@
                 "Features": "圣灵的主宰。圣灵的终极强化，神灵之力的持有者。不朽的传奇。唯一的神灵！",
                 "mapID": 1248,
                 "Label": "1,7",
-                "jumptarget": 87
+                "jumptarget": 87,
+                "Target": 150049
             },
             {
                 "ID": 3442,
@@ -37465,7 +37636,8 @@
                 "Features": "毁灭之神莫迪西斯的完全体形态，混沌的力量被他融入了毁灭之中！",
                 "mapID": 1241,
                 "Label": "0,1,2",
-                "jumptarget": 103
+                "jumptarget": 103,
+                "Target": 150050
             },
             {
                 "ID": 3452,
@@ -37551,7 +37723,8 @@
                 "Redirect": "map|module",
                 "Go": "1254;app/JiewangGetPanel",
                 "Label": "0,2,3",
-                "jumptarget": 65
+                "jumptarget": 65,
+                "Target": 150051
             },
             {
                 "ID": 3461,
@@ -37582,7 +37755,8 @@
                 "Redirect": "map|module",
                 "Go": "1254;app/JiewangGetPanel",
                 "Label": "0,2",
-                "jumptarget": 65
+                "jumptarget": 65,
+                "Target": 150052
             },
             {
                 "ID": 3464,
@@ -37602,7 +37776,8 @@
                 "Weight": 54,
                 "Features": "缪斯接受谱尼的圣灵力量，成功觉醒了圣灵之瞳，不仅自身的实力得到了提升，而且拥有了更加美丽的容姿！",
                 "mapID": 1253,
-                "jumptarget": 202
+                "jumptarget": 202,
+                "Target": 150053
             },
             {
                 "ID": 3466,
@@ -37752,7 +37927,8 @@
                 "Weight": 78,
                 "Features": "接受了谱尼圣灵力量之后，盖亚的战斗实力得到了质的提升，将与自己的哥哥一同对抗奥古斯特！",
                 "mapID": 1258,
-                "jumptarget": 204
+                "jumptarget": 204,
+                "Target": 150051
             },
             {
                 "ID": 3482,
@@ -37906,8 +38082,10 @@
                 "Height": 170,
                 "Weight": 70,
                 "Features": "身穿新娘服装，却手持极寒重炮，这位落跑新娘拥有常人无法想象的实力！",
-                "mapID": 1151,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3499,
@@ -37979,7 +38157,8 @@
                 "Height": 190,
                 "Weight": 80,
                 "Features": "波塞冬的完全体形态。手执海神之戟，秉承海皇之傲！海洋的力量运用的更加炉火纯青！",
-                "mapID": 103
+                "Redirect": "map|module",
+                "Go": "103;app/NewVIPEquityPanel"
             },
             {
                 "ID": 3507,
@@ -38054,7 +38233,8 @@
                 "Features": "五皇中的最后一位，嗜血冷酷，其手段十分残忍，最喜欢的事就是看着猎物被自己追杀且无路可逃的样子。",
                 "mapID": 1264,
                 "Label": "1,2",
-                "jumptarget": 107
+                "jumptarget": 107,
+                "Target": 150055
             },
             {
                 "ID": 3515,
@@ -38282,7 +38462,8 @@
                 "Weight": 75,
                 "Features": "即使混沌占据身体，但正义的精神不会倒下！纵然黑暗吞噬灵魂，但永恒的心灵不会腐朽！身处黑暗，心向光明！他是光明守护者！他是布莱克！",
                 "mapID": 1270,
-                "jumptarget": 206
+                "jumptarget": 206,
+                "Target": 150056
             },
             {
                 "ID": 3540,
@@ -38336,8 +38517,10 @@
                 "Height": 180,
                 "Weight": 80,
                 "Features": "创世兵魂的完全体形态，无上荣光划破苍穹，荣耀神兵再次苏醒！",
-                "mapID": 1273,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3546,
@@ -38544,7 +38727,8 @@
                 "Weight": 73,
                 "Features": "凝聚圣光的力量，再现大地之澎湃！大地之神圣灵蜕变，卡修斯的荣耀爆发！",
                 "mapID": 1279,
-                "jumptarget": 205
+                "jumptarget": 205,
+                "Target": 150057
             },
             {
                 "ID": 3569,
@@ -38591,7 +38775,8 @@
                 "Features": "她不知自己从何而来，但她知道自己的目的：屠戮龙族！龙族杀手艾莫莉萨，携灭龙之意降临于战场！",
                 "mapID": 1280,
                 "Label": "0,2",
-                "jumptarget": 105
+                "jumptarget": 105,
+                "Target": 150058
             },
             {
                 "ID": 3574,
@@ -38630,7 +38815,8 @@
                 "Features": "他代表着精灵的最高战力！他代表了正义的永世长存！当邪恶肆虐，当宇宙危机，他终于突破了自我，就在此刻闪耀进化！迎接正义的惩戒！",
                 "mapID": 1281,
                 "Label": "1,2",
-                "jumptarget": 93
+                "jumptarget": 93,
+                "Target": 150059
             },
             {
                 "ID": 3578,
@@ -38677,7 +38863,8 @@
                 "Weight": 180,
                 "Features": "跨越漫长的等待，我们终于再次遇到了他，记忆中那个熟悉的老顽童爷爷！",
                 "mapID": 0,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 3583,
@@ -38715,7 +38902,8 @@
                 "Features": "他代表着精灵的最高战力！他代表了正义的永世长存！真正的光明不会被黑暗所吞噬，永恒的正义亦不会因愤怒失去理智！",
                 "mapID": 1283,
                 "Label": 1,
-                "jumptarget": 94
+                "jumptarget": 94,
+                "Target": 150060
             },
             {
                 "ID": 3587,
@@ -38912,8 +39100,10 @@
                 "Height": 150,
                 "Weight": 40,
                 "Features": "出现在迷雾之森的精灵医师，擅长为调制各种药膏，除此之外我们对她的来历一无所知....",
-                "mapID": 1289,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3609,
@@ -39012,8 +39202,10 @@
                 "Height": 150,
                 "Weight": 40,
                 "Features": "黯翼蝴蝶安丽丝，最擅长在悄无声息之间利用花粉麻痹敌人的神经，然后给予致命一击！",
-                "mapID": 1291,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3620,
@@ -39242,7 +39434,8 @@
                 "Features": "镜湖的守护者，已将水的力量运用的炉火纯青，召唤强大的水龙卷来进行作战，任何想要抢夺卡鲁克之星的人都不得靠近！",
                 "mapID": 1305,
                 "Label": "0,2",
-                "jumptarget": 90
+                "jumptarget": 90,
+                "Target": 150061
             },
             {
                 "ID": 3645,
@@ -39506,7 +39699,8 @@
                 "Features": "大暗黑天最后一位长老———常长老终于现世！她既是大暗黑天最后一员，又是天蛇星的末代女王！",
                 "mapID": 1307,
                 "Label": "1,2",
-                "jumptarget": 95
+                "jumptarget": 95,
+                "Target": 150062
             },
             {
                 "ID": 3674,
@@ -39577,8 +39771,10 @@
                 "Height": 160,
                 "Weight": 80,
                 "Features": "掌握着寒冰力量的少女，虽然外表柔弱，但是身体内潜藏的能力却十分巨大！",
-                "mapID": 1151,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3682,
@@ -39689,7 +39885,8 @@
                 "Features": "层层玄冰之中，神圣而坚韧的灵魂傲然挺立！阿克希亚在万千子民的祝福下，完成了全新的进化！",
                 "mapID": 1313,
                 "Label": "0,1,2",
-                "jumptarget": 109
+                "jumptarget": 109,
+                "Target": 150063
             },
             {
                 "ID": 3700,
@@ -39798,7 +39995,8 @@
                 "Features": "莫妮卡接受了圣光的祝福，抱着正义的信念将一切黑暗净化于光明之中！自然，终将由她守护！",
                 "mapID": 1315,
                 "Label": "0,2",
-                "jumptarget": 116
+                "jumptarget": 116,
+                "Target": 150064
             },
             {
                 "ID": 3712,
@@ -39963,7 +40161,8 @@
                 "Height": 195,
                 "Weight": 75,
                 "Features": "昆仑的完全体形态，手握乾坤之力，头戴仗义之笠，脚踏金色祥云，肆战四海无边。",
-                "mapID": 1319
+                "Redirect": "module",
+                "Go": "app/ElfAwakeningNewMainPanel"
             },
             {
                 "ID": 3730,
@@ -39999,8 +40198,10 @@
                 "Height": 175,
                 "Weight": 55,
                 "Features": "冥界的冤魂所组成，外号“冥之枯木”，死寂之息暗自蔓延，幽冥深处枯木丛生！",
-                "mapID": 1320,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3734,
@@ -40036,8 +40237,10 @@
                 "Height": 185,
                 "Weight": 75,
                 "Features": "幽幽冥火在指尖跳跃，亡者之魂尽情燃烧，黑暗将至，冥火已燃！加列韦邪恶现身！",
-                "mapID": 1321,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3738,
@@ -40101,7 +40304,8 @@
                 "Weight": 62,
                 "Features": "全新的功勋兑换精灵，善于运用火魔法和冰魔法保护自己，极具正义感！",
                 "mapID": 1147,
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 3745,
@@ -40137,7 +40341,10 @@
                 "Height": 190,
                 "Weight": 100,
                 "Features": "朱雀之子接受了圣灵的祝福，织羽燃烧，方是光明之所向！",
-                "mapID": 1332
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3749,
@@ -40173,7 +40380,10 @@
                 "Height": 185,
                 "Weight": 95,
                 "Features": "玄武之子接受了圣灵的祝福，圣钢盖体，力量勃发，怀抱心中不屈的信念，他将更为坚韧的走下去！",
-                "mapID": 1333
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3753,
@@ -40237,7 +40447,8 @@
                 "Features": "圣光之子超进化形态，纯粹的圣灵力量，静静的贯彻全身，圣光所致，照亮每一寸黑暗！",
                 "mapID": 1335,
                 "Label": "0,2",
-                "jumptarget": 106
+                "jumptarget": 106,
+                "Target": 150065
             },
             {
                 "ID": 3760,
@@ -40399,7 +40610,10 @@
                 "Height": 190,
                 "Weight": 79,
                 "Features": "尤尼卡完全体形态，黑暗的火焰在眸中跳跃，却焚不尽心中的信念。无谓正与邪，只有守护才是最清晰的道路！",
-                "mapID": 1341
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3778,
@@ -40408,7 +40622,10 @@
                 "Height": 170,
                 "Weight": 54,
                 "Features": "尤米娜完全体形态，冰与影的纠缠，是隐匿在黑暗中的沉着与冷静，是包裹在坚贞外的力量与奉献！",
-                "mapID": 1341
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3779,
@@ -40545,8 +40762,10 @@
                 "Height": 176,
                 "Weight": 65,
                 "Features": "上古时期封印了妖兽无治奇的勇者，时光揉碎了人们的记忆，却抹不去勇士留下的痕迹，如今传说勇者终于再次苏醒了！",
-                "mapID": 1346,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3794,
@@ -40635,7 +40854,10 @@
                 "Height": 220,
                 "Weight": 120,
                 "Features": "层层堡垒抵抗敌袭，重重守护只为心中信念，坚定不移的磐石之力，在危机时刻陡然爆发，阿洛比斯完全体开启！",
-                "mapID": 1348
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3804,
@@ -40644,7 +40866,10 @@
                 "Height": 200,
                 "Weight": 100,
                 "Features": "守护的意义，并非是是停于脑海，而是身体力行的付出与风险！帕罗狄亚完全体，守护降临！",
-                "mapID": 1349
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3805,
@@ -40796,7 +41021,10 @@
                 "Height": 165,
                 "Weight": 79,
                 "Features": "虚空系第一只精灵，因元素法师的惊悚实验而诞生！虚空能量幽幽亮起，邪恶怪兽正在降临...",
-                "mapID": 1356
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3822,
@@ -40885,8 +41113,10 @@
                 "Height": 180,
                 "Weight": 80,
                 "Features": "第二只圣灵暗影系精灵！是怪梦空间根据庚辰所复制出来的灵体，拥有着比庚辰更为强大的咒术！",
-                "mapID": 1358,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3832,
@@ -40913,8 +41143,10 @@
                 "Height": 170,
                 "Weight": 50,
                 "Features": "神秘的冥之死水终于现身，阴森之中黑暗丛生，死亡之花幽然生长！",
-                "mapID": 1359,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3835,
@@ -41005,7 +41237,8 @@
                 "Features": "伊芙莉超进化形态，星球守护，祈祷和平！指引精灵迷途，治愈世间悲伤！",
                 "mapID": 1362,
                 "Label": "0,2",
-                "jumptarget": 81
+                "jumptarget": 81,
+                "Target": 150066
             },
             {
                 "ID": 3845,
@@ -41060,8 +41293,10 @@
                 "Height": 120,
                 "Weight": 40,
                 "Features": "神秘的逃亡者，首次出现在赛尔号的面前，他的身上究竟隐藏着什么秘密...",
-                "mapID": 1364,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3851,
@@ -41106,8 +41341,10 @@
                 "Height": 160,
                 "Weight": 60,
                 "Features": "卡迪重新回到故乡，体内的力量正在逐渐回归，开启了进化形态，变得更加勇猛！",
-                "mapID": 1365,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3856,
@@ -41125,7 +41362,10 @@
                 "Height": 168,
                 "Weight": 50,
                 "Features": "月照星魂的使徒之一，拥有着极强的火焰魔法，必杀技是赤射火雨！",
-                "mapID": 1365
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3858,
@@ -41161,7 +41401,10 @@
                 "Height": 175,
                 "Weight": 52,
                 "Features": "月照星魂的使徒之一，万象雪境至净如冰，天寒雪皑百丈冰起，月照·雪芙，优雅降临！",
-                "mapID": 1366
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3862,
@@ -41188,8 +41431,10 @@
                 "Height": 182,
                 "Weight": 86,
                 "Features": "卡迪亚的暗影能量被月照使徒剥离，体内的圣灵之力爆发，开启了完全体形态！",
-                "mapID": 1367,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3865,
@@ -41209,7 +41454,8 @@
                 "Features": "首只星魂系列精灵——月照。愿逐月华流照君，此时相望不相闻。黎明永驻，只为在此凝望你！",
                 "mapID": 1367,
                 "Label": 1,
-                "jumptarget": 118
+                "jumptarget": 118,
+                "Target": 150067
             },
             {
                 "ID": 3867,
@@ -41299,7 +41545,10 @@
                 "Height": 180,
                 "Weight": 85,
                 "Features": "伽玛星魂的使徒之一，狂妄笑声响彻天际，冷风猎猎暗藏血光。手持巨刃一击毙命！他便是残酷无情的狩猎者——悍刀！",
-                "mapID": 1374
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3877,
@@ -41398,7 +41647,10 @@
                 "Height": 180,
                 "Weight": 75,
                 "Features": "伽玛星魂的使徒之一，纤指戏火静品哀嚎，伽玛·鬼雀不测到来！",
-                "mapID": 1377
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3888,
@@ -41452,7 +41704,10 @@
                 "Height": 140,
                 "Weight": 45,
                 "Features": "伽玛星魂的使徒之一，变幻莫测真假难明，深藏夜幕掩蔽杀机，夜煞已经在这茫茫宇宙中存活了千万年。",
-                "mapID": 1385
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3894,
@@ -41463,7 +41718,8 @@
                 "Features": "双姝并蒂妙曼迷离。风姿卓越千裳降临！千裳似乎和千花有一些莫名的联系...",
                 "mapID": 1385,
                 "Label": "0,2,3",
-                "jumptarget": 113
+                "jumptarget": 113,
+                "Target": 150068
             },
             {
                 "ID": 3895,
@@ -41498,8 +41754,10 @@
                 "Height": 172,
                 "Weight": 50,
                 "Features": "柔虹温雅与翼相拥，辉芒天使荣光同在。光天使一直都在为迷途的精灵指引着方向...",
-                "mapID": 1387,
-                "jumptarget": "18/4_5"
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3899,
@@ -42002,7 +42260,11 @@
                 "Type": "圣灵 火",
                 "Height": 168,
                 "Weight": 49,
-                "Features": "2019年11月巅峰圣战精灵......“秋天来了，故乡的枫叶也红了......战争过去这么久了，真希望有朝一日还能再见你们一面呀。”"
+                "Features": "2019年11月巅峰圣战精灵......“秋天来了，故乡的枫叶也红了......战争过去这么久了，真希望有朝一日还能再见你们一面呀。",
+                "Redirect": "map|module",
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 3955,
@@ -42973,7 +43235,9 @@
                 "Weight": 30,
                 "Features": "炎塔的守护者，在禁地的静默中锤炼着自己的审判之焰！",
                 "Redirect": "map|module",
-                "Go": "1434;app/S33DickensThunderMainPanel"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4056,
@@ -43842,7 +44106,9 @@
                 "Weight": 60,
                 "Features": "一个失明的神秘人，把自己隐藏在厚重的斗篷下让人难以知晓他的身份，看上去似乎在逃离着什么...",
                 "Redirect": "map|module",
-                "Go": "1462;app/S61BulaiDeManMainPanel"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4144,
@@ -44369,7 +44635,9 @@
                 "Weight": 200,
                 "Features": "吸取森林之力所化成的巨藤武士，生命力惊人，常年看守着牢狱！",
                 "Redirect": "map|module",
-                "Go": "1482;app/S79JTWSMainPanel"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4198,
@@ -44632,7 +44900,9 @@
                 "Weight": 50,
                 "Features": "一个能熟练操纵水行流动的神秘男子，高贵优雅的他似乎一直在寻找自己迷失的恋人...",
                 "Redirect": "map|module",
-                "Go": "1490;app/S87MoQiuMainPanel"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4225,
@@ -44642,8 +44912,9 @@
                 "Weight": 51,
                 "Features": "掌管时钟转动的钟表师，可以控制时间的流逝，盯着他手中的钟表会逐渐陷入时间漩涡！",
                 "Redirect": "map|module",
-                "Go": "1491;app/HuoRuiRuoJiMainPanel",
-                "jumptarget": "18/4_5"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4226,
@@ -44799,8 +45070,9 @@
                 "Weight": 62,
                 "Features": "环小队的队长，被小队成员使用五个机械核心复活，战斗本能再次激活！",
                 "Redirect": "map|module",
-                "Go": "1497;app/SpetHuanLingPanel",
-                "jumptarget": "18/4_5"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4242,
@@ -44851,7 +45123,8 @@
                 "Features": "黑夜三女神之一，隐匿于黑暗，混沌鬼火所到之处，将被无尽的黑暗所吞噬！",
                 "Redirect": "map|module",
                 "Go": "1500;app/SpetMojiLaPanel",
-                "jumptarget": "18/4_5"
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4247,
@@ -44877,8 +45150,9 @@
                 "Weight": 80,
                 "Features": "在时钟领域迎接混沌界神的试炼官，只有完成他的试炼才能离开结界！",
                 "Redirect": "map|module",
-                "Go": "1501;app/SpetAnPanel",
-                "jumptarget": "18/4_5"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4250,
@@ -44888,8 +45162,9 @@
                 "Weight": 80,
                 "Features": "在时钟领域迎接时空界神的试炼官，只有完成她的试炼才能离开结界！",
                 "Redirect": "map|module",
-                "Go": "1502;app/SpetYaoPanel",
-                "jumptarget": "18/4_5"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4251,
@@ -44899,8 +45174,9 @@
                 "Weight": 82,
                 "Features": "在时钟领域迎接幻境界神的试炼官，只有完成它的试炼才能离开结界！",
                 "Redirect": "map|module",
-                "Go": "1503;app/SpetZhouPanel",
-                "jumptarget": "18/4_5"
+                "Go": "1147;app/PveRewardMallMainPanel",
+                "jumptarget": "18/4_5",
+                "Target": 164500
             },
             {
                 "ID": 4252,
@@ -44997,7 +45273,8 @@
                 "Features": "曾经因封印魔兽而牺牲，意识被封印在灰栗的体内，因恋人的呼唤而觉醒！",
                 "Redirect": "map|module",
                 "Go": "1506;app/SpetLingYuePanel",
-                "jumptarget": "151/41"
+                "jumptarget": "151/41",
+                "Target": "153201/41"
             },
             {
                 "ID": 4262,
@@ -45028,7 +45305,8 @@
                 "Features": "被囚禁在长夜星河的罪恶之龙，关于她的过去有很多传说，那不为人知的往事等待着好奇的人们去慢慢揭开！",
                 "Redirect": "map|module",
                 "Go": "1507;app/SpetKuLaiMuSiPanel",
-                "jumptarget": "151/42"
+                "jumptarget": "151/42",
+                "Target": "153201/42"
             },
             {
                 "ID": 4265,
@@ -45090,7 +45368,8 @@
                 "Features": "一直以来藏匿于锢灵·舞身体之中的最后一位黑夜女神终于现身！性感邪魅的她实力更是深不可测，聚首的黑夜三女神势必带着无尽的混沌之力让整个宇宙永远陷入黑暗！",
                 "Redirect": "map|module",
                 "Go": "1509;app/SpetTiXiFuNiePanel",
-                "jumptarget": "151/43"
+                "jumptarget": "151/43",
+                "Target": "153201/43"
             },
             {
                 "ID": 4271,
@@ -45127,7 +45406,8 @@
                 "Features": "全新的功勋兑换精灵，可以自由的操纵沙石发动攻击，画有獠牙的面罩似乎在刻意的隐藏些什么......",
                 "Redirect": "map|module",
                 "Go": "1147;app/PveRewardMallMainPanel",
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 4275,
@@ -45138,7 +45418,8 @@
                 "Features": "莫伊莱的超进化形态，从来没有那么一人，有种前世今生的感觉，似星辰开启记忆，如命运做出选择，兜兜转转，难分难舍，日月安属，列星安陈，初心不变，轮回永恒！",
                 "Redirect": "map|module",
                 "Go": "1511;app/SpetMoyiLaiPanel",
-                "jumptarget": "151/44"
+                "jumptarget": "151/44",
+                "Target": "153201/44"
             },
             {
                 "ID": 4276,
@@ -45149,7 +45430,8 @@
                 "Features": "来自于遥远海洋的神秘独角鲸龙，由于飓风的袭击迷失在了古索山头的沙漠中，至今仍在为了生存努力抗争着沙暴......",
                 "Redirect": "map|module",
                 "Go": "1512;app/SpetTaiPuSiPanel",
-                "jumptarget": "151/45"
+                "jumptarget": "151/45",
+                "Target": "153201/45"
             },
             {
                 "ID": 4277,
@@ -45190,7 +45472,8 @@
                 "Features": "不e定x店的神秘小精灵，目标是给深夜工作的人们带来活力和正能量。据说只要吃下她端上来的食物，就会变得元气满满！",
                 "Redirect": "map|module",
                 "Go": "103;app/LaunchInterfacePanel",
-                "jumptarget": "110/3_3/1"
+                "jumptarget": "110/3_3/1",
+                "Target": 111111
             },
             {
                 "ID": 4281,
@@ -45237,7 +45520,8 @@
                 "Features": "未明之空酒吧的老板，熟练掌握各种调制饮品的技术，似乎还有着强大的情报网和隐藏的实力......",
                 "Redirect": "map|module",
                 "Go": "1514;app/SPetWeiMingPanel",
-                "jumptarget": "151/47"
+                "jumptarget": "151/47",
+                "Target": "153201/47"
             },
             {
                 "ID": 4286,
@@ -45258,7 +45542,8 @@
                 "Features": "故人的眼泪，却是那般物是人非；旧友的挽留，却只令人更加孤独。涌动的混沌前方，究竟是再难回头的歧路，还是自我灵魂的救赎？吾执己意，当以混灵之名，让这时代天翻地覆！",
                 "Redirect": "map|module",
                 "Go": "1516;app/SPetHunlingLaiYinHaTePanel",
-                "jumptarget": "151/48"
+                "jumptarget": "151/48",
+                "Target": "153201/48"
             },
             {
                 "ID": 4288,
@@ -45279,7 +45564,8 @@
                 "Features": "拉伯克在魔方能量的激活下再度突破的全新形态，混沌之力得到了进一步觉醒，次元的力量也变得愈发强大！",
                 "Redirect": "map|module",
                 "Go": "1515;app/SPetYiWeiLaBoKePanel",
-                "jumptarget": "151/49"
+                "jumptarget": "151/49",
+                "Target": "153201/49"
             },
             {
                 "ID": 4290,
@@ -45330,7 +45616,8 @@
                 "Features": "一位现身在岩岭古穴研究壁画的神秘老者，似乎知道很多不为人知的秘密......",
                 "Redirect": "map|module",
                 "Go": "1519;app/SPetHuoLaiPanel",
-                "jumptarget": "151/50"
+                "jumptarget": "151/50",
+                "Target": "153201/50"
             },
             {
                 "ID": 4295,
@@ -45380,7 +45667,8 @@
                 "Features": "晶灵之渊的守护者，实力异常强大，邪魅的笑容下似乎还暗藏了更多秘密，能够熟练掌握塔罗牌“塔”的力量，所有试图走进深渊的闯入者都已湮灭在了他召唤出的尘沙中......",
                 "Redirect": "map|module",
                 "Go": "1520;app/SPetTaWeiErPanel",
-                "jumptarget": "151/51"
+                "jumptarget": "151/51",
+                "Target": "153201/51"
             },
             {
                 "ID": 4300,
@@ -45399,7 +45687,8 @@
                 "Features": "艾希丝力量觉醒后现身的召唤兽，化形为巨大的盔甲协助艾希丝作战，能够轻松驾驭飓风之力，给予来犯者摧枯拉朽般的打击！",
                 "Redirect": "map|module",
                 "Go": "1521;app/SpetFengMoZhiHaiMainPanel",
-                "jumptarget": "151/52"
+                "jumptarget": "151/52",
+                "Target": "153201/52"
             },
             {
                 "ID": 4302,
@@ -45410,7 +45699,8 @@
                 "Features": "灵格星系三大上古神兽之一，在阴雨中降临的巨蜂，能够操纵闪电如长鞭般进行攻击，所到之处落雷不止，有时还会带来强烈的风暴！",
                 "Redirect": "map|module",
                 "Go": "1522;app/SpetAisiPuLuPanel",
-                "jumptarget": "151/53"
+                "jumptarget": "151/53",
+                "Target": "153201/53"
             },
             {
                 "ID": 4303,
@@ -45441,7 +45731,8 @@
                 "Features": "在迪斯伯德的指引下被安放于日夜星海的神秘机器，拥有可以跳跃空间的能力，时钟试炼官们便是用其能源制造而成。它的运作似乎预兆了光明与黑暗的对垒即将进入全新的阶段......",
                 "Redirect": "map|module",
                 "Go": "1523;app/SpetShiZhongZhuJiPanel",
-                "jumptarget": "151/54"
+                "jumptarget": "151/54",
+                "Target": "153201/54"
             },
             {
                 "ID": 4306,
@@ -45488,7 +45779,8 @@
                 "Features": "一位神秘的少女，能够汇聚龙之力量在手中释放，故乡在盖伦星系的她似乎身上还有着其他的秘密等待被揭开......",
                 "Redirect": "map|module",
                 "Go": "1524;app/SpetTeLuoSiPanel",
-                "jumptarget": "151/55"
+                "jumptarget": "151/55",
+                "Target": "153201/55"
             },
             {
                 "ID": 4311,
@@ -45499,7 +45791,8 @@
                 "Features": "灵格星系三大上古神兽之一，远古巨龟，背上有巨大的冰山，口中可以吹出极寒之气，每一次践踏都会造成巨大的雪崩，被世人称之为“移动的冰川”！",
                 "Redirect": "map|module",
                 "Go": "1525;app/SpetTuTuoErSiPanel",
-                "jumptarget": "151/56"
+                "jumptarget": "151/56",
+                "Target": "153201/56"
             },
             {
                 "ID": 4312,
@@ -45510,7 +45803,8 @@
                 "Features": "盖伦星系的侦察兵，长有双翅的他行动非常迅捷，常常负责通风报信的工作！",
                 "Redirect": "map|module",
                 "Go": "1526;app/SpetMaTiSiTePanel",
-                "jumptarget": "151/57"
+                "jumptarget": "151/57",
+                "Target": "153201/57"
             },
             {
                 "ID": 4313,
@@ -45618,7 +45912,8 @@
                 "Features": "由无数绿棘球合体变成的巨大魔物，苏醒后开始四处破坏，拥有着可怕的战斗力！",
                 "Redirect": "map|module",
                 "Go": "1531;app/SpetLvJiJuMoPanel",
-                "jumptarget": "151/58"
+                "jumptarget": "151/58",
+                "Target": "153201/58"
             },
             {
                 "ID": 4324,
@@ -45629,7 +45924,8 @@
                 "Features": "卡卡托斯一族的圣女，是古索迪尔的老朋友，娇小可爱的身体内蕴藏着不可小觑的能量！",
                 "Redirect": "map|module",
                 "Go": "1532;app/SpetKaTuoNaPanel",
-                "jumptarget": "151/59"
+                "jumptarget": "151/59",
+                "Target": "153201/59"
             },
             {
                 "ID": 4325,
@@ -45640,7 +45936,8 @@
                 "Features": "盖伦星系的古龙，生前能掌控大地之力，可惜她的命运终究也未能逃过气候灾变的浩劫......",
                 "Redirect": "map|module",
                 "Go": "1533;app/SpetKanPuRuiYaPanel",
-                "jumptarget": "151/60"
+                "jumptarget": "151/60",
+                "Target": "153201/60"
             },
             {
                 "ID": 4326,
@@ -45661,7 +45958,8 @@
                 "Features": "面对深陷混沌的莱茵哈特，愤怒的阿尔斯兰开启了自我突破，出神入化的战斗之力势必神威贯宇，八方拜服！",
                 "Redirect": "map|module",
                 "Go": "1534;app/SpetAErSiLanEvoPanel",
-                "jumptarget": "151/61"
+                "jumptarget": "151/61",
+                "Target": "153201/61"
             },
             {
                 "ID": 4328,
@@ -45708,7 +46006,8 @@
                 "Features": "萨特的手下之一，布蕾里克的伙伴，主要负责城邦的治安，身材十分魁梧！",
                 "Redirect": "map|module",
                 "Go": "1536;app/SpetBaoErSiPanel",
-                "jumptarget": "151/62"
+                "jumptarget": "151/62",
+                "Target": "153201/62"
             },
             {
                 "ID": 4333,
@@ -45729,7 +46028,8 @@
                 "Features": "凶恶的狼人，幽谷营地的山贼头领，劫持了坎普瑞亚的他妄图利用古龙的能量训练士兵，筹划造反！",
                 "Redirect": "map|module",
                 "Go": "1538;app/SpetKuTeLangPanel",
-                "jumptarget": "151/63"
+                "jumptarget": "151/63",
+                "Target": "153201/63"
             },
             {
                 "ID": 4335,
@@ -45758,7 +46058,8 @@
                 "Features": "卡托娜的哥哥，身为长兄的他却没有获得通神力量的祝福，但他仍然悉心照顾自己的妹妹，希望成为卡卡托斯的守护者。",
                 "Redirect": "map|module",
                 "Go": "1539;app/SpetKaSiBoPanel",
-                "jumptarget": "151/64"
+                "jumptarget": "151/64",
+                "Target": "153201/64"
             },
             {
                 "ID": 4338,
@@ -45769,7 +46070,8 @@
                 "Features": "作战实验室中现身的神秘精灵，天性活泼的她掌握着各种各样的对战技巧，据说只要能够完成她的重重考验，就有机会与她成为伙伴哦！",
                 "Redirect": "alarm",
                 "Go": "新版作战实验室专属精灵，请前往《赛尔号巅峰之战》获得！",
-                "jumptarget": 139
+                "jumptarget": 139,
+                "Target": 150069
             },
             {
                 "ID": 4339,
@@ -45780,7 +46082,8 @@
                 "Features": "赤熔之泉现身的异变熔钳蟹，有着坚硬的甲壳和巨大的体魄，背部还能喷发岩浆！",
                 "Redirect": "map|module",
                 "Go": "1540;app/SpetMaiGeMuPanel",
-                "jumptarget": "151/65"
+                "jumptarget": "151/65",
+                "Target": "153201/65"
             },
             {
                 "ID": 4340,
@@ -45837,7 +46140,8 @@
                 "Features": "卡托娜的超进化形态，面对着逐渐崩坏的卡卡托斯之柱与生命垂危的哥哥，卡托娜于绝境中得到了卡卡托斯之神的眷顾，觉醒“女皇”塔罗牌之力实现了自我突破！",
                 "Redirect": "map|module",
                 "Go": "1541;app/SpetSXNHKaTuoNaPanel",
-                "jumptarget": "151/66"
+                "jumptarget": "151/66",
+                "Target": "153201/66"
             },
             {
                 "ID": 4346,
@@ -45858,7 +46162,8 @@
                 "Features": "塞泽丝的超进化形态，当复仇的执念愈加浓烈，当心底的怒火熊熊燃烧......伴随着“正义”塔罗牌之力的加持，塞泽丝终于忍无可忍，将会为了自己的信念而战！",
                 "Redirect": "map|module",
                 "Go": "1542;app/SpetCZMJSaiZeSiPanel",
-                "jumptarget": "151/67"
+                "jumptarget": "151/67",
+                "Target": "153201/67"
             },
             {
                 "ID": 4348,
@@ -45889,7 +46194,8 @@
                 "Features": "霍莱终于展现出了自己的真实面目！热衷古神学的他究竟还潜藏了多少秘密呢......",
                 "Redirect": "map|module",
                 "Go": "1543;app/SpetHaLuoLanTePanel",
-                "jumptarget": "151/68"
+                "jumptarget": "151/68",
+                "Target": "153201/68"
             },
             {
                 "ID": 4351,
@@ -45946,7 +46252,8 @@
                 "Features": "在桑谷的申请下来到向阳村的稻草人，别看它长相乖巧，可是干农活的一把好手！",
                 "Redirect": "map|module",
                 "Go": "1545;app/SpetSiKeErPanel",
-                "jumptarget": "151/69"
+                "jumptarget": "151/69",
+                "Target": "153201/69"
             },
             {
                 "ID": 4357,
@@ -45967,7 +46274,8 @@
                 "Features": "萨特的手下之一，性格开朗外向，有着很高的机动性，在萨特的指示下前来帮助星系边缘的居民转移至城邦~",
                 "Redirect": "map|module",
                 "Go": "1546;app/SpetJieTeLuoPanel",
-                "jumptarget": "151/70"
+                "jumptarget": "151/70",
+                "Target": "153201/70"
             },
             {
                 "ID": 4359,
@@ -45978,7 +46286,8 @@
                 "Features": "虚幻之殿中现身的神秘之门，潜藏了拉伯克的潜意识，它的出现似乎是为了传达某些信息......",
                 "Redirect": "map|module",
                 "Go": "1547;app/SpetXZMJiLuPanel",
-                "jumptarget": "151/71"
+                "jumptarget": "151/71",
+                "Target": "153201/71"
             },
             {
                 "ID": 4360,
@@ -46025,7 +46334,8 @@
                 "Features": "芳花不散，群星不熄，弥馨殷红，缀满她誓约守护的净土，天际星屑，落向他不曾触及的和平。",
                 "Redirect": "map|module",
                 "Go": "1548;app/SpetYouLiMiTePanel",
-                "jumptarget": "151/72"
+                "jumptarget": "151/72",
+                "Target": "153201/72"
             },
             {
                 "ID": 4365,
@@ -46036,7 +46346,8 @@
                 "Features": "莫蒂博士的初代机甲，它的身上似乎蕴含了这个男人的初心，但发生的一切早已无可挽回......",
                 "Redirect": "map|module",
                 "Go": "1549;app/SpetHuanGePanel",
-                "jumptarget": "151/73"
+                "jumptarget": "151/73",
+                "Target": "153201/73"
             },
             {
                 "ID": 4366,
@@ -46047,7 +46358,8 @@
                 "Features": "留风街的施工队长，强壮有力的肌肉女子，在艾希丝的邀请下负责会场的建筑工作。",
                 "Redirect": "map|module",
                 "Go": "1550;app/SpetKuLeBaPanel",
-                "jumptarget": "151/74"
+                "jumptarget": "151/74",
+                "Target": "153201/74"
             },
             {
                 "ID": 4367,
@@ -46068,7 +46380,8 @@
                 "Features": "带着面具的黑夜臣仆，在鬼面阎罗的召唤下从腐朽滩泽现身，拥有着强大的进攻能力！",
                 "Redirect": "map|module",
                 "Go": "1551;app/SpetMaSiKePanel",
-                "jumptarget": "151/75"
+                "jumptarget": "151/75",
+                "Target": "153201/75"
             },
             {
                 "ID": 4369,
@@ -46089,7 +46402,8 @@
                 "Features": "静心定神，守境为念，一觉众生。有他守护在身边，不知不觉你也会平静下来。",
                 "Redirect": "map|module",
                 "Go": "1552;app/SpetSengXingPanel",
-                "jumptarget": "151/76"
+                "jumptarget": "151/76",
+                "Target": "153201/76"
             },
             {
                 "ID": 4371,
@@ -46100,7 +46414,8 @@
                 "Features": "迪斯伯德使用从库莱姆斯身上提取的力量造出的堕恶之龙，拥有着恐怖的破坏力，所到之处都在它的龙怒之下化为了一片焦土！",
                 "Redirect": "map|module",
                 "Go": "1553;app/SpetDeLaMoSiPanel",
-                "jumptarget": "151/77"
+                "jumptarget": "151/77",
+                "Target": "153201/77"
             },
             {
                 "ID": 4372,
@@ -46147,7 +46462,8 @@
                 "Features": "岚通过仙境之忆觉醒了圣灵之力后再度自我突破的完全体形态，对战车和宝剑的力量运用都达到了至高的境界，他的实力已然再无敌手，冠绝天下！",
                 "Redirect": "map|module",
                 "Go": "1556;app/SpetSYZFLPanel",
-                "jumptarget": "151/78"
+                "jumptarget": "151/78",
+                "Target": "153201/78"
             },
             {
                 "ID": 4377,
@@ -46224,7 +46540,8 @@
                 "Features": "神罗的秘密武器，拥有着强大的作战能力和自爆的特殊功能，威力十分恐怖！",
                 "Redirect": "map|module",
                 "Go": "1557;app/SpetWZBYPanel",
-                "jumptarget": "151/79"
+                "jumptarget": "151/79",
+                "Target": "153201/79"
             },
             {
                 "ID": 4385,
@@ -46235,7 +46552,8 @@
                 "Features": "巨大的光之衍生物，在阿特洛波斯的召唤下从圣洛之河现身，它们不会放过任何对神明有心存妄念的敌人......",
                 "Redirect": "map|module",
                 "Go": "1558;app/SpetGLJXPanel",
-                "jumptarget": "151/80"
+                "jumptarget": "151/80",
+                "Target": "153201/80"
             },
             {
                 "ID": 4386,
@@ -46254,7 +46572,8 @@
                 "Features": "神秘的“节制”塔罗牌终于展露了自己的真面目，他能通过与别人签订契约来实现愿望，而这愿望所对应的代价......",
                 "Redirect": "map|module",
                 "Go": "1559;app/SpetTanPuRuiPanel",
-                "jumptarget": "151/94"
+                "jumptarget": "151/94",
+                "Target": "153201/94"
             },
             {
                 "ID": 4388,
@@ -46281,7 +46600,8 @@
                 "Features": "晶能基站的研究员，性格温和，在尤莉米特的安排下帮助开展对跃迁计划的研究工作~",
                 "Redirect": "map|module",
                 "Go": "1560;app/SpetJiuLiNaPanel",
-                "jumptarget": "151/95"
+                "jumptarget": "151/95",
+                "Target": "153201/95"
             },
             {
                 "ID": 4391,
@@ -46302,7 +46622,8 @@
                 "Features": "锢灵·舞觉醒得到的“恶魔”塔罗牌之力，拥有着强大的锁链之力与精细的缝合及切割能力，能够击溃任何来犯之敌！",
                 "Redirect": "map|module",
                 "Go": "1561;app/SpetSiKaiPuPanel",
-                "jumptarget": "151/96"
+                "jumptarget": "151/96",
+                "Target": "153201/96"
             },
             {
                 "ID": 4393,
@@ -46323,7 +46644,8 @@
                 "Features": "神秘的魔盒主人终于展现出了自己真正的姿态，它知晓着关于莱达宇宙的许多秘密......",
                 "Redirect": "map|module",
                 "Go": "1562;app/SpetJiKongXuZuPanel",
-                "jumptarget": "151/97"
+                "jumptarget": "151/97",
+                "Target": "153201/97"
             },
             {
                 "ID": 4395,
@@ -46334,7 +46656,8 @@
                 "Features": "未明的超进化形态，海棠未眠，寒中绽放。一直以来困扰着未明的诅咒，终于在关键时刻化身为他的力量。教皇高声吟唱，宽恕那些罪恶之人的忏悔。",
                 "Redirect": "map|module",
                 "Go": "1563;app/SpetHTKHWMPanel",
-                "jumptarget": "151/99"
+                "jumptarget": "151/99",
+                "Target": "153201/99"
             },
             {
                 "ID": 4396,
@@ -46345,7 +46668,8 @@
                 "Features": "古龙的力量被“节制”的契约提炼，这个被制造出来的怪物已经完全忘却了曾经的身世和记忆，他在释放罪恶的同时也承受着苦痛。",
                 "Redirect": "map|module",
                 "Go": "1563;app/SpetKTLYPanel",
-                "jumptarget": "151/81"
+                "jumptarget": "151/81",
+                "Target": "153201/81"
             },
             {
                 "ID": 4397,
@@ -46382,7 +46706,8 @@
                 "Features": "古龙的传承在血脉中涌现，残酷的记忆让特罗斯不得不接受洗礼......炽红的怒火褪去，幽蓝的魅焰再燃，毁天灭地的“力量”凝聚，这一拳，为了新生！",
                 "Redirect": "map|module",
                 "Go": "1564;app/SpetTeLuoSiMainPanel",
-                "jumptarget": "151/100"
+                "jumptarget": "151/100",
+                "Target": "153201/100"
             },
             {
                 "ID": 4402,
@@ -46403,7 +46728,8 @@
                 "Features": "潜藏于晶灵之渊深处的怪物，被喧闹的噪音所惊醒，发狂并开始四处破坏！",
                 "Redirect": "map|module",
                 "Go": "1565;app/SpetJuShiJingMoMainPanel",
-                "jumptarget": "151/101"
+                "jumptarget": "151/101",
+                "Target": "153201/101"
             },
             {
                 "ID": 4404,
@@ -46424,7 +46750,8 @@
                 "Features": "瓦普特号先驱队队长，为人爽朗大方，擅长用锚作为武器，熟练的技艺让他每次都能精准命中目标！",
                 "Redirect": "map|module",
                 "Go": "1565;app/SpetSaLuoKeMainPanel",
-                "jumptarget": "151/103"
+                "jumptarget": "151/103",
+                "Target": "153201/103"
             },
             {
                 "ID": 4406,
@@ -46445,7 +46772,8 @@
                 "Features": "「太阳」的力量在安卡体内觉醒爆发，仙凤从红莲之火的燃烧中诞生！仙凤的出现代表了安卡不灭的意志，也揭示了安卡抗争的决心。",
                 "Redirect": "map|module",
                 "Go": "1566;app/SpetCHXFMainPanel",
-                "jumptarget": "151/104"
+                "jumptarget": "151/104",
+                "Target": "153201/104"
             },
             {
                 "ID": 4408,
@@ -46456,7 +46784,8 @@
                 "Features": "瓦普特号的护航员，工作认真负责的他每天都会按时在飞船周围巡视，确保航线上一切正常。",
                 "Redirect": "map|module",
                 "Go": "1567;app/SpetPLEMainPanel",
-                "jumptarget": "151/106"
+                "jumptarget": "151/106",
+                "Target": "153201/106"
             },
             {
                 "ID": 4409,
@@ -46477,7 +46806,8 @@
                 "Features": "全新的功勋兑换精灵，原本只是一介平民，现在以笔为刃为正纲常，用墨水记录世道炎凉与家国兴衰。",
                 "Redirect": "map|module",
                 "Go": "1147;app/PveRewardMallMainPanel",
-                "jumptarget": "18/4_1/1"
+                "jumptarget": "18/4_1/1",
+                "Target": 164110
             },
             {
                 "ID": 4411,
@@ -46488,7 +46818,8 @@
                 "Features": "长相有点吓人的大块头，常常被误认为是个坏人，但实际心地善良，身上的镣铐似乎预示着他的身世，但大家都不太清楚......",
                 "Redirect": "map|module",
                 "Go": "1568;app/SpetBaErQiMainPanel",
-                "jumptarget": "151/105"
+                "jumptarget": "151/105",
+                "Target": "153201/105"
             },
             {
                 "ID": 4412,
@@ -46515,7 +46846,8 @@
                 "Features": "瓦普特号的船长终于现身！星辰后裔，威仪一方，故乡在另一个“莱达宇宙”的她，身上究竟还知晓着多少秘密......",
                 "Redirect": "map|module",
                 "Go": "1569;app/SpetWaPuTeMainPanel",
-                "jumptarget": "151/82"
+                "jumptarget": "151/82",
+                "Target": "153201/82"
             },
             {
                 "ID": 4415,
@@ -46546,7 +46878,8 @@
                 "Features": "疾翼先锋善使双刃，有着强大的机动能力和战斗能力。原本隐匿的他们因为一些意外不得不提前暴露身份展开进攻，目的只有一个，那就是摧毁瓦普特号！",
                 "Redirect": "map|module",
                 "Go": "1570;app/SpetJYXFMainPanel",
-                "jumptarget": "151/83"
+                "jumptarget": "151/83",
+                "Target": "153201/83"
             },
             {
                 "ID": 4418,
@@ -46567,7 +46900,8 @@
                 "Features": "为了守卫瓦普特号而被派利尔召唤出的巨大星龙，攻击力和防御力都十分强悍，但作战时间却比较有限！",
                 "Redirect": "map|module",
                 "Go": "1571;app/SpetBoErMoMainPanel",
-                "jumptarget": "151/84"
+                "jumptarget": "151/84",
+                "Target": "153201/84"
             },
             {
                 "ID": 4420,
@@ -46598,7 +46932,8 @@
                 "Features": "普兰多区域的领主，身材魁梧的他擅长使用空间类与雨水相关的战斗技能。他总是眯着眼睛微笑待人，但身边的人都会感受到无形的压力。",
                 "Redirect": "map|module",
                 "Go": "1573;app/SpetTBLDongHuiMainPanel",
-                "jumptarget": "151/85"
+                "jumptarget": "151/85",
+                "Target": "153201/85"
             },
             {
                 "ID": 4423,
@@ -46635,7 +46970,8 @@
                 "Features": "黑狱中的元素法师，平日里十分高冷，但在见到弑序神罗后就会像变了一个人一样，这可能也和她能够使用多变的元素法术有关吧。",
                 "Redirect": "map|module",
                 "Go": "1574;app/SpetYNYSAoWeiNaMainPanel",
-                "jumptarget": "151/86"
+                "jumptarget": "151/86",
+                "Target": "153201/86"
             },
             {
                 "ID": 4427,
@@ -46646,7 +46982,8 @@
                 "Features": "冰原之上的冠鼠一族之主，使用巨大的金光之锤进行战斗，据说一旦重锤落地，便会冰河破碎，雪雾飞扬！",
                 "Redirect": "map|module",
                 "Go": "1575;app/SpetJinGuDeMainPanel",
-                "jumptarget": "151/87"
+                "jumptarget": "151/87",
+                "Target": "153201/87"
             },
             {
                 "ID": 4428,
@@ -46677,7 +47014,8 @@
                 "Features": "阿特洛波斯在圣洛之河聚集圣光能量所孕育而成的仙灵，她们将传承阿特洛波斯的意志，成为光明之神的全新战力！",
                 "Redirect": "map|module",
                 "Go": "1576;app/SpetJGXZMainPanel",
-                "jumptarget": "151/88"
+                "jumptarget": "151/88",
+                "Target": "153201/88"
             },
             {
                 "ID": 4431,
@@ -46698,7 +47036,8 @@
                 "Features": "徜徉在花海中的少年，善用诅咒之力。当灰白色花朵散出的幽香浸入体内后，幻觉也随之而来，接下来便是诅咒带来的死亡倒计时。",
                 "Redirect": "map|module",
                 "Go": "1577;app/SpetEZWSKeSaSiMainPanel",
-                "jumptarget": "151/89"
+                "jumptarget": "151/89",
+                "Target": "153201/89"
             },
             {
                 "ID": 4433,
@@ -46725,7 +47064,8 @@
                 "Features": "极身黩武的原王国勇士，破坏与拼杀是他仅存的追求。魔障内长戟破空声日夜回响，是为了凌驾更强的恶敌还是为了击溃曾经的自己不得而知。",
                 "Redirect": "map|module",
                 "Go": "1578;app/SpetMLZJHeBiDeMainPanel",
-                "jumptarget": "151/90"
+                "jumptarget": "151/90",
+                "Target": "153201/90"
             },
             {
                 "ID": 4436,
@@ -46736,7 +47076,8 @@
                 "Features": "出现在小巷尽头的神秘女子，她的手中可以迸发出幽紫色的火焰，敏锐的眼神中透露出危险的气息。",
                 "Redirect": "map|module",
                 "Go": "1579;app/SpetYHHaiDengMainPanel",
-                "jumptarget": "151/91"
+                "jumptarget": "151/91",
+                "Target": "153201/91"
             },
             {
                 "ID": 4437,
@@ -46757,7 +47098,8 @@
                 "Features": "白金执法队的队长，能够召唤出巨大的雷椋鸟进行作战。白色闪光现身之处，任何罪恶都将无处遁行！",
                 "Redirect": "map|module",
                 "Go": "1580;app/SpetAoLeiMoDeMainPanel",
-                "jumptarget": "151/92"
+                "jumptarget": "151/92",
+                "Target": "153201/92"
             },
             {
                 "ID": 4439,
@@ -46798,7 +47140,8 @@
                 "Features": "白金执法队的一员，擅长追捕和拷问。她的双枪可以发射出特制的子弹，一旦被她抓获，任何情报都将信手拈来。",
                 "Redirect": "map|module",
                 "Go": "1581;app/SpetMJMaTiNaMainPanel",
-                "jumptarget": "151/93"
+                "jumptarget": "151/93",
+                "Target": "153201/93"
             },
             {
                 "ID": 4443,
@@ -46819,7 +47162,8 @@
                 "Features": "远离霓虹色的喧嚣，地下旅店里焕发出盎然生机。古温婆婆，这家旅店的主人，用松柏之气息感受并照料每一个来这里歇息的客人。",
                 "Redirect": "map|module",
                 "Go": "1582;app/SpetGWPPMainPanel",
-                "jumptarget": "151/98"
+                "jumptarget": "151/98",
+                "Target": "153201/98"
             },
             {
                 "ID": 4446,
@@ -46846,7 +47190,8 @@
                 "Features": "「灰爵」的成员之一，年纪虽小却有着不俗的战斗实力，使用随身携带的玲珑球就可以在附近降下鹅毛大雪。",
                 "Redirect": "map|module",
                 "Go": "1583;app/SpetLYXMainPanel",
-                "jumptarget": "151/102"
+                "jumptarget": "151/102",
+                "Target": "153201/102"
             },
             {
                 "ID": 4449,
@@ -46857,7 +47202,8 @@
                 "Features": "隐居在修缘谷的神秘仙人，对战斗技艺有着独到的理解，没有人知道他已经存活了多久，他只想着在山水之下过安静的生活。",
                 "Redirect": "map|module",
                 "Go": "1584;app/SpetChanLaoMainPanel",
-                "jumptarget": "151/107"
+                "jumptarget": "151/107",
+                "Target": "153201/107"
             },
             {
                 "ID": 4450,
@@ -46908,7 +47254,8 @@
                 "Features": "灰爵组织的首领，他的手下活跃在普兰多的大大小小每个角落。善用虚空能力的他行踪诡异，是个让东辉和奥雷莫德都犯难的家伙。",
                 "Redirect": "map|module",
                 "Go": "1585;app/SpetJKHeiODeMainPanel",
-                "jumptarget": "151/108"
+                "jumptarget": "151/108",
+                "Target": "153201/108"
             },
             {
                 "ID": 4455,
@@ -46919,7 +47266,8 @@
                 "Features": "栖息在修缘谷尽头火山群中的巨龙，浑身被熔岩包裹，拥有着恐怖的攻击手段和再生能力，若是在火山外活动太久可能会危及到周边的生态环境。",
                 "Redirect": "map|module",
                 "Go": "1587;app/SpetZYHuanglongMainPanel",
-                "jumptarget": "151/109"
+                "jumptarget": "151/109",
+                "Target": "153201/109"
             },
             {
                 "ID": 4456,
@@ -46955,7 +47303,8 @@
                 "Features": "「灰爵」的成员之一，恶鬼斗技场的霸主，拥有着强大且独特的战斗能力，任何事情都喜欢用拳头说话。",
                 "Redirect": "map|module",
                 "Go": "1589;app/SpetEGTuJiaMainPanel",
-                "jumptarget": "151/110"
+                "jumptarget": "151/110",
+                "Target": "153201/110"
             },
             {
                 "ID": 4460,
@@ -46976,7 +47325,8 @@
                 "Features": "白金执法队的新晋成员，年龄尚小的他已经能够独立解决处理许多任务，而这一切的关键是他尾巴后特制的充能狙击枪。",
                 "Redirect": "map|module",
                 "Go": "1591;app/SpetZGLanKeMainPanel",
-                "jumptarget": "151/113"
+                "jumptarget": "151/113",
+                "Target": "153201/113"
             },
             {
                 "ID": 4462,
@@ -47027,7 +47377,8 @@
                 "Features": "最初的邪灵系精灵王，邪灵的力量能够引发亡魂的共鸣，能力愈发强大的她在某场实验后慢慢走向了不可控的状态，在早期的精灵王团队中一直是一个特殊的存在。",
                 "Redirect": "map|module",
                 "Go": "1592;app/SpetGeSiTaSiMainPanel",
-                "jumptarget": "151/112"
+                "jumptarget": "151/112",
+                "Target": "153201/112"
             },
             {
                 "ID": 4467,
@@ -47038,7 +47389,8 @@
                 "Features": "格斯塔丝觉醒并使用体内混沌力量时展现的形态，混沌与邪灵力量的融合使她与亡魂的联系更加紧密，但过去被混沌力量支配的记忆时刻提醒她要保持谨慎。",
                 "Redirect": "map|module",
                 "Go": "1592;app/SpetMQGeSiTaSiMainPanel",
-                "jumptarget": "151/114"
+                "jumptarget": "151/114",
+                "Target": "153201/114"
             },
             {
                 "ID": 4468,
@@ -47059,7 +47411,8 @@
                 "Features": "白金执法队的一员，从小只擅长武术和蒸包子两件事情，在普兰多开张的桃桃包子铺很受欢迎，在顾客眼里永远是元气活力的形象。",
                 "Redirect": "map|module",
                 "Go": "1593;app/SpetTaoTaoWanMainPanel",
-                "jumptarget": "151/115"
+                "jumptarget": "151/115",
+                "Target": "153201/115"
             },
             {
                 "ID": 4470,
@@ -47090,7 +47443,8 @@
                 "Features": "琉彩被混沌侵染后的黑化形态。受到了神秘药剂瓶的影响，此刻的琉彩已经失去了主观意识，陷入无我的疯狂。次元扭曲，黑暗降临！",
                 "Redirect": "map|module",
                 "Go": "1594;app/SpetYLLiuCaiMainPanel",
-                "jumptarget": "151/116"
+                "jumptarget": "151/116",
+                "Target": "153201/116"
             },
             {
                 "ID": 4473,
@@ -47127,7 +47481,8 @@
                 "Features": "「灰爵」的成员之一，身上散发出的星象之气能够潜移默化影响他人的情绪，常常使用手中的长刀“魁”进行作战，似乎和琉彩有着亲密的关系。",
                 "Redirect": "map|module",
                 "Go": "1595;app/SpetCanXiaoXingWenMainPanel",
-                "jumptarget": "151/117"
+                "jumptarget": "151/117",
+                "Target": "153201/117"
             },
             {
                 "ID": 4477,
@@ -47138,7 +47493,8 @@
                 "Features": "「启明星」之灰星，伊洛特斯做事从来都我行我素，不拖泥带水，在衣着衣品方面特别的讲究。伊洛特斯最擅长使用霆雷和次元的力量，手中悬浮的“极奥之环”可以创造出雷域结界。",
                 "Redirect": "map|module",
                 "Go": "1596;app/SpetQYYiLuoTeSiMainPanel",
-                "jumptarget": "151/118"
+                "jumptarget": "151/118",
+                "Target": "153201/118"
             },
             {
                 "ID": 4478,
@@ -47159,7 +47515,8 @@
                 "Features": "南霜驯服的珍兽，充满灵性，拥有精神沟通的能力，和南霜缔结了深刻的羁绊，她的翅膀能扬起猛烈的冰雪之风，是冰原上的守护者。",
                 "Redirect": "map|module",
                 "Go": "1597;app/SpetJiLaTiSiMainPanel",
-                "jumptarget": "151/119"
+                "jumptarget": "151/119",
+                "Target": "153201/119"
             },
             {
                 "ID": 4480,
@@ -47178,7 +47535,8 @@
                 "Features": "薇菓儿是白金执法队的预备队员，充满活力的她正在为了能够早日加入白金执法队而不懈努力着，热爱花草的她最喜欢观察植物慢慢生长的过程。",
                 "Redirect": "map|module",
                 "Go": "1598;app/SpetWeiGuoErMainPanel",
-                "jumptarget": "151/120"
+                "jumptarget": "151/120",
+                "Target": "153201/120"
             },
             {
                 "ID": 4482,
@@ -47197,7 +47555,8 @@
                 "Features": "艾隆德原本是栖息在弗罗斯特南方的巨型生物，拥有锋利的尾刃和坚硬的皮肤，但不知从何时起，艾隆德的身上逐渐发生了奇怪的变化…",
                 "Redirect": "map|module",
                 "Go": "1599;app/SpetAiLongDeMainPanel",
-                "jumptarget": "151/121"
+                "jumptarget": "151/121",
+                "Target": "153201/121"
             },
             {
                 "ID": 4484,
@@ -47208,7 +47567,8 @@
                 "Features": "卡莎是奇镰村的村民，擅长使用弓箭进行狩猎，射出的弓箭附着上了火焰和雷电，可以让箭的威力和速度大大提升。",
                 "Redirect": "map|module",
                 "Go": "1600;app/SpetKaShaMainPanel",
-                "jumptarget": "151/122"
+                "jumptarget": "151/122",
+                "Target": "153201/122"
             },
             {
                 "ID": 4485,
@@ -47239,7 +47599,8 @@
                 "Features": "奇镰村的现任村长，老村长去世后，希可洛被调任到奇镰村担任村长，希可洛是商人出身，十分了解如何敛财，而他手中的金石之杖拥有特别的意识干扰能力。",
                 "Redirect": "map|module",
                 "Go": "1601;app/SpetXiKeLuoMainPanel",
-                "jumptarget": "151/123"
+                "jumptarget": "151/123",
+                "Target": "153201/123"
             },
             {
                 "ID": 4488,
@@ -47260,7 +47621,8 @@
                 "Features": "盟会的咒术长老，能够与往生的冥界进行沟通，他随身携带着名为“咒”的卷轴，卷轴中包含了众多强大的咒术，但释放这些咒术都需要进行一定时间的结咒。",
                 "Redirect": "map|module",
                 "Go": "1602;app/SpetPuLuXiuTuoMainPanel",
-                "jumptarget": "151/124"
+                "jumptarget": "151/124",
+                "Target": "153201/124"
             },
             {
                 "ID": 4490,
@@ -47287,7 +47649,8 @@
                 "Features": "斯达伏尔的力量从冥河中涌现，重塑成了一个新的躯壳——斯达莱斯。群星从天空中坠落又升起，这是只属于「魔术师」的奇迹。",
                 "Redirect": "map|module",
                 "Go": "1603;app/SpetSiDaLaiSiMainPanel",
-                "jumptarget": "151/125"
+                "jumptarget": "151/125",
+                "Target": "153201/125"
             },
             {
                 "ID": 4493,
@@ -47298,7 +47661,8 @@
                 "Features": "弗罗斯特地区最忠实的护卫兵，出没于弗罗斯特的大街小巷。虽然样貌渗人，但他们其实相当可靠，为了守护冰原的安宁，寒风在他们手中化为冰刃，斩破罪恶。",
                 "Redirect": "map|module",
                 "Go": "1604;app/SpetBKShiZheMainPanel",
-                "jumptarget": "151/126"
+                "jumptarget": "151/126",
+                "Target": "153201/126"
             },
             {
                 "ID": 4494,
@@ -47309,7 +47673,8 @@
                 "Features": "充盈的力量流入哲利斯的身体，即使躯壳与灵魂都属于她自己，她也已经没有了幻想驻足于过去的权力。",
                 "Redirect": "map|module",
                 "Go": "1604;app/SpetJDZeLiSiMainPanel",
-                "jumptarget": "151/127"
+                "jumptarget": "151/127",
+                "Target": "153201/127"
             },
             {
                 "ID": 4495,
@@ -47320,7 +47685,8 @@
                 "Features": "镇守凌天城的将领，在寒风沙场征战半生的老将，上阵时的果敢英勇与平日的和蔼可靠使他深受下属的爱戴。",
                 "Redirect": "map|module",
                 "Go": "1605;app/SpetBiErDeMainPanel",
-                "jumptarget": "151/128"
+                "jumptarget": "151/128",
+                "Target": "153201/128"
             },
             {
                 "ID": 4496,
@@ -47356,7 +47722,8 @@
                 "Features": "盟会的神言长老，长久以来致力于研究宇宙的奥秘与真相，在盟会乃至整个费尤都拥有相当高的话语权。经历过费尤变迁的他面对未来发生的一切都格外谨慎…",
                 "Redirect": "map|module",
                 "Go": "1606;app/SpetDeBuBiTeMainPanel",
-                "jumptarget": "151/129"
+                "jumptarget": "151/129",
+                "Target": "153201/129"
             },
             {
                 "ID": 4501,
@@ -47367,7 +47734,8 @@
                 "Features": "普达吸收了修缘谷内的仙灵之气，使自身的身体膨胀成为巨大的怪兽——普达戈尔。一旦仙灵之气耗尽，普达戈尔又会变回原先的样子。",
                 "Redirect": "map|module",
                 "Go": "1607;app/SpetPuDaGeErMainPanel",
-                "jumptarget": "151/130"
+                "jumptarget": "151/130",
+                "Target": "153201/130"
             },
             {
                 "ID": 4502,
@@ -47378,7 +47746,8 @@
                 "Features": "在寒光堂出现的神秘少年，在他周围能感受到若隐若现的灵气，但这种灵气融在风中、化在烟里，一下子就没了踪迹。",
                 "Redirect": "map|module",
                 "Go": "1608;app/SpetJiMainPanel",
-                "jumptarget": "151/131"
+                "jumptarget": "151/131",
+                "Target": "153201/131"
             },
             {
                 "ID": 4503,
@@ -47389,7 +47758,8 @@
                 "Features": "在凌天城的城门发生爆炸后出现的魁梧兽人，手持巨刃且力大无穷，他的出现预示着弗罗斯特暗藏的危机。",
                 "Redirect": "map|module",
                 "Go": "1609;app/SpetKuTanMainPanel",
-                "jumptarget": "151/150"
+                "jumptarget": "151/150",
+                "Target": "153201/150"
             },
             {
                 "ID": 4504,
@@ -47408,7 +47778,8 @@
                 "Features": "婕克拉德，在库坦之后出现的又一敌人。当天空中飞翔的黑色阴影张开双翼时，她会将尖利的羽毛连通恐惧一同洒向大地。",
                 "Redirect": "map|module",
                 "Go": "1610;app/SpeJieKeLaDeMainPanel",
-                "jumptarget": "151/151"
+                "jumptarget": "151/151",
+                "Target": "153201/151"
             },
             {
                 "ID": 4506,
@@ -47427,7 +47798,8 @@
                 "Features": "拉托奥是夕阳驿站的负责人，年事已高的他习惯坐在自己的机甲上进行工作。随着夕阳驿站的乘客越来越少，他也开始把时间花在捣鼓自己的机械设计上。",
                 "Redirect": "map|module",
                 "Go": "1614;app/SpetLaTuoAoMainPanel",
-                "jumptarget": "151/152"
+                "jumptarget": "151/152",
+                "Target": "153201/152"
             },
             {
                 "ID": 4508,
@@ -47451,10 +47823,7 @@
                 "Type": "水 超能",
                 "Height": 168,
                 "Weight": 52,
-                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。",
-                "Redirect": "map|module",
-                "Go": "1700;app/SpetWeiYueMainPanel",
-                "jumptarget": "151/153"
+                "Features": "南荒卫氏家族中的长女，在帝国征召开拓舰舰长的选拔中脱颖而出，却在启航后看到了未曾预料的身影。"
             },
             {
                 "ID": 4511,
@@ -47465,7 +47834,8 @@
                 "Features": "风雪乱山深，苍茫远归人。曦见凌天城，迟暮又相逢。无尽飘零的霜，从未倒下的王，将永远守护这片天地。",
                 "Redirect": "map|module",
                 "Go": "1615;app/SpetBPDNanShuangMainPanel",
-                "jumptarget": "151/154"
+                "jumptarget": "151/154",
+                "Target": "153201/154"
             },
             {
                 "ID": 4500,
@@ -47473,9 +47843,7 @@
                 "Type": "圣灵 自然",
                 "Height": 166,
                 "Weight": 46,
-                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。",
-                "Redirect": "map|module",
-                "Go": "1700;app/StarCafeMainPanel"
+                "Features": "瓏帝国当今皇帝最年幼得宠的女儿，如今悄然走出宫门，登上了即将启航的开拓舰。"
             },
             {
                 "ID": 4512,
@@ -47483,9 +47851,7 @@
                 "Type": "光",
                 "Height": 134,
                 "Weight": 33,
-                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。",
-                "Redirect": "map",
-                "Go": 1612
+                "Features": "在梦星阁帮忙的婢女，武心婵的起居生活都要依靠她们，虽然她们个子很小，但有能力可以应付各种大小事务。"
             },
             {
                 "ID": 4513,
@@ -47493,9 +47859,7 @@
                 "Type": "光 神秘",
                 "Height": 136,
                 "Weight": 34,
-                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。",
-                "Redirect": "map",
-                "Go": 1612
+                "Features": "武心婵最信任的婢女，虽然被武帝责令不能继续侍奉公主，但还是会偶尔在梦星阁出现。"
             },
             {
                 "ID": 4514,
@@ -47506,7 +47870,8 @@
                 "Features": "灼云是南霜大人的右护法，擅长操纵并融合云雾与火焰进行攻击，异于常人的肺活量让她能够长时间地对敌人进行压制。",
                 "Redirect": "map|module",
                 "Go": "1616;app/SpetZhuoYunMainPanel",
-                "jumptarget": "151/156"
+                "jumptarget": "151/156",
+                "Target": "153201/156"
             },
             {
                 "ID": 4515,
@@ -47514,9 +47879,7 @@
                 "Type": "水 神秘",
                 "Height": 186,
                 "Weight": 77,
-                "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。",
-                "Redirect": "map|module",
-                "Go": "1700;app/GetHuoGuangMainPanel"
+                "Features": "北冥霍氏家族新晋家主，曾率北冥卫平定数次叛乱立下卓著功勋。作为当今皇帝心腹，接下重任，追逐痕迹来到了赛尔号所处的宇宙。"
             },
             {
                 "ID": 4516,
@@ -47527,7 +47890,8 @@
                 "Features": "帕妮丝是一位活泼可爱的猫族学者，她从小就对古龙有着很大的兴趣。她常常会溜进凌天图书馆翻阅古籍，挖掘并学习古龙相关的知识。",
                 "Redirect": "map|module",
                 "Go": "1617;app/SpetPaNiSiMainPanel",
-                "jumptarget": "151/157"
+                "jumptarget": "151/157",
+                "Target": "153201/157"
             },
             {
                 "ID": 4517,
@@ -47554,7 +47918,8 @@
                 "Features": "里扎德是长河镇的首领，晶石侵袭了他的肉身，但他却化其为自己的力量，即使常年生活在惬意的长河边上，他的身手依然矫健。",
                 "Redirect": "map|module",
                 "Go": "1618;app/SpetLiZhaDeMainPanel",
-                "jumptarget": "151/158"
+                "jumptarget": "151/158",
+                "Target": "153201/158"
             },
             {
                 "ID": 4520,
@@ -47575,7 +47940,8 @@
                 "Features": "涡锋是南霜大人的左护法，能操控水流的他擅长化水形为鲛鲨对敌人进行猎杀。狂笑声回荡，未曾有人能将他置于死地，面对危难他总能绝处逢生。",
                 "Redirect": "map|module",
                 "Go": "1619;app/SpetWoFengMainPanel",
-                "jumptarget": "151/159"
+                "jumptarget": "151/159",
+                "Target": "153201/159"
             },
             {
                 "ID": 4522,
@@ -47594,7 +47960,8 @@
                 "Features": "科德布鲁体内流淌着龙族的血液，但他习惯于伪装自己龙族的身份。科德布鲁乐于钻研各类咖啡，他在凌天城的角落开了一家自己的咖啡馆，过着安逸的生活。",
                 "Redirect": "map|module",
                 "Go": "1623;app/SpetKeDeBuLuMainPanel",
-                "jumptarget": "151/160"
+                "jumptarget": "151/160",
+                "Target": "153201/160"
             },
             {
                 "ID": 4524,
@@ -47638,7 +48005,8 @@
                 "Features": "滴答滴，滴答滴……让人无法不在意的声音在角落里回荡…炸弹会出现任何意想不到的地方。古尔伽从不逗留在爆炸后的现场，除非他正在准备下一场爆炸。",
                 "Redirect": "map|module",
                 "Go": "1624;app/SpetGuErJiaMainPanel",
-                "jumptarget": "151/162"
+                "jumptarget": "151/162",
+                "Target": "153201/162"
             },
             {
                 "ID": 4529,
@@ -47665,7 +48033,8 @@
                 "Features": "弗罗斯特传说中的神兽，在封印解开后它进一步吸收了黑暗的力量成长为骇人的猛兽。与迹缔结了契约的他只有一个目的，那就是毁灭这片冰雪之地上的一切。",
                 "Redirect": "map|module",
                 "Go": "1625;app/SpetJiEYaoShouMainPanel",
-                "jumptarget": "151/163"
+                "jumptarget": "151/163",
+                "Target": "153201/163"
             },
             {
                 "ID": 4532,
@@ -47676,7 +48045,8 @@
                 "Features": "自从手背烙上印记的那一刻起，迹不再履行大地之子的职责，混沌之力侵蚀了他的心智，让其癫狂。他的目标是摧毁一切，至于缘由……他再也没有思考过了。",
                 "Redirect": "map|module",
                 "Go": "1626;app/SpetDXJiMainPanel",
-                "jumptarget": "151/164"
+                "jumptarget": "151/164",
+                "Target": "153201/164"
             },
             {
                 "ID": 4533,
@@ -47695,7 +48065,8 @@
                 "Features": "作为负责执行审判的特密斯执行官，咫平时都以面具示人。当多个成员协同行动时，就能带来强大的束缚力和压制力。",
                 "Redirect": "map|module",
                 "Go": "1627;app/SpetZhiMainPanel",
-                "jumptarget": "151/165"
+                "jumptarget": "151/165",
+                "Target": "153201/165"
             },
             {
                 "ID": 4535,
@@ -47726,7 +48097,8 @@
                 "Features": "瑞波遭受污秽感染后，变异成为巨大的瑞迪卡，不论是体型还是威力都会增强数倍，暴躁的瑞迪卡会四处破坏所见之物，甚至会伤害曾经的同伴。",
                 "Redirect": "map|module",
                 "Go": "1628;app/SpetRuiDiKaMainPanel",
-                "jumptarget": "151/166"
+                "jumptarget": "151/166",
+                "Target": "153201/166"
             },
             {
                 "ID": 4538,
@@ -47747,7 +48119,8 @@
                 "Features": "四处奔走的宝石商人，手持的宝剑可以汇聚火焰释放出强大威力，他的目标是探寻并收集布德区域里的各种珍奇宝石。",
                 "Redirect": "map|module",
                 "Go": "1629;app/SpetWenSengTeMainPanel",
-                "jumptarget": "151/167"
+                "jumptarget": "151/167",
+                "Target": "153201/167"
             },
             {
                 "ID": 4540,
@@ -47776,7 +48149,8 @@
                 "Features": "「启明星」之耀星，明德里奇是个热衷于探寻真相的工作狂，他的左眼可以帮助他快速进行数据解析和模型演算。",
                 "Redirect": "map|module",
                 "Go": "1630;app/SpetSJMingDeLiQiMainPanel",
-                "jumptarget": "151/168"
+                "jumptarget": "151/168",
+                "Target": "153201/168"
             },
             {
                 "ID": 4544,
@@ -47803,7 +48177,8 @@
                 "Features": "巨鲸座是翱翔于天空中身型庞大的鲸鱼飞船，他的背上是可以容纳千人的豪华邮轮状建筑，是布德区域最大的生物载具。",
                 "Redirect": "map|module",
                 "Go": "1631;app/SpetJuJingZuoMainPanel",
-                "jumptarget": "151/169"
+                "jumptarget": "151/169",
+                "Target": "153201/169"
             },
             {
                 "ID": 4547,
@@ -47814,7 +48189,8 @@
                 "Features": "库拉塔克是窃影会的高层之一，代号“幽夜”，善用蓝色的幽火进行攻击和幻形。她的武器是一把淬火短刃，但要小心，她有的是办法割开你的口袋。",
                 "Redirect": "map|module",
                 "Go": "1632;app/SpetKuLaTaKeMainPanel",
-                "jumptarget": "151/170"
+                "jumptarget": "151/170",
+                "Target": "153201/170"
             },
             {
                 "ID": 4548,
@@ -47835,7 +48211,8 @@
                 "Features": "安姆尼一族中的首领，巨大的躯壳十分坚固，能够抵御强大的冲击。当安姆尼一族遇到饥荒时，族群中的首领便会带领他们进行迁徙。",
                 "Redirect": "map|module",
                 "Go": "1633;app/SpetAnMuNeiTeMainPanel",
-                "jumptarget": "151/171"
+                "jumptarget": "151/171",
+                "Target": "153201/171"
             },
             {
                 "ID": 4550,
@@ -47874,7 +48251,8 @@
                 "Features": "烟波浮云忽入梦，万翠千红又是春。北鸟是布德区域的首领，她一直希望能将布德发展成为一个繁荣祥和之地，她独坐笼中，守望云霄，纸鹤翩翩舞，不见燕归巢。",
                 "Redirect": "map|module",
                 "Go": "1635;app/SpetWLCBeiNiaoMainPanel",
-                "jumptarget": "151/172"
+                "jumptarget": "151/172",
+                "Target": "153201/172"
             },
             {
                 "ID": 4554,
@@ -47903,7 +48281,8 @@
                 "Features": "在创世塔周围游荡的龙形精灵，从尘沙中孕育而生，在沙暴之中的移动速度很快，被击破后会化为尘沙再次融入到沙尘暴之中。",
                 "Redirect": "map|module",
                 "Go": "1636;app/SpetChenXiYouLongMainPanel",
-                "jumptarget": "151/173"
+                "jumptarget": "151/173",
+                "Target": "153201/173"
             },
             {
                 "ID": 4557,
@@ -47914,7 +48293,8 @@
                 "Features": "红月祭司，经常在教堂内为民众指点迷津，在调和掌握了石榴石与月亮两者间的联系后，能够汇聚强大的秘法力量。",
                 "Redirect": "map|module",
                 "Go": "1637;app/SpetHongYueJiSiMainPanel",
-                "jumptarget": "151/174"
+                "jumptarget": "151/174",
+                "Target": "153201/174"
             },
             {
                 "ID": 4558,
@@ -47933,7 +48313,8 @@
                 "Features": "提米是个神出鬼没的街区游荡者，经常拿玩游戏赢来的钱去买各种珍奇植物，街头巷尾都知道他“游戏大王”的称号。",
                 "Redirect": "map|module",
                 "Go": "1638;app/SpetTiMiMainPanel",
-                "jumptarget": "151/175"
+                "jumptarget": "151/175",
+                "Target": "153201/175"
             },
             {
                 "ID": 4560,
@@ -47962,7 +48343,8 @@
                 "Features": "森曼是水手之家的老板，他的指虎拥有着御风破浪的强大威力。一个敢于面对风暴的水手，也将直面人生中的一切。",
                 "Redirect": "map|module",
                 "Go": "1639;app/SpetSengManMainPanel",
-                "jumptarget": "151/176"
+                "jumptarget": "151/176",
+                "Target": "153201/176"
             },
             {
                 "ID": 4563,
@@ -47981,7 +48363,8 @@
                 "Features": "帕泽是创世塔古迹的守护者，他可以随时变换成三尾猫灵形态。在这片残缺的废墟上，他一直在等待着合适的人出现。",
                 "Redirect": "map|module",
                 "Go": "1640;app/SpetPaZeMainPanel",
-                "jumptarget": "151/177"
+                "jumptarget": "151/177",
+                "Target": "153201/177"
             },
             {
                 "ID": 4565,
@@ -48008,7 +48391,8 @@
                 "Features": "灵石守卫是紫水晶岛上特有的巡航工具，它们主要被投放在蝶梦城的上空，用于保卫城市并处理各种突发情况。",
                 "Redirect": "map|module",
                 "Go": "1642;app/SpetLingShiShouWeiMainPanel",
-                "jumptarget": "151/178"
+                "jumptarget": "151/178",
+                "Target": "153201/178"
             },
             {
                 "ID": 4568,
@@ -48019,7 +48403,8 @@
                 "Features": "杰格是布德地区三大宝石骑士之一，幽魅骑士。他擅长召唤瑞迪卡进行作战，浊灵法杖释放的幽魅幻光，常常让敌人陷入昏迷或窒息。",
                 "Redirect": "map|module",
                 "Go": "1643;app/SpetYMZYJieGeMainPanel",
-                "jumptarget": "151/179"
+                "jumptarget": "151/179",
+                "Target": "153201/179"
             },
             {
                 "ID": 4569,
@@ -48030,7 +48415,8 @@
                 "Features": "罗库是布德地区三大宝石骑士之一，赤雷骑士。强有力的一闪穿刺和攻守兼备的赤灵魔杖让罗库成为一位令敌人闻风丧胆的强大战士。",
                 "Redirect": "map|module",
                 "Go": "1644;app/SpetTZYMLuoKuMainPanel",
-                "jumptarget": "151/180"
+                "jumptarget": "151/180",
+                "Target": "153201/180"
             },
             {
                 "ID": 4570,
@@ -48057,7 +48443,8 @@
                 "Features": "飞鱼骑士是经过精良训练的空中骑兵，高机动性让他们可以胜任各项战斗任务，他们是布德区域重要的军事力量。",
                 "Redirect": "map|module",
                 "Go": "1646;app/SpetFeiYuQiShiMainPanel",
-                "jumptarget": "151/181"
+                "jumptarget": "151/181",
+                "Target": "153201/181"
             },
             {
                 "ID": 4573,
@@ -48068,7 +48455,8 @@
                 "Features": "普兰多新型自动防卫装置，搭载热追踪导弹、高速脉冲炮塔和尖端纳米护盾，唯一的缺点就是无法进行高速移动。",
                 "Redirect": "map|module",
                 "Go": "1647;app/SpetPLDMainPanel",
-                "jumptarget": "151/182"
+                "jumptarget": "151/182",
+                "Target": "153201/182"
             },
             {
                 "ID": 4574,
@@ -48103,7 +48491,8 @@
                 "Features": "紫芸之森游荡的手偶爱好者，最喜欢的手偶是玛奇和梅伊，她把她们当作自己的孩子们小心疼爱着。",
                 "Redirect": "map|module",
                 "Go": "1648;app/SpetSiTiErMainPanel",
-                "jumptarget": "151/183"
+                "jumptarget": "151/183",
+                "Target": "153201/183"
             },
             {
                 "ID": 4578,
@@ -48114,7 +48503,8 @@
                 "Features": "生活在骨碌沼泽的生物，时常使用腹腔发出咕噜声，他并不喜爱争斗，最喜欢的食物是水边的藤蔓球。",
                 "Redirect": "map|module",
                 "Go": "1649;app/SpetManGuMainPanel",
-                "jumptarget": "151/184"
+                "jumptarget": "151/184",
+                "Target": "153201/184"
             },
             {
                 "ID": 4579,
@@ -48155,7 +48545,8 @@
                 "Features": "幻星塔的守护者，受杰格的委托掌管着真正的虚幻·紫水晶，这是她的责任，攸关性命的责任。",
                 "Redirect": "map|module",
                 "Go": "1650;app/SpetChiXingMainPanel",
-                "jumptarget": "151/185"
+                "jumptarget": "151/185",
+                "Target": "153201/185"
             },
             {
                 "ID": 4583,
@@ -48166,7 +48557,8 @@
                 "Features": "幻星塔的幽夜管家，他将自己的龙印力量分为十二部分，吟诵之后可以进行强化，他对所有前来幻星塔的挑战者都会进行严格的试炼。",
                 "Redirect": "map|module",
                 "Go": "1651;app/SpetBaTeLeMainPanel",
-                "jumptarget": "151/186"
+                "jumptarget": "151/186",
+                "Target": "153201/186"
             },
             {
                 "ID": 4584,
@@ -48207,7 +48599,8 @@
                 "Features": "白金执法队的队员，行动敏捷、做事利落，手中舞动的雷电蟒蛇随时都会突袭咬住对方将其扼杀。",
                 "Redirect": "map|module",
                 "Go": "1653;app/SpetSheWuTianMingMainPanel",
-                "jumptarget": "151/187"
+                "jumptarget": "151/187",
+                "Target": "153201/187"
             },
             {
                 "ID": 4588,
@@ -48226,7 +48619,8 @@
                 "Features": "文森特曾经是布德地区的三大宝石骑士之一，森翠骑士。他的双手挥舞出灼热的火光，照亮前路，也燃尽归途。",
                 "Redirect": "map|module",
                 "Go": "1654;app/SpetYaoYanWanXiangMainPanel",
-                "jumptarget": "151/188"
+                "jumptarget": "151/188",
+                "Target": "153201/188"
             },
             {
                 "ID": 4590,
@@ -48255,7 +48649,8 @@
                 "Features": "夜色之门是弑序神罗的法宝之一，夜居魔使附着在夜色之门上，负责将夜色之门的混沌漩涡链接到长夜星河的黑暗尽头。",
                 "Redirect": "map|module",
                 "Go": "1655;app/SpetYeJuMoShiMainPanel",
-                "jumptarget": "151/189"
+                "jumptarget": "151/189",
+                "Target": "153201/189"
             },
             {
                 "ID": 4593,
@@ -48276,7 +48671,8 @@
                 "Features": "灵魂坠入灵沉之湖之后会褪去记忆，转为灵魂能量，摆渡者们便会指引他们前往灵魂的归所。",
                 "Redirect": "map|module",
                 "Go": "1656;app/SpetBaiDuZheFuLeiMainPanel",
-                "jumptarget": "151/190"
+                "jumptarget": "151/190",
+                "Target": "153201/190"
             },
             {
                 "ID": 4595,
@@ -48307,7 +48703,8 @@
                 "Features": "灵魂的力量从灵沉之湖汇聚而来，经由织灵者的双手化形为丝线，最后编织成为灵魂生物瑞波。",
                 "Redirect": "map|module",
                 "Go": "1657;app/SpetZhiLingZheWeiYiMainPanel",
-                "jumptarget": "151/191"
+                "jumptarget": "151/191",
+                "Target": "153201/191"
             },
             {
                 "ID": 4598,
@@ -48328,7 +48725,8 @@
                 "Features": "灵魂来去之间，律法为其指引。索杰德尔是黑玉岛负责掌控灵魂力量的主宰，尊重任何一个生命的选择和归宿。",
                 "Redirect": "map|module",
                 "Go": "1658;app/SpetSuoJieDeErMainPanel",
-                "jumptarget": "151/192"
+                "jumptarget": "151/192",
+                "Target": "153201/192"
             },
             {
                 "ID": 4600,
@@ -48363,7 +48761,8 @@
                 "Features": "文森特的伴侣，温柔知性，机敏开朗，最喜欢做的事情是在后院中欣赏花朵的摇曳。但她的生命也如花一般脆弱。",
                 "Redirect": "map|module",
                 "Go": "1662;app/SpetJiaSiMainPanel",
-                "jumptarget": "151/193"
+                "jumptarget": "151/193",
+                "Target": "153201/193"
             },
             {
                 "ID": 4604,
@@ -48382,7 +48781,8 @@
                 "Features": "「启明星」之孤星，欧根尼克的研究范围从浩瀚星辰覆盖到微观粒子。她认为宏观宇宙和微观世界都蕴含着无限的力量，而她要做的，就是将它们完全绽放。",
                 "Redirect": "map|module",
                 "Go": "1663;app/SpetWuXianMainPanel",
-                "jumptarget": "151/194"
+                "jumptarget": "151/194",
+                "Target": "153201/194"
             },
             {
                 "ID": 4606,
@@ -48411,7 +48811,8 @@
                 "Features": "在创世古迹的沙丘上突然出现的巨大石像，手中的巨锤可以汇聚尘沙释放山岳之力。他们和尘息游龙一样，被击破后会化为尘沙融入土地，然后再次汇聚成形。",
                 "Redirect": "map|module",
                 "Go": "1664;app/SpetChenXiJuXiangMainPanel",
-                "jumptarget": "151/195"
+                "jumptarget": "151/195",
+                "Target": "153201/195"
             },
             {
                 "ID": 4609,
@@ -48440,7 +48841,8 @@
                 "Features": "黑夜之神弑序神罗从深渊中召唤出的庞大异兽，它们周身包裹着黑夜铠甲，口中能释放出黑夜异火，目标是吞噬宇宙中的所有物质。",
                 "Redirect": "map|module",
                 "Go": "1665;app/SpetYuanXiaoMainPanel",
-                "jumptarget": "151/196"
+                "jumptarget": "151/196",
+                "Target": "153201/196"
             },
             {
                 "ID": 4612,
@@ -48451,7 +48853,8 @@
                 "Features": "光明之神至序圣华使用灵力召唤出的奇特生物，它们能够使用弦乐之声寻找灵魂归处并创造幻象，目标是汲取分解世界上的所有意识。",
                 "Redirect": "map|module",
                 "Go": "1666;app/SpetHunXianMainPanel",
-                "jumptarget": "151/197"
+                "jumptarget": "151/197",
+                "Target": "153201/197"
             },
             {
                 "ID": 4613,
@@ -48462,7 +48865,8 @@
                 "Features": "路过罗萨村的游者，身上似乎流淌着龙族的血脉。她的行踪神秘而诡异，时刻提防着周围的人。",
                 "Redirect": "map|module",
                 "Go": "1667;app/SpetAiKeTeXiMainPanel",
-                "jumptarget": "151/198"
+                "jumptarget": "151/198",
+                "Target": "153201/198"
             },
             {
                 "ID": 4614,
@@ -48503,7 +48907,8 @@
                 "Features": "活动在流岩岭的泰伯一族，她们骑乘猛虎并掌控着火焰和雷电之力。在灵格星系危难之际，她们是十分可靠的伙伴。",
                 "Redirect": "map|module",
                 "Go": "1668;app/SpetTaiBoMainPanel",
-                "jumptarget": "151/199"
+                "jumptarget": "151/199",
+                "Target": "153201/199"
             },
             {
                 "ID": 4618,
@@ -48514,7 +48919,8 @@
                 "Features": "自称“百目巫祖”的神秘男子，他能施展出龙族之宗所揭示的强大力量，但其背后的真实身份和目的不为人知。",
                 "Redirect": "map|module",
                 "Go": "1669;app/SpetPeiLuoSeSiMainPanel",
-                "jumptarget": "151/200"
+                "jumptarget": "151/200",
+                "Target": "153201/200"
             },
             {
                 "ID": 4619,
@@ -48545,7 +48951,8 @@
                 "Features": "这是一群在迷雾的森林之中游荡的家伙，要时刻小心它们手中的幽光雾灯，一不留神，它就会露出獠牙将你粉碎。",
                 "Redirect": "map|module",
                 "Go": "1670;app/SpetHuanShiYouGuangMainPanel",
-                "jumptarget": "151/201"
+                "jumptarget": "151/201",
+                "Target": "153201/201"
             },
             {
                 "ID": 4622,
@@ -48566,7 +48973,8 @@
                 "Features": "艾克特希的超进化形态，这份觉醒爆发的龙魂之力是佩洛瑟斯特地授予艾克特希的。或许她会继承龙族的遗志，将这份力量延续下去。",
                 "Redirect": "map|module",
                 "Go": "1671;app/SpetLieYanAiKeTeXiMainPanel",
-                "jumptarget": "151/202"
+                "jumptarget": "151/202",
+                "Target": "153201/202"
             },
             {
                 "ID": 4624,
@@ -48585,7 +48993,8 @@
                 "Features": "盟会的烬灭长老，擅长操控血焰与幻焰两种强大的焰术，虽然他仍然身处盟会，但他的内心早已背弃初衷，源源不断的烬灭之火难掩他想要吞噬一切的野心。",
                 "Redirect": "map|module",
                 "Go": "1672;app/SpetFUERGEANMainPanel",
-                "jumptarget": "151/203"
+                "jumptarget": "151/203",
+                "Target": "153201/203"
             },
             {
                 "ID": 4626,
@@ -48616,7 +49025,8 @@
                 "Features": "赫布洛是一位独行的猎手，他掌控着神圣力量，当他将自己的鲜血注入圣剑后，能够爆发出突破自我极限的威力。",
                 "Redirect": "map|module",
                 "Go": "1673;app/SpetHeBuLuoMainPanel",
-                "jumptarget": "151/204"
+                "jumptarget": "151/204",
+                "Target": "153201/204"
             },
             {
                 "ID": 4629,
@@ -48627,7 +49037,8 @@
                 "Features": "里里维斯的首席骑士，手持寒芒之枪，蔓延的荆棘和凛冽的寒风警告着任何想要侵犯里里维斯的敌人。",
                 "Redirect": "map|module",
                 "Go": "1674;app/SpetMengLuTeMainPanel",
-                "jumptarget": "151/205"
+                "jumptarget": "151/205",
+                "Target": "153201/205"
             },
             {
                 "ID": 4630,
@@ -48648,7 +49059,8 @@
                 "Features": "塞弥丝珂是布蕾里克的好友，在尤莉米特离开盖伦星系后，便帮助布蕾里克成立了猎鹰小队，一同管理砂雾城的治安。",
                 "Redirect": "map|module",
                 "Go": "1675;app/SpetSaiMiSiKeMainPanel",
-                "jumptarget": "151/206"
+                "jumptarget": "151/206",
+                "Target": "153201/206"
             },
             {
                 "ID": 4632,
@@ -48659,7 +49071,8 @@
                 "Features": "卡威治是徘徊在里里维斯皇宫之外的泥沼商人，他外表奇特但十分胆小，喜欢收集各类腐坏的奇异商品并贩卖。",
                 "Redirect": "map|module",
                 "Go": "1676;app/SpetKaWeiZhiMainPanel",
-                "jumptarget": "151/207"
+                "jumptarget": "151/207",
+                "Target": "153201/207"
             },
             {
                 "ID": 4633,
@@ -48670,7 +49083,8 @@
                 "Features": "克劳里菲曾是里里维斯地区的最有威望的魔法师，能够使用变化多端的自然魔法，但誓要守护西叶的她却也在腐坏的侵袭下逐渐失去了自我。",
                 "Redirect": "map|module",
                 "Go": "1677;app/SpetKeLaoLiFeiMainPanel",
-                "jumptarget": "151/208"
+                "jumptarget": "151/208",
+                "Target": "153201/208"
             },
             {
                 "ID": 4634,
@@ -48691,7 +49105,8 @@
                 "Features": "里里维斯区域的领主，悠久的自然之心一直以来都守护着这片森林，只是腐坏在幽深之处低语，记忆也化为枫叶坠入了大地。",
                 "Redirect": "map|module",
                 "Go": "1678;app/SpetFLSXiYeMainPanel",
-                "jumptarget": "151/209"
+                "jumptarget": "151/209",
+                "Target": "153201/209"
             },
             {
                 "ID": 4636,
@@ -48750,7 +49165,8 @@
                 "Features": "哀目黑子继承了「倒吊人」的力量，过去的牺牲并非毫无意义，逆世的蜕变终将迎来新生，她永远铭记，「吾心为哀」。",
                 "Redirect": "map|module",
                 "Go": "1682;app/SpetNSZTAiMuHeiZiMainPanel",
-                "jumptarget": "151/210"
+                "jumptarget": "151/210",
+                "Target": "153201/210"
             },
             {
                 "ID": 4643,
@@ -48787,7 +49203,8 @@
                 "Features": "在时钟领域消失许久后，又一位时钟试炼官出现在了光明腹地，在与光晶的共鸣之中，他感受到了宇宙的极限。",
                 "Redirect": "map|module",
                 "Go": "1683;app/SpetSZSLGJiMainPanel",
-                "jumptarget": "151/211"
+                "jumptarget": "151/211",
+                "Target": "153201/211"
             },
             {
                 "ID": 4647,
@@ -48828,7 +49245,8 @@
                 "Features": "逝去的龙族化为灵体守护着黑风山崖，风暴龙灵将用狂风粉碎一切入侵者！",
                 "Redirect": "map|module",
                 "Go": "1684;app/SpetFengBaoLongLingMainPanel",
-                "jumptarget": "151/212"
+                "jumptarget": "151/212",
+                "Target": "153201/212"
             },
             {
                 "ID": 4651,
@@ -48839,7 +49257,8 @@
                 "Features": "启明星设计的天阶机器人是天阶通道的重要组件，看似笨重的身躯却有着超高的机动性和拓展性。不要小瞧“量产机”，否则下一秒一道铁壁就会出现在你面前！",
                 "Redirect": "map|module",
                 "Go": "1685;app/SpetTianJieJiQiRenMainPanel",
-                "jumptarget": "151/213"
+                "jumptarget": "151/213",
+                "Target": "153201/213"
             },
             {
                 "ID": 4652,
@@ -48860,7 +49279,8 @@
                 "Features": "瓦普特号上的天才机械师，少女自主探寻了次元的奥秘后将其应用到了装甲上，她的存在让瓦普特号无惧各种意外情况。",
                 "Redirect": "map|module",
                 "Go": "1687;app/SpetNaNaWeiErMainPanel",
-                "jumptarget": "151/214"
+                "jumptarget": "151/214",
+                "Target": "153201/214"
             },
             {
                 "ID": 4654,
@@ -48868,9 +49288,7 @@
                 "Type": "水 战斗",
                 "Height": 166,
                 "Weight": 45,
-                "Features": "巅峰S3赛季【逐浪】开启！大海将见证一切荣耀，巨浪来袭，战至巅峰！",
-                "Redirect": "map|module",
-                "Go": "1095;app/PeakJihad2023WarOrdePanel"
+                "Features": "巅峰S3赛季【逐浪】开启！大海将见证一切荣耀，巨浪来袭，战至巅峰！"
             },
             {
                 "ID": 4655,
@@ -48881,7 +49299,8 @@
                 "Features": "用于稳定宇宙通道的机械装置蕴含着充盈的次元能量，它庞大、厚重，宛若跨越宇宙的门。",
                 "Redirect": "map|module",
                 "Go": "1688;app/SpetMaoDianXiangZuoMainPanel",
-                "jumptarget": "151/215"
+                "jumptarget": "151/215",
+                "Target": "153201/215"
             },
             {
                 "ID": 4656,
@@ -48900,7 +49319,8 @@
                 "Features": "盟会的守护者，平时会驾驭飞剑在平台巡视。他惯用一冰一火元素的飞剑，在矛盾中寻求平衡即是他所追求的极致之道。",
                 "Redirect": "map|module",
                 "Go": "1689;app/SpetFLSRZhuoBuErMainPanel",
-                "jumptarget": "151/216"
+                "jumptarget": "151/216",
+                "Target": "153201/216"
             },
             {
                 "ID": 4658,
@@ -48911,7 +49331,8 @@
                 "Features": "能力奇特的虚空生物，拥有近乎完美的伪装能力。听命于伏尔格安的它，喜欢收集过去伪装过角色的面具。",
                 "Redirect": "map|module",
                 "Go": "1690;app/SpetFSSKuBiMainPanel",
-                "jumptarget": "151/217"
+                "jumptarget": "151/217",
+                "Target": "153201/217"
             },
             {
                 "ID": 4659,
@@ -48940,7 +49361,8 @@
                 "Features": "虚实交错的力量将包括无为觉者本人在内的一切笼罩在了阴影之下。生命的意义总在被追寻与赋予，而在他的周遭仅有永恒的消解。",
                 "Redirect": "map|module",
                 "Go": "1691;app/SpetWuWeiJueZheMainPanel",
-                "jumptarget": "151/218"
+                "jumptarget": "151/218",
+                "Target": "153201/218"
             },
             {
                 "ID": 4662,
@@ -48951,7 +49373,8 @@
                 "Features": "窃影会成员，拥有操控飞雪和雷电的力量，在战斗中是不容被忽视的存在。曾经有人看见他如瀑布般乘雪疾驰而下，一击制敌。",
                 "Redirect": "map|module",
                 "Go": "1693;app/SpetLPFXSangDuoMuMainPanel",
-                "jumptarget": "151/219"
+                "jumptarget": "151/219",
+                "Target": "153201/219"
             },
             {
                 "ID": 4663,
@@ -48959,9 +49382,7 @@
                 "Type": "火 战斗",
                 "Height": 172,
                 "Weight": 51,
-                "Features": "在战斗中关银屏领悟了所学武学的精髓，激发了自身真正的能力，在战斗中她将所向披靡！",
-                "Redirect": "map|module",
-                "Go": "103;app/GuanYinPingEvolutionarySalesMainPanel"
+                "Features": "在战斗中关银屏领悟了所学武学的精髓，激发了自身真正的能力，在战斗中她将所向披靡！"
             },
             {
                 "ID": 4664,
@@ -48980,7 +49401,8 @@
                 "Features": "神明的子嗣在此刻融合了光夜之力，不稳定的能量在他体内显现，他的目的只有一个，那就是重塑一切…",
                 "Redirect": "map|module",
                 "Go": "1694;app/SpetCSZZLiSaiTeMainPanel",
-                "jumptarget": "151/220"
+                "jumptarget": "151/220",
+                "Target": "153201/220"
             },
             {
                 "ID": 4666,
@@ -48999,7 +49421,8 @@
                 "Features": "空元行者使用百目巫祖的书籍所召唤出的远古龙战士，只存在于传说中的巨型石像突然现身，这一次他们将成为战场上万夫莫当的存在。",
                 "Redirect": "map|module",
                 "Go": "1695;app/SpetLongLingZhanShiMainPanel",
-                "jumptarget": "151/221"
+                "jumptarget": "151/221",
+                "Target": "153201/221"
             },
             {
                 "ID": 4668,
@@ -49020,7 +49443,8 @@
                 "Features": "三长老伏尔格安的护卫，在吸收了熔岩的烬灭之力后实力大幅增长，如今狂暴的魔兽将用火焰燃尽眼前的一切！",
                 "Redirect": "map|module",
                 "Go": "1696;app/SpetZiJingMoShouMainPanel",
-                "jumptarget": "151/222"
+                "jumptarget": "151/222",
+                "Target": "153201/222"
             },
             {
                 "ID": 4670,
@@ -49039,7 +49463,8 @@
                 "Features": "库拉塔克终于觉醒了自身的力量，幽夜之火将会吞噬敌人眼中的一切光亮，而下一秒她的短刃就将一击制敌！",
                 "Redirect": "map|module",
                 "Go": "1697;app/SpetSYJXKuLaTaKeMainPanel",
-                "jumptarget": "151/223"
+                "jumptarget": "151/223",
+                "Target": "153201/223"
             },
             {
                 "ID": 4672,
@@ -49066,7 +49491,8 @@
                 "Features": "空元行者使用《救赎的圣歌》所召唤出的无极使者拥有着掌控次元空间的能力，过去的群星陨落，但现在亦能重现璀璨之光。",
                 "Redirect": "map|module",
                 "Go": "1698;app/SpetWuJiShiZheMainPanel",
-                "jumptarget": "151/224"
+                "jumptarget": "151/224",
+                "Target": "153201/224"
             },
             {
                 "ID": 4675,
@@ -49074,9 +49500,7 @@
                 "Type": "地面 暗影",
                 "Height": 172,
                 "Weight": 53,
-                "Features": "星缘商会在卡尔迪地区的负责人之一，热情优雅的她会竭诚为您提供商会服务，但当她说出“合作愉快哟~”时，你才会恍然意识到什么。",
-                "Redirect": "map|module",
-                "Go": "103;app/MonthlyPetInOctober2024Panel"
+                "Features": "星缘商会在卡尔迪地区的负责人之一，热情优雅的她会竭诚为您提供商会服务，但当她说出“合作愉快哟~”时，你才会恍然意识到什么。"
             },
             {
                 "ID": 4676,
@@ -49094,9 +49518,31 @@
                 "Type": "轮回 神秘",
                 "Height": 165,
                 "Weight": 43,
-                "Features": "天启星魂不容许任何人探求“虚无”这份自灭的灾祸，即使为此铤而走险的狂人史不绝书，即使无人知晓她名讳的惨烈与厚重。",
-                "Redirect": "map|module",
-                "Go": "103;app/TianQiXingHunEvoMainPanel"
+                "Features": "天启星魂不容许任何人探求“虚无”这份自灭的灾祸，即使为此铤而走险的狂人史不绝书，即使无人知晓她名讳的惨烈与厚重。"
+            },
+            {
+                "ID": 4678,
+                "DefName": "迪迦奥特曼",
+                "Type": "光 超能",
+                "Height": 5300,
+                "Weight": 44000000,
+                "Features": "3000万年前守护超古代人的光之巨人，因为与光之继承者的大古相遇而复活，基础的身体线条为红紫银三色，拥有平衡的力量和速度。"
+            },
+            {
+                "ID": 4679,
+                "DefName": "赛罗奥特曼",
+                "Type": "圣灵 战斗",
+                "Height": 4900,
+                "Weight": 35000000,
+                "Features": "M78星云·光之国出身的年轻奥特战士，隶属于奥特宇宙警备队。从奥特之王口中得知自己的身世，和伙伴们一起成功拯救被贝利亚奥特曼威胁的光之国。"
+            },
+            {
+                "ID": 4680,
+                "DefName": "贝利亚奥特曼",
+                "Type": "远古 邪灵",
+                "Height": 5500,
+                "Weight": 60000000,
+                "Features": "出生在奥特之星却背叛了光之国，是邪恶的奥特曼。拥有能操纵100头怪兽能力的终极战斗仪，他的目的是向奥特一族复仇和称霸整个银河！"
             },
             {
                 "ID": 4681,
@@ -49107,6 +49553,418 @@
                 "Features": "2024年包月精灵，十二诗灵之十月的唱片，当音乐再度响起，仿佛种种过往皆在眼前，而这就是唱片的回忆……",
                 "Redirect": "map|module",
                 "Go": "1652;app/MonthlyPetInOctober2024Panel"
+            },
+            {
+                "ID": 4682,
+                "DefName": "空洄星徒",
+                "Type": "光 神秘",
+                "Height": 162,
+                "Weight": 43,
+                "Features": "可以在宇宙中随心传送的少女，负责为其他的成员们带去重要的讯息，她的身世似乎还隐藏着什么秘密……",
+                "Redirect": "map|module",
+                "Go": "1701;app/SpetKongHuiXingTuMainPanel",
+                "jumptarget": "151/225",
+                "Target": "153201/225"
+            },
+            {
+                "ID": 4683,
+                "DefName": "帕诺·海啸武装",
+                "Type": "机械 水",
+                "Height": 60,
+                "Weight": 40,
+                "Features": "好伙伴帕诺获得了全新的海啸武装，能够使用能量光波控制水流干扰对手，战斗力相比之前得到了大幅提升。",
+                "Redirect": "map|module",
+                "Go": "1702;app/SpetPNHaiXiaoWuZhuangMainPanel",
+                "jumptarget": "151/226",
+                "Target": "153201/226"
+            },
+            {
+                "ID": 4684,
+                "DefName": "帕诺·烈焰武装",
+                "Type": "机械 火",
+                "Height": 63,
+                "Weight": 45,
+                "Features": "好伙伴帕诺获得了全新的烈焰武装，能够使用能量光波从内部引爆障碍，突破能力得到了大幅增强。",
+                "Redirect": "map|module",
+                "Go": "1703;app/SpetPNLieYanWuZhuangMainPanel",
+                "jumptarget": "151/227",
+                "Target": "153201/227"
+            },
+            {
+                "ID": 4685,
+                "DefName": "云盈",
+                "Type": "混沌 飞行",
+                "Height": 174,
+                "Weight": 55,
+                "Features": "巅峰S4赛季【猎影】开启！乌云蔽空，狩猎暗影，冲破云霄！"
+            },
+            {
+                "ID": 4686,
+                "DefName": "帕诺·绿光武装",
+                "Type": "机械 草",
+                "Height": 63,
+                "Weight": 45,
+                "Features": "好伙伴帕诺获得了全新的绿光武装，能够调整武装形态适应复杂环境，是宇宙探索的得力助手。",
+                "Redirect": "map|module",
+                "Go": "1704;app/SpetPNLuGuangWuZhuangMainPanel",
+                "jumptarget": "151/228",
+                "Target": "153201/228"
+            },
+            {
+                "ID": 4687,
+                "DefName": "小妮",
+                "Type": "冰 神秘",
+                "Height": 70,
+                "Weight": 38,
+                "Features": "果蔬仓库的管理员，有些内向但工作认真负责。最近，她遇到了离奇的南瓜窃案……",
+                "Redirect": "map|module",
+                "Go": "1704;app/MainLineAdventureOverview"
+            },
+            {
+                "ID": 4688,
+                "DefName": "库洛妮",
+                "Type": "冰 神秘",
+                "Height": 154,
+                "Weight": 52,
+                "Features": "库洛妮并不喜欢自己的外貌，现在的她经常会化身为小形态，使用“小妮”的身份进行活动。",
+                "Redirect": "map|module",
+                "Go": "1705;app/SpetKuLuoMainPanel",
+                "jumptarget": "151/229",
+                "Target": "153201/229"
+            },
+            {
+                "ID": 4689,
+                "DefName": "艾瑞吉",
+                "Type": "远古 草",
+                "Height": 172,
+                "Weight": 49,
+                "Features": "2024年包月精灵，十二诗灵之十一月的柑橘，秋风带来柑橘的清香，橘叶乘着风将丰收的喜悦带向远方……",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInNovember2024Panel"
+            },
+            {
+                "ID": 4690,
+                "DefName": "变异鳄兰",
+                "Type": "暗影 草",
+                "Height": 142,
+                "Weight": 70,
+                "Features": "克洛斯星地心的植物在吸收了庞大的能量后发生了变异，被生存本能所控制的它在不断破坏着克洛斯星。",
+                "Redirect": "map|module",
+                "Go": "1706;app/SpetBianYiELanMainPanel",
+                "jumptarget": "151/230",
+                "Target": "153201/230"
+            },
+            {
+                "ID": 4691,
+                "DefName": "墨韵",
+                "Type": "水 龙",
+                "Height": 167,
+                "Weight": 47,
+                "Features": "饱读诗书的龙族少女，只因怀揣着对江湖与侠义的向往而在世间行走，开始了自己的修行之路。"
+            },
+            {
+                "ID": 4692,
+                "DefName": "无间巨兽",
+                "Type": "超能",
+                "Height": 102,
+                "Weight": 34,
+                "Features": "深渊巨兽的超进化形态，拥有更灵活的身形和更强大的攻击能力，它将成为精灵捕捉场霸主的有力竞争者。"
+            },
+            {
+                "ID": 4693,
+                "DefName": "星光·蘑菇怪",
+                "Type": "草",
+                "Height": 145,
+                "Weight": 93,
+                "Features": "为了守护重要的同伴，克洛斯星回应了小蘑菇的愿望，地心的能量不断注入它的体内，星光·蘑菇怪诞生了！",
+                "Redirect": "map|module",
+                "Go": "1707;app/SpetXGMoGuGuaiMainPanel",
+                "jumptarget": "151/231",
+                "Target": "153201/231"
+            },
+            {
+                "ID": 4694,
+                "DefName": "石晶晶",
+                "Type": "远古 地面",
+                "Height": 52,
+                "Weight": 34,
+                "Features": "在克洛斯星奇异能量的影响下，金刚石变异成了神奇的小精灵，如今它还在适应着这具坚硬的小小身体。",
+                "Redirect": "map",
+                "Go": 1707
+            },
+            {
+                "ID": 4695,
+                "DefName": "西塔·能源型",
+                "Type": "机械 火",
+                "Height": 80,
+                "Weight": 20,
+                "Features": "于云霄星赫尔卡飞船内部发现的机械精灵，其机体搭载了多个能源模块，为其提供了超长动力和续航。因机械结构、逻辑电路与西塔有诸多相似之处，派特博士便将其命名为西塔·能源型。",
+                "Redirect": "map|module",
+                "Go": "25;app/SpetXiTaNYXMainPanel",
+                "jumptarget": "151/232",
+                "Target": "153201/232"
+            },
+            {
+                "ID": 4696,
+                "DefName": "绮影罗心·织焰",
+                "Type": "火 神秘",
+                "Height": 172,
+                "Weight": 47,
+                "Features": "人生逆旅，何处寄萍？客栈老板言笑晏晏。若是轻信她的软语，客人便已行至终点……",
+                "Redirect": "map|module",
+                "Go": "30;app/SpetQYLXZhiYanMainPanel",
+                "jumptarget": "151/233",
+                "Target": "153201/233"
+            },
+            {
+                "ID": 4697,
+                "DefName": "华光之翼·杰洛恩",
+                "Type": "光 飞行",
+                "Height": 178,
+                "Weight": 54,
+                "Features": "杰洛恩在光的照耀下进一步淬炼了双翼，光的精灵终于以完整的姿态现身世间！"
+            },
+            {
+                "ID": 4698,
+                "DefName": "希尔琳",
+                "Type": "自然 神秘",
+                "Height": 163,
+                "Weight": 46,
+                "Features": "2024年包月精灵，十二诗灵之十二月的碎花，薄雪难留故人，随风独游世间。",
+                "Redirect": "map|module",
+                "Go": "1652;app/MonthlyPetInDecember2024Panel"
+            },
+            {
+                "ID": 4699,
+                "DefName": "伊塔",
+                "Type": "机械",
+                "Height": 54,
+                "Weight": 15,
+                "Features": "伊塔是由废弃零件拼凑出来的小家伙，其智能水平远低于普通的机械精灵。尽管它的记忆晶体也是拼合而成，但它仍会努力记录与你在一起的每一刻经历。",
+                "Redirect": "map|module",
+                "Go": "30;app/WakeupYiTaOfMemoryMainPanel"
+            },
+            {
+                "ID": 4700,
+                "DefName": "米格罗斯",
+                "Type": "机械 地面",
+                "Height": 126,
+                "Weight": 65,
+                "Features": "米格罗斯是过去赫尔卡文明制造出的能源型机器人，它可以将能源储备到身后的能源罐中，在战斗时释放出惊人的能量。",
+                "Redirect": "module",
+                "Go": "app/SpetMiGeLuoSiMainPanel",
+                "jumptarget": "151/234",
+                "Target": "153201/234"
+            },
+            {
+                "ID": 4701,
+                "DefName": "霜爪雪貂",
+                "Type": "冰 暗影",
+                "Height": 82,
+                "Weight": 27,
+                "Features": "霜爪雪貂具有十分敏锐的嗅觉，在空气纯净的雪地中能够噢到任何宝藏的气味！"
+            },
+            {
+                "ID": 4702,
+                "DefName": "霜寂锁灵",
+                "Type": "混沌 冰",
+                "Height": 276,
+                "Weight": 112,
+                "Features": "传说中在古老秘境守护着宝物的雪山巨人终于现身，失去理智的它将用寒冰之力消灭所有入侵者！",
+                "Redirect": "map|module",
+                "Go": "1712;app/SpetShuangJiSuoLingMainPanel",
+                "jumptarget": "151/235",
+                "Target": "153201/235"
+            },
+            {
+                "ID": 4703,
+                "DefName": "波波鱼",
+                "Type": "电",
+                "Height": 45,
+                "Weight": 18,
+                "Features": "赫尔卡星的本土鱼类，据生物研究证明其拥有难以想象的环境适应力和进化潜力，这或许就是其种族能够留存至今的关键所在。",
+                "Redirect": "map",
+                "Go": 1712
+            },
+            {
+                "ID": 4704,
+                "DefName": "吉甘提卡",
+                "Type": "超能",
+                "Height": 269,
+                "Weight": 143,
+                "Features": "尘封的雪山秘宝突然苏醒，祖系一族的吉甘提卡终于从沉睡中重获天日，拥有强大力量的它将击退所有对它有敌意的“危险分子”！",
+                "Redirect": "map|module",
+                "Go": "1713;app/SpetJiGanTiKaMainPanel",
+                "jumptarget": "151/236",
+                "Target": "153201/236"
+            },
+            {
+                "ID": 4705,
+                "DefName": "塔琳-MKII",
+                "Type": "机械 超能",
+                "Height": 164,
+                "Weight": 42,
+                "Features": "塔琳-MKII是赫尔卡长老特别定制的家政智械，她经过了人格化的改造，配备了先进的情感模块，平日里也充当着奥菲利娅老师的职责。",
+                "Redirect": "map|module",
+                "Go": "1714;app/MainLineAdventureOverview"
+            },
+            {
+                "ID": 4706,
+                "DefName": "奥菲利娅",
+                "Type": "远古 电",
+                "Height": 169,
+                "Weight": 47,
+                "Features": "2025年年费精灵，奥菲利娅，最后的赫尔卡人。她的身上都埋藏着怎样的秘密呢？",
+                "Redirect": "map|module",
+                "Go": "1715;app/Yearvip2025MainPanel"
+            },
+            {
+                "ID": 4707,
+                "DefName": "卡塔·武装型",
+                "Type": "机械 战斗",
+                "Height": 143,
+                "Weight": 69,
+                "Features": "赫尔卡星基于赫卡特改进的先进型武装素体，代号“赫卡忒罗斯”。要完整发挥这具素体的实力，需要搭载融合人格系统。派特博士将其命名为卡塔·武装型。",
+                "Redirect": "map|module",
+                "Go": "1716;app/SpetKaTaWZXMainPanel",
+                "jumptarget": "151/237",
+                "Target": "153201/237"
+            },
+            {
+                "ID": 4708,
+                "DefName": "波尼啵妮",
+                "Type": "水 次元",
+                "Height": 177,
+                "Weight": 46,
+                "Features": "2025年包月精灵，赫星童话之《美人鱼之歌》，故事中有一位热爱收集闪亮石头的人鱼少女，梦想着让这个世界变得更加绚烂。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4709,
+                "DefName": "原始预言·吉尼亚斯",
+                "Type": "圣灵 电",
+                "Height": 147,
+                "Weight": 49,
+                "Features": "无人知晓吉尼亚斯是什么时候诞生的，正如赫星铭刻的预言中所记载，远古而神圣的精灵将永远守护着精灵圣殿。",
+                "Redirect": "map|module",
+                "Go": "1717;app/SpetYSYYJiNiYaSiMainPanel",
+                "jumptarget": "151/238",
+                "Target": "153201/238"
+            },
+            {
+                "ID": 4710,
+                "DefName": "古斯",
+                "Type": "电",
+                "Height": 53,
+                "Weight": 21,
+                "Features": "与吉斯十分相像的古斯只存在于真正的精灵圣殿中，当吉斯在输电过程中遭到损坏，古斯就会以“维修者”的身份出现进行维护。",
+                "Redirect": "map",
+                "Go": 1717
+            },
+            {
+                "ID": 4711,
+                "DefName": "奇塔·解算型",
+                "Type": "机械 超能",
+                "Height": 139,
+                "Weight": 45,
+                "Features": "这具特化素体专供于赫尔卡星的研究室，拥有着赫尔卡文明最强大的智能集成，它90%的时间都与科研主脑链接，进行着数据解析的工作，派特博士将其命名为奇塔·解算型。",
+                "Redirect": "map|module",
+                "Go": "1718;app/SpetQiTaJSXMainPanel",
+                "jumptarget": "151/239",
+                "Target": "153201/239"
+            },
+            {
+                "ID": 4712,
+                "DefName": "龙琰",
+                "Type": "邪灵 龙",
+                "Height": 136,
+                "Weight": 39,
+                "Features": "巅峰S5赛季【湮光】开启！凭依于龙焉的神秘古龙。曾经统治一方，暴虐无道的邪恶龙帝——她是这么自称的。",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023ShopPanel"
+            },
+            {
+                "ID": 4713,
+                "DefName": "伊塔·回溯型",
+                "Type": "机械",
+                "Height": 145,
+                "Weight": 49,
+                "Features": "在奥菲利娅和赛尔号的帮助下，伊塔接受了全面的改造。变得更强大的伊塔，已经迫不及待地准备开启寻找好朋友的冒险了。",
+                "Redirect": "map|module",
+                "Go": "1719;app/SpetYiTaHSXMainPanel",
+                "jumptarget": "151/240",
+                "Target": "153201/240"
+            },
+            {
+                "ID": 4714,
+                "DefName": "古代巨型机器人",
+                "Type": "机械 神秘",
+                "Height": 50000,
+                "Weight": 100000,
+                "Features": "本是承载着未来的钢铁巨人，因赫尔卡人的傲慢而引来灾厄。巨人未能承载文明之耀，它亲手终结了属于智械的时代。",
+                "Redirect": "map|module",
+                "Go": "103;app/AncientGiantRobotsForSaleMainPanel"
+            },
+            {
+                "ID": 4715,
+                "DefName": "希维娜",
+                "Type": "冰 飞行",
+                "Height": 169,
+                "Weight": 47,
+                "Features": "传说中有这么一位寒冰仙子，每到新春伊始她总会在空中起舞，用瑞雪给每一个新年带来冬的祝福。",
+                "Redirect": "module",
+                "Go": "app/SummerHolidaySign2024Panel"
+            },
+            {
+                "ID": 4716,
+                "DefName": "赫尔卡长老",
+                "Type": "电 机械",
+                "Height": 236,
+                "Weight": 106,
+                "Features": "文明即将迎来终末，赫尔卡长老的意识终于再次回到了这具尘封已久的原型素体，为了守护文明的荣光，他必将决战至终焉！",
+                "Redirect": "map|module",
+                "Go": "1720;app/ElderHelkasOutputMainPanel"
+            },
+            {
+                "ID": 4717,
+                "DefName": "原始黑洞·尤纳斯",
+                "Type": "虚空",
+                "Height": "未知",
+                "Weight": "未知",
+                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！",
+                "Redirect": "map|module",
+                "Go": "103;app/BHYunusSellPanel"
+            },
+            {
+                "ID": 4718,
+                "DefName": "渊夜门徒·洛比特",
+                "Type": "暗影",
+                "Height": 146,
+                "Weight": 2.4,
+                "Features": "当渊夜的暗影开始在拜伦号上蔓延，当“祂”的指令带来文明的终焉，于是世界的意志蔓延到卢比身上，渊夜的门徒将为所有人带来永恒的恐惧！",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4719,
+                "DefName": "巳璟",
+                "Type": "光 超能",
+                "Height": 74,
+                "Weight": 53,
+                "Features": "金蛇舞动报春来，祥云缭绕福满门。被新年热闹气象吸引而来的可爱生灵，它的出现似乎代表着吉祥的预兆。",
+                "Redirect": "map|module",
+                "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
+            },
+            {
+                "ID": 4720,
+                "DefName": "库里克",
+                "Type": "混沌 地面",
+                "Height": 124,
+                "Weight": 75,
+                "Features": "2025年包月精灵，赫星童话之《黑石的研究》，故事中有一位从天而降的神秘陨石，神奇的构造使它成为了绝佳的研究对象。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
             }
         ]
     }

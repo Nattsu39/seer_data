@@ -83,9 +83,9 @@
                 "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "seerNumberPeripheralGiftIcon",
-                "tips": "周边放送",
-                "mouseClickFunc": "app:SeerNumberPeripheralGiftOxLotteryMainPanel"
+                "ui": "springFeedback_icon",
+                "tips": "新春回馈",
+                "mouseClickFunc": "app:NewYearConsumptionFeedbackMainPanel"
             },
             {
                 "direction": "left_side",
@@ -174,19 +174,9 @@
                 "shownewseer": 0,
                 "priority": 3,
                 "exMapList": 50000,
-                "ui": "gobacktoherka_icon",
-                "tips": "千年赫尔卡之谜",
-                "mouseClickFunc": "app:QianNianHeErKaZhiMiGoToMapPanel"
-            },
-            {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 6,
-                "exMapList": 50000,
-                "ui": "unityceshi2_icon",
-                "tips": "测试招募",
-                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initUnityRecruitIcon",
-                "mouseClickFunc": "com.robot.app2.systems.iconLevel.IconFuncManager:clickUnityRecruitIcon"
+                "ui": "SpringFestivalSummaryIcon",
+                "tips": "金蛇献瑞",
+                "mouseClickFunc": "app:TheSpringFestivalGoToMapPanel"
             },
             {
                 "direction": "right_side",

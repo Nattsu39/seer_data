@@ -1,7 +1,7 @@
 {
     "groups": [
         {
-            "keys": "petRightResourceReplace_json,MoveFgtvDes_json,move_change_json,addmoves_json,effectInfo_json,new_se_json,pet_friends_json,resistance_json,itemFilter_json,monsters_json,move_stones_json,sp_hide_moves_json,moves_json,nature_json,peak_battle_mons_json,peakCrusade_levelRules_json,pet_skin_json,petLabelInfo_json,skillTypes_json,suit_json,typesRelation_json,achievements_json,battle_effects_json,effectIcon_json,equip_json,evolves_json,gems_json,hide_moves_json,items_json,itemsTip_json,itemType_json,mintmark_json,medals_json,signIcon_fight_json",
+            "keys": "petRightResourceReplace_json,MoveFgtvDes_json,move_change_json,addmoves_json,effectInfo_json,new_se_json,pet_friends_json,resistance_json,itemFilter_json,monsters_json,move_stones_json,sp_hide_moves_json,moves_json,nature_json,peak_battle_mons_json,peakCrusade_levelRules_json,pet_skin_json,petLabelInfo_json,skillTypes_json,suit_json,typesRelation_json,achievements_json,battle_effects_json,effectIcon_json,equip_json,evolves_json,gems_json,hide_moves_json,items_json,itemsTip_json,itemType_json,mintmark_json,mintmark_temp_json,medals_json,signIcon_fight_json",
             "name": "xml"
         }
     ],
@@ -155,6 +155,11 @@
             "name": "mintmark_json",
             "type": "json",
             "url": "xml/mintmark.json"
+        },
+        {
+            "name": "mintmark_temp_json",
+            "type": "json",
+            "url": "xml/mintmark_temp.json"
         },
         {
             "name": "medals_json",

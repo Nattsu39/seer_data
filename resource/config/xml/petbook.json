@@ -1203,45 +1203,53 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4713,
-                        "ImageID": 4713,
+                        "ID": 4721,
+                        "ImageID": 4721,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1719;app/SpetYiTaHSXMainPanel"
+                        "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4714,
-                        "ImageID": 4714,
+                        "ID": 4722,
+                        "ImageID": 4722,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/AncientGiantRobotsForSaleMainPanel"
+                        "Redirect": "map",
+                        "Go": 11925
                     },
                     {
                         "type": 0,
-                        "ID": 4715,
-                        "ImageID": 4715,
+                        "ID": 4723,
+                        "ImageID": 4723,
                         "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/SummerHolidaySign2024Panel"
+                        "Redirect": "map",
+                        "Go": 11925
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4724,
+                        "ImageID": 4724,
+                        "Label": 0,
+                        "Redirect": "map",
+                        "Go": 11925
                     },
                     {
                         "type": 1,
-                        "ID": 687,
-                        "MonID": 4714,
-                        "ImageID": 1400687,
+                        "ID": 693,
+                        "MonID": 4721,
+                        "ImageID": 1400693,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/RobotSkinSellPanel"
+                        "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 688,
-                        "MonID": 3830,
-                        "ImageID": 1400688,
+                        "ID": 694,
+                        "MonID": 4554,
+                        "ImageID": 1400694,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/ShengYuXieMoSkinPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -29855,8 +29863,7 @@
                 "Type": "暗影",
                 "Height": 198,
                 "Weight": 98,
-                "Features": "帕诺星系曾经的王者也要超进化了，拥有令人更加害怕的暗影之力，是精灵们最不愿意碰到的对手之一！",
-                "mapID": 1
+                "Features": "帕诺星系曾经的王者也要超进化了，拥有令人更加害怕的暗影之力，是精灵们最不愿意碰到的对手之一！"
             },
             {
                 "ID": 2597,
@@ -49881,6 +49888,96 @@
                 "Features": "传说中有这么一位寒冰仙子，每到新春伊始她总会在空中起舞，用瑞雪给每一个新年带来冬的祝福。",
                 "Redirect": "module",
                 "Go": "app/SummerHolidaySign2024Panel"
+            },
+            {
+                "ID": 4716,
+                "DefName": "赫尔卡长老",
+                "Type": "电 机械",
+                "Height": 236,
+                "Weight": 106,
+                "Features": "文明即将迎来终末，赫尔卡长老的意识终于再次回到了这具尘封已久的原型素体，为了守护文明的荣光，他必将决战至终焉！",
+                "Redirect": "map|module",
+                "Go": "1720;app/ElderHelkasOutputMainPanel"
+            },
+            {
+                "ID": 4717,
+                "DefName": "原始黑洞·尤纳斯",
+                "Type": "虚空",
+                "Height": "未知",
+                "Weight": "未知",
+                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！",
+                "Redirect": "map|module",
+                "Go": "103;app/BHYunusSellPanel"
+            },
+            {
+                "ID": 4718,
+                "DefName": "渊夜门徒·洛比特",
+                "Type": "暗影",
+                "Height": 146,
+                "Weight": 2.4,
+                "Features": "当渊夜的暗影开始在拜伦号上蔓延，当“祂”的指令带来文明的终焉，于是世界的意志蔓延到卢比身上，渊夜的门徒将为所有人带来永恒的恐惧！",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4719,
+                "DefName": "巳璟",
+                "Type": "光 超能",
+                "Height": 74,
+                "Weight": 53,
+                "Features": "金蛇舞动报春来，祥云缭绕福满门。被新年热闹气象吸引而来的可爱生灵，它的出现似乎代表着吉祥的预兆。",
+                "Redirect": "map|module",
+                "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
+            },
+            {
+                "ID": 4720,
+                "DefName": "库里克",
+                "Type": "混沌 地面",
+                "Height": 124,
+                "Weight": 75,
+                "Features": "2025年包月精灵，赫星童话之《黑石的研究》，故事中有一位从天而降的神秘陨石，神奇的构造使它成为了绝佳的研究对象。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4721,
+                "DefName": "黯魂·索比拉特",
+                "Type": "暗影",
+                "Height": 136,
+                "Weight": 2.9,
+                "Features": "当相似但又完全不同的种族出现在眼前，一个大胆的想法得到实现，往日的精灵培育技术带来黯影与幽魂的融合，全新的索比拉特以更强的姿态诞生了！",
+                "Redirect": "map|module",
+                "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+            },
+            {
+                "ID": 4722,
+                "DefName": "吉古",
+                "Type": "暗影",
+                "Height": 15.1,
+                "Weight": 0.2,
+                "Features": "神秘的暗影系精灵，几乎没有重量，随尤纳斯的降临与波古一同降生在拜伦号上，两者似乎有着某种对称的力量。",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4723,
+                "DefName": "波拉",
+                "Type": "暗影",
+                "Height": 21.3,
+                "Weight": 0.5,
+                "Features": "吉古的进化形态，伴随着对闇能量的掌控力提升，吉古迎来了自己的新形态。",
+                "Redirect": "map",
+                "Go": 11925
+            },
+            {
+                "ID": 4724,
+                "DefName": "波古拉",
+                "Type": "暗影",
+                "Height": 27.5,
+                "Weight": 1.1,
+                "Features": "波拉在完全掌握了自身的能力后得到了进一步进化，形态的完全转变代表着它对闇能量的操控能力达到了全新的阶段。",
+                "Redirect": "map",
+                "Go": 11925
             }
         ]
     }

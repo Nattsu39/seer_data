@@ -153,9 +153,83 @@
                 "ID": 4,
                 "OldEffID": 804,
                 "NewEffID": 2333,
-                "Desc": "20241129 精灵觉醒-银月狼王",
+                "Desc": "20250117 精灵觉醒-银月狼王",
                 "StatID": 2404030700,
                 "StatDes1": "银月狼王精灵觉醒",
+                "StatDes2": "2024运营活动"
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "170 70 107 136 104 133",
+                        "NewRace": "170 70 112 136 112 135"
+                    },
+                    "NewSe": {
+                        "OldSeId": 3337,
+                        "NewSeId": 6022
+                    },
+                    "spMove": {
+                        "SpMoves": "28341 36669"
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36670
+                    },
+                    "OldEffect": {
+                        "Id": 1218
+                    },
+                    "AdvEffect": {
+                        "Id": 1730,
+                        "Des": "回合开始时若对手处于能力提升状态则消除对手能力提升状态，消除成功则100%令对手烧伤，<font color='#FF7751'>未触发则消除对手回合类效果</font>；\n回合开始时若对手不处于能力提升状态则当回合自身攻击技能100%打出致命一击；\n回合结束时若双方任意一方处于异常状态则100%降低对手所有技能2点PP值且<font color='#FF7751'>恢复自身300点体力</font>\n（清PP效果自身体力为0时也可触发，所有特效boss无效）"
+                    },
+                    "PetIcon": {
+                        "Offset": "20_121",
+                        "Scale": 0.78
+                    },
+                    "MonsterId": 3954
+                },
+                "ID": 5,
+                "OldEffID": 1553,
+                "NewEffID": 2122,
+                "Desc": "20250124 精灵觉醒-枫眠",
+                "StatID": 2404030700,
+                "StatDes1": "枫眠精灵觉醒",
+                "StatDes2": "2024运营活动"
+            },
+            {
+                "Advances": {
+                    "Race": {
+                        "OldRace": "149 130 106 70 104 126",
+                        "NewRace": "169 140 110 70 110 136"
+                    },
+                    "NewSe": {
+                        "OldSeId": 2610,
+                        "NewSeId": 5988
+                    },
+                    "spMove": {
+                        "SpMoves": 28253
+                    },
+                    "exMove": {
+                        "ExtraMoves": 36483
+                    },
+                    "OldEffect": {
+                        "Id": 701
+                    },
+                    "AdvEffect": {
+                        "Id": 1697,
+                        "Des": "自身使用攻击技能后，若造成的攻击伤害低于300则附加对手<font color='#FF7751'>最大体力</font>1/3的百分比伤害；\n回合开始时若对手处于异常状态则当回合自身造成的攻击伤害提升100%，若对手不处于异常状态则当回合自身<font color='#FF7751'>使用技能后</font>35%令对手害怕，<font color='#FF7751'>未触发则下回合自身攻击技能先制+1</font>\n（boss无效）"
+                    },
+                    "PetIcon": {
+                        "Offset": "-11_90",
+                        "Scale": 0.78
+                    },
+                    "MonsterId": 3388
+                },
+                "ID": 6,
+                "OldEffID": 987,
+                "NewEffID": 2084,
+                "Desc": "20250124 精灵觉醒-昔兰尼加",
+                "StatID": 2404030700,
+                "StatDes1": "昔兰尼加精灵觉醒",
                 "StatDes2": "2024运营活动"
             }
         ]
