@@ -1203,53 +1203,29 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4721,
-                        "ImageID": 4721,
+                        "ID": 4725,
+                        "ImageID": 4725,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4722,
-                        "ImageID": 4722,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 11925
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4723,
-                        "ImageID": 4723,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 11925
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4724,
-                        "ImageID": 4724,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 11925
+                        "Go": "1721;app/SpetHuaDengXianZiMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 693,
-                        "MonID": 4721,
-                        "ImageID": 1400693,
+                        "ID": 695,
+                        "MonID": 4338,
+                        "ImageID": 1400695,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+                        "Go": "1721;app/LanternFestivalThemeSpiritMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 694,
-                        "MonID": 4554,
-                        "ImageID": 1400694,
+                        "ID": 696,
+                        "MonID": 3318,
+                        "ImageID": 1400696,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ShengYuXieMoSkinPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49978,6 +49954,18 @@
                 "Features": "波拉在完全掌握了自身的能力后得到了进一步进化，形态的完全转变代表着它对闇能量的操控能力达到了全新的阶段。",
                 "Redirect": "map",
                 "Go": 11925
+            },
+            {
+                "ID": 4725,
+                "DefName": "花灯仙子",
+                "Type": "光",
+                "Height": 163,
+                "Weight": 57,
+                "Features": "在节日喜气的氛围下，在新年大家美好的祝愿中，花灯娃娃获得了新的力量，将在元宵节给大家带来更多的欢乐！",
+                "Redirect": "map|module",
+                "Go": "1721;app/SpetHuaDengXianZiMainPanel",
+                "jumptarget": "151/241",
+                "Target": "153201/241"
             }
         ]
     }

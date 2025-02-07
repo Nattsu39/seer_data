@@ -18367,6 +18367,109 @@
                     "Title": "渊夜门徒·洛比特",
                     "Redirect": "map",
                     "Go": 11925
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4721
+                    },
+                    "ID": 3490,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250131,
+                    "End": "*",
+                    "Map": 1720,
+                    "Name": "黯魂·索比拉特",
+                    "Title": "黯魂·索比拉特",
+                    "Redirect": "map|module",
+                    "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3485,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250131,
+                    "End": "*",
+                    "Map": 1720,
+                    "Name": "穿越黑暗之门",
+                    "Title": "穿越黑暗之门 后日谈",
+                    "Redirect": "map|module",
+                    "Go": "1720;app/MainLineAdventureChapterPanel&&100301001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3492,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250131,
+                    "End": 2025021410,
+                    "Map": 1720,
+                    "Name": "世界BOSS",
+                    "Title": "影魔来袭 第二期",
+                    "Redirect": "map|module",
+                    "Go": "1720;app/FightAndroidBossMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3493,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250131,
+                    "End": 2025021410,
+                    "Map": 11925,
+                    "Name": "重启！闭锁空间",
+                    "Title": "探索闭锁空间",
+                    "Redirect": "map",
+                    "Go": 11925
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3494,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250131,
+                    "End": 2025021410,
+                    "Map": 1718,
+                    "Name": "神奇的精灵仓",
+                    "Title": "神奇的精灵舱 机械篇",
+                    "Redirect": "map|module",
+                    "Go": "1718;app/AmazingHouseEnterPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3340,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20241108,
+                    "End": 2025020710,
+                    "Name": "VIP礼盒进度展示",
+                    "Title": "年度礼盒进度展示",
+                    "Redirect": "module",
+                    "Go": "app/VIPGiftBoxListCollectionAndStatisticsPanel",
+                    "restrict": 121900
                 }
             ]
         },
@@ -56830,6 +56933,160 @@
                     "Title": "迎战巨型机器人 第二期",
                     "Redirect": "map|module",
                     "Go": "1719;app/FightAndroidBossMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3496,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250131,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "一键极品限时折扣",
+                    "Title": "一键极品 限时优惠",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3478,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250124,
+                    "End": 2025020710,
+                    "Map": 1720,
+                    "Name": "金蛋拜年大作战",
+                    "Title": "金蛋拜年大作战",
+                    "Redirect": "map|module",
+                    "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3422,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3428,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3458,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250117,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3460,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250117,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "抗性道具自选售卖",
+                    "Title": "精灵抗性的新研究",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ResistanceItemShop"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3466,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250124,
+                    "End": 2025020710,
+                    "Map": 1720,
+                    "Name": "除夕红包·传说皮肤自选",
+                    "Title": "传说皮肤五选一",
+                    "Redirect": "map|module",
+                    "Go": "1720;app/NewYearsEveRedEnvelopeOptionalSkinMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3468,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250124,
+                    "End": 2025020710,
+                    "Map": 1720,
+                    "Name": "新春试炼",
+                    "Title": "奥菲利娅的新春试炼",
+                    "Redirect": "map|module",
+                    "Go": "1720;app/SpringFestivalTrialMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3471,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250124,
+                    "End": 2025020710,
+                    "Map": 103,
+                    "Name": "春节钻石福袋",
+                    "Title": "春节福利 钻石福袋",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SpringFestivalDiamond2019MainPanel",
+                    "Settop": 6
                 }
             ],
             "_text": [
@@ -56839,23 +57096,6 @@
         },
         "New": {
             "Activity": [
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3340,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20241108,
-                    "End": 2025020710,
-                    "Name": "VIP礼盒进度展示",
-                    "Title": "年度礼盒进度展示",
-                    "Redirect": "module",
-                    "Go": "app/VIPGiftBoxListCollectionAndStatisticsPanel",
-                    "restrict": 121900
-                },
                 {
                     "Details": {
                         "mc": 1
@@ -56883,7 +57123,7 @@
                     "IsClassic": 0,
                     "Type": 2,
                     "Start": 20241129,
-                    "End": 2025020710,
+                    "End": 2025021410,
                     "Map": 30,
                     "Name": "伊塔的零件商店",
                     "Title": "伊塔的零件小铺",
@@ -56941,40 +57181,6 @@
                     "Title": "午后的悠闲时光",
                     "Redirect": "map|module",
                     "Go": "1715;app/YearPet2025SkinPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3422,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241227,
-                    "End": 2025020710,
-                    "Map": 103,
-                    "Name": "VIP特惠商城更新",
-                    "Title": "VIP权益更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3428,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241227,
-                    "End": 2025020710,
-                    "Map": 103,
-                    "Name": "星河长明商店更新",
-                    "Title": "星河长明商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 },
                 {
                     "Details": {
@@ -57095,40 +57301,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3458,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250117,
-                    "End": 2025020710,
-                    "Map": 103,
-                    "Name": "兑钻奖励更新",
-                    "Title": "兑钻奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3460,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250117,
-                    "End": 2025020710,
-                    "Map": 103,
-                    "Name": "抗性道具自选售卖",
-                    "Title": "精灵抗性的新研究",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ResistanceItemShop"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 3461,
@@ -57163,23 +57335,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3466,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250124,
-                    "End": 2025020710,
-                    "Map": 1720,
-                    "Name": "除夕红包·传说皮肤自选",
-                    "Title": "传说皮肤五选一",
-                    "Redirect": "map|module",
-                    "Go": "1720;app/NewYearsEveRedEnvelopeOptionalSkinMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3467,
@@ -57197,23 +57352,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3468,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250124,
-                    "End": 2025020710,
-                    "Map": 1720,
-                    "Name": "新春试炼",
-                    "Title": "奥菲利娅的新春试炼",
-                    "Redirect": "map|module",
-                    "Go": "1720;app/SpringFestivalTrialMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3470,
@@ -57228,24 +57366,6 @@
                     "Title": "新春限定许愿",
                     "Redirect": "map|module",
                     "Go": "103;app/NewYearPetWish2022MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3471,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250124,
-                    "End": 2025020710,
-                    "Map": 103,
-                    "Name": "春节钻石福袋",
-                    "Title": "春节福利 钻石福袋",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SpringFestivalDiamond2019MainPanel",
-                    "Settop": 6
                 },
                 {
                     "Details": {
@@ -57280,23 +57400,6 @@
                     "Title": "赫星千年",
                     "Redirect": "map|module",
                     "Go": "103;app/MinmarkSell0124Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3478,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250124,
-                    "End": 2025020710,
-                    "Map": 1720,
-                    "Name": "金蛋拜年大作战",
-                    "Title": "金蛋拜年大作战",
-                    "Redirect": "map|module",
-                    "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
                 },
                 {
                     "Details": {
@@ -57350,23 +57453,6 @@
                     "Redirect": "map|module",
                     "Go": "103;app/LiHeSell0131Panel",
                     "Settop": 5
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3485,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250131,
-                    "End": "*",
-                    "Map": 1720,
-                    "Name": "穿越黑暗之门",
-                    "Title": "穿越黑暗之门 后日谈",
-                    "Redirect": "map|module",
-                    "Go": "1720;app/MainLineAdventureChapterPanel&&100301001"
                 },
                 {
                     "Details": {
@@ -57441,89 +57527,138 @@
                 },
                 {
                     "Details": {
-                        "mc": 0,
-                        "monID": 4721
+                        "mc": 2
                     },
-                    "ID": 3490,
+                    "ID": 3498,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250131,
-                    "End": "*",
-                    "Map": 1720,
-                    "Name": "黯魂·索比拉特",
-                    "Title": "黯魂·索比拉特",
+                    "Type": 2,
+                    "Start": 20250207,
+                    "Map": 1721,
+                    "Name": "穿越黑暗之门",
+                    "Title": "穿越黑暗之门·后日谈",
                     "Redirect": "map|module",
-                    "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+                    "Go": "1721;app/MainLineAdventureChapterPanel&&100302001"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3492,
+                    "ID": 3499,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20250131,
+                    "Start": 20250207,
                     "End": 2025021410,
-                    "Map": 1720,
-                    "Name": "世界BOSS",
-                    "Title": "影魔来袭 第二期",
+                    "Map": 1721,
+                    "Name": "元宵节猜灯谜",
+                    "Title": "庆元宵 闹一闹",
                     "Redirect": "map|module",
-                    "Go": "1720;app/FightAndroidBossMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3493,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250131,
-                    "End": 2025021410,
-                    "Map": 11925,
-                    "Name": "重启！闭锁空间",
-                    "Title": "探索闭锁空间",
-                    "Redirect": "map",
-                    "Go": 11925
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3494,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250131,
-                    "End": 2025021410,
-                    "Map": 1718,
-                    "Name": "神奇的精灵仓",
-                    "Title": "神奇的精灵舱 机械篇",
-                    "Redirect": "map|module",
-                    "Go": "1718;app/AmazingHouseEnterPanel"
+                    "Go": "1721;app/LanternFestivalThemeSpiritMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3496,
+                    "ID": 3500,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 1,
-                    "Start": 20250131,
-                    "End": 2025020710,
+                    "Start": 20250207,
+                    "End": 2025022110,
                     "Map": 103,
-                    "Name": "一键极品限时折扣",
-                    "Title": "一键极品 限时优惠",
+                    "Name": "兌钻奖励更新",
+                    "Title": "兑钻奖励更新",
                     "Redirect": "map|module",
-                    "Go": "103;app/AkeyPriceLimitDiscount20178mPanel"
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3501,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250207,
+                    "End": 2025031410,
+                    "Map": 5,
+                    "Name": "[第11期]精灵图鉴点亮",
+                    "Title": "精灵图鉴点亮计划",
+                    "Redirect": "map|module",
+                    "Go": "5;app/LightBookMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4725
+                    },
+                    "ID": 3502,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250207,
+                    "Map": 1721,
+                    "Name": "元宵佳节 花灯迎福",
+                    "Title": "花灯仙子",
+                    "Redirect": "map|module",
+                    "Go": "1721;app/SpetHuaDengXianZiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3503,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250207,
+                    "End": 2025022110,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3504,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250207,
+                    "End": 2025030710,
+                    "Map": 103,
+                    "Name": "星河长明商店更新",
+                    "Title": "星河长明商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3491,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250207,
+                    "End": 2025031410,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
                 },
                 {
                     "Details": {
@@ -57593,8 +57728,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3484,3486,3488,3489,3476",
-            "shopcenter": "2274:1,3446:3,3391:21,3484:22,3486:23,3488:24,3489:25,3496:26,3495:13,3467:14,3470:46,3471:47,3474:51,3476:52,3479:53,3480:54,3452:16,3453:17,3454:18,3455:43,3458:44,3460:45,3449:19,3419:9,3420:10,3422:11,3428:15,3395:12,3347:20"
+            "Important": "3495,3500,3503,3504,3491",
+            "shopcenter": "2274:1,3446:3,3391:21,3500:11,3503:15,3504:44,3491:45,3484:22,3486:23,3488:24,3489:25,3495:13,3467:14,3470:46,3474:51,3476:52,3479:53,3480:54,3452:16,3453:17,3454:18,3455:43,3449:19,3419:9,3420:10,3395:12,3347:20"
         }
     }
 }
