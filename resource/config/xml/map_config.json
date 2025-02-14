@@ -1528,22 +1528,20 @@
                 "sound": "BGM_009B"
             },
             {
-                "Entries": [
-                    {
-                        "Entry": {
+                "Entries": {
+                    "Entry": [
+                        {
                             "FromMap": 49,
                             "PosX": 176,
                             "PosY": 277
-                        }
-                    },
-                    {
-                        "Entry": {
+                        },
+                        {
                             "FromMap": 48,
                             "PosX": 775,
                             "PosY": 180
                         }
-                    }
-                ],
+                    ]
+                },
                 "changeMapComp": {
                     "component": [
                         {
@@ -11555,23 +11553,20 @@
                 "sound": "BGM_192"
             },
             {
-                "changeMapComp": [
-                    {
-                        "component": [
-                            {
-                                "name": "door_0",
-                                "hit": "hit_0",
-                                "targetID": 819
-                            },
-                            {
-                                "name": "door_1",
-                                "hit": "hit_1",
-                                "targetID": 949
-                            }
-                        ]
-                    },
-                    {}
-                ],
+                "changeMapComp": {
+                    "component": [
+                        {
+                            "name": "door_0",
+                            "hit": "hit_0",
+                            "targetID": 819
+                        },
+                        {
+                            "name": "door_1",
+                            "hit": "hit_1",
+                            "targetID": 949
+                        }
+                    ]
+                },
                 "id": 948,
                 "name": "祸乱之源 ",
                 "x": 400,
@@ -11580,23 +11575,20 @@
                 "sound": "BGM_10032"
             },
             {
-                "changeMapComp": [
-                    {
-                        "component": [
-                            {
-                                "name": "door_0",
-                                "hit": "hit_0",
-                                "targetID": 959
-                            },
-                            {
-                                "name": "door_1",
-                                "hit": "hit_1",
-                                "targetID": 953
-                            }
-                        ]
-                    },
-                    {}
-                ],
+                "changeMapComp": {
+                    "component": [
+                        {
+                            "name": "door_0",
+                            "hit": "hit_0",
+                            "targetID": 959
+                        },
+                        {
+                            "name": "door_1",
+                            "hit": "hit_1",
+                            "targetID": 953
+                        }
+                    ]
+                },
                 "id": 949,
                 "name": "遗世仙境 ",
                 "x": 400,
@@ -19206,6 +19198,35 @@
                 "y": 430,
                 "sound": "BGM_847",
                 "scenenpc": "4725|1|330|420|20250207|20250214"
+            },
+            {
+                "id": 1722,
+                "name": "神秘空间",
+                "x": 320,
+                "y": 320,
+                "sound": "BGM_10071",
+                "scenenpc": "4726|1|620|390|20250214|20250221"
+            },
+            {
+                "changeMapComp": {
+                    "component": [
+                        {
+                            "name": "door_0",
+                            "hit": "comp_0",
+                            "targetID": 1722
+                        },
+                        {
+                            "name": "door_1",
+                            "hit": "comp_1",
+                            "targetID": 1722
+                        }
+                    ]
+                },
+                "id": 1723,
+                "name": "拜伦号",
+                "x": 680,
+                "y": 350,
+                "sound": "BGM_013"
             },
             {
                 "id": 5001,
@@ -34231,11 +34252,11 @@
             },
             {
                 "id": 11897,
-                "name": "破坏的星缘咖啡厅",
+                "name": "甜蜜邀约",
                 "x": 450,
                 "y": 400,
-                "sound": "BGM_671",
-                "scenenpc": "4675|1|220|450|20240920|202400927"
+                "sound": "BGM_673",
+                "scenenpc": "3914|1|220|450|20240920|202400927"
             },
             {
                 "id": 11898,

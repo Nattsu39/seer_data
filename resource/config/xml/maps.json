@@ -33375,7 +33375,7 @@
                                 "Hp": 800,
                                 "Lv": 70
                             },
-                            "_text": "G\r\n\t\t\t",
+                            "_text": "G\n\t\t\t",
                             "Id": 1,
                             "AppearTime": "0 23",
                             "BossVisible": 0,
@@ -33908,7 +33908,7 @@
                                 "Lv": 60,
                                 "NewSeIdxs": "58 241"
                             },
-                            "_text": "-\r\n\t\t\t",
+                            "_text": "-\n\t\t\t",
                             "Id": 3,
                             "AppearTime": "0 23",
                             "BossVisible": 0,
@@ -33922,7 +33922,7 @@
                                 "Lv": 60,
                                 "NewSeIdxs": "58 241"
                             },
-                            "_text": "-\r\n\t\t\t",
+                            "_text": "-\n\t\t\t",
                             "Id": 4,
                             "AppearTime": "0 23",
                             "BossVisible": 0,
@@ -45962,6 +45962,18 @@
                 "InitY": 400
             },
             {
+                "ID": 1722,
+                "Name": "神秘空间",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
+                "ID": 1723,
+                "Name": "拜伦号",
+                "InitX": 500,
+                "InitY": 400
+            },
+            {
                 "ID": 2001,
                 "Name": "新兵训练营",
                 "InitX": 500,
@@ -56988,12 +57000,12 @@
             "DefaultMap": [
                 {
                     "ID": 1,
-                    "RandMaps": 1721,
+                    "RandMaps": 1722,
                     "Desc": "付费登录场景"
                 },
                 {
                     "ID": 2,
-                    "RandMaps": 1721,
+                    "RandMaps": 1722,
                     "Desc": "普通登录场景"
                 },
                 {
@@ -57005,7 +57017,7 @@
         },
         "VersionNumber": {
             "Version": {
-                "ID": 20250207,
+                "ID": 20250214,
                 "Desc": "每次发版需同步更新版本号"
             }
         }

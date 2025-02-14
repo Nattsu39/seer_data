@@ -1203,31 +1203,31 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4725,
-                        "ImageID": 4725,
+                        "ID": 4726,
+                        "ImageID": 4726,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1721;app/SpetHuaDengXianZiMainPanel"
+                        "Go": "1723;app/SpetJXHXKaErMaMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4727,
+                        "ImageID": 4727,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1;app/TeamBusinessMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 695,
-                        "MonID": 4338,
-                        "ImageID": 1400695,
+                        "ID": 697,
+                        "MonID": 4627,
+                        "ImageID": 1400697,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1721;app/LanternFestivalThemeSpiritMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 696,
-                        "MonID": 3318,
-                        "ImageID": 1400696,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/HeSiTiYaSkinSellMainPanel"
                     }
                 ],
+                "_text": " -->\n\t  ",
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -29839,7 +29839,9 @@
                 "Type": "暗影",
                 "Height": 198,
                 "Weight": 98,
-                "Features": "帕诺星系曾经的王者也要超进化了，拥有令人更加害怕的暗影之力，是精灵们最不愿意碰到的对手之一！"
+                "Features": "帕诺星系曾经的王者也要超进化了，拥有令人更加害怕的暗影之力，是精灵们最不愿意碰到的对手之一！",
+                "Redirect": "module",
+                "Go": "app/GodPetSuperEvolutionYunusMainPanel"
             },
             {
                 "ID": 2597,
@@ -49966,6 +49968,28 @@
                 "Go": "1721;app/SpetHuaDengXianZiMainPanel",
                 "jumptarget": "151/241",
                 "Target": "153201/241"
+            },
+            {
+                "ID": 4726,
+                "DefName": "机魂核心·卡尔玛",
+                "Type": "机械",
+                "Height": 196,
+                "Weight": 175,
+                "Features": "卡尔玛是过去拜伦号上的舰载AI，在经历过一系列追寻自我的坎坷之路后，在赛尔号的帮助下，最终重获属于自己的素体，并实现了自己的愿望。",
+                "Redirect": "map|module",
+                "Go": "1723;app/SpetJXHXKaErMaMainPanel",
+                "jumptarget": "151/242",
+                "Target": "153201/242"
+            },
+            {
+                "ID": 4727,
+                "DefName": "友情机器人",
+                "Type": "战斗 机械",
+                "Height": 189,
+                "Weight": 200,
+                "Features": "布姆殿下的情人节回礼失控暴走，全新战队BOSS降临，需要战队的成因同心协力将其击败！",
+                "Redirect": "map|module",
+                "Go": "1;app/TeamBusinessMainPanel"
             }
         ]
     }
