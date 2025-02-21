@@ -18537,6 +18537,75 @@
                     "Title": "穿越黑暗之门·后日谈",
                     "Redirect": "map|module",
                     "Go": "1721;app/MainLineAdventureChapterPanel&&100302001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4727
+                    },
+                    "ID": 3512,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250214,
+                    "End": 2025022810,
+                    "Map": 1722,
+                    "Name": "战队BOSS",
+                    "Title": "友情机器人",
+                    "Redirect": "map|module",
+                    "Go": "1;app/TeamBusinessMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3505,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250214,
+                    "End": "*",
+                    "Map": 1722,
+                    "Name": "主线任务_卡尔玛之章",
+                    "Title": "重寻真我",
+                    "Redirect": "map|module",
+                    "Go": "1722;app/MainLineAdventureChapterPanel&&100401001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4726
+                    },
+                    "ID": 3508,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250214,
+                    "End": "*",
+                    "Map": 1722,
+                    "Name": "机魂重铸 超新科技",
+                    "Title": "机魂核心·卡尔玛",
+                    "Redirect": "map|module",
+                    "Go": "1722;app/SpetJXHXKaErMaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3457,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250117,
+                    "End": 2025022110,
+                    "Name": "寒假月签",
+                    "Title": "寒假签到领好礼",
+                    "Redirect": "module",
+                    "Go": "app/SummerHolidaySign2024Panel"
                 }
             ]
         },
@@ -57432,15 +57501,125 @@
                     "Title": "刻印抽奖机新春版",
                     "Redirect": "map|module",
                     "Go": "103;app/MarkMachine0707Panel"
-                }
-            ],
-            "_text": [
-                "-->\n\n\t",
-                "\t.\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3454,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250117,
+                    "End": 20250221,
+                    "Map": 103,
+                    "Name": "寒假钻石月卡",
+                    "Title": "寒假钻石月卡",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DiamondMonthlyCardOf2019MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3513,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250214,
+                    "End": 2025022012,
+                    "Name": "测试服招募",
+                    "Title": "体验服招募",
+                    "Redirect": "module",
+                    "Go": "app/PlayerRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3509,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250214,
+                    "End": 2025022110,
+                    "Map": 103,
+                    "Name": "赫斯提亚校园皮肤售卖",
+                    "Title": "青春校园系列皮肤",
+                    "Redirect": "map|module",
+                    "Go": "103;app/HeSiTiYaSkinSellMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3506,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250214,
+                    "End": 2025022110,
+                    "Map": 11897,
+                    "Name": "情人节主题面板",
+                    "Title": "甜蜜邀约",
+                    "Redirect": "map|module",
+                    "Go": "11897;app/ValentinesDayOfInvitationMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3507,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250214,
+                    "End": 2025022110,
+                    "Map": 103,
+                    "Name": "巅峰精灵集结售卖",
+                    "Title": "巅峰精灵 荣耀返场",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PeakAssemblySaleNO2MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3500,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250207,
+                    "End": 2025022110,
+                    "Map": 103,
+                    "Name": "兌钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3503,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250207,
+                    "End": 2025022110,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
                 {
                     "Details": {
                         "mc": 1
@@ -57457,7 +57636,15 @@
                     "Title": "商城礼包更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel"
-                },
+                }
+            ],
+            "_text": [
+                "-->\n\n\t",
+                "\t.\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
                 {
                     "Details": {
                         "mc": 1
@@ -57545,39 +57732,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3454,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250117,
-                    "End": 20250221,
-                    "Map": 103,
-                    "Name": "寒假钻石月卡",
-                    "Title": "寒假钻石月卡",
-                    "Redirect": "map|module",
-                    "Go": "103;app/DiamondMonthlyCardOf2019MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3457,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250117,
-                    "End": 2025022110,
-                    "Name": "寒假月签",
-                    "Title": "寒假签到领好礼",
-                    "Redirect": "module",
-                    "Go": "app/SummerHolidaySign2024Panel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 3461,
@@ -57608,40 +57762,6 @@
                     "Title": "黑石的研究",
                     "Redirect": "map|module",
                     "Go": "1715;app/MonthlyPetIn2025Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3500,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250207,
-                    "End": 2025022110,
-                    "Map": 103,
-                    "Name": "兌钻奖励更新",
-                    "Title": "兑钻奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3503,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250207,
-                    "End": 2025022110,
-                    "Map": 103,
-                    "Name": "皮肤商城更新",
-                    "Title": "皮肤商城更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SkinShopMainPanel"
                 },
                 {
                     "Details": {
@@ -57681,92 +57801,6 @@
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3505,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250214,
-                    "End": "*",
-                    "Map": 1723,
-                    "Name": "主线任务_卡尔玛之章",
-                    "Title": "重寻真我",
-                    "Redirect": "map|module",
-                    "Go": "1723;app/MainLineAdventureChapterPanel&&100401001"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3506,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250214,
-                    "End": 2025022110,
-                    "Map": 11897,
-                    "Name": "情人节主题面板",
-                    "Title": "甜蜜邀约",
-                    "Redirect": "map|module",
-                    "Go": "11897;app/ValentinesDayOfInvitationMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3507,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250214,
-                    "End": 2025022110,
-                    "Map": 103,
-                    "Name": "巅峰精灵集结售卖",
-                    "Title": "巅峰精灵 荣耀返场",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PeakAssemblySaleNO2MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4726
-                    },
-                    "ID": 3508,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250214,
-                    "End": "*",
-                    "Map": 1723,
-                    "Name": "机魂重铸 超新科技",
-                    "Title": "机魂核心·卡尔玛",
-                    "Redirect": "map|module",
-                    "Go": "1723;app/SpetJXHXKaErMaMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3509,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250214,
-                    "End": 2025022110,
-                    "Map": 103,
-                    "Name": "赫斯提亚校园皮肤售卖",
-                    "Title": "青春校园系列皮肤",
-                    "Redirect": "map|module",
-                    "Go": "103;app/HeSiTiYaSkinSellMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
                     "ID": 3510,
                     "isNew": 1,
                     "kinds": 1,
@@ -57800,36 +57834,105 @@
                 {
                     "Details": {
                         "mc": 0,
-                        "monID": 4727
+                        "monID": 4728
                     },
-                    "ID": 3512,
+                    "ID": 3514,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 0,
-                    "Start": 20250214,
-                    "End": 2025022810,
-                    "Map": 1723,
-                    "Name": "战队BOSS",
-                    "Title": "友情机器人",
+                    "Start": 20250221,
+                    "End": "*",
+                    "Map": 1724,
+                    "Name": "怯勇狮心 胆怯守护者",
+                    "Title": "考沃莱恩",
                     "Redirect": "map|module",
-                    "Go": "1;app/TeamBusinessMainPanel"
+                    "Go": "1724;app/SpetKaoWoLaiEnMaMainPanel"
                 },
                 {
                     "Details": {
                         "mc": 2
                     },
-                    "ID": 3513,
+                    "ID": 3515,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20250214,
-                    "End": 2025022012,
-                    "Name": "测试服招募",
-                    "Title": "测试服招募",
-                    "Redirect": "module",
-                    "Go": "app/PlayerRecruitPanel"
+                    "Start": 20250221,
+                    "End": 2025022810,
+                    "Map": 1724,
+                    "Name": "皮洛斯星旅程集合面板",
+                    "Title": "皮洛斯星的旅途-启程",
+                    "Redirect": "map|module",
+                    "Go": "1724;app/PiLuoSiXingGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3516,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250221,
+                    "End": 2025030710,
+                    "Map": 103,
+                    "Name": "兌钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3517,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250221,
+                    "End": 2025022810,
+                    "Map": 103,
+                    "Name": "罗开的折扣商店",
+                    "Title": "罗开的折扣商店",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20220722MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3518,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250221,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3519,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250221,
+                    "End": "*",
+                    "Map": 1724,
+                    "Name": "皮神传说",
+                    "Title": "皮洛斯星传说 上",
+                    "Redirect": "map|module",
+                    "Go": "1724;app/MainLineAdventureChapterPanel&&100500001"
                 },
                 {
                     "Details": {
@@ -57899,8 +58002,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3507,3509,3454,3503,3500",
-            "shopcenter": "2274:1,1687:3,3391:21,3507:13,3509:14,3500:11,3503:15,3504:44,3491:45,3474:51,3454:18,3449:19,3419:9,3420:10,3395:12,3347:20"
+            "Important": "3516,3517,3518,3419,3449",
+            "shopcenter": "2274:1,1687:3,3391:21,3516:11,3517:13,3518:14,3504:44,3491:45,3474:51,3449:19,3419:9,3420:10,3395:12"
         }
     }
 }
