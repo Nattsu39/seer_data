@@ -12,7 +12,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_10",
-            "jump": "2_110:3_1"
+            "target": 0
         },
         {
             "id": 2,
@@ -26,12 +26,12 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_10",
-            "jump": "2_16"
+            "target": 161500
         },
         {
             "id": 3,
             "title": "经验训练场",
-            "describe": "成功通关任意一层经验训练场",
+            "describe": "成功通关任意1层经验训练场",
             "tasktype": 3,
             "taskparam": "1_0_0_0",
             "value": "1",
@@ -40,12 +40,12 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_5",
-            "jump": "2_3"
+            "target": 161100
         },
         {
             "id": 4,
             "title": "学习力训练场",
-            "describe": "成功通关任意一层学习力训练场",
+            "describe": "成功通关任意1层学习力训练场",
             "tasktype": 4,
             "taskparam": "1_0_0_0",
             "value": "1",
@@ -54,12 +54,12 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_5",
-            "jump": "2_17"
+            "target": 161200
         },
         {
             "id": 5,
             "title": "勇者之塔",
-            "describe": "成功通关任意一层勇者之塔",
+            "describe": "成功通关任意1层勇者之塔",
             "tasktype": 5,
             "taskparam": "1_0_0_0",
             "value": "1",
@@ -68,7 +68,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_10",
-            "jump": "2_14"
+            "target": 161300
         },
         {
             "id": 6,
@@ -82,7 +82,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_10",
-            "jump": "2_110:3_2"
+            "target": 111100
         },
         {
             "id": 7,
@@ -96,21 +96,21 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_20",
-            "jump": "2_114"
+            "target": 161400
         },
         {
             "id": 8,
-            "title": "X战队密室",
-            "describe": "开启1次X战队密室",
-            "tasktype": 8,
-            "taskparam": "2_0_0_0",
+            "title": "精灵因子关卡",
+            "describe": "通关1次任意难度精灵因子关卡",
+            "tasktype": 16,
+            "taskparam": "0_0_0_0",
             "value": "1",
             "num": 1,
             "time": 1,
             "time2": "",
             "init": 1,
-            "rewardinfo": "3_204001_20",
-            "jump": "2_20"
+            "rewardinfo": "3_204001_40",
+            "target": 153100
         },
         {
             "id": 9,
@@ -124,12 +124,12 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_20",
-            "jump": "2_19"
+            "target": 161600
         },
         {
             "id": 10,
             "title": "精灵养成",
-            "describe": "进行一次精灵养成",
+            "describe": "进行1次精灵养成",
             "tasktype": 10,
             "taskparam": "0_0_0_0",
             "value": "1",
@@ -138,12 +138,12 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_10",
-            "jump": "2_10"
+            "target": 222000
         },
         {
             "id": 11,
             "title": "任务达人",
-            "describe": "完成任意五项每日任务",
+            "describe": "完成任意5项每日任务",
             "tasktype": 11,
             "taskparam": "1_0_0_0",
             "value": "5",
@@ -152,13 +152,27 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_204001_30",
-            "jump": "2_110:3_1"
+            "target": 0
         },
         {
             "id": 101,
             "title": "泰坦矿洞",
-            "describe": "通关10次泰坦矿洞",
+            "describe": "通关5次泰坦矿洞",
             "tasktype": 2,
+            "taskparam": "1_0_0_0",
+            "value": "5",
+            "num": 1,
+            "time": 2,
+            "time2": "",
+            "init": 1,
+            "rewardinfo": "3_20210_10",
+            "target": 161500
+        },
+        {
+            "id": 102,
+            "title": "经验训练场",
+            "describe": "通关10层经验训练场",
+            "tasktype": 3,
             "taskparam": "1_0_0_0",
             "value": "10",
             "num": 1,
@@ -166,35 +180,21 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_10",
-            "jump": "2_16"
-        },
-        {
-            "id": 102,
-            "title": "经验训练场",
-            "describe": "通关20层经验训练场",
-            "tasktype": 3,
-            "taskparam": "1_0_0_0",
-            "value": "20",
-            "num": 1,
-            "time": 2,
-            "time2": "",
-            "init": 1,
-            "rewardinfo": "3_20210_10",
-            "jump": "2_3"
+            "target": 161100
         },
         {
             "id": 103,
             "title": "学习力训练场",
-            "describe": "通关20层学习力训练场",
+            "describe": "通关10层学习力训练场",
             "tasktype": 4,
             "taskparam": "1_0_0_0",
-            "value": "20",
+            "value": "10",
             "num": 1,
             "time": 2,
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_10",
-            "jump": "2_17"
+            "target": 161200
         },
         {
             "id": 104,
@@ -208,7 +208,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_10",
-            "jump": "2_14"
+            "target": 161300
         },
         {
             "id": 105,
@@ -222,7 +222,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_20",
-            "jump": "2_124"
+            "target": 0
         },
         {
             "id": 106,
@@ -236,7 +236,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_20",
-            "jump": "2_110:3_1"
+            "target": 0
         },
         {
             "id": 107,
@@ -250,7 +250,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_20",
-            "jump": "2_18"
+            "target": 0
         },
         {
             "id": 108,
@@ -264,7 +264,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_20",
-            "jump": "2_8"
+            "target": 200000
         },
         {
             "id": 109,
@@ -278,7 +278,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_30",
-            "jump": "2_19"
+            "target": 161600
         },
         {
             "id": 110,
@@ -292,21 +292,21 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_30",
-            "jump": "2_114"
+            "target": 161400
         },
         {
             "id": 111,
-            "title": "X战队密室",
-            "describe": "通关1次X战队密室",
-            "tasktype": 8,
-            "taskparam": "1_0_0_0",
-            "value": "1",
+            "title": "精灵因子关卡",
+            "describe": "通关5次任意难度精灵因子关卡",
+            "tasktype": 16,
+            "taskparam": "0_0_0_0",
+            "value": "5",
             "num": 1,
             "time": 2,
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_40",
-            "jump": "2_20"
+            "target": 153100
         },
         {
             "id": 112,
@@ -320,7 +320,7 @@
             "time2": "",
             "init": 1,
             "rewardinfo": "3_20210_40",
-            "jump": "2_25"
+            "target": 162200
         }
     ]
 }

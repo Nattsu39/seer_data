@@ -1,22 +1,17 @@
 {
-    "pass_shop.json": {
-        "url": "http://seerh5.61.com/resource/config/json/pass_shop_ee2517c0.json",
-        "filename": "pass_shop.json",
+    "boxordinary.json": {
+        "url": "http://seerh5.61.com/resource/config/json/boxordinary_5794d4e.json",
+        "filename": "boxordinary.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "itemsTip.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/itemsTip_308d3c2c.json",
+        "filename": "itemsTip.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
-    },
-    "shop_center.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/shop_center_a6c46a02.json",
-        "filename": "shop_center.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "activities_temp.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/activities_temp_c5b05e86.json",
-        "filename": "activities_temp.json",
-        "exception": "ReadTimeout('timed out')"
     }
 }

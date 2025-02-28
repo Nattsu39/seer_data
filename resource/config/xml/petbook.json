@@ -513,7 +513,7 @@
                     "id": 72,
                     "pid": 4338,
                     "TagA": 3,
-                    "TagB": "3|5|1",
+                    "TagB": "3|1",
                     "Redirect": "alarm",
                     "Go": "新版作战实验室专属精灵，请前往《赛尔号巅峰之战》获得！"
                 },
@@ -1203,36 +1203,63 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4728,
-                        "ImageID": 4728,
+                        "ID": 4731,
+                        "ImageID": 4731,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1724;app/SpetKaoWoLaiEnMaMainPanel"
+                        "Go": "1725;app/PiGodLevelMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4729,
-                        "ImageID": 4729,
+                        "ID": 4732,
+                        "ImageID": 4732,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1724
+                        "Redirect": "map|module",
+                        "Go": "1725;app/PiGodLevelMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4730,
-                        "ImageID": 4730,
+                        "ID": 4733,
+                        "ImageID": 4733,
                         "Label": 0,
-                        "Redirect": "map",
-                        "Go": 1724
+                        "Redirect": "map|module",
+                        "Go": "1725;app/VipMouthPet2025Panel"
                     },
                     {
                         "type": 1,
-                        "ID": 698,
-                        "MonID": 4355,
-                        "ImageID": 1400698,
+                        "ID": 699,
+                        "MonID": 4731,
+                        "ImageID": 1400699,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/PiShenSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 700,
+                        "MonID": 4731,
+                        "ImageID": 1400700,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/PiSignRemindPop"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 701,
+                        "MonID": 4732,
+                        "ImageID": 1400701,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/PiShenSkinSellMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 702,
+                        "MonID": 4732,
+                        "ImageID": 1400705,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/PiSignRemindPop"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -50015,6 +50042,36 @@
                 "Features": "水晶皮皮喜欢收集一切亮闪闪的东西，经常与朋友们在皮洛斯星上开展探险活动。",
                 "Redirect": "map",
                 "Go": 1724
+            },
+            {
+                "ID": 4731,
+                "DefName": "皮神",
+                "Type": "飞行 圣灵",
+                "Height": 370,
+                "Weight": 180,
+                "Features": "千变万化的皮神自诩为代表“随性”这一品质的神。她是皮洛斯星的创造者与统治者，据说每一个皮皮都是她的分身。",
+                "Redirect": "map|module",
+                "Go": "1725;app/PiGodLevelMainPanel"
+            },
+            {
+                "ID": 4732,
+                "DefName": "闪光皮神",
+                "Type": "飞行 圣灵",
+                "Height": 367,
+                "Weight": 175,
+                "Features": "端庄唯美的闪光皮神拥有无上的神力，为所有信仰自己的虔诚旅人送去美好的祝福。",
+                "Redirect": "map|module",
+                "Go": "1725;app/PiGodLevelMainPanel"
+            },
+            {
+                "ID": 4733,
+                "DefName": "安德鲁",
+                "Type": "飞行 神秘",
+                "Height": 186,
+                "Weight": 85,
+                "Features": "2025年包月精灵，赫星童话之《船长航行记》，故事中有一位热爱探索的年轻船长，坚持不懈的性格使他成功驶向无垠的星海。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
             }
         ]
     }

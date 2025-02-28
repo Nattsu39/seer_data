@@ -73,6 +73,30 @@
             "desc": ""
         },
         {
+            "id": 7,
+            "name": "限时_兑钻奖励",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "活动页签未被点击查看",
+            "eliminate": "活动页签已被点击查看",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
+            "id": 8,
+            "name": "限时_签到好礼",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "签到奖励可领取",
+            "eliminate": "签到奖励已领取",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
             "id": 110000,
             "name": "主界面_个人信息",
             "type": 2,
@@ -93,8 +117,8 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 110400,
@@ -105,8 +129,8 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 110410,
@@ -689,7 +713,7 @@
             "name": "活动中心_限时",
             "type": 2,
             "subtype": 0,
-            "subset": "1",
+            "subset": "1;7;8",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -797,12 +821,12 @@
             "name": "主界面_老兵回归",
             "type": 2,
             "subtype": 0,
-            "subset": "118100;118200;118300;118400",
+            "subset": "118100;118200;118300;118400;118500",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 118100,
@@ -872,6 +896,18 @@
             "subset": "",
             "trigger": "界面存在可领奖任务",
             "eliminate": "界面不存在可领奖任务",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
+            "id": 118500,
+            "name": "老兵回归_折扣商城",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "界面存在可领取折扣券",
+            "eliminate": "界面存在可领取折扣券",
             "condition": 0,
             "isshow": 1,
             "desc": ""
@@ -965,36 +1001,12 @@
             "name": "主界面_火星港商城",
             "type": 2,
             "subtype": 0,
-            "subset": "121300",
-            "trigger": "",
-            "eliminate": "",
-            "condition": 0,
-            "isshow": 1,
-            "desc": "β"
-        },
-        {
-            "id": 121300,
-            "name": "火星港商城_超值礼包",
-            "type": 2,
-            "subtype": 0,
-            "subset": "121330",
-            "trigger": "",
-            "eliminate": "",
-            "condition": 0,
-            "isshow": 1,
-            "desc": "β"
-        },
-        {
-            "id": 121330,
-            "name": "超值礼包_活动礼包",
-            "type": 1,
-            "subtype": 1,
             "subset": "",
-            "trigger": "界面存在可领奖礼包",
-            "eliminate": "界面不存在可领奖礼包",
+            "trigger": "",
+            "eliminate": "",
             "condition": 0,
             "isshow": 1,
-            "desc": "β"
+            "desc": ""
         },
         {
             "id": 122000,
@@ -1257,8 +1269,8 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 126100,
@@ -1317,8 +1329,8 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 127100,
@@ -1413,8 +1425,8 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 128721,
@@ -1437,8 +1449,8 @@
             "trigger": "界面存在可领取奖励",
             "eliminate": "界面不存在可领取奖励",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 128740,
@@ -1474,7 +1486,7 @@
             "eliminate": "",
             "condition": 0,
             "isshow": 0,
-            "desc": "β"
+            "desc": "已删除"
         },
         {
             "id": 129100,
@@ -1490,7 +1502,7 @@
         },
         {
             "id": 129200,
-            "name": "巅峰战令_任务",
+            "name": "巅峰对战_任务",
             "type": 2,
             "subtype": 0,
             "subset": "129210;129220;129230",
@@ -1617,8 +1629,8 @@
             "trigger": "",
             "eliminate": "",
             "condition": 0,
-            "isshow": 0,
-            "desc": "β"
+            "isshow": 1,
+            "desc": ""
         },
         {
             "id": 133100,
@@ -1805,12 +1817,12 @@
             "name": "全局通道_火星港商城",
             "type": 2,
             "subtype": 0,
-            "subset": "121300",
+            "subset": "",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
             "isshow": 1,
-            "desc": "β"
+            "desc": ""
         },
         {
             "id": 220000,
@@ -1870,7 +1882,7 @@
             "eliminate": "客户端缓存有点击记录",
             "condition": 0,
             "isshow": 0,
-            "desc": "β"
+            "desc": "未做完"
         },
         {
             "id": 228000,

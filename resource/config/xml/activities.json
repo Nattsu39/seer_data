@@ -18606,6 +18606,57 @@
                     "Title": "寒假签到领好礼",
                     "Redirect": "module",
                     "Go": "app/SummerHolidaySign2024Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3519,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250221,
+                    "End": "*",
+                    "Map": 1724,
+                    "Name": "皮神传说",
+                    "Title": "皮洛斯星传说 上",
+                    "Redirect": "map|module",
+                    "Go": "1724;app/MainLineAdventureChapterPanel&&100500001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3461,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250117,
+                    "End": "*",
+                    "Name": "精灵觉醒更新",
+                    "Title": "银月狼王 觉醒开启",
+                    "Redirect": "module",
+                    "Go": "app/ElfAwakeningNewMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4728
+                    },
+                    "ID": 3514,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250221,
+                    "End": "*",
+                    "Map": 1724,
+                    "Name": "怯勇狮心 胆怯守护者",
+                    "Title": "考沃莱恩",
+                    "Redirect": "map|module",
+                    "Go": "1724;app/SpetKaoWoLaiEnMaMainPanel"
                 }
             ]
         },
@@ -57636,6 +57687,91 @@
                     "Title": "商城礼包更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3517,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250221,
+                    "End": 2025022810,
+                    "Map": 103,
+                    "Name": "罗开的折扣商店",
+                    "Title": "罗开的折扣商店",
+                    "Redirect": "map|module",
+                    "Go": "103;app/LuoKaiShop20220722MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3515,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250221,
+                    "End": 2025022810,
+                    "Map": 1724,
+                    "Name": "皮洛斯星旅程集合面板",
+                    "Title": "皮洛斯星的旅途-启程",
+                    "Redirect": "map|module",
+                    "Go": "1724;app/PiLuoSiXingGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3510,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250214,
+                    "End": 2025022810,
+                    "Map": 1,
+                    "Name": "战队BOSS",
+                    "Title": "战队BOSS来袭",
+                    "Redirect": "map|module",
+                    "Go": "1;app/TeamBusinessMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3511,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250214,
+                    "End": 2025022810,
+                    "Map": 1,
+                    "Name": "战队BOSS",
+                    "Title": "战队军需官抵达",
+                    "Redirect": "map|module",
+                    "Go": "1;app/TeamBusinessMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3474,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250124,
+                    "End": 2025022810,
+                    "Map": 1715,
+                    "Name": "2月包月精灵",
+                    "Title": "黑石的研究",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/MonthlyPetIn2025Panel"
                 }
             ],
             "_text": [
@@ -57732,39 +57868,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3461,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250117,
-                    "End": "*",
-                    "Name": "精灵觉醒更新",
-                    "Title": "银月狼王 觉醒开启",
-                    "Redirect": "module",
-                    "Go": "app/ElfAwakeningNewMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3474,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250124,
-                    "End": 2025022810,
-                    "Map": 1715,
-                    "Name": "2月包月精灵",
-                    "Title": "黑石的研究",
-                    "Redirect": "map|module",
-                    "Go": "1715;app/MonthlyPetIn2025Panel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3504,
@@ -57799,75 +57902,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3510,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250214,
-                    "End": 2025022810,
-                    "Map": 1,
-                    "Name": "战队BOSS",
-                    "Title": "战队BOSS来袭",
-                    "Redirect": "map|module",
-                    "Go": "1;app/TeamBusinessMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3511,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250214,
-                    "End": 2025022810,
-                    "Map": 1,
-                    "Name": "战队BOSS",
-                    "Title": "战队军需官抵达",
-                    "Redirect": "map|module",
-                    "Go": "1;app/TeamBusinessMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4728
-                    },
-                    "ID": 3514,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250221,
-                    "End": "*",
-                    "Map": 1724,
-                    "Name": "怯勇狮心 胆怯守护者",
-                    "Title": "考沃莱恩",
-                    "Redirect": "map|module",
-                    "Go": "1724;app/SpetKaoWoLaiEnMaMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3515,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250221,
-                    "End": 2025022810,
-                    "Map": 1724,
-                    "Name": "皮洛斯星旅程集合面板",
-                    "Title": "皮洛斯星的旅途-启程",
-                    "Redirect": "map|module",
-                    "Go": "1724;app/PiLuoSiXingGoToMapPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3516,
@@ -57882,23 +57916,6 @@
                     "Title": "兑钻奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3517,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250221,
-                    "End": 2025022810,
-                    "Map": 103,
-                    "Name": "罗开的折扣商店",
-                    "Title": "罗开的折扣商店",
-                    "Redirect": "map|module",
-                    "Go": "103;app/LuoKaiShop20220722MainPanel"
                 },
                 {
                     "Details": {
@@ -57919,20 +57936,192 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "monID": 4731
+                    },
+                    "ID": 3520,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250228,
+                    "End": "*",
+                    "Map": 1725,
+                    "Name": "皮神关卡",
+                    "Title": "皮神",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/PiGodLevelMainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 2
                     },
-                    "ID": 3519,
+                    "ID": 3521,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
                     "Type": 2,
-                    "Start": 20250221,
-                    "End": "*",
-                    "Map": 1724,
-                    "Name": "皮神传说",
-                    "Title": "皮洛斯星传说 上",
+                    "Start": 20250228,
+                    "End": 2025030710,
+                    "Map": 1725,
+                    "Name": "皮洛斯星的旅途-觉醒",
+                    "Title": "皮洛斯星的旅途-觉醒",
                     "Redirect": "map|module",
-                    "Go": "1724;app/MainLineAdventureChapterPanel&&100500001"
+                    "Go": "1725;app/PiLuoSiXingGoToTwoMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3522,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250228,
+                    "End": 2025030710,
+                    "Map": 1725,
+                    "Name": "百变皮皮",
+                    "Title": "百变皮皮",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/VersatilePiPiMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3523,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250228,
+                    "End": 2025030710,
+                    "Map": 1725,
+                    "Name": "皮神的考验",
+                    "Title": "皮神的考验",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/StavreOfMysteryGift2022MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3524,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250228,
+                    "End": 2025031410,
+                    "Map": 103,
+                    "Name": "皮神的嘉奖",
+                    "Title": "皮神的嘉奖",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/PiSignRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4732
+                    },
+                    "ID": 3526,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250228,
+                    "End": "*",
+                    "Map": 1725,
+                    "Name": "闪光皮神",
+                    "Title": "闪光皮神",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/PiGodLevelMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3527,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250228,
+                    "End": 2025031410,
+                    "Map": 103,
+                    "Name": "皮神传说皮肤",
+                    "Title": "七天创世神",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PiShenSkinSellMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3529,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250228,
+                    "End": "*",
+                    "Map": 1725,
+                    "Name": "皮洛斯星传说",
+                    "Title": "皮洛斯星传说 中",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/MainLineAdventureChapterPanel&&100502001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3530,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250228,
+                    "End": 2025041110,
+                    "Name": "精灵觉醒更新",
+                    "Title": "洛水惊鸿",
+                    "Redirect": "module",
+                    "Go": "app/ElfAwakeningNewMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4733
+                    },
+                    "ID": 3531,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250228,
+                    "End": 2025122610,
+                    "Map": 1725,
+                    "Name": "3月包月精灵",
+                    "Title": "安德鲁",
+                    "Redirect": "map|module",
+                    "Go": "1725;app/VipMouthPet2025Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3532,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250228,
+                    "End": 2025032810,
+                    "Map": 1715,
+                    "Name": "3月包月精灵",
+                    "Title": "船长航行记",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/MonthlyPetIn2025Panel"
                 },
                 {
                     "Details": {
@@ -58002,8 +58191,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3516,3517,3518,3419,3449",
-            "shopcenter": "2274:1,1687:3,3391:21,3516:11,3517:13,3518:14,3504:44,3491:45,3474:51,3449:19,3419:9,3420:10,3395:12"
+            "Important": "3449,3527,3504,3419,3532",
+            "shopcenter": "2274:1,1687:3,3391:21,3527:15,3532:17,3516:11,3518:14,3504:44,3491:45,3449:19,3419:9,3420:10,3395:12"
         }
     }
 }
