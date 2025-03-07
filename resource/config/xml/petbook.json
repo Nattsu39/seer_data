@@ -1203,63 +1203,37 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4731,
-                        "ImageID": 4731,
+                        "ID": 4734,
+                        "ImageID": 4734,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1725;app/PiGodLevelMainPanel"
+                        "Go": "1726;app/SpetCTJXXianRenZhangMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4732,
-                        "ImageID": 4732,
+                        "ID": 4735,
+                        "ImageID": 4735,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1725;app/PiGodLevelMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4733,
-                        "ImageID": 4733,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1725;app/VipMouthPet2025Panel"
+                        "Go": "103;app/HelpingGodPetZiYouMianPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 699,
-                        "MonID": 4731,
-                        "ImageID": 1400699,
+                        "ID": 703,
+                        "MonID": 3740,
+                        "ImageID": 1400703,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/PiShenSkinSellMainPanel"
+                        "Go": "103;app/NutaoCanglanLegendSkinSalesNewMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 700,
-                        "MonID": 4731,
-                        "ImageID": 1400700,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/PiSignRemindPop"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 701,
-                        "MonID": 4732,
-                        "ImageID": 1400701,
+                        "ID": 704,
+                        "MonID": 4734,
+                        "ImageID": 1400704,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/PiShenSkinSellMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 702,
-                        "MonID": 4732,
-                        "ImageID": 1400705,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/PiSignRemindPop"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -37913,7 +37887,7 @@
                 "Features": "接受了谱尼圣灵力量之后，盖亚的战斗实力得到了质的提升，将与自己的哥哥一同对抗奥古斯特！",
                 "mapID": 1258,
                 "jumptarget": 204,
-                "Target": 150051
+                "Target": 150054
             },
             {
                 "ID": 3482,
@@ -49199,7 +49173,8 @@
                 "Weight": 32,
                 "Features": "丽莎布布星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
                 "Redirect": "module",
-                "Go": "app/StarlightHiddenMainPanel"
+                "Go": "app/StarlightHiddenMainPanel",
+                "Target": 111600
             },
             {
                 "ID": 4648,
@@ -49209,7 +49184,8 @@
                 "Weight": 47.5,
                 "Features": "鲁斯王星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
                 "Redirect": "module",
-                "Go": "app/StarlightHiddenMainPanel"
+                "Go": "app/StarlightHiddenMainPanel",
+                "Target": 111600
             },
             {
                 "ID": 4649,
@@ -49219,7 +49195,8 @@
                 "Weight": 50,
                 "Features": "魔焰猩猩星光蜕变！赛尔号十五周年，主宠伙伴，共赴盛典！",
                 "Redirect": "module",
-                "Go": "app/StarlightHiddenMainPanel"
+                "Go": "app/StarlightHiddenMainPanel",
+                "Target": 111600
             },
             {
                 "ID": 4650,
@@ -50072,6 +50049,27 @@
                 "Features": "2025年包月精灵，赫星童话之《船长航行记》，故事中有一位热爱探索的年轻船长，坚持不懈的性格使他成功驶向无垠的星海。",
                 "Redirect": "map|module",
                 "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4734,
+                "DefName": "参天巨型仙人掌",
+                "Type": "草",
+                "Height": 178,
+                "Weight": 156,
+                "Features": "巨型仙人掌获得皮神的恩赐，进化成了参天巨型仙人掌。它拥有了更加旺盛的生命力与更强的爆发力。更重要的是，它拥有了无与伦比的智慧。",
+                "Redirect": "map|module",
+                "Go": "1726;app/SpetCTJXXianRenZhangMainPanel",
+                "Target": "153201/247"
+            },
+            {
+                "ID": 4735,
+                "DefName": "紫幽",
+                "Type": "混沌 超能",
+                "Height": 182,
+                "Weight": 48,
+                "Features": "无人知晓她的名讳，无人知晓她从何而来，紫色的不详之火伴随着她的每一次出现都将带来死亡的信号。",
+                "Redirect": "map|module",
+                "Go": "103;app/HelpingGodPetZiYouMianPanel"
             }
         ]
     }
