@@ -1,12 +1,32 @@
 {
+    "retrieve.json": {
+        "url": "http://seerh5.61.com/resource/config/json/retrieve_f266f89b.json",
+        "filename": "retrieve.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "pass_reward.json": {
+        "url": "http://seerh5.61.com/resource/config/json/pass_reward_eb92bbfb.json",
+        "filename": "pass_reward.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "setupCollection.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/setupCollection_5761184.json",
+        "filename": "setupCollection.json",
+        "exception": "ReadTimeout('timed out')"
+    },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "s_design.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/s_design_d9956864.json",
-        "filename": "s_design.json",
+    "gems.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/gems_e99aad53.json",
+        "filename": "gems.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "A15thStarStory.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/A15thStarStory_e52ca252.json",
+        "filename": "A15thStarStory.json",
         "exception": "ReadTimeout('timed out')"
     }
 }
