@@ -1203,37 +1203,28 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4734,
-                        "ImageID": 4734,
+                        "ID": 4736,
+                        "ImageID": 4736,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1726;app/SpetCTJXXianRenZhangMainPanel"
+                        "Redirect": "module",
+                        "Go": "app/SpetTLXiLaMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4735,
-                        "ImageID": 4735,
+                        "ID": 4737,
+                        "ImageID": 4737,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/HelpingGodPetZiYouMianPanel"
+                        "Redirect": "map",
+                        "Go": 105
                     },
                     {
                         "type": 1,
-                        "ID": 703,
-                        "MonID": 3740,
-                        "ImageID": 1400703,
+                        "ID": 705,
+                        "MonID": 3554,
+                        "ImageID": 1400705,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/NutaoCanglanLegendSkinSalesNewMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 704,
-                        "MonID": 4734,
-                        "ImageID": 1400704,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/DarkSkyCuteSkinGatheringMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -21822,7 +21813,8 @@
                 "Height": 101,
                 "Weight": 42,
                 "Features": "迪尔克在失控的温泉能量刺激下，终于进化成为了强大的火系精灵迪瓦拉，强大的火系控制力使得他控制住了时空的温泉能量，使一切归于平静，保卫家园。",
-                "mapID": 105
+                "Redirect": "map|module",
+                "Go": "105;app/DilkeEvolutionPanel"
             },
             {
                 "ID": 1770,
@@ -47928,7 +47920,9 @@
                 "Type": "火 圣灵",
                 "Height": 139,
                 "Weight": 41,
-                "Features": "齐天大圣孙悟空，是女娲补天所用五彩石中掉落的仙石，因吸收天地之气孕育而生。神通广大、武艺超群，拥有腾云驾雾、七十二变等神功。"
+                "Features": "齐天大圣孙悟空，是女娲补天所用五彩石中掉落的仙石，因吸收天地之气孕育而生。神通广大、武艺超群，拥有腾云驾雾、七十二变等神功。",
+                "Redirect": "map|module",
+                "Go": "1621;app/EverChangeDuelPanel"
             },
             {
                 "ID": 4525,
@@ -47936,7 +47930,9 @@
                 "Type": "次元 圣灵",
                 "Height": 192,
                 "Weight": 78,
-                "Features": "二郎神杨戬，阙庭有神眼，手持三尖两刃刀，为天庭大将，玉帝的外甥，拥有神宠哮天犬。他曾征讨花果山，与孙悟空赌变化，斗输赢。"
+                "Features": "二郎神杨戬，阙庭有神眼，手持三尖两刃刀，为天庭大将，玉帝的外甥，拥有神宠哮天犬。他曾征讨花果山，与孙悟空赌变化，斗输赢。",
+                "Redirect": "map|module",
+                "Go": "1621;app/GetErLangShenMainPanel"
             },
             {
                 "ID": 4526,
@@ -50070,6 +50066,27 @@
                 "Features": "无人知晓她的名讳，无人知晓她从何而来，紫色的不详之火伴随着她的每一次出现都将带来死亡的信号。",
                 "Redirect": "map|module",
                 "Go": "103;app/HelpingGodPetZiYouMianPanel"
+            },
+            {
+                "ID": 4736,
+                "DefName": "霆流·希拉",
+                "Type": "电",
+                "Height": 50,
+                "Weight": 7.3,
+                "Features": "悠悠主动选择拥抱强大的电系能量，在众人的见证下完成自身的蜕变，更为强大的霆流·希拉就此诞生了。",
+                "Redirect": "module",
+                "Go": "app/SpetTLXiLaMainPanel",
+                "Target": "153201/248"
+            },
+            {
+                "ID": 4737,
+                "DefName": "星烁鱼",
+                "Type": "水 超能",
+                "Height": 24,
+                "Weight": 8.1,
+                "Features": "星烁鱼是从双子阿尔法星的太空温泉中提取到的卵，通过主动干预孵化而来的。它们似乎也很喜欢泡太空温泉呢。",
+                "Redirect": "map",
+                "Go": 105
             }
         ]
     }

@@ -9110,7 +9110,9 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "齐天大圣·孙悟空"
+                "Name": "齐天大圣·孙悟空",
+                "Go": "1621;app/HavocInHeavenGoToMapPanel",
+                "GoType": "map|module"
             },
             {
                 "SkinKind": [
@@ -9126,7 +9128,9 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "降魔神君·二郎神"
+                "Name": "降魔神君·二郎神",
+                "Go": "1621;app/HavocInHeavenGoToMapPanel",
+                "GoType": "map|module"
             },
             {
                 "SkinKind": [
@@ -11490,6 +11494,24 @@
                 "AddWay": 1,
                 "Name": "巨型仙人掌",
                 "Go": "103;app/ExchangeDiamondRewardSystemPanel",
+                "GoType": "map|module"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 705,
+                "MonID": 3554,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "风翼萌镰",
+                "Go": "103;app/DarkSkyCuteSkinGatheringMainPanel",
                 "GoType": "map|module"
             }
         ]

@@ -35,7 +35,7 @@
             {
                 "direction": "left",
                 "shownewseer": 0,
-                "priority": 4,
+                "priority": 5,
                 "exMapList": 50000,
                 "ui": "peakJihad2023WarOrde",
                 "tips": "星际通行证",
@@ -44,11 +44,20 @@
             {
                 "direction": "left",
                 "shownewseer": 0,
-                "priority": 5,
+                "priority": 6,
                 "exMapList": 50000,
                 "ui": "monthlycard",
                 "tips": "2025寒假尊享特权钻石月卡",
                 "mouseClickFunc": "app:DiamondMonthlyCardOf2019MainPanel"
+            },
+            {
+                "direction": "left",
+                "shownewseer": 0,
+                "priority": 4,
+                "exMapList": 50000,
+                "ui": "laidashenqi_icon",
+                "tips": "莱达神祇",
+                "mouseClickFunc": "app:LaiDaBackPanel"
             },
             {
                 "direction": "left_side",
@@ -77,15 +86,6 @@
                 "tips": "2025年费",
                 "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:initVip2016",
                 "mouseClickFunc": "app:Yearvip2025MainPanel"
-            },
-            {
-                "direction": "right_bar",
-                "shownewseer": 0,
-                "priority": 3,
-                "exMapList": 50000,
-                "ui": "PiShenJiangLin_icon",
-                "tips": "皮洛斯星的旅途",
-                "mouseClickFunc": "app:PiLuoSiXingGoToThreeMapPanel"
             },
             {
                 "direction": "left_side",
@@ -134,15 +134,6 @@
                 "mouseClickFunc": "app:NoticeCenterMainPanel"
             },
             {
-                "direction": "right",
-                "shownewseer": 0,
-                "priority": 5,
-                "exMapList": 50000,
-                "ui": "H5icon",
-                "tips": "《赛尔号巅峰之战》",
-                "mouseClickFunc": "app:FlashToH5MainPanel"
-            },
-            {
                 "direction": "right_side",
                 "shownewseer": 0,
                 "priority": 1,
@@ -168,6 +159,15 @@
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "monkey_icon",
+                "tips": "大闹天宫",
+                "mouseClickFunc": "app:HavocInHeavenGoToMapPanel"
             },
             {
                 "direction": "right_side",

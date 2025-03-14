@@ -18745,6 +18745,41 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3540,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250307,
+                    "End": "*",
+                    "Map": 1726,
+                    "Name": "皮洛斯星传说",
+                    "Title": "皮洛斯星传说 下",
+                    "Redirect": "map|module",
+                    "Go": "1726;app/MainLineAdventureChapterPanel&&100504001"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4734
+                    },
+                    "ID": 3533,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250307,
+                    "End": "*",
+                    "Map": 1726,
+                    "Name": "慧根初发 智慧生长中",
+                    "Title": "参天巨型仙人掌",
+                    "Redirect": "map|module",
+                    "Go": "1726;app/SpetCTJXXianRenZhangMainPanel"
                 }
             ]
         },
@@ -57945,82 +57980,6 @@
                     "Title": "兑钻奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                }
-            ],
-            "_text": [
-                "-->\n\n\t",
-                "\t.\n\t"
-            ]
-        },
-        "New": {
-            "Activity": [
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3419,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241227,
-                    "End": 2025122610,
-                    "Map": 1715,
-                    "Name": "2025年费输出",
-                    "Title": "黎明之歌",
-                    "Redirect": "map|module",
-                    "Go": "1715;app/Yearvip2025MainPanel",
-                    "Settop": 8
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3420,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20241227,
-                    "End": 2025122610,
-                    "Map": 1715,
-                    "Name": "年费伴生皮肤售卖",
-                    "Title": "午后的悠闲时光",
-                    "Redirect": "map|module",
-                    "Go": "1715;app/YearPet2025SkinPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3448,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250110,
-                    "End": 2025041110,
-                    "Map": 1095,
-                    "Name": "巅峰赛季S5更新",
-                    "Title": "S5赛季开启",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3449,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250110,
-                    "End": 20250411,
-                    "Name": "战令0110",
-                    "Title": "星际通行证开启",
-                    "Redirect": "module",
-                    "Go": "app/SeerInterstellarPassportMainPanel"
                 },
                 {
                     "Details": {
@@ -58038,23 +57997,6 @@
                     "Title": "VIP权益更新",
                     "Redirect": "map|module",
                     "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3518,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250221,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "商城礼包更新",
-                    "Title": "商城礼包更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SupermarketPanel"
                 },
                 {
                     "Details": {
@@ -58089,57 +58031,6 @@
                     "Title": "七天创世神",
                     "Redirect": "map|module",
                     "Go": "103;app/PiShenSkinSellMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3530,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250228,
-                    "End": 2025041110,
-                    "Name": "精灵觉醒更新",
-                    "Title": "洛水惊鸿",
-                    "Redirect": "module",
-                    "Go": "app/ElfAwakeningNewMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3532,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250228,
-                    "End": 2025032810,
-                    "Map": 1715,
-                    "Name": "3月包月精灵",
-                    "Title": "船长航行记",
-                    "Redirect": "map|module",
-                    "Go": "1715;app/MonthlyPetIn2025Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4734
-                    },
-                    "ID": 3533,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250307,
-                    "End": "*",
-                    "Map": 1726,
-                    "Name": "慧根初发 智慧生长中",
-                    "Title": "参天巨型仙人掌",
-                    "Redirect": "map|module",
-                    "Go": "1726;app/SpetCTJXXianRenZhangMainPanel"
                 },
                 {
                     "Details": {
@@ -58228,6 +58119,150 @@
                 },
                 {
                     "Details": {
+                        "mc": 0,
+                        "monID": 4735
+                    },
+                    "ID": 3543,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250307,
+                    "End": 2025031410,
+                    "Map": 1726,
+                    "Name": "全民助力精灵",
+                    "Title": "紫幽",
+                    "Redirect": "map|module",
+                    "Go": "1726;app/HelpingGodPetZiYouMianPanel"
+                }
+            ],
+            "_text": [
+                "-->\n\n\t",
+                "\t.\n\t"
+            ]
+        },
+        "New": {
+            "Activity": [
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3419,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025122610,
+                    "Map": 1715,
+                    "Name": "2025年费输出",
+                    "Title": "黎明之歌",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/Yearvip2025MainPanel",
+                    "Settop": 8
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3420,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20241227,
+                    "End": 2025122610,
+                    "Map": 1715,
+                    "Name": "年费伴生皮肤售卖",
+                    "Title": "午后的悠闲时光",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/YearPet2025SkinPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3448,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250110,
+                    "End": 2025041110,
+                    "Map": 1095,
+                    "Name": "巅峰赛季S5更新",
+                    "Title": "S5赛季开启",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3449,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250110,
+                    "End": 20250411,
+                    "Name": "战令0110",
+                    "Title": "星际通行证开启",
+                    "Redirect": "module",
+                    "Go": "app/SeerInterstellarPassportMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3518,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250221,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "商城礼包更新",
+                    "Title": "商城礼包更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SupermarketPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3530,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250228,
+                    "End": 2025041110,
+                    "Name": "精灵觉醒更新",
+                    "Title": "洛水惊鸿",
+                    "Redirect": "module",
+                    "Go": "app/ElfAwakeningNewMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3532,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250228,
+                    "End": 2025032810,
+                    "Map": 1715,
+                    "Name": "3月包月精灵",
+                    "Title": "船长航行记",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/MonthlyPetIn2025Panel"
+                },
+                {
+                    "Details": {
                         "mc": 1
                     },
                     "ID": 3539,
@@ -58242,23 +58277,6 @@
                     "Title": "兑钻奖励更新",
                     "Redirect": "map|module",
                     "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3540,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250307,
-                    "End": "*",
-                    "Map": 1726,
-                    "Name": "皮洛斯星传说",
-                    "Title": "皮洛斯星传说 下",
-                    "Redirect": "map|module",
-                    "Go": "1726;app/MainLineAdventureChapterPanel&&100504001"
                 },
                 {
                     "Details": {
@@ -58287,30 +58305,12 @@
                     "IsClassic": 0,
                     "Type": 1,
                     "Start": 20250307,
-                    "End": 2025031410,
+                    "End": 2025032110,
                     "Map": 103,
                     "Name": "全民助力精灵",
                     "Title": "全民助力精灵",
                     "Redirect": "map|module",
                     "Go": "103;app/HelpingGodPetZiYouMianPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4735
-                    },
-                    "ID": 3543,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250307,
-                    "End": 2025031410,
-                    "Map": 1726,
-                    "Name": "全民助力精灵",
-                    "Title": "紫幽",
-                    "Redirect": "map|module",
-                    "Go": "1726;app/HelpingGodPetZiYouMianPanel"
                 },
                 {
                     "Details": {
@@ -58328,6 +58328,243 @@
                     "Title": "星河长明商店更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3545,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": 2025032110,
+                    "Map": 103,
+                    "Name": "大暗黑天突破合集",
+                    "Title": "大暗黑天 终极突破",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DaanheitianMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3546,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": 2025032110,
+                    "Map": 103,
+                    "Name": "大暗黑天萌皮集结",
+                    "Title": "大暗黑天 萌皮集结",
+                    "Redirect": "map|module",
+                    "Go": "103;app/DarkSkyCuteSkinGatheringMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3547,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": "*",
+                    "Map": 105,
+                    "Name": "【双端】主线任务",
+                    "Title": "星间巡游 1-5节",
+                    "Redirect": "map|module",
+                    "Go": "105;app/MainLineAdventureChapterPanel&&100600001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3548,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": 2025041110,
+                    "Map": 1621,
+                    "Name": "大闹天宫集合面板（传说皮肤售卖）",
+                    "Title": "大闹天宫",
+                    "Redirect": "map|module",
+                    "Go": "1621;app/HavocInHeavenGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3549,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": 2025041110,
+                    "Map": 1621,
+                    "Name": "龙宫的宝藏",
+                    "Title": "龙宫的宝藏",
+                    "Redirect": "map|module",
+                    "Go": "1621;app/TreasuresOfTheDragonPalaceMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3550,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": 2025041110,
+                    "Map": 1621,
+                    "Name": "千变万化的对决",
+                    "Title": "千变万化的对决",
+                    "Redirect": "map|module",
+                    "Go": "1621;app/EverChangeDuelPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3551,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": 2025041110,
+                    "Map": 1621,
+                    "Name": "大闹天宫集合面板（传说皮肤售卖）",
+                    "Title": "联动皮肤回归",
+                    "Redirect": "map|module",
+                    "Go": "1621;app/HavocInHeavenGoToMapPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3552,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": 2025041110,
+                    "Map": 1621,
+                    "Name": "【联动按条】二郎神",
+                    "Title": "神君无拘 天地须臾",
+                    "Redirect": "map|module",
+                    "Go": "1621;app/GetErLangShenMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3553,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": "*",
+                    "Name": "莱达神祇 常驻回归",
+                    "Title": "莱达神祇 常驻回归",
+                    "Redirect": "module",
+                    "Go": "app/LaiDaBackPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3554,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": "*",
+                    "Name": "精灵图鉴点亮计划",
+                    "Title": "精灵图鉴点亮计划",
+                    "Redirect": "alarm",
+                    "Go": "请前往《赛尔号巅峰之战》（三端互通版）参与精彩活动！"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4736
+                    },
+                    "ID": 3555,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250314,
+                    "End": "*",
+                    "Map": 1621,
+                    "Name": "鸣闪霆击 流光灼影",
+                    "Title": "霆流·希拉",
+                    "Redirect": "module",
+                    "Go": "app/SpetTLXiLaMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3556,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": 2025032110,
+                    "Map": 105,
+                    "Name": "开采纳格晶体",
+                    "Title": "开采纳格晶体",
+                    "Redirect": "map|module",
+                    "Go": "105;app/SandCaveNewStrongholdMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3557,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": 2025041810,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3558,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250314,
+                    "End": 2025122610,
+                    "Map": 1715,
+                    "Name": "奥菲利娅的试炼",
+                    "Title": "奥菲利娅的试炼",
+                    "Redirect": "map|module",
+                    "Go": "1715;app/Yearvip2025MainPanel"
                 },
                 {
                     "Details": {
@@ -58397,8 +58634,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3534,3539,3541,3542,3544",
-            "shopcenter": "2274:1,1687:3,3391:21,3534:11,3539:12,3541:13,3542:16,3544:18,3527:15,3532:17,3518:14,3491:45,3449:19,3419:9,3420:10"
+            "Important": "3545,3546,3551,3552,3557",
+            "shopcenter": "2274:1,1687:3,3391:21,3545:11,3546:15,3551:20,3552:43,3553:44,3557:45,3539:12,3541:13,3542:16,3544:18,3532:17,3518:14,3449:19,3419:9,3420:10"
         }
     }
 }
