@@ -97,11 +97,47 @@
             "desc": ""
         },
         {
+            "id": 9,
+            "name": "常驻_莱达神祇",
+            "type": 1,
+            "subtype": 2,
+            "subset": "",
+            "trigger": "客户端缓存无点击记录",
+            "eliminate": "客户端缓存有点击记录",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
+            "id": 10,
+            "name": "限时_欢乐宾果",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "页签存在可领奖任务",
+            "eliminate": "页签存在可领奖任务",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
+            "id": 11,
+            "name": "限时_梦幻的温泉之旅",
+            "type": 1,
+            "subtype": 2,
+            "subset": "",
+            "trigger": "",
+            "eliminate": "",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
             "id": 110000,
             "name": "主界面_个人信息",
             "type": 2,
             "subtype": 0,
-            "subset": "110200;110400;110600",
+            "subset": "110200;110400",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -437,7 +473,7 @@
             "name": "主界面_好友",
             "type": 2,
             "subtype": 0,
-            "subset": "114300;114500",
+            "subset": "114300",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -617,7 +653,7 @@
             "name": "活动中心_常驻",
             "type": 2,
             "subtype": 0,
-            "subset": "4;116110;116120;116130;116140;116150",
+            "subset": "4;116110;116120;116130;116140;116150;116160",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -709,11 +745,23 @@
             "desc": ""
         },
         {
+            "id": 116160,
+            "name": "常驻_莱达神祇",
+            "type": 1,
+            "subtype": 2,
+            "subset": "",
+            "trigger": "客户端缓存无点击记录",
+            "eliminate": "客户端缓存有点击记录",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
             "id": 116200,
             "name": "活动中心_限时",
             "type": 2,
             "subtype": 0,
-            "subset": "1;7;8",
+            "subset": "1;7;8;10",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -725,7 +773,7 @@
             "name": "主界面_2025年费",
             "type": 2,
             "subtype": 0,
-            "subset": "117100;117200;117300;117400;117500;117600;117700",
+            "subset": "117100;117200;117300;117400;117500;117600;117700;117800",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -1101,8 +1149,8 @@
             "trigger": "界面存在可领奖每日礼包",
             "eliminate": "界面不存在可领奖每日礼包",
             "condition": 0,
-            "isshow": 1,
-            "desc": ""
+            "isshow": 0,
+            "desc": "已删除"
         },
         {
             "id": 124120,
@@ -1113,8 +1161,8 @@
             "trigger": "界面存在可领奖每日礼包",
             "eliminate": "界面不存在可领奖每日礼包",
             "condition": 0,
-            "isshow": 1,
-            "desc": ""
+            "isshow": 0,
+            "desc": "已删除"
         },
         {
             "id": 124130,
@@ -1125,8 +1173,8 @@
             "trigger": "界面存在可领奖每日礼包",
             "eliminate": "界面不存在可领奖每日礼包",
             "condition": 0,
-            "isshow": 1,
-            "desc": ""
+            "isshow": 0,
+            "desc": "已删除"
         },
         {
             "id": 124200,
@@ -1601,7 +1649,7 @@
             "name": "主界面_物品",
             "type": 2,
             "subtype": 0,
-            "subset": "132500",
+            "subset": "",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -1793,7 +1841,7 @@
             "name": "全局通道_物品",
             "type": 2,
             "subtype": 0,
-            "subset": "132500",
+            "subset": "",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
@@ -1853,7 +1901,7 @@
             "name": "全局通道_个人信息",
             "type": 2,
             "subtype": 0,
-            "subset": "110200;110400;110600",
+            "subset": "110200;110400",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
