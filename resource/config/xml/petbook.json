@@ -1203,28 +1203,36 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4738,
-                        "ImageID": 4738,
+                        "ID": 4740,
+                        "ImageID": 4740,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1727;app/SpetYiMangFuDiMainPanel"
+                        "Go": "1727;app/SpetYlZhiMingMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4739,
-                        "ImageID": 4739,
+                        "ID": 4741,
+                        "ImageID": 4741,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1727;app/SpetRSKeLanMainPanel"
+                        "Go": "1715;app/VipMouthPet2025Panel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4742,
+                        "ImageID": 4742,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1727;app/GrumpyDiKeErMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 706,
-                        "MonID": 3888,
-                        "ImageID": 1400706,
+                        "ID": 707,
+                        "MonID": 3507,
+                        "ImageID": 1400707,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "103;app/CangyueShadowLegendSkinSaleMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -50069,7 +50077,7 @@
                 "Features": "展翅拂过的尾迹留下点点绚烂的光芒，婀娜婆娑的身影让我们重新认识这位新伙伴：绮芒·蝠迪。",
                 "Redirect": "map|module",
                 "Go": "1727;app/SpetYiMangFuDiMainPanel",
-                "Target": "153201/249"
+                "Target": "153201/250"
             },
             {
                 "ID": 4739,
@@ -50080,7 +50088,39 @@
                 "Features": "悠悠将纯净的冰属性能量化为己用，她在绒羽之上凝结出晶莹的冰霜，她蜕变为更加强大的绒霜·柯蓝。",
                 "Redirect": "map|module",
                 "Go": "1727;app/SpetRSKeLanMainPanel",
-                "Target": "153201/250"
+                "Target": "153201/251"
+            },
+            {
+                "ID": 4740,
+                "DefName": "幽阑·执冥",
+                "Type": "暗影",
+                "Height": 37,
+                "Weight": 4.8,
+                "Features": "悠悠选择了一条大家从未走过的道路，她摄取暗影空泡的力量进化为了全新的形态。幽阑·执冥在沐浴暗影之后迎来了新生。",
+                "Redirect": "map|module",
+                "Go": "1727;app/SpetYlZhiMingMainPanel",
+                "Target": "153201/252"
+            },
+            {
+                "ID": 4741,
+                "DefName": "崔尔特",
+                "Type": "电 暗影",
+                "Height": 178,
+                "Weight": 54,
+                "Features": "2025年包月精灵，赫星童话之《传奇神棍》，故事中有一位利用染色比比鼠四处招摇撞骗的神棍，他在谎言被揭穿后落得一个滑稽的下场。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel",
+                "Target": 121000
+            },
+            {
+                "ID": 4742,
+                "DefName": "驭火·迪尔克",
+                "Type": "火",
+                "Height": 130,
+                "Weight": 240,
+                "Features": "温泉内蕴含的强大能量进一步提升了迪尔克的力量，驭火·迪尔克对火焰的掌控能力达到了全新的阶段！",
+                "Redirect": "map|module",
+                "Go": "1727;app/GrumpyDiKeErMainPanel"
             }
         ]
     }

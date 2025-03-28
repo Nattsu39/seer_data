@@ -47158,6 +47158,232 @@
                 },
                 "ID": 196,
                 "Desc": "20250321 S-绒霜·柯蓝"
+            },
+            {
+                "Rules": {
+                    "Rule": [
+                        {
+                            "ID": 1,
+                            "MouldID": 1,
+                            "UserInfo": "301316 301317 301318 301319 301320 301321 301322 301323 301324 301325 301326 301327 301328 301329 301330 301331 301332 301333 301334 301335 301336 301337 301338 301339",
+                            "CheckTips": "本关卡在挑战中，不可重复上阵（出战背包派出过的）精灵"
+                        },
+                        {
+                            "ID": 2,
+                            "MouldID": 2,
+                            "Args": 6,
+                            "CheckTips": "每场battle需要在6回合内击败BOSS，否则battle按失败结算",
+                            "FailTips": "很抱歉，战斗未在6回合内结束，结算为失败！"
+                        },
+                        {
+                            "ID": 3,
+                            "MouldID": 3,
+                            "Args": "3022 4606 3894",
+                            "CheckTips": "本关卡不可使用精灵：王之哈莫、加尔鲁特、千裳"
+                        },
+                        {
+                            "ID": 4,
+                            "MouldID": 4,
+                            "Args": 100,
+                            "CheckTips": "出战精灵需等于100级"
+                        },
+                        {
+                            "ID": 5,
+                            "MouldID": 5,
+                            "Args": 3,
+                            "UserInfo": 301340,
+                            "CheckTips": "关卡挑战中的对战累计失败次数＞3次，则本轮关卡挑战自动放弃",
+                            "FailTips": "很抱歉，本关卡中对战累计失败次数已大于3次，挑战失败！"
+                        },
+                        {
+                            "ID": 6,
+                            "MouldID": 6,
+                            "Args": 3,
+                            "UserInfo": 301341,
+                            "CheckTips": "一天之内连续胜利此难度关卡3次，即可解锁本关卡扫荡功能（需要连续胜利，不可中断）"
+                        }
+                    ]
+                },
+                "Achievement": {},
+                "Reward": {
+                    "ItemID": 2400464,
+                    "MonsterID": 4740,
+                    "MoveID": 1,
+                    "NewSeId": 6246,
+                    "GainValue": 126115
+                },
+                "Configure": {
+                    "Times": 3,
+                    "ProgressValue": 301342,
+                    "TimeValue": 301343,
+                    "FailTimes": 301340,
+                    "ExchangeID": "14524 14525 14526",
+                    "ExchangeProductID": "261583 261588 261584"
+                },
+                "EasyBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 93,
+                            "BattleType": 2,
+                            "Battlelevel": 1,
+                            "BossID": 1002899,
+                            "Desc": "【简单的敌人】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4739,
+                            "BattleType": 2,
+                            "Battlelevel": 2,
+                            "BossID": 1002900,
+                            "Desc": "【普通的敌人，先制+1，每回合附加一定固定伤害】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4738,
+                            "BattleType": 1,
+                            "Battlelevel": 2,
+                            "BossID": 1002901,
+                            "Desc": "【普通的敌人，先制+2，每回合附加一定固定伤害，每回合必定打出致命一击】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4736,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1002902,
+                            "Desc": "【普通的敌人，先制+3，每回合附加一定固定伤害，每回合消除对手回合类效果，每回合消除对手能力提升状态】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4740,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1002903,
+                            "Desc": "【有点难的敌人，先制+3，每回合附加一定固定伤害，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 12,
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "NormalBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 93,
+                            "BattleType": 2,
+                            "Battlelevel": 3,
+                            "BossID": 1002904,
+                            "Desc": "【有点难的敌人，先制+3，闪避率提升了许多，每回合提升自身全部能力值，每回合必定打出致命一击】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4739,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1002905,
+                            "Desc": "【较难的敌人，先制+3，每回合附加一定固定伤害，每回合提升自身全部能力值，体力过低时恢复所有体力】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4738,
+                            "BattleType": 1,
+                            "Battlelevel": 4,
+                            "BossID": 1002906,
+                            "Desc": "【较难的敌人，先制+6，每回合消除对手回合类效果，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4736,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1002907,
+                            "Desc": "【十分困难的敌人，每回合附加一定固定伤害，每回合消除对手回合类效果，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4740,
+                            "BattleType": 2,
+                            "Battlelevel": 5,
+                            "BossID": 1002908,
+                            "Desc": "【十分困难的敌人，对手无法使用属性技能，无法探知其他能力】"
+                        }
+                    ],
+                    "Out": 18,
+                    "RuleID": "2 1",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "HardBattle": {
+                    "Task": [
+                        {
+                            "ID": 1,
+                            "BattleBoss": 93,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1002909,
+                            "Desc": "【较难的敌人，必定先手，免疫瞬杀，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 2,
+                            "BattleBoss": 4739,
+                            "BattleType": 2,
+                            "Battlelevel": 4,
+                            "BossID": 1002910,
+                            "Desc": "【较难的敌人，必定先手，免疫瞬杀，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 3,
+                            "BattleBoss": 4738,
+                            "BattleType": 1,
+                            "Battlelevel": 5,
+                            "BossID": 1002911,
+                            "Desc": "【十分困难的敌人，对手无法使用属性技能，每回合附加一定固定伤害，无法探知其他能力】"
+                        },
+                        {
+                            "ID": 4,
+                            "BattleBoss": 4736,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1002912,
+                            "Desc": "【极难的敌人，无法探知能力】"
+                        },
+                        {
+                            "ID": 5,
+                            "BattleBoss": 4740,
+                            "BattleType": 2,
+                            "Battlelevel": 6,
+                            "BossID": 1002913,
+                            "Desc": "【极难的敌人，无法探知能力】"
+                        }
+                    ],
+                    "Out": 36,
+                    "RuleID": "1 3 4 5",
+                    "TaskStyle": 1,
+                    "BattleCnt": 5,
+                    "Desc": "依次战胜Battle1-5即可通关"
+                },
+                "Sweep": {
+                    "ItemID": "1400153_2500005_1726952 1400153_2500005_1726953 1400153_2500005_1726954",
+                    "ProductID": "0_0_261585 0_0_261586 0_0_261587",
+                    "RuleID": "6 6 6"
+                },
+                "Stat": {
+                    "Battle": {},
+                    "Exchange": {},
+                    "Task": {
+                        "Easy": {},
+                        "Normal": {},
+                        "Hard": {}
+                    },
+                    "Sweep": {},
+                    "Achievement": {}
+                },
+                "ID": 197,
+                "Desc": "20250328 S-幽阑·执冥"
             }
         ]
     }

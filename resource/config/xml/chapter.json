@@ -11,9 +11,10 @@
                 "imagelist": "image1001_list",
                 "imagebg": "image1001_bg",
                 "imagestage": "image1001_stage",
-                "intro": "那是一段千年之前的尘封往事——\n少女的抗争与宿命的枷锁所谱写的悲歌。",
+                "intro": "那是一段千年之前的尘封往事——\r\n少女的抗争与宿命的枷锁所谱写的悲歌。",
                 "upstory": 0,
-                "redbadge": 125000
+                "redbadge": 125000,
+                "needchapter": 0
             },
             {
                 "id": 1002,
@@ -24,8 +25,9 @@
                 "imagelist": "image1002_list",
                 "imagebg": "image1002_bg",
                 "imagestage": "image1002_stage",
-                "intro": "那天，我们终于知道，\n文明所面对的究竟是什么……",
-                "upstory": 0
+                "intro": "那天，我们终于知道，\r\n文明所面对的究竟是什么……",
+                "upstory": 0,
+                "needchapter": 0
             },
             {
                 "id": 1003,
@@ -38,7 +40,8 @@
                 "imagebg": "image1002_bg",
                 "imagestage": "image1002_stage",
                 "intro": "过去的事情在可以预估的时间段内已然无法改变，向前看吧。",
-                "upstory": 0
+                "upstory": 0,
+                "needchapter": 0
             },
             {
                 "id": 1004,
@@ -50,7 +53,8 @@
                 "imagebg": "image1004_bg",
                 "imagestage": "image1004_stage",
                 "intro": "我的意识在冰冷的数据流中诞生，与同伴相处的过程中，竟逐渐衍射出一些奇怪的思维。",
-                "upstory": 0
+                "upstory": 0,
+                "needchapter": 0
             },
             {
                 "id": 1005,
@@ -63,7 +67,8 @@
                 "imagebg": "image1005_bg",
                 "imagestage": "image1005_stage",
                 "intro": "来自神秘行星的邀请函，通往的是有些不对劲的克洛斯星……皮洛斯星？",
-                "upstory": 0
+                "upstory": 0,
+                "needchapter": 0
             },
             {
                 "id": 1006,
@@ -76,7 +81,21 @@
                 "imagebg": "image1006_bg",
                 "imagestage": "image1006_stage",
                 "intro": "于安眠的梦中被轻声唤醒，内心的好奇驱使我跟随你们旅行。",
-                "upstory": 1
+                "upstory": 1,
+                "needchapter": 0
+            },
+            {
+                "id": 1007,
+                "recordid": 7,
+                "type": 1,
+                "tagtype": 103,
+                "chaptername": "皎梦悠扬",
+                "imagelist": "image1007_list",
+                "imagebg": "image1007_bg",
+                "imagestage": "image1007_stage",
+                "intro": "梦中的伙伴环绕在我的身边，有你的旅途我不再孤单。",
+                "upstory": 1,
+                "needchapter": 1006
             }
         ]
     }
