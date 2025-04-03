@@ -1,7 +1,17 @@
 {
-    "activityTimeControl.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/activityTimeControl_24610585.json",
-        "filename": "activityTimeControl.json",
+    "PveBossLearningTraining.json": {
+        "url": "http://seerh5.61.com/resource/config/json/PveBossLearningTraining_3b692a61.json",
+        "filename": "PveBossLearningTraining.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "medaltask.json": {
+        "url": "http://seerh5.61.com/resource/config/json/medaltask_10ef4213.json",
+        "filename": "medaltask.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "starmap_temp.json": {
+        "url": "http://seerh5.61.com/resource/config/json/starmap_temp_bbda24b1.json",
+        "filename": "starmap_temp.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
@@ -9,9 +19,9 @@
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "Anniversary15task.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/Anniversary15task_a6628913.json",
-        "filename": "Anniversary15task.json",
+    "Wishsuit.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/Wishsuit_296b749a.json",
+        "filename": "Wishsuit.json",
         "exception": "ReadTimeout('timed out')"
     }
 }

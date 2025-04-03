@@ -1203,36 +1203,45 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4740,
-                        "ImageID": 4740,
+                        "ID": 4743,
+                        "ImageID": 4743,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1727;app/SpetYlZhiMingMainPanel"
+                        "Go": "1728;app/SpetXGNaDuoLeiMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4741,
-                        "ImageID": 4741,
+                        "ID": 4744,
+                        "ImageID": 4744,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1715;app/VipMouthPet2025Panel"
+                        "Go": "1728;app/SpetSongMengYouYouMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4742,
-                        "ImageID": 4742,
+                        "ID": 4745,
+                        "ImageID": 4745,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1727;app/GrumpyDiKeErMainPanel"
+                        "Go": "103;app/AErTeMiSiPetMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 707,
-                        "MonID": 3507,
-                        "ImageID": 1400707,
+                        "ID": 708,
+                        "MonID": 4745,
+                        "ImageID": 1400708,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/CangyueShadowLegendSkinSaleMainPanel"
+                        "Go": "103;app/AErTeMiSiPetSkinMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 709,
+                        "MonID": 4535,
+                        "ImageID": 1400709,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -50121,6 +50130,39 @@
                 "Features": "温泉内蕴含的强大能量进一步提升了迪尔克的力量，驭火·迪尔克对火焰的掌控能力达到了全新的阶段！",
                 "Redirect": "map|module",
                 "Go": "1727;app/GrumpyDiKeErMainPanel"
+            },
+            {
+                "ID": 4743,
+                "DefName": "星光·纳多雷",
+                "Type": "地面",
+                "Height": 161,
+                "Weight": 410,
+                "Features": "地脉中蕴含的活性物质促进了纳格晶体的生长，星光·纳多雷破岩新生，拥有了更强大的力量。",
+                "Redirect": "map|module",
+                "Go": "1728;app/SpetXGNaDuoLeiMainPanel",
+                "Target": "153201/253"
+            },
+            {
+                "ID": 4744,
+                "DefName": "皎梦·悠悠",
+                "Type": "普通",
+                "Height": 35,
+                "Weight": 5.2,
+                "Features": "蕴藏在身体内的本源之力回应了悠悠，梦幻般的泡泡携着清皎的愿望环绕在她身旁，使她成功蜕变为“皎梦·悠悠”。",
+                "Redirect": "map|module",
+                "Go": "1728;app/SpetSongMengYouYouMainPanel",
+                "Target": "153201/254"
+            },
+            {
+                "ID": 4745,
+                "DefName": "阿尔忒弥斯",
+                "Type": "草 战斗",
+                "Height": 171,
+                "Weight": 49,
+                "Features": "执掌狩猎与荒野的凛然女神，她是猎人的庇佑者，亦是野性自然的守护者。",
+                "Redirect": "map|module",
+                "Go": "103;app/AErTeMiSiPetMainPanel",
+                "Target": 110000
             }
         ]
     }
