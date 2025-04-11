@@ -1203,45 +1203,46 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4743,
-                        "ImageID": 4743,
+                        "ID": 4746,
+                        "ImageID": 4746,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1728;app/SpetXGNaDuoLeiMainPanel"
+                        "Go": "1729;app/SpetManYongKingMainPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4744,
-                        "ImageID": 4744,
+                        "ID": 4747,
+                        "ImageID": 4747,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1728;app/SpetSongMengYouYouMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4745,
-                        "ImageID": 4745,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/AErTeMiSiPetMainPanel"
+                        "Go": "1095;app/PeakJihad2023MainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 708,
-                        "MonID": 4745,
-                        "ImageID": 1400708,
+                        "ID": 710,
+                        "MonID": 4743,
+                        "ImageID": 1400710,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/AErTeMiSiPetSkinMainPanel"
+                        "Go": "1728;app/NadoresJourneyofRecoveryMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 709,
-                        "MonID": 4535,
-                        "ImageID": 1400709,
+                        "ID": 711,
+                        "MonID": 4747,
+                        "ImageID": 1400711,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "1095;app/PeakJihad2023MainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 712,
+                        "MonID": 3705,
+                        "ImageID": 1400712,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SeerInterstellarPassportMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -50150,7 +50151,7 @@
                 "Weight": 5.2,
                 "Features": "蕴藏在身体内的本源之力回应了悠悠，梦幻般的泡泡携着清皎的愿望环绕在她身旁，使她成功蜕变为“皎梦·悠悠”。",
                 "Redirect": "map|module",
-                "Go": "1728;app/SpetSongMengYouYouMainPanel",
+                "Go": "1727;app/SpetSongMengYouYouMainPanel",
                 "Target": "153201/254"
             },
             {
@@ -50163,6 +50164,28 @@
                 "Redirect": "map|module",
                 "Go": "103;app/AErTeMiSiPetMainPanel",
                 "Target": 110000
+            },
+            {
+                "ID": 4746,
+                "DefName": "王之查尔顿",
+                "Type": "战斗",
+                "Height": 321,
+                "Weight": 1800,
+                "Features": "王之查尔顿是赛尔通过现实模拟系统创造出来的虚拟精灵。它是好战而凶蛮的王者，有着对胜利的绝对渴望。",
+                "Redirect": "map|module",
+                "Go": "1729;app/SpetManYongKingMainPanel",
+                "Target": "153201/255"
+            },
+            {
+                "ID": 4747,
+                "DefName": "圣颖",
+                "Type": "圣灵 光",
+                "Height": 167,
+                "Weight": 48,
+                "Features": "巅峰S6赛季【惊雷】开启！惊雷破空，圣光闪耀，点燃战斗的圣火，共攀巅峰！",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023MainPanel",
+                "Target": 200000
             }
         ]
     }

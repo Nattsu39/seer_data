@@ -217,6 +217,18 @@
             "desc": ""
         },
         {
+            "id": 19,
+            "name": "限时_备战新赛季",
+            "type": 1,
+            "subtype": 1,
+            "subset": "",
+            "trigger": "页签存在奖励未领取",
+            "eliminate": "页签奖励已领取",
+            "condition": 0,
+            "isshow": 1,
+            "desc": ""
+        },
+        {
             "id": 110000,
             "name": "主界面_个人信息",
             "type": 2,
@@ -845,7 +857,7 @@
             "name": "活动中心_限时",
             "type": 2,
             "subtype": 0,
-            "subset": "1;7;15;16;12;8;17;18",
+            "subset": "1;7;15;16;12;8;17;18;19",
             "trigger": "",
             "eliminate": "",
             "condition": 0,
