@@ -1203,46 +1203,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4746,
-                        "ImageID": 4746,
+                        "ID": 4748,
+                        "ImageID": 4748,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1729;app/SpetManYongKingMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4747,
-                        "ImageID": 4747,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023MainPanel"
+                        "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 710,
-                        "MonID": 4743,
-                        "ImageID": 1400710,
+                        "ID": 713,
+                        "MonID": 4568,
+                        "ImageID": 1400713,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1728;app/NadoresJourneyofRecoveryMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 711,
-                        "MonID": 4747,
-                        "ImageID": 1400711,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023MainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 712,
-                        "MonID": 3705,
-                        "ImageID": 1400712,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/SeerInterstellarPassportMainPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -50186,6 +50160,17 @@
                 "Redirect": "map|module",
                 "Go": "1095;app/PeakJihad2023MainPanel",
                 "Target": 200000
+            },
+            {
+                "ID": 4748,
+                "DefName": "超算鲁比克",
+                "Type": "机械",
+                "Height": 110,
+                "Weight": 70,
+                "Features": "超算鲁比克是肖恩博士为现实模拟系统中的数据解算AI设计的虚拟形象。它拥有极高的算力，负责帮助接入系统的赛尔们进行各类数据的采集与分析。",
+                "Redirect": "map|module",
+                "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel",
+                "Target": "153201/256"
             }
         ]
     }

@@ -19060,6 +19060,22 @@
                     "Details": {
                         "mc": 2
                     },
+                    "ID": 3578,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250328,
+                    "End": "*",
+                    "Name": "精灵觉醒更新",
+                    "Title": "精灵觉醒更新",
+                    "Redirect": "module",
+                    "Go": "app/ElfAwakeningNewMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
                     "ID": 3580,
                     "isNew": 1,
                     "kinds": 1,
@@ -19143,6 +19159,76 @@
                     "Title": "阿尔忒弥斯",
                     "Redirect": "map|module",
                     "Go": "1728;app/AErTeMiSiPetMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4746
+                    },
+                    "ID": 3591,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250411,
+                    "End": "*",
+                    "Map": 1729,
+                    "Name": "蛮勇之王 正义之魂",
+                    "Title": "王之查尔顿",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/SpetManYongKingMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3593,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250411,
+                    "End": "*",
+                    "Map": 1729,
+                    "Name": "精灵太空站传说",
+                    "Title": "精灵太空站传说 1-2节",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/MainLineAdventureChapterPanel&&100800001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3597,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250411,
+                    "End": 2025071110,
+                    "Map": 1095,
+                    "Name": "S6赛季开启",
+                    "Title": "S6赛季开启",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4747
+                    },
+                    "ID": 3598,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250411,
+                    "End": 2025071110,
+                    "Map": 1095,
+                    "Name": "S6巅峰精灵",
+                    "Title": "圣颖",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
                 }
             ]
         },
@@ -58903,6 +58989,107 @@
                     "Title": "皮肤商城更新",
                     "Redirect": "map|module",
                     "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3557,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250314,
+                    "End": 2025041810,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3583,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250403,
+                    "End": 2025041810,
+                    "Map": 103,
+                    "Name": "付费精灵：阿尔忒弥斯",
+                    "Title": "丛林之影",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AErTeMiSiPetMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3584,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250403,
+                    "End": 2025041810,
+                    "Map": 103,
+                    "Name": "阿尔忒弥斯传说皮肤",
+                    "Title": "凛夜狩心",
+                    "Redirect": "map|module",
+                    "Go": "103;app/AErTeMiSiPetSkinMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3587,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250403,
+                    "End": 2025041810,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3592,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250411,
+                    "End": 2025041810,
+                    "Map": 1728,
+                    "Name": "纳多雷的复苏之旅",
+                    "Title": "纳多雷的复苏之旅",
+                    "Redirect": "map|module",
+                    "Go": "1728;app/NadoresJourneyofRecoveryMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3595,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250411,
+                    "End": 2025041810,
+                    "Name": "维修太空站",
+                    "Title": "维修太空站",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
                 }
             ],
             "_text": [
@@ -58985,23 +59172,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3557,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250314,
-                    "End": 2025041810,
-                    "Map": 103,
-                    "Name": "VIP特惠商城更新",
-                    "Title": "VIP权益更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/NewVIPEquityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3561,
                     "isNew": 1,
                     "kinds": 1,
@@ -59034,73 +59204,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3578,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250328,
-                    "End": "*",
-                    "Name": "精灵觉醒更新",
-                    "Title": "精灵觉醒更新",
-                    "Redirect": "module",
-                    "Go": "app/ElfAwakeningNewMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3583,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250403,
-                    "End": 2025041810,
-                    "Map": 103,
-                    "Name": "付费精灵：阿尔忒弥斯",
-                    "Title": "丛林之影",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AErTeMiSiPetMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3584,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250403,
-                    "End": 2025041810,
-                    "Map": 103,
-                    "Name": "阿尔忒弥斯传说皮肤",
-                    "Title": "凛夜狩心",
-                    "Redirect": "map|module",
-                    "Go": "103;app/AErTeMiSiPetSkinMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3587,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250403,
-                    "End": 2025041810,
-                    "Map": 103,
-                    "Name": "兑钻奖励更新",
-                    "Title": "兑钻奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3589,
@@ -59115,58 +59218,6 @@
                     "Title": "影翼裁决",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel$套装推荐"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4746
-                    },
-                    "ID": 3591,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250411,
-                    "End": "*",
-                    "Map": 1729,
-                    "Name": "蛮勇之王 正义之魂",
-                    "Title": "王之查尔顿",
-                    "Redirect": "map|module",
-                    "Go": "1729;app/SpetManYongKingMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3592,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250411,
-                    "End": 2025041810,
-                    "Map": 1728,
-                    "Name": "纳多雷的复苏之旅",
-                    "Title": "纳多雷的复苏之旅",
-                    "Redirect": "map|module",
-                    "Go": "1728;app/NadoresJourneyofRecoveryMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3593,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250411,
-                    "End": "*",
-                    "Map": 1729,
-                    "Name": "精灵太空站传说",
-                    "Title": "精灵太空站传说 1-2节",
-                    "Redirect": "map|module",
-                    "Go": "1729;app/MainLineAdventureChapterPanel&&100800001"
                 },
                 {
                     "Details": {
@@ -59187,22 +59238,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3595,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250411,
-                    "End": 2025041810,
-                    "Name": "维修太空站",
-                    "Title": "维修太空站",
-                    "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3596,
@@ -59220,41 +59255,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3597,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250411,
-                    "End": 2025071110,
-                    "Map": 1095,
-                    "Name": "S6赛季开启",
-                    "Title": "S6赛季开启",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023MainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4747
-                    },
-                    "ID": 3598,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250411,
-                    "End": 2025071110,
-                    "Map": 1095,
-                    "Name": "S6巅峰精灵",
-                    "Title": "圣颖",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023MainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 1
                     },
                     "ID": 3599,
@@ -59269,6 +59269,140 @@
                     "Title": "星际招募更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PetJackpotStarRecruitPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3600,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250418,
+                    "End": 2025042510,
+                    "Name": "危险的数据舱",
+                    "Title": "危险的数据舱",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4748
+                    },
+                    "ID": 3601,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250418,
+                    "End": "*",
+                    "Map": 1729,
+                    "Name": "滴水不漏 精准预测",
+                    "Title": "超算鲁比克",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3602,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250418,
+                    "End": 2025042510,
+                    "Map": 1729,
+                    "Name": "肖恩的委托",
+                    "Title": "肖恩的委托",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/XiaoEnOfCommissionMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3603,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250418,
+                    "End": 2025052310,
+                    "Map": 103,
+                    "Name": "VIP特惠商城更新",
+                    "Title": "VIP权益更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/NewVIPEquityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3604,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250418,
+                    "End": 2025050910,
+                    "Map": 103,
+                    "Name": "兑钻奖励更新",
+                    "Title": "兑钻奖励更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3605,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250418,
+                    "End": "*",
+                    "Name": "技能商店",
+                    "Title": "微光秘境",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3606,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250418,
+                    "End": "*",
+                    "Map": 1729,
+                    "Name": "精灵太空站传说",
+                    "Title": "精灵太空站传说 3-4节",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/MainLineAdventureChapterPanel&&100802001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3607,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250418,
+                    "End": 2025052310,
+                    "Name": "精灵觉醒更新",
+                    "Title": "黑翼魔光",
+                    "Redirect": "module",
+                    "Go": "app/ElfAwakeningNewMainPanel"
                 },
                 {
                     "Details": {
@@ -59338,8 +59472,8 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3594,3596,3599,3583,3584",
-            "shopcenter": "2274:1,1687:3,3560:21,3594:15,3596:16,3599:18,3583:12,3584:44,3587:46,3589:51,3576:17,3561:11,3557:45,3541:13,3518:14,3419:9,3420:10"
+            "Important": "3603,3604,3605,3596,3594",
+            "shopcenter": "2274:1,1687:3,3560:21,3603:12,3604:19,3605:20,3594:15,3596:16,3599:18,3589:51,3576:17,3561:11,3541:13,3518:14,3419:9,3420:10"
         }
     }
 }

@@ -1203,79 +1203,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4716,
-                        "ImageID": 4716,
+                        "ID": 4748,
+                        "ImageID": 4748,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "1720;app/ElderHelkasOutputMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4717,
-                        "ImageID": 4717,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/BHYunusSellPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4718,
-                        "ImageID": 4718,
-                        "Label": 0,
-                        "Redirect": "map",
-                        "Go": 11925
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4719,
-                        "ImageID": 4719,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1720;app/GoldenEggsNewYearsGreetingsMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4720,
-                        "ImageID": 4720,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1715;app/VipMouthPet2025Panel"
+                        "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 689,
-                        "MonID": 4600,
-                        "ImageID": 1400689,
+                        "ID": 713,
+                        "MonID": 4568,
+                        "ImageID": 1400713,
                         "Label": 0,
                         "Redirect": "map|module",
-                        "Go": "103;app/ThreeSistersSkinSellPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 690,
-                        "MonID": 4604,
-                        "ImageID": 1400690,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ThreeSistersSkinSellPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 691,
-                        "MonID": 4450,
-                        "ImageID": 1400691,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/NewYearConsumptionFeedbackMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 692,
-                        "MonID": 4717,
-                        "ImageID": 1400692,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/BHYunusSellPanel"
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -49965,6 +49906,296 @@
                 "Features": "2025年包月精灵，赫星童话之《黑石的研究》，故事中有一位从天而降的神秘陨石，神奇的构造使它成为了绝佳的研究对象。",
                 "Redirect": "map|module",
                 "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4721,
+                "DefName": "黯魂·索比拉特",
+                "Type": "暗影",
+                "Height": 136,
+                "Weight": 2.9,
+                "Features": "当相似但又完全不同的种族出现在眼前，一个大胆的想法得到实现，往日的精灵培育技术带来黯影与幽魂的融合，全新的索比拉特以更强的姿态诞生了！",
+                "Redirect": "map|module",
+                "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+            },
+            {
+                "ID": 4722,
+                "DefName": "吉古",
+                "Type": "暗影",
+                "Height": 15.1,
+                "Weight": 0.2,
+                "Features": "神秘的暗影系精灵，几乎没有重量，随尤纳斯的降临与波古一同降生在拜伦号上，两者似乎有着某种对称的力量。"
+            },
+            {
+                "ID": 4723,
+                "DefName": "波拉",
+                "Type": "暗影",
+                "Height": 21.3,
+                "Weight": 0.5,
+                "Features": "吉古的进化形态，伴随着对闇能量的掌控力提升，吉古迎来了自己的新形态。"
+            },
+            {
+                "ID": 4724,
+                "DefName": "波古拉",
+                "Type": "暗影",
+                "Height": 27.5,
+                "Weight": 1.1,
+                "Features": "波拉在完全掌握了自身的能力后得到了进一步进化，形态的完全转变代表着它对闇能量的操控能力达到了全新的阶段。"
+            },
+            {
+                "ID": 4725,
+                "DefName": "花灯仙子",
+                "Type": "光",
+                "Height": 163,
+                "Weight": 57,
+                "Features": "在节日喜气的氛围下，在新年大家美好的祝愿中，花灯娃娃获得了新的力量，将在元宵节给大家带来更多的欢乐！",
+                "Redirect": "map|module",
+                "Go": "1721;app/SpetHuaDengXianZiMainPanel",
+                "jumptarget": "151/241",
+                "Target": "153201/241"
+            },
+            {
+                "ID": 4726,
+                "DefName": "机魂核心·卡尔玛",
+                "Type": "机械",
+                "Height": 196,
+                "Weight": 175,
+                "Features": "卡尔玛是过去拜伦号上的舰载AI，在经历过一系列追寻自我的坎坷之路后，在赛尔号的帮助下，最终重获属于自己的素体，并实现了自己的愿望。",
+                "Redirect": "map|module",
+                "Go": "1722;app/SpetJXHXKaErMaMainPanel",
+                "jumptarget": "151/242",
+                "Target": "153201/242"
+            },
+            {
+                "ID": 4727,
+                "DefName": "友情机器人",
+                "Type": "战斗 机械",
+                "Height": 189,
+                "Weight": 200,
+                "Features": "布姆殿下的情人节回礼失控暴走，全新战队BOSS降临，需要战队的成员同心协力将其击败！"
+            },
+            {
+                "ID": 4728,
+                "DefName": "考沃莱恩",
+                "Type": "草 战斗",
+                "Height": 198,
+                "Weight": 247,
+                "Features": "生活在皮洛斯星上的考沃莱恩是一头强壮却胆小的狮子。它的身边总有依依跟随，但它从未遇到过自己的同类，十分孤独。",
+                "Redirect": "map|module",
+                "Go": "1724;app/SpetKaoWoLaiEnMaMainPanel",
+                "jumptarget": "151/243",
+                "Target": "153201/243"
+            },
+            {
+                "ID": 4729,
+                "DefName": "糖果皮皮",
+                "Type": "光 飞行",
+                "Height": 38,
+                "Weight": 3.8,
+                "Features": "可爱的糖果皮皮喜欢甜甜的食物，和伙伴们无忧无虑的生活在皮洛斯星上。",
+                "Redirect": "map",
+                "Go": 1724
+            },
+            {
+                "ID": 4730,
+                "DefName": "水晶皮皮",
+                "Type": "飞行",
+                "Height": 37,
+                "Weight": 4.1,
+                "Features": "水晶皮皮喜欢收集一切亮闪闪的东西，经常与朋友们在皮洛斯星上开展探险活动。",
+                "Redirect": "map",
+                "Go": 1724
+            },
+            {
+                "ID": 4731,
+                "DefName": "皮神",
+                "Type": "飞行 圣灵",
+                "Height": 370,
+                "Weight": 180,
+                "Features": "千变万化的皮神自诩为代表“随性”这一品质的神。她是皮洛斯星的创造者与统治者，据说每一个皮皮都是她的分身。",
+                "Redirect": "map|module",
+                "Go": "1725;app/PiGodLevelMainPanel",
+                "Target": 150070
+            },
+            {
+                "ID": 4732,
+                "DefName": "闪光皮神",
+                "Type": "飞行 圣灵",
+                "Height": 367,
+                "Weight": 175,
+                "Features": "端庄唯美的闪光皮神拥有无上的神力，为所有信仰自己的虔诚旅人送去美好的祝福。",
+                "Redirect": "map|module",
+                "Go": "1725;app/PiGodLevelMainPanel",
+                "Target": 150070
+            },
+            {
+                "ID": 4733,
+                "DefName": "安德鲁",
+                "Type": "飞行 神秘",
+                "Height": 186,
+                "Weight": 85,
+                "Features": "2025年包月精灵，赫星童话之《船长航行记》，故事中有一位热爱探索的年轻船长，坚持不懈的性格使他成功驶向无垠的星海。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel"
+            },
+            {
+                "ID": 4734,
+                "DefName": "参天巨型仙人掌",
+                "Type": "草",
+                "Height": 178,
+                "Weight": 156,
+                "Features": "巨型仙人掌获得皮神的恩赐，进化成了参天巨型仙人掌。它拥有了更加旺盛的生命力与更强的爆发力。更重要的是，它拥有了无与伦比的智慧。",
+                "Redirect": "map|module",
+                "Go": "1726;app/SpetCTJXXianRenZhangMainPanel",
+                "Target": "153201/247"
+            },
+            {
+                "ID": 4735,
+                "DefName": "紫幽",
+                "Type": "混沌 超能",
+                "Height": 182,
+                "Weight": 48,
+                "Features": "无人知晓她的名讳，无人知晓她从何而来，紫色的不详之火伴随着她的每一次出现都将带来死亡的信号。"
+            },
+            {
+                "ID": 4736,
+                "DefName": "霆流·希拉",
+                "Type": "电",
+                "Height": 50,
+                "Weight": 7.3,
+                "Features": "悠悠主动选择拥抱强大的电系能量，在众人的见证下完成自身的蜕变，更为强大的霆流·希拉就此诞生了。",
+                "Redirect": "map|module",
+                "Go": "1727;app/SpetTLXiLaMainPanel",
+                "Target": "153201/248"
+            },
+            {
+                "ID": 4737,
+                "DefName": "星烁鱼",
+                "Type": "水 超能",
+                "Height": 24,
+                "Weight": 8.1,
+                "Features": "星烁鱼是从双子阿尔法星的太空温泉中提取到的卵，通过主动干预孵化而来的。它们似乎也很喜欢泡太空温泉呢。",
+                "Redirect": "map",
+                "Go": 105
+            },
+            {
+                "ID": 4738,
+                "DefName": "绮芒·蝠迪",
+                "Type": "飞行",
+                "Height": 36,
+                "Weight": 5.1,
+                "Features": "展翅拂过的尾迹留下点点绚烂的光芒，婀娜婆娑的身影让我们重新认识这位新伙伴：绮芒·蝠迪。",
+                "Redirect": "map|module",
+                "Go": "1727;app/SpetYiMangFuDiMainPanel",
+                "Target": "153201/250"
+            },
+            {
+                "ID": 4739,
+                "DefName": "绒霜·柯蓝",
+                "Type": "冰",
+                "Height": 31,
+                "Weight": 6.4,
+                "Features": "悠悠将纯净的冰属性能量化为己用，她在绒羽之上凝结出晶莹的冰霜，她蜕变为更加强大的绒霜·柯蓝。",
+                "Redirect": "map|module",
+                "Go": "1727;app/SpetRSKeLanMainPanel",
+                "Target": "153201/251"
+            },
+            {
+                "ID": 4740,
+                "DefName": "幽阑·执冥",
+                "Type": "暗影",
+                "Height": 37,
+                "Weight": 4.8,
+                "Features": "悠悠选择了一条大家从未走过的道路，她摄取暗影空泡的力量进化为了全新的形态。幽阑·执冥在沐浴暗影之后迎来了新生。",
+                "Redirect": "map|module",
+                "Go": "1727;app/SpetYlZhiMingMainPanel",
+                "Target": "153201/252"
+            },
+            {
+                "ID": 4741,
+                "DefName": "崔尔特",
+                "Type": "电 暗影",
+                "Height": 178,
+                "Weight": 54,
+                "Features": "2025年包月精灵，赫星童话之《传奇神棍》，故事中有一位利用染色比比鼠四处招摇撞骗的神棍，他在谎言被揭穿后落得一个滑稽的下场。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel",
+                "Target": 121000
+            },
+            {
+                "ID": 4742,
+                "DefName": "驭火·迪尔克",
+                "Type": "火",
+                "Height": 130,
+                "Weight": 240,
+                "Features": "温泉内蕴含的强大能量进一步提升了迪尔克的力量，驭火·迪尔克对火焰的掌控能力达到了全新的阶段！",
+                "Redirect": "map|module",
+                "Go": "1727;app/GrumpyDiKeErMainPanel"
+            },
+            {
+                "ID": 4743,
+                "DefName": "星光·纳多雷",
+                "Type": "地面",
+                "Height": 161,
+                "Weight": 410,
+                "Features": "地脉中蕴含的活性物质促进了纳格晶体的生长，星光·纳多雷破岩新生，拥有了更强大的力量。",
+                "Redirect": "map|module",
+                "Go": "1728;app/SpetXGNaDuoLeiMainPanel",
+                "Target": "153201/253"
+            },
+            {
+                "ID": 4744,
+                "DefName": "皎梦·悠悠",
+                "Type": "普通",
+                "Height": 35,
+                "Weight": 5.2,
+                "Features": "蕴藏在身体内的本源之力回应了悠悠，梦幻般的泡泡携着清皎的愿望环绕在她身旁，使她成功蜕变为“皎梦·悠悠”。",
+                "Redirect": "map|module",
+                "Go": "1727;app/SpetSongMengYouYouMainPanel",
+                "Target": "153201/254"
+            },
+            {
+                "ID": 4745,
+                "DefName": "阿尔忒弥斯",
+                "Type": "草 战斗",
+                "Height": 171,
+                "Weight": 49,
+                "Features": "执掌狩猎与荒野的凛然女神，她是猎人的庇佑者，亦是野性自然的守护者。",
+                "Redirect": "map|module",
+                "Go": "103;app/AErTeMiSiPetMainPanel",
+                "Target": 110000
+            },
+            {
+                "ID": 4746,
+                "DefName": "王之查尔顿",
+                "Type": "战斗",
+                "Height": 321,
+                "Weight": 1800,
+                "Features": "王之查尔顿是赛尔通过现实模拟系统创造出来的虚拟精灵。它是好战而凶蛮的王者，有着对胜利的绝对渴望。",
+                "Redirect": "map|module",
+                "Go": "1729;app/SpetManYongKingMainPanel",
+                "Target": "153201/255"
+            },
+            {
+                "ID": 4747,
+                "DefName": "圣颖",
+                "Type": "圣灵 光",
+                "Height": 167,
+                "Weight": 48,
+                "Features": "巅峰S6赛季【惊雷】开启！惊雷破空，圣光闪耀，点燃战斗的圣火，共攀巅峰！",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023MainPanel",
+                "Target": 200000
+            },
+            {
+                "ID": 4748,
+                "DefName": "超算鲁比克",
+                "Type": "机械",
+                "Height": 321,
+                "Weight": 1800,
+                "Features": "超算鲁比克留空",
+                "Redirect": "map|module",
+                "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel",
+                "Target": "153201/256"
             }
         ]
     }

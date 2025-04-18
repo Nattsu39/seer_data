@@ -1804,7 +1804,7 @@
                 "Name": "黑翼天马·克萨雷恩因子",
                 "MonsterID": 3766,
                 "Rarity": 2,
-                "PetLimit": 0,
+                "PetLimit": 1,
                 "PetConsume": 400,
                 "NewSeIdx": 3043,
                 "effectId": 1045,
@@ -7684,7 +7684,10 @@
                 "NewseConsume": 200,
                 "MoveID": 37867,
                 "MovesConsume": 100,
-                "NeedmonID": 0
+                "NeedmonID": 0,
+                "NewMsglogId": 2504110600,
+                "SeMsglog": 2504110601,
+                "EffectMsglog": 2504110602
             },
             {
                 "ID": 2400468,
@@ -7855,6 +7858,24 @@
                 "MoveID": 33090,
                 "MovesConsume": 200,
                 "NeedmonID": 0
+            },
+            {
+                "ID": 2400480,
+                "show": 1,
+                "Name": "超算鲁比克因子",
+                "MonsterID": 4748,
+                "Rarity": 2,
+                "PetLimit": 1,
+                "PetConsume": 400,
+                "NewSeIdx": 6255,
+                "effectId": 1951,
+                "NewseConsume": 200,
+                "MoveID": 37879,
+                "MovesConsume": 100,
+                "NeedmonID": 0,
+                "NewMsglogId": 2504170600,
+                "SeMsglog": 2504170601,
+                "EffectMsglog": 2504170602
             }
         ]
     }
