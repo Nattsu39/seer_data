@@ -6098,13 +6098,31 @@
                                         "proicon": 1397,
                                         "SpeNameBonus": 533,
                                         "title": "大地新生",
-                                        "Desc": "通关S-星光·纳多【地狱难度】关卡获得",
+                                        "Desc": "通关S-星光·纳多雷【地狱难度】关卡获得",
                                         "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 160,
                                 "Type": 0,
                                 "Desc": "新因子关卡1"
+                            },
+                            {
+                                "Rule": [
+                                    {
+                                        "ID": 1,
+                                        "Threshold": 1,
+                                        "AchievementPoint": 20,
+                                        "icon": 1,
+                                        "achName": "真神挑战者",
+                                        "proicon": 1404,
+                                        "SpeNameBonus": 536,
+                                        "title": "真神挑战者",
+                                        "Desc": "成功通过谱尼·真神试炼",
+                                        "titleColor": "0xFFFFFF"
+                                    }
+                                ],
+                                "ID": 169,
+                                "Desc": "谱尼·真神试炼"
                             }
                         ],
                         "ID": 49,
@@ -13107,6 +13125,18 @@
                                         "titleColor": "0xFFFFFF",
                                         "AbilityTitle": 1,
                                         "abtext": "攻击+45，特攻+45，防御+30"
+                                    },
+                                    {
+                                        "ID": 14,
+                                        "Threshold": 14,
+                                        "AchievementPoint": 10,
+                                        "icon": 1,
+                                        "achName": "太空站勇士",
+                                        "proicon": 1403,
+                                        "SpeNameBonus": 535,
+                                        "title": "太空站勇士",
+                                        "Desc": "参与【太空站激励】限时活动获得",
+                                        "titleColor": "0xFFFFFF"
                                     }
                                 ],
                                 "ID": 166,

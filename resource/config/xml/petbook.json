@@ -1200,25 +1200,14 @@
         },
         "Hotspot": {
             "item": {
-                "place": [
-                    {
-                        "type": 0,
-                        "ID": 4748,
-                        "ImageID": 4748,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 713,
-                        "MonID": 4568,
-                        "ImageID": 1400713,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                    }
-                ],
+                "place": {
+                    "type": 0,
+                    "ID": 4752,
+                    "ImageID": 4752,
+                    "Label": 0,
+                    "Redirect": "map|module",
+                    "Go": "1729;app/SpetZhenHunYueFanSaMainPanel"
+                },
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -49846,7 +49835,8 @@
                 "Weight": 106,
                 "Features": "文明即将迎来终末，赫尔卡长老的意识终于再次回到了这具尘封已久的原型素体，为了守护文明的荣光，他必将决战至终焉！",
                 "Redirect": "map|module",
-                "Go": "1720;app/ElderHelkasOutputMainPanel"
+                "Go": "1720;app/ElderHelkasOutputMainPanel",
+                "Target": 150072
             },
             {
                 "ID": 4717,
@@ -49890,7 +49880,8 @@
                 "Weight": 2.9,
                 "Features": "当相似但又完全不同的种族出现在眼前，一个大胆的想法得到实现，往日的精灵培育技术带来黯影与幽魂的融合，全新的索比拉特以更强的姿态诞生了！",
                 "Redirect": "map|module",
-                "Go": "1720;app/AnHunSuoBiLaTeMainPanel"
+                "Go": "1720;app/AnHunSuoBiLaTeMainPanel",
+                "Target": 150071
             },
             {
                 "ID": 4722,
@@ -50093,8 +50084,7 @@
                 "Weight": 54,
                 "Features": "2025年包月精灵，赫星童话之《传奇神棍》，故事中有一位利用染色比比鼠四处招摇撞骗的神棍，他在谎言被揭穿后落得一个滑稽的下场。",
                 "Redirect": "map|module",
-                "Go": "1715;app/VipMouthPet2025Panel",
-                "Target": 121000
+                "Go": "1715;app/VipMouthPet2025Panel"
             },
             {
                 "ID": 4742,
@@ -50134,10 +50124,7 @@
                 "Type": "草 战斗",
                 "Height": 171,
                 "Weight": 49,
-                "Features": "执掌狩猎与荒野的凛然女神，她是猎人的庇佑者，亦是野性自然的守护者。",
-                "Redirect": "map|module",
-                "Go": "103;app/AErTeMiSiPetMainPanel",
-                "Target": 110000
+                "Features": "执掌狩猎与荒野的凛然女神，她是猎人的庇佑者，亦是野性自然的守护者。"
             },
             {
                 "ID": 4746,
@@ -50171,6 +50158,49 @@
                 "Redirect": "map|module",
                 "Go": "1729;app/SpetChaoSuanLuBiKeMainPanel",
                 "Target": "153201/256"
+            },
+            {
+                "ID": 4749,
+                "DefName": "对神兵器肯扎特",
+                "Type": "机械 战斗",
+                "Height": 8320,
+                "Weight": 1400000,
+                "Features": "对神兵器肯扎特是为了抗衡现实模拟系统中的上古真神谱尼而被创造出的虚拟精灵。它将守护这片虚拟空间的和平与安定。",
+                "Redirect": "module",
+                "Go": "app/UnityRemindPop",
+                "Target": 150073
+            },
+            {
+                "ID": 4750,
+                "DefName": "云境归真·始祖灵兽",
+                "Type": "草",
+                "Height": 3600,
+                "Weight": 37500,
+                "Features": "繁盛灵兽王回到自己的故乡——云之仙境后重新获得了内心的平静。他返璞归真，领悟了全新的境界。",
+                "Redirect": "map|module",
+                "Go": "103;app/ShizulingshouNewFormMain"
+            },
+            {
+                "ID": 4751,
+                "DefName": "珀瑞涅",
+                "Type": "圣灵 超能",
+                "Height": 267,
+                "Weight": 93,
+                "Features": "2025年包月精灵，赫星童话之《螺壳屋中的宝石工匠》，故事中有一个杰出的宝石工匠，为了找到能够匹配自己身份的完美宝石而消失于闪电之中。",
+                "Redirect": "map|module",
+                "Go": "1715;app/VipMouthPet2025Panel",
+                "Target": 121000
+            },
+            {
+                "ID": 4752,
+                "DefName": "镇魂约凡撒",
+                "Type": "水",
+                "Height": 106.4,
+                "Weight": 66.2,
+                "Features": "镇魂约凡撒是由精灵太空站数据中的约凡撒数据和部分巴弗洛数据杂糅而成的虚拟精灵。它潜伏于现实模拟系统中，咏唱着令听者不寒而栗的歌曲。",
+                "Redirect": "map|module",
+                "Go": "1729;app/SpetZhenHunYueFanSaMainPanel",
+                "Target": "153201/257"
             }
         ]
     }
