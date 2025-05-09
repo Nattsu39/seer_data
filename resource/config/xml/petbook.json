@@ -1200,14 +1200,33 @@
         },
         "Hotspot": {
             "item": {
-                "place": {
-                    "type": 0,
-                    "ID": 4752,
-                    "ImageID": 4752,
-                    "Label": 0,
-                    "Redirect": "map|module",
-                    "Go": "1729;app/SpetZhenHunYueFanSaMainPanel"
-                },
+                "place": [
+                    {
+                        "type": 0,
+                        "ID": 4753,
+                        "ImageID": 4753,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1729;app/SpetMingYunMaKuSuoMainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4754,
+                        "ImageID": 4754,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/UnityRemindPop"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 716,
+                        "momID": 4750,
+                        "ImageID": 1400716,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    }
+                ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
         },
@@ -50176,9 +50195,7 @@
                 "Type": "草",
                 "Height": 3600,
                 "Weight": 37500,
-                "Features": "繁盛灵兽王回到自己的故乡——云之仙境后重新获得了内心的平静。他返璞归真，领悟了全新的境界。",
-                "Redirect": "map|module",
-                "Go": "103;app/ShizulingshouNewFormMain"
+                "Features": "繁盛灵兽王回到自己的故乡——云之仙境后重新获得了内心的平静。他返璞归真，领悟了全新的境界。"
             },
             {
                 "ID": 4751,
@@ -50201,6 +50218,28 @@
                 "Redirect": "map|module",
                 "Go": "1729;app/SpetZhenHunYueFanSaMainPanel",
                 "Target": "153201/257"
+            },
+            {
+                "ID": 4753,
+                "DefName": "命运玛酷索",
+                "Type": "飞行 超能",
+                "Height": 120,
+                "Weight": 46,
+                "Features": "现实模拟系统中的玛酷索数据吸收了虚假谱尼遗留的数据残片，演化成了新的虚拟精灵——命运玛酷索。它将作为“命运之轮”的守护者存在于新精灵太空站。",
+                "Redirect": "map|module",
+                "Go": "1729;app/SpetMingYunMaKuSuoMainPanel",
+                "Target": "153201/260"
+            },
+            {
+                "ID": 4754,
+                "DefName": "雷弧",
+                "Type": "电 龙",
+                "Height": 128,
+                "Weight": 51,
+                "Features": "蓝鳞金瞳的身躯藏着一个捣蛋鬼的灵魂，它喜欢在暗戳戳电人后，满地滚着甩火花装无辜。",
+                "Redirect": "module",
+                "Go": "app/UnityRemindPop",
+                "Target": 110000
             }
         ]
     }
