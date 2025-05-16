@@ -19431,6 +19431,89 @@
                     "Title": "星际擂台",
                     "Redirect": "module",
                     "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4753
+                    },
+                    "ID": 3626,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250509,
+                    "End": "*",
+                    "Map": 1729,
+                    "Name": "命运玛酷索",
+                    "Title": "命运玛酷索",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/SpetMingYunMaKuSuoMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3630,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250509,
+                    "End": "*",
+                    "Map": 1729,
+                    "Name": "精灵太空站传说9-10节",
+                    "Title": "精灵太空站传说9-10节",
+                    "Redirect": "map|module",
+                    "Go": "1729;app/MainLineAdventureChapterPanel&&100808001"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3631,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250509,
+                    "End": "*",
+                    "Name": "精灵王之战",
+                    "Title": "精灵王之战",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3634,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250509,
+                    "End": "*",
+                    "Name": "勇者征程",
+                    "Title": "传说之路",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3635,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250509,
+                    "End": "*",
+                    "Name": "量子回廊",
+                    "Title": "量子回廊",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
                 }
             ]
         },
@@ -59460,6 +59543,72 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3627,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250509,
+                    "End": 2025051610,
+                    "Name": "雷弧",
+                    "Title": "雷弧",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3629,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250509,
+                    "End": 2025051610,
+                    "Name": "命运之轮的抉择",
+                    "Title": "命运之轮的抉择",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 0,
+                        "monID": 4754
+                    },
+                    "ID": 3632,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 0,
+                    "Start": 20250509,
+                    "End": 2025051610,
+                    "Name": "雷弧",
+                    "Title": "雷弧",
+                    "Redirect": "module",
+                    "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3594,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250411,
+                    "End": 2025051610,
+                    "Map": 103,
+                    "Name": "星河商店更新",
+                    "Title": "星河商店更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PetJackpotStarRecruitPanel"
                 }
             ],
             "_text": [
@@ -59592,23 +59741,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3594,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250411,
-                    "End": 2025051610,
-                    "Map": 103,
-                    "Name": "星河商店更新",
-                    "Title": "星河商店更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3596,
                     "isNew": 1,
                     "kinds": 1,
@@ -59636,8 +59768,8 @@
                     "Map": 103,
                     "Name": "星际招募更新",
                     "Title": "星际招募更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PetJackpotStarRecruitPanel"
+                    "Redirect": "module",
+                    "Go": "app/FinalActivityPanel"
                 },
                 {
                     "Details": {
@@ -59670,7 +59802,7 @@
                     "Name": "技能商店",
                     "Title": "微光秘境",
                     "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
+                    "Go": "app/FinalActivityPanel"
                 },
                 {
                     "Details": {
@@ -59703,42 +59835,8 @@
                     "Map": 103,
                     "Name": "5月包月精灵",
                     "Title": "宝石工匠",
-                    "Redirect": "map|module",
-                    "Go": "103;app/MonthlyPetIn2025Panel"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4753
-                    },
-                    "ID": 3626,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250509,
-                    "End": "*",
-                    "Map": 1729,
-                    "Name": "命运玛酷索",
-                    "Title": "命运玛酷索",
-                    "Redirect": "map|module",
-                    "Go": "1729;app/SpetMingYunMaKuSuoMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3627,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250509,
-                    "End": 2025051610,
-                    "Name": "雷弧",
-                    "Title": "雷弧",
                     "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
+                    "Go": "app/FinalActivityPanel"
                 },
                 {
                     "Details": {
@@ -59754,74 +59852,8 @@
                     "Map": 103,
                     "Name": "兑钻奖励更新",
                     "Title": "兑钻奖励更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/ExchangeDiamondRewardSystemPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3629,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250509,
-                    "End": 2025051610,
-                    "Name": "命运之轮的抉择",
-                    "Title": "命运之轮的抉择",
                     "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3630,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250509,
-                    "End": "*",
-                    "Map": 1729,
-                    "Name": "精灵太空站传说9-10节",
-                    "Title": "精灵太空站传说9-10节",
-                    "Redirect": "map|module",
-                    "Go": "1729;app/MainLineAdventureChapterPanel&&100808001"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3631,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250509,
-                    "End": "*",
-                    "Name": "精灵王之战",
-                    "Title": "精灵王之战",
-                    "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
-                },
-                {
-                    "Details": {
-                        "mc": 0,
-                        "monID": 4754
-                    },
-                    "ID": 3632,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 0,
-                    "Start": 20250509,
-                    "End": 2025051610,
-                    "Name": "雷弧",
-                    "Title": "雷弧",
-                    "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
+                    "Go": "app/FinalActivityPanel"
                 },
                 {
                     "Details": {
@@ -59842,35 +59874,19 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 0
                     },
-                    "ID": 3634,
+                    "ID": 3644,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250509,
+                    "Type": 0,
+                    "Start": 20250101,
                     "End": "*",
-                    "Name": "勇者征程",
-                    "Title": "传说之路",
+                    "Name": "精彩活动",
+                    "Title": "全新精灵",
                     "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3635,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250509,
-                    "End": "*",
-                    "Name": "量子回廊",
-                    "Title": "量子回廊",
-                    "Redirect": "module",
-                    "Go": "app/UnityRemindPop"
+                    "Go": "app/FinalActivityPanel"
                 },
                 {
                     "Details": {
@@ -59940,8 +59956,75 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "Important": "3627,3628,3633,3612,3616",
-            "shopcenter": "2274:1,1687:3,3560:21,3627:17,3628:19,3633:43,3612:44,3616:45,3603:12,3605:20,3594:15,3596:16,3599:18,3589:51,3561:11,3518:14,3419:9,3420:10"
+            "shopcenter": "2274:1,1687:3,3560:21,3628:19,3633:43,3612:44,3616:45,3603:12,3605:20,3596:16,3599:18,3589:51,3561:11,3518:14,3419:9,3420:10"
+        },
+        "Final": {
+            "Activity": [
+                {
+                    "ID": "A01",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "梦魇尼斯克",
+                    "Settop": 8
+                },
+                {
+                    "ID": "A02",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "抵御海盗袭击",
+                    "Settop": 7
+                },
+                {
+                    "ID": "A03",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "支援电力供给",
+                    "Settop": 6
+                },
+                {
+                    "ID": "A04",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "量子回廊 限时激励",
+                    "Settop": 5
+                },
+                {
+                    "ID": "A05",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "星系重构",
+                    "Settop": 4
+                },
+                {
+                    "ID": "A06",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "星河商店更新",
+                    "Settop": 3
+                },
+                {
+                    "ID": "A07",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "星际座驾 限时回归",
+                    "Settop": 2
+                },
+                {
+                    "ID": "A08",
+                    "Start": 20250516,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "对决轮回",
+                    "Settop": 1
+                }
+            ]
         }
     }
 }

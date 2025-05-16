@@ -1203,28 +1203,20 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4753,
-                        "ImageID": 4753,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1729;app/SpetMingYunMaKuSuoMainPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4754,
-                        "ImageID": 4754,
+                        "ID": 4755,
+                        "ImageID": 4755,
                         "Label": 0,
                         "Redirect": "module",
-                        "Go": "app/UnityRemindPop"
+                        "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 716,
-                        "momID": 4750,
-                        "ImageID": 1400716,
+                        "ID": 717,
+                        "momID": 4605,
+                        "ImageID": 1400717,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -33975,7 +33967,8 @@
                 "Weight": 160,
                 "Features": "圣甲狂战的超进化形态，作为圣甲战神联盟中首当其冲的先锋，圣甲·盖亚的登场无疑会让小赛尔们兴奋不已！",
                 "mapID": 1173,
-                "Label": "1,6"
+                "Label": "1,6",
+                "Target": 150074
             },
             {
                 "ID": 3057,
@@ -50236,10 +50229,18 @@
                 "Type": "电 龙",
                 "Height": 128,
                 "Weight": 51,
-                "Features": "蓝鳞金瞳的身躯藏着一个捣蛋鬼的灵魂，它喜欢在暗戳戳电人后，满地滚着甩火花装无辜。",
+                "Features": "蓝鳞金瞳的身躯藏着一个捣蛋鬼的灵魂，它喜欢在暗戳戳电人后，满地滚着甩火花装无辜。"
+            },
+            {
+                "ID": 4755,
+                "DefName": "梦魇尼斯克",
+                "Type": "暗影 水",
+                "Height": 263,
+                "Weight": 582,
+                "Features": "梦魇尼斯克有着小山一样的身躯与深渊一般的大嘴。它能喷出带有黑色砂砾的水流，给予对手最为漆黑的噩梦。",
                 "Redirect": "module",
-                "Go": "app/UnityRemindPop",
-                "Target": 110000
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/264"
             }
         ]
     }

@@ -12,7 +12,7 @@
                 "exMapList": 50000,
                 "ui": "markJackpot_icon",
                 "tips": "刻印之轮",
-                "mouseClickFunc": "app:MarkJackpotPermanentMainPanel"
+                "mouseClickFunc": "app:FinalActivityPanel"
             },
             {
                 "direction": "left",
@@ -21,7 +21,7 @@
                 "exMapList": 50000,
                 "ui": "petJackpot_icon",
                 "tips": "精灵招募",
-                "mouseClickFunc": "app:PetJackpotMainPanel"
+                "mouseClickFunc": "app:FinalActivityPanel"
             },
             {
                 "direction": "left",
@@ -130,8 +130,8 @@
                 "priority": 5,
                 "exMapList": 50000,
                 "ui": "SanDuanHuTong_icon",
-                "tips": "《赛尔号巅峰之战》",
-                "mouseClickFunc": "app:UnityRemindPop"
+                "tips": "最新活动",
+                "mouseClickFunc": "app:FinalActivityPanel"
             },
             {
                 "direction": "right_side",
@@ -148,7 +148,7 @@
                 "priority": 1,
                 "exMapList": 50000,
                 "ui": "sceneActivity_icon",
-                "tips": "最新活动",
+                "tips": "往期活动",
                 "mouseClickFunc": "app:SceneActivityPanel"
             },
             {
@@ -159,6 +159,25 @@
                 "ui": "SeerTrainLog_icon",
                 "tips": "钻石任务",
                 "mouseClickFunc": "app:DiamondTask2022MainPanel"
+            },
+            {
+                "direction": "right",
+                "shownewseer": 0,
+                "priority": 6,
+                "exMapList": 50000,
+                "ui": "eclusiveBenefit_icon",
+                "tips": "专属福利",
+                "initfunc": "com.robot.app2.systems.iconLevel.IconFuncManager:clickFlashOpenSmallProgram",
+                "mouseClickFunc": "app:FlashOpenSmallProgramPanel"
+            },
+            {
+                "direction": "right_bar",
+                "shownewseer": 0,
+                "priority": 3,
+                "exMapList": 50000,
+                "ui": "unityceshi2_icon",
+                "tips": "测试招募",
+                "mouseClickFunc": "app:PlayerRecruitPanel"
             },
             {
                 "direction": "right_side",

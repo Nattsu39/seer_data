@@ -1,22 +1,7 @@
 {
-    "tables.json": {
-        "url": "http://seerh5.61.com/resource/config/json/tables_47d9fa52.json",
-        "filename": "tables.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "SPTreward.json": {
-        "url": "http://seerh5.61.com/resource/config/json/SPTreward_8bd511b1.json",
-        "filename": "SPTreward.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "journey_level.json": {
-        "url": "http://seerh5.61.com/resource/config/json/journey_level_9f5fce98.json",
-        "filename": "journey_level.json",
-        "exception": "ReadTimeout('timed out')"
-    },
-    "scene_icon.json": {
-        "url": "http://seerh5.61.com/resource/config/json/scene_icon_7b0e9394.json",
-        "filename": "scene_icon.json",
+    "FrameInfo.json": {
+        "url": "http://seerh5.61.com/resource/config/json/FrameInfo_1dd098d9.json",
+        "filename": "FrameInfo.json",
         "exception": "ReadTimeout('timed out')"
     },
     "LoginGift.json": {
@@ -29,9 +14,14 @@
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "figure_reward.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/figure_reward_663795a8.json",
-        "filename": "figure_reward.json",
+    "effectIcon.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/effectIcon_b14c9a6d.json",
+        "filename": "effectIcon.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "effectDes.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/effectDes_78c0b95d.json",
+        "filename": "effectDes.json",
         "exception": "ReadTimeout('timed out')"
     }
 }

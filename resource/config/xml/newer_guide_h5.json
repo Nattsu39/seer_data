@@ -10,7 +10,8 @@
                     },
                     {
                         "type": 9,
-                        "eventType": "newseer.createAvatarComplete"
+                        "eventType": "newseer.createAvatarComplete",
+                        "stat": "起名成功"
                     }
                 ],
                 "step": 1
@@ -925,6 +926,11 @@
                         "param": 429
                     },
                     {
+                        "type": 9,
+                        "eventType": "ModuleEvent.close_module",
+                        "eventArgs": 429
+                    },
+                    {
                         "type": 3,
                         "talkGroupId": 20013
                     }
@@ -942,7 +948,8 @@
                     {
                         "type": 4,
                         "param": "41881:1:14:0",
-                        "outputPanel": 0
+                        "outputPanel": 0,
+                        "stat": "获得几米"
                     }
                 ],
                 "step": 14,
@@ -1044,6 +1051,62 @@
             },
             {
                 "substep": [
+                    {
+                        "type": 5,
+                        "handOffSet": "20,0",
+                        "condition": "4,3582",
+                        "event": "click_button",
+                        "eventArgs": "btnPetStorage",
+                        "tipPos": "0,143",
+                        "handScaleX": 0.8,
+                        "handScaleY": 0.8,
+                        "tip": "点击【精灵仓库】按钮",
+                        "stat": "点击【精灵仓库】按钮",
+                        "targetBtn": "AppLevel/petBag/MainPanel/MainPanelLeftPart/grp/btnPetStorage",
+                        "autoX": 1
+                    },
+                    {
+                        "type": 5,
+                        "handOffSet": "20,0",
+                        "condition": "4,3582",
+                        "event": "select_pet",
+                        "eventArgs": 3582,
+                        "tipPos": "0,143",
+                        "handScaleX": 0.8,
+                        "handScaleY": 0.8,
+                        "tip": "点击选中几米",
+                        "tipTitle": "点击提示",
+                        "stat": "点击选中几米",
+                        "targetBtn": "AppLevel/petBag/MainPanel/MainPanelStoragePart/grpStorage/grpStorageNotNull/grp/scrollList/Viewport/Content/PetStorageItem_3582",
+                        "autoX": 1
+                    },
+                    {
+                        "type": 5,
+                        "handOffSet": "20,0",
+                        "condition": "4,3582",
+                        "event": "set_pet_second_pos_to_bag",
+                        "eventArgs": 3582,
+                        "tipPos": "0,143",
+                        "handScaleX": 0.8,
+                        "handScaleY": 0.8,
+                        "tip": "点击【入包】按钮放入背包",
+                        "stat": "点击【入包】按钮",
+                        "targetBtn": "AppLevel/petBag/MainPanel/MainPanelStoragePart/grpInfo/grpNotNull/btnExchange",
+                        "autoX": 1
+                    },
+                    {
+                        "type": 5,
+                        "handOffSet": "20,0",
+                        "condition": "4,3582",
+                        "event": "click_button",
+                        "eventArgs": "btnCloseStorage",
+                        "tipPos": "0,143",
+                        "handScaleX": 0.8,
+                        "handScaleY": 0.8,
+                        "tip": "关闭仓库",
+                        "targetBtn": "AppLevel/petBag/MainPanel/MainPanelLeftPart/grp/btnCloseStorage",
+                        "autoX": 1
+                    },
                     {
                         "type": 5,
                         "rect": "-456,145,76,109",
@@ -2111,6 +2174,20 @@
                         "tip": "点击【一键穿戴】按钮，套装选择界面",
                         "stat": "点击一键穿戴",
                         "targetBtn": "AppLevel/personalInformation/Personalinformationme/grpMiddle/grpBtns/btnAllDressUp",
+                        "autoX": 1
+                    },
+                    {
+                        "type": 5,
+                        "rect": "238,-256,150,50",
+                        "handOffSet": "0,100",
+                        "align": "center",
+                        "handType": 2,
+                        "event": "click_button",
+                        "eventArgs": "suitItem_423",
+                        "tipPos": "140,-120",
+                        "tip": "选中新兵套装",
+                        "stat": "选中新兵套装",
+                        "targetBtn": "TipLevel/SuitPopView/scrollSuit/Viewport/Content/suitItem_423",
                         "autoX": 1
                     },
                     {
