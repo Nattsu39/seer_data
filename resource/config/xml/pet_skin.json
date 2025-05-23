@@ -11633,7 +11633,7 @@
                 "AddWay": 1,
                 "Type": 3,
                 "Name": "至高真神·谱尼",
-                "Go": "app/UnityRemindPop",
+                "Go": "app/FinalActivityPanel",
                 "GoType": "module"
             },
             {
@@ -11665,9 +11665,7 @@
                 "Target": 0,
                 "Occasion": 1,
                 "AddWay": 1,
-                "Name": "始祖灵兽",
-                "Go": "103;app/ExchangeDiamondRewardSystemPanel",
-                "GoType": "map|module"
+                "Name": "始祖灵兽"
             },
             {
                 "SkinKind": [
@@ -11683,7 +11681,23 @@
                 "Occasion": 1,
                 "AddWay": 1,
                 "Type": 3,
-                "Name": "星系重构·欧根尼克",
+                "Name": "星系重构·欧根尼克"
+            },
+            {
+                "SkinKind": [
+                    {
+                        "ID": 1,
+                        "Type": 2,
+                        "LifeTime": 0
+                    }
+                ],
+                "ID": 718,
+                "MonID": 4582,
+                "Target": 0,
+                "Occasion": 1,
+                "AddWay": 1,
+                "Type": 3,
+                "Name": "晓夜星纱·斥星",
                 "Go": "app/FinalActivityPanel",
                 "GoType": "module"
             }
