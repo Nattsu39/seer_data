@@ -59643,6 +59643,73 @@
                     "Title": "兑钻奖励更新",
                     "Redirect": "module",
                     "Go": "app/FinalActivityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3607,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250418,
+                    "End": 2025053010,
+                    "Name": "精灵觉醒更新",
+                    "Title": "黑翼魔光",
+                    "Redirect": "module",
+                    "Go": "app/ElfAwakeningNewMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3616,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250425,
+                    "End": 2025053010,
+                    "Map": 103,
+                    "Name": "5月包月精灵",
+                    "Title": "宝石工匠",
+                    "Redirect": "module",
+                    "Go": "app/FinalActivityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3645,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250523,
+                    "End": 20250530,
+                    "Map": 103,
+                    "Name": "皮肤商城更新",
+                    "Title": "皮肤商城更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/SkinShopMainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3599,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250411,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "星际招募更新",
+                    "Title": "星际招募更新",
+                    "Redirect": "module",
+                    "Go": "app/FinalActivityPanel"
                 }
             ],
             "_text": [
@@ -59686,22 +59753,6 @@
                     "Title": "午后的悠闲时光",
                     "Redirect": "map|module",
                     "Go": "1715;app/YearPet2025SkinPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3607,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250418,
-                    "End": 2025053010,
-                    "Name": "精灵觉醒更新",
-                    "Title": "黑翼魔光",
-                    "Redirect": "module",
-                    "Go": "app/ElfAwakeningNewMainPanel"
                 },
                 {
                     "Details": {
@@ -59792,23 +59843,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3599,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250411,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "星际招募更新",
-                    "Title": "星际招募更新",
-                    "Redirect": "module",
-                    "Go": "app/FinalActivityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3605,
                     "isNew": 1,
                     "kinds": 1,
@@ -59842,23 +59876,6 @@
                     "Details": {
                         "mc": 1
                     },
-                    "ID": 3616,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250425,
-                    "End": 2025053010,
-                    "Map": 103,
-                    "Name": "5月包月精灵",
-                    "Title": "宝石工匠",
-                    "Redirect": "module",
-                    "Go": "app/FinalActivityPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
                     "ID": 3633,
                     "isNew": 1,
                     "kinds": 1,
@@ -59871,23 +59888,6 @@
                     "Title": "契约召唤更新",
                     "Redirect": "map|module",
                     "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3645,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250523,
-                    "End": 20250530,
-                    "Map": 103,
-                    "Name": "皮肤商城更新",
-                    "Title": "皮肤商城更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/SkinShopMainPanel"
                 },
                 {
                     "Details": {
@@ -59990,77 +59990,93 @@
                     "Go": "1427;app/PropRecoveryS1Panel"
                 }
             ],
-            "shopcenter": "2274:1,1687:3,3560:21,3645:12,3633:43,3612:44,3616:45,3605:20,3596:16,3599:18,3589:51,3561:11,3518:14,3419:9,3420:10"
+            "shopcenter": "2274:1,1687:3,3560:21,3633:43,3612:44,3605:20,3596:16,3589:51,3561:11,3518:14,3419:9,3420:10"
         },
         "Final": {
             "Activity": [
                 {
                     "ID": "A01",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "梦魇塔奇拉顿",
-                    "Settop": 9
+                    "Title": "神裁·雷伊",
+                    "Settop": 13
                 },
                 {
                     "ID": "A02",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "启程之忆",
-                    "Settop": 8
-                },
-                {
-                    "ID": "A03",
-                    "Start": 20250523,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "周年珍藏馆",
-                    "Settop": 7
+                    "Title": "神决·盖亚",
+                    "Settop": 12
                 },
                 {
                     "ID": "A04",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "探索轮回秘境",
-                    "Settop": 6
+                    "Title": "与星光同行",
+                    "Settop": 10
                 },
                 {
                     "ID": "A05",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "巅峰圣战票选",
-                    "Settop": 5
+                    "Title": "星海相逢",
+                    "Settop": 9
                 },
                 {
                     "ID": "A06",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "皮肤商城更新",
-                    "Settop": 4
+                    "Title": "周年心愿单",
+                    "Settop": 8
                 },
                 {
                     "ID": "A07",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "VIP权益更新",
-                    "Settop": 3
+                    "Title": "晶骰传说",
+                    "Settop": 7
                 },
                 {
                     "ID": "A08",
-                    "Start": 20250523,
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "兑钻奖励更新",
-                    "Settop": 2
+                    "Title": "精灵觉醒",
+                    "Settop": 6
                 },
                 {
                     "ID": "A09",
-                    "Start": 20250523,
+                    "Start": 20250530,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "星光灿烂",
+                    "Settop": 5
+                },
+                {
+                    "ID": "A10",
+                    "Start": 20250530,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "星际特权凭证",
+                    "Settop": 4
+                },
+                {
+                    "ID": "A11",
+                    "Start": 20250530,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "赫蒂洛斯",
+                    "Settop": 3
+                },
+                {
+                    "ID": "A13",
+                    "Start": 20250530,
                     "End": 2025122610,
                     "Name": "最新活动",
                     "Title": "全新剧情",

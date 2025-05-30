@@ -1203,20 +1203,67 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4756,
-                        "ImageID": 4756,
+                        "ID": 4757,
+                        "ImageID": 4757,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4758,
+                        "ImageID": 4758,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4759,
+                        "ImageID": 4759,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4760,
+                        "ImageID": 4760,
+                        "Label": 0
+                    },
+                    {
+                        "type": 1,
+                        "ID": 719,
+                        "momID": 4647,
+                        "ImageID": 1400719,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 718,
-                        "momID": 4582,
-                        "ImageID": 1400718,
+                        "ID": 720,
+                        "momID": 4648,
+                        "ImageID": 1400720,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 721,
+                        "momID": 4649,
+                        "ImageID": 1400721,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 722,
+                        "momID": 3437,
+                        "ImageID": 1400722,
+                        "Label": 0
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -34193,7 +34240,7 @@
                 "Type": "电",
                 "Height": 200,
                 "Weight": 100,
-                "Features": "圣甲雷鸣的超进化形态，圣甲战神联盟第五位登场了，圣甲·雷鸣的出现无疑会让小赛尔们兴奋不已！",
+                "Features": "圣甲雷鸣的超进化形态，圣甲战神联盟第五位登场了，圣甲·雷伊的出现无疑会让小赛尔们兴奋不已！",
                 "mapID": 1178
             },
             {
@@ -41646,7 +41693,8 @@
                 "Height": 185,
                 "Weight": 90,
                 "Features": "寒尘所吻皆我眷注，冰霜所抚皆我故土！凝川傲雪冰躯不朽，驱寒策寂屹立霜天！冰系精灵王——柯尔德极限突破！",
-                "mapID": 1377
+                "mapID": 1377,
+                "Target": 113002
             },
             {
                 "ID": 3887,
@@ -46521,7 +46569,8 @@
                 "Type": "光 次元",
                 "Height": 168,
                 "Weight": 49,
-                "Features": "“嘿，我是蒂朵，在一家游泳馆里担任经理。如果你也想要享受这个盛夏的欢乐，那就快来找我吧！”"
+                "Features": "“嘿，我是蒂朵，在一家游泳馆里担任经理。如果你也想要享受这个盛夏的欢乐，那就快来找我吧！”",
+                "Target": 111800
             },
             {
                 "ID": 4378,
@@ -46529,7 +46578,8 @@
                 "Type": "水 次元",
                 "Height": 153,
                 "Weight": 67,
-                "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”"
+                "Features": "“上可摘星揽月，下可遨游大海，但我的日常是负责泳池的安全工作，对了，还有陪蒂朵一起玩耍和冒险~”",
+                "Target": 111800
             },
             {
                 "ID": 4379,
@@ -46611,7 +46661,8 @@
                 "Type": "次元",
                 "Height": 194,
                 "Weight": 118,
-                "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！"
+                "Features": "蒂朵是欢快的蒂朵，青啼是自由的青啼，我们永远在一起，永远都是最好的伙伴！",
+                "Target": 111800
             },
             {
                 "ID": 4387,
@@ -50330,7 +50381,7 @@
                 "Features": "2025年包月精灵，赫星童话之《螺壳屋中的宝石工匠》，故事中有一个杰出的宝石工匠，为了找到能够匹配自己身份的完美宝石而消失于闪电之中。",
                 "Redirect": "map|module",
                 "Go": "1715;app/VipMouthPet2025Panel",
-                "Target": 121000
+                "Target": 120000
             },
             {
                 "ID": 4752,
@@ -50383,6 +50434,47 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": "153201/265"
+            },
+            {
+                "ID": 4757,
+                "DefName": "神裁·雷伊",
+                "Type": "电",
+                "Height": 153,
+                "Weight": 43.2,
+                "Features": "雷伊在获得神秘能量后，进化为了神裁·雷伊。他的闪电划破天际，将会给世间的邪恶存在带来神圣的裁决。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 112201
+            },
+            {
+                "ID": 4758,
+                "DefName": "神决·盖亚",
+                "Type": "战斗",
+                "Height": 155,
+                "Weight": 63.6,
+                "Features": "盖亚在获得神秘能量后，进化为了神决·盖亚。这位游走在宇宙之间的游侠，将会给世间的邪恶存在带来神圣的裁决。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 112201
+            },
+            {
+                "ID": 4759,
+                "DefName": "赫蒂洛斯",
+                "Type": "机械 火",
+                "Height": 1532,
+                "Weight": 56000,
+                "Features": "2025年包月精灵，赫星童话之《熔炉老者的杰作》，故事中有一个被称作“熔炉老者”的机器人，因为嫉妒自己的造物能够创造出比自己更杰出的作品而葬身于爆炸。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 120000
+            },
+            {
+                "ID": 4760,
+                "DefName": "嗒啦啦",
+                "Type": "光 次元",
+                "Height": 160,
+                "Weight": 49,
+                "Features": "来自TapTap的元气偶像，用自信的笑容与魅力征服全场，你就是她最特别的观众！"
             }
         ]
     }
