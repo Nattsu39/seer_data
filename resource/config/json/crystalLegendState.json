@@ -1,0 +1,213 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "力量",
+            "iconID": 31,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "骰盘中的每个骰子会额外提供X攻击力，X为当前层数。",
+            "battleDes": "骰盘中的每个骰子会额外提供X点攻击力。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 2,
+            "name": "架势",
+            "iconID": 32,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "骰盘中的每个骰子会额外提供X防御力，X为当前层数。",
+            "battleDes": "骰盘中的每个骰子会额外提供X点防御力。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 3,
+            "name": "成长",
+            "iconID": 33,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "回合结束后，获得X层力量和X层架势，X为当前层数。",
+            "battleDes": "回合结束后，获得X层力量和X层架势。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 4,
+            "name": "电气",
+            "iconID": 34,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "回合结束时额外附加X点伤害，X为当前层数。",
+            "battleDes": "回合结束时额外附加X点伤害。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 5,
+            "name": "残影",
+            "iconID": 43,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 1,
+            "des": "攻击力基数上额外乘以X，X为层数+1，回合结束时层级-1。",
+            "battleDes": "攻击力额外乘以X，回合结束时层级-1。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 6,
+            "name": "感染",
+            "iconID": 41,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 1,
+            "des": "回合结束时扣除X点生命值（伤害无视护盾），X为当前层数，回合结束时层数-1。",
+            "battleDes": "回合结束时扣除X点生命值（伤害无视护盾），回合结束时层数-1。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 7,
+            "name": "从长计议",
+            "iconID": 35,
+            "belong": 1,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "回合开始时，重新投掷上回合留在手中的骰子。",
+            "battleDes": "回合开始时，重新投掷上回合留在手中的骰子。",
+            "relateTalentID": 4
+        },
+        {
+            "id": 8,
+            "name": "偷梁换柱",
+            "iconID": 36,
+            "belong": 1,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "打出骰面为空的骰子时会自动进行重掷（仅限1次）",
+            "battleDes": "打出骰面为空的骰子时会自动进行重掷（仅限1次）",
+            "relateTalentID": 6
+        },
+        {
+            "id": 9,
+            "name": "战斗扩容",
+            "iconID": 37,
+            "belong": 1,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "我方最大持有骰子上限提升为7。",
+            "battleDes": "最大持有骰子上限提升为7。",
+            "relateTalentID": 7
+        },
+        {
+            "id": 10,
+            "name": "快速填充",
+            "iconID": 38,
+            "belong": 1,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "回合开始时抽取的骰子提升为5个。",
+            "battleDes": "回合开始时抽取的骰子提升为5个。",
+            "relateTalentID": 8
+        },
+        {
+            "id": 11,
+            "name": "无限屏障",
+            "iconID": 39,
+            "belong": 1,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "回合开始时，护盾不会再消失。",
+            "battleDes": "回合开始时，护盾不会再消失。",
+            "relateTalentID": 9
+        },
+        {
+            "id": 12,
+            "name": "力量强化",
+            "iconID": 31,
+            "belong": 2,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "攻击值会额外修正加上X，X为层数。",
+            "battleDes": "攻击值会额外修正加上X点攻击力。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 13,
+            "name": "防御强化",
+            "iconID": 32,
+            "belong": 2,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "防御值会额外修正加上X，X为层数。",
+            "battleDes": "防御值会额外修正加上X点防御力。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 14,
+            "name": "成长性",
+            "iconID": 33,
+            "belong": 2,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "回合结束后，获得X层力量强化和防御强化，X为当前层数。",
+            "battleDes": "回合结束后，获得X层力量强化和防御强化。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 15,
+            "name": "无限屏障",
+            "iconID": 39,
+            "belong": 2,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "回合结束时，护盾不会再消失。",
+            "battleDes": "回合结束时，护盾不会再消失。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 16,
+            "name": "多段攻击",
+            "iconID": 43,
+            "belong": 2,
+            "isApproved": 1,
+            "isDecayed": 1,
+            "des": "攻击力基数上额外乘以X，X为层数+1，回合结束时层级-1。",
+            "battleDes": "攻击力额外乘以X，回合结束时层级-1。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 17,
+            "name": "感染",
+            "iconID": 41,
+            "belong": 2,
+            "isApproved": 1,
+            "isDecayed": 1,
+            "des": "回合结束时扣除X点生命值（伤害无视护盾），X为当前层数，回合结束时层数-1。",
+            "battleDes": "回合结束时扣除X点生命值（伤害无视护盾），回合结束时层数-1。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 18,
+            "name": "伏击",
+            "iconID": 44,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "每次进行重骰行为时向敌方施加X层感染，X为当前层数。",
+            "battleDes": "每次进行重骰行为时向敌方施加X层感染。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 19,
+            "name": "感染者",
+            "iconID": 44,
+            "belong": 2,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "回合结束时，向对方施加X层感染，X为当前层数。",
+            "battleDes": "回合结束时，向对方施加X层感染。",
+            "relateTalentID": 0
+        }
+    ]
+}

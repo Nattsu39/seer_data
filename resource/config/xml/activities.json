@@ -59710,6 +59710,23 @@
                     "Title": "星际招募更新",
                     "Redirect": "module",
                     "Go": "app/FinalActivityPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3646,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250523,
+                    "End": 20250604,
+                    "Map": 1095,
+                    "Name": "巅峰圣战票选",
+                    "Title": "巅峰圣战票选",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
                 }
             ],
             "_text": [
@@ -59891,23 +59908,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3646,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250523,
-                    "End": 20250604,
-                    "Map": 1095,
-                    "Name": "巅峰圣战票选",
-                    "Title": "巅峰圣战票选",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023MainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 0
                     },
                     "ID": 3644,
@@ -59996,91 +59996,99 @@
             "Activity": [
                 {
                     "ID": "A01",
-                    "Start": 20250530,
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "神裁·雷伊",
-                    "Settop": 13
-                },
-                {
-                    "ID": "A02",
-                    "Start": 20250530,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "神决·盖亚",
+                    "Title": "琉璃幻梦",
                     "Settop": 12
                 },
                 {
-                    "ID": "A04",
-                    "Start": 20250530,
+                    "ID": "A02",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "与星光同行",
-                    "Settop": 10
+                    "Title": "魇魔",
+                    "Settop": 11
                 },
                 {
-                    "ID": "A05",
-                    "Start": 20250530,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "星海相逢",
-                    "Settop": 9
-                },
-                {
-                    "ID": "A06",
-                    "Start": 20250530,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "周年心愿单",
-                    "Settop": 8
-                },
-                {
-                    "ID": "A07",
-                    "Start": 20250530,
+                    "ID": "A03",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
                     "Title": "晶骰传说",
+                    "Settop": 10
+                },
+                {
+                    "ID": "A04",
+                    "Start": 20250606,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "晶石之忆",
                     "Settop": 7
                 },
                 {
-                    "ID": "A08",
-                    "Start": 20250530,
+                    "ID": "A05",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "精灵觉醒",
+                    "Title": "高考加油",
                     "Settop": 6
                 },
                 {
-                    "ID": "A09",
-                    "Start": 20250530,
+                    "ID": "A06",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "星光灿烂",
+                    "Title": "浩劫再临",
                     "Settop": 5
                 },
                 {
-                    "ID": "A10",
-                    "Start": 20250530,
+                    "ID": "A07",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "星际特权凭证",
+                    "Title": "绝魇魔女·琉梦",
                     "Settop": 4
                 },
                 {
-                    "ID": "A11",
-                    "Start": 20250530,
+                    "ID": "A08",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
-                    "Title": "赫蒂洛斯",
+                    "Title": "永恒召唤",
                     "Settop": 3
                 },
                 {
-                    "ID": "A13",
-                    "Start": 20250530,
+                    "ID": "A09",
+                    "Start": 20250606,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "兑钻奖励更新",
+                    "Settop": 2
+                },
+                {
+                    "ID": "A10",
+                    "Start": 20250606,
                     "End": 2025122610,
                     "Name": "最新活动",
                     "Title": "全新剧情",
                     "Settop": 1
+                },
+                {
+                    "ID": "A11",
+                    "Start": 20250606,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "登录惊喜",
+                    "Settop": 8
+                },
+                {
+                    "ID": "A12",
+                    "Start": 20250606,
+                    "End": 2025122610,
+                    "Name": "最新活动",
+                    "Title": "周边抽奖",
+                    "Settop": 9
                 }
             ]
         }

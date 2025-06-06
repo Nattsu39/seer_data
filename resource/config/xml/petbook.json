@@ -1203,67 +1203,62 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4757,
-                        "ImageID": 4757,
+                        "ID": 4761,
+                        "ImageID": 4761,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4758,
-                        "ImageID": 4758,
+                        "ID": 4762,
+                        "ImageID": 4762,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4759,
-                        "ImageID": 4759,
+                        "ID": 4763,
+                        "ImageID": 4763,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4760,
-                        "ImageID": 4760,
-                        "Label": 0
-                    },
-                    {
-                        "type": 1,
-                        "ID": 719,
-                        "momID": 4647,
-                        "ImageID": 1400719,
+                        "ID": 4764,
+                        "ImageID": 4764,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 720,
-                        "momID": 4648,
-                        "ImageID": 1400720,
+                        "ID": 723,
+                        "momID": 4762,
+                        "ImageID": 1400723,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 721,
-                        "momID": 4649,
-                        "ImageID": 1400721,
+                        "ID": 724,
+                        "momID": 4761,
+                        "ImageID": 1400724,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 722,
-                        "momID": 3437,
-                        "ImageID": 1400722,
-                        "Label": 0
+                        "ID": 725,
+                        "momID": 3308,
+                        "ImageID": 1400725,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -2154,7 +2149,7 @@
                 "Features": "雷伊是赫尔卡星的神秘精灵，只有当雷雨天才会出现，全身被电流所包围，尽显王者风范。",
                 "mapID": 32,
                 "jumptarget": "200/3",
-                "Target": 150001
+                "Target": 400001
             },
             {
                 "ID": 71,
@@ -4455,7 +4450,7 @@
                 "Features": "提坦的进化形态，盖亚是精灵世界的战斗大师，它掌握着许许多多原创的战斗技巧，颇具霸者风范。",
                 "mapID": 419,
                 "jumptarget": "200/5",
-                "Target": 150004
+                "Target": 400003
             },
             {
                 "ID": 262,
@@ -10890,7 +10885,7 @@
                 "Features": "卡修的进化形态，经过两次进化后的卡修斯攻击力和速度都有大幅度的提高，能瞬间给予对手致命的打击！",
                 "mapID": 484,
                 "jumptarget": "200/4",
-                "Target": 150006
+                "Target": 400004
             },
             {
                 "ID": 799,
@@ -11754,7 +11749,7 @@
                 "Features": "布莱克作为光明圣坛的守护者，体内蕴含了深不可测的能量，肩负着守护格雷斯星的重任，有着高超的智慧。",
                 "mapID": 507,
                 "jumptarget": "200/2",
-                "Target": 150007
+                "Target": 400005
             },
             {
                 "ID": 876,
@@ -20489,7 +20484,7 @@
                 "Features": "天蛇公主缪斯，在宇宙间不断追寻自己的身世之谜。无意中遇到雷伊和盖亚的她，没想过有一天竟然会与这几个家伙并肩作战。",
                 "mapID": 82,
                 "jumptarget": "200/1",
-                "Target": 150008
+                "Target": 400002
             },
             {
                 "ID": 1634,
@@ -50444,7 +50439,7 @@
                 "Features": "雷伊在获得神秘能量后，进化为了神裁·雷伊。他的闪电划破天际，将会给世间的邪恶存在带来神圣的裁决。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
-                "Target": 112201
+                "Target": "153201/266"
             },
             {
                 "ID": 4758,
@@ -50455,7 +50450,7 @@
                 "Features": "盖亚在获得神秘能量后，进化为了神决·盖亚。这位游走在宇宙之间的游侠，将会给世间的邪恶存在带来神圣的裁决。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
-                "Target": 112201
+                "Target": "153201/267"
             },
             {
                 "ID": 4759,
@@ -50474,7 +50469,54 @@
                 "Type": "光 次元",
                 "Height": 160,
                 "Weight": 49,
-                "Features": "来自TapTap的元气偶像，用自信的笑容与魅力征服全场，你就是她最特别的观众！"
+                "Features": "来自TapTap的元气偶像，用自信的笑容与魅力征服全场，你就是她最特别的观众！",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 120000
+            },
+            {
+                "ID": 4761,
+                "DefName": "琉梦",
+                "Type": "远古 神秘",
+                "Height": 156,
+                "Weight": 0,
+                "Features": "协助你无限复活，走出循环的指引者，同时也自称“记忆狭间”非正式的女主人。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 112050
+            },
+            {
+                "ID": 4762,
+                "DefName": "湮灭之主·咤克斯",
+                "Type": "混沌",
+                "Height": "未知",
+                "Weight": "未知",
+                "Features": "祂回来了，携带着最原始的恶意与最无端的邪恶。这个世界因祂的呼吸而战栗，因祂的降临而崩溃。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113008
+            },
+            {
+                "ID": 4763,
+                "DefName": "魇魔",
+                "Type": "暗影",
+                "Height": 200,
+                "Weight": 90,
+                "Features": "咤克斯的眷属，受到了更强大的力量滋养，已经和曾经的样貌判若两物。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/268"
+            },
+            {
+                "ID": 4764,
+                "DefName": "雁翎",
+                "Type": "飞行 神秘",
+                "Height": 162,
+                "Weight": 48,
+                "Features": "执笔为剑，不负韶华。高考助力精灵雁翎携祝福来到赛尔号，愿大家如鸿雁凌云，金榜题名。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113010
             }
         ]
     }
