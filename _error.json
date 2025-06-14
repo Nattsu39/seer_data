@@ -1,12 +1,32 @@
 {
-    "pvp_MonsterConfig.json": {
-        "url": "http://seerh5.61.com/resource/config/json/pvp_MonsterConfig_f9e6005c.json",
-        "filename": "pvp_MonsterConfig.json",
-        "exception": "ReadTimeout('timed out')"
+    "archivesStory.json": {
+        "url": "http://seerh5.61.com/resource/config/json/archivesStory_f85dee33.json",
+        "filename": "archivesStory.json",
+        "exception": "ReadError('[Errno 104] Connection reset by peer')"
     },
     "broadcast.json": {
         "url": "http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json",
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
+    },
+    "petbook0131.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/petbook0131_d10aaf05.json",
+        "filename": "petbook0131.json",
+        "exception": "ReadError('[Errno 104] Connection reset by peer')"
+    },
+    "home_shop_seed.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/home_shop_seed_e85661a0.json",
+        "filename": "home_shop_seed.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "petbook_0428.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/petbook_0428_68da4a82.json",
+        "filename": "petbook_0428.json",
+        "exception": "ReadError('[Errno 104] Connection reset by peer')"
+    },
+    "guide.json": {
+        "url": "http://seerh5.61.com/resource/config/guide_177a2175.json",
+        "filename": "guide.json",
+        "exception": "ReadTimeout('timed out')"
     }
 }

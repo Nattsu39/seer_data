@@ -53,7 +53,7 @@
             "name": "伤口",
             "iconID": 13,
             "paramType": 1,
-            "des": "立即受到X点伤害。",
+            "des": "立即失去X点生命值。",
             "relateStateID": 0
         },
         {
@@ -167,6 +167,22 @@
             "paramType": 0,
             "des": "将敌方意图中即将恢复的生命值和获得的护甲值转变为向对方施加对应层数的感染。",
             "relateStateID": 0
+        },
+        {
+            "id": 21,
+            "name": "矿脉",
+            "iconID": 25,
+            "paramType": 1,
+            "des": "立即获得X层【矿脉】。",
+            "relateStateID": 20
+        },
+        {
+            "id": 22,
+            "name": "闪耀",
+            "iconID": 26,
+            "paramType": 1,
+            "des": "立即获得X层【闪耀】。",
+            "relateStateID": 21
         }
     ]
 }

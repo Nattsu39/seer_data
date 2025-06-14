@@ -208,6 +208,39 @@
             "des": "回合结束时，向对方施加X层感染，X为当前层数。",
             "battleDes": "回合结束时，向对方施加X层感染。",
             "relateTalentID": 0
+        },
+        {
+            "id": 20,
+            "name": "矿脉",
+            "iconID": 46,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "每当矿脉累计到6层时消耗并转变为1层闪耀，回合结束时恢复X点生命值，X为当前矿脉层数。",
+            "battleDes": "每当矿脉累计到6层时消耗并转变为1层闪耀，回合结束时恢复X点生命值。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 21,
+            "name": "闪耀",
+            "iconID": 47,
+            "belong": 1,
+            "isApproved": 1,
+            "isDecayed": 0,
+            "des": "当闪耀累计到3层时，立即消灭对手。",
+            "battleDes": "当闪耀累计到3层时，立即消灭对手。",
+            "relateTalentID": 0
+        },
+        {
+            "id": 22,
+            "name": "崩解者",
+            "iconID": 45,
+            "belong": 2,
+            "isApproved": 0,
+            "isDecayed": 0,
+            "des": "回合结束时，将对方的矿脉、成长层数清空。",
+            "battleDes": "回合结束时，将对方的矿脉、成长层数清空。",
+            "relateTalentID": 0
         }
     ]
 }

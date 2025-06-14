@@ -1203,62 +1203,130 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4761,
-                        "ImageID": 4761,
+                        "ID": 4765,
+                        "ImageID": 4765,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4762,
-                        "ImageID": 4762,
+                        "ID": 4766,
+                        "ImageID": 4766,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4763,
-                        "ImageID": 4763,
+                        "ID": 4767,
+                        "ImageID": 4767,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4764,
-                        "ImageID": 4764,
+                        "ID": 4768,
+                        "ImageID": 4768,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4769,
+                        "ImageID": 4769,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4771,
+                        "ImageID": 4771,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4774,
+                        "ImageID": 4774,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4776,
+                        "ImageID": 4776,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 723,
-                        "momID": 4762,
-                        "ImageID": 1400723,
+                        "ID": 726,
+                        "momID": 4765,
+                        "ImageID": 1400726,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 724,
-                        "momID": 4761,
-                        "ImageID": 1400724,
+                        "ID": 727,
+                        "momID": 4766,
+                        "ImageID": 1400727,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 725,
-                        "momID": 3308,
-                        "ImageID": 1400725,
+                        "ID": 728,
+                        "momID": 4765,
+                        "ImageID": 1400728,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 729,
+                        "momID": 4765,
+                        "ImageID": 1400729,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/ExchangeDiamondRewardSystemPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 730,
+                        "momID": 4766,
+                        "ImageID": 1400730,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023MainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 731,
+                        "momID": 4766,
+                        "ImageID": 1400731,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "103;app/SeerInterstellarPassportMainPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 732,
+                        "momID": 4717,
+                        "ImageID": 1400732,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1728;app/NadoresJourneyofRecoveryMainPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -28481,7 +28549,7 @@
                 "Type": "冰 暗影",
                 "Height": "175cm",
                 "Weight": "75kg",
-                "Features": "尤尼萨获得邪灵光环后的形态，其压倒性的实力简直让人无法喘息。",
+                "Features": "尤米娜获得邪灵光环后的形态，其压倒性的实力简直让人无法喘息。",
                 "mapID": 68
             },
             {
@@ -50030,7 +50098,8 @@
                 "Type": "虚空",
                 "Height": "未知",
                 "Weight": "未知",
-                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！"
+                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！",
+                "Target": 113016
             },
             {
                 "ID": 4718,
@@ -50439,7 +50508,7 @@
                 "Features": "雷伊在获得神秘能量后，进化为了神裁·雷伊。他的闪电划破天际，将会给世间的邪恶存在带来神圣的裁决。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
-                "Target": "153201/266"
+                "Target": 1112201
             },
             {
                 "ID": 4758,
@@ -50450,7 +50519,7 @@
                 "Features": "盖亚在获得神秘能量后，进化为了神决·盖亚。这位游走在宇宙之间的游侠，将会给世间的邪恶存在带来神圣的裁决。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
-                "Target": "153201/267"
+                "Target": 112201
             },
             {
                 "ID": 4759,
@@ -50471,8 +50540,7 @@
                 "Weight": 49,
                 "Features": "来自TapTap的元气偶像，用自信的笑容与魅力征服全场，你就是她最特别的观众！",
                 "Redirect": "module",
-                "Go": "app/FinalActivityPanel",
-                "Target": 120000
+                "Go": "app/FinalActivityPanel"
             },
             {
                 "ID": 4761,
@@ -50517,6 +50585,138 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 113010
+            },
+            {
+                "ID": 4765,
+                "DefName": "怒雷神裁·雷伊",
+                "Type": "电",
+                "Height": 178,
+                "Weight": 74,
+                "Features": "雷伊的千万自我重合为一，在时光之茧中获得了前所未有的极致突破。怒雷神裁·雷伊化作闪电，划破夜空，他是永恒的雷神，带给正义以希望。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 112202
+            },
+            {
+                "ID": 4766,
+                "DefName": "灭战神决·盖亚",
+                "Type": "战斗",
+                "Height": 185,
+                "Weight": 82,
+                "Features": "盖亚的千万自我重合为一，在时光之茧中获得了前所未有的极致突破。灭战神决·盖亚斗气雄浑，力拔山岳，他是永恒的战神，带给正义以希望。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 112203
+            },
+            {
+                "ID": 4767,
+                "DefName": "露尼亚",
+                "Type": "地面 战斗",
+                "Height": 49.3,
+                "Weight": 24.7,
+                "Features": "露尼亚是从琉梦的记忆之中诞生的矿石之灵。露尼亚天真活泼，渴望遇到新的伙伴。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400006
+            },
+            {
+                "ID": 4768,
+                "DefName": "欧古德",
+                "Type": "地面 超能",
+                "Height": 53.5,
+                "Weight": 26.4,
+                "Features": "欧古德是从琉梦的记忆之中诞生的矿石之灵。新生的欧古德喜欢幻想，但也对这个世界充满了胆怯。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400006
+            },
+            {
+                "ID": 4769,
+                "DefName": "希罗里",
+                "Type": "地面 神秘",
+                "Height": 63.7,
+                "Weight": 29.3,
+                "Features": "希罗里是从琉梦的记忆之中诞生的矿石之灵。希罗里有一双坚硬的大拳头，坏脾气的它心中充满了正义感。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400006
+            },
+            {
+                "ID": 4770,
+                "DefName": "碧岩兽",
+                "Type": "地面",
+                "Height": 90,
+                "Weight": 81,
+                "Features": "碧岩兽是晶岩兽的亚种，有着异常坚硬的晶石身体。它生命力旺盛，骄傲自信，勇敢地在泥潭之中磨练自己。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400007
+            },
+            {
+                "ID": 4771,
+                "DefName": "塔姆顿",
+                "Type": "地面",
+                "Height": 194,
+                "Weight": 98,
+                "Features": "碧岩兽的进化形态，有着比金刚石更加坚硬的棱角，比大地更加敦厚的身躯，让周围的精灵们都心怀畏惧。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400007
+            },
+            {
+                "ID": 4772,
+                "DefName": "焠晶兽",
+                "Type": "火",
+                "Height": 56,
+                "Weight": 9.7,
+                "Features": "焠晶兽天生就是族群中的佼佼者。对于火焰的天然掌控力使它们能够将彩色矿石塑造成造型更为繁复的巢穴。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400007
+            },
+            {
+                "ID": 4773,
+                "DefName": "艮比兽",
+                "Type": "火",
+                "Height": 84.2,
+                "Weight": 20.1,
+                "Features": "焠晶兽的进化形态，对于火焰的运用更加灵活，领地意识很强。但它们遇到真正的危险时，会因为舍不得自己的巢穴，而拒绝逃离。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400007
+            },
+            {
+                "ID": 4774,
+                "DefName": "多鲁特",
+                "Type": "火",
+                "Height": 127.4,
+                "Weight": 24.3,
+                "Features": "艮比兽的进化形态，能够利用火焰形成火凤出巢般的攻击，智能有了一定的提升，在筑巢方面有了更为极致的艺术追求。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400007
+            },
+            {
+                "ID": 4775,
+                "DefName": "蓝腹蛙",
+                "Type": "水",
+                "Height": 4.3,
+                "Weight": 0.8,
+                "Features": "生活在露希欧大洋深处的蓝腹蛙是水草蛙的亚种，它舌下有着饱含毒素的腺囊，当心它的毒素攻击哦。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400008
+            },
+            {
+                "ID": 4776,
+                "DefName": "卡希沙",
+                "Type": "水",
+                "Height": 8.5,
+                "Weight": 2.6,
+                "Features": "蓝腹蛙的进化形态，能够释放出更易被吸收的毒液。皮肤油滑容易躲避攻击，超强的弹跳力让它在战斗中非常灵活强劲。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400008
             }
         ]
     }
