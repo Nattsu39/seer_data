@@ -1203,16 +1203,52 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4780,
-                        "ImageID": 4780,
+                        "ID": 4782,
+                        "ImageID": 4782,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4781,
-                        "ImageID": 4781,
+                        "ID": 4783,
+                        "ImageID": 4783,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 736,
+                        "momID": 4671,
+                        "ImageID": 1400736,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 737,
+                        "momID": 4697,
+                        "ImageID": 1400737,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 738,
+                        "momID": 4635,
+                        "ImageID": 1400738,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 739,
+                        "momID": 4749,
+                        "ImageID": 1400739,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
@@ -10027,7 +10063,8 @@
                 "Foundin": "海洋星",
                 "Food": "未知",
                 "Features": "斯比亚是一只非常狡猾的精灵，游泳速度非常快，况且，在它喷出的浓浓墨汁下，很难看清它的身影，要抓到它可不容易哦！",
-                "mapID": 20
+                "mapID": 20,
+                "Target": 400012
             },
             {
                 "ID": 731,
@@ -12909,7 +12946,8 @@
                 "Foundin": "--",
                 "Food": "未知",
                 "Features": "巴尔是一只非常喜欢泡泡的精灵，小小的尾巴能冒出数不清的彩色泡泡。",
-                "mapID": 0
+                "mapID": 0,
+                "Target": 400011
             },
             {
                 "ID": 976,
@@ -25929,7 +25967,7 @@
                 "Type": "超能",
                 "Height": 29,
                 "Weight": 8.7,
-                "Features": "狄安娜的第一形态安娜，安娜是月亮的代言，只要有她出现的夜晚，任何能够遮掩的月亮阴云都将消散。",
+                "Features": "狄安娜pet_skin的第一形态安娜，安娜是月亮的代言，只要有她出现的夜晚，任何能够遮掩的月亮阴云都将消散。",
                 "mapID": 0
             },
             {
@@ -25990,7 +26028,8 @@
                 "Height": 40,
                 "Weight": 5.1,
                 "Features": "闪光布鲁是浪漫的海洋漫游者，在各个星球的海域中遨游徜徉，在旅途的过程中受到了闪光力量的刺激，由布鲁成为了闪光布鲁。",
-                "mapID": 0
+                "mapID": 0,
+                "Target": 400013
             },
             {
                 "ID": 2187,
@@ -41695,7 +41734,7 @@
                 "Weight": 90,
                 "Features": "寒尘所吻皆我眷注，冰霜所抚皆我故土！凝川傲雪冰躯不朽，驱寒策寂屹立霜天！冰系精灵王——柯尔德极限突破！",
                 "mapID": 1377,
-                "Target": 113002
+                "Target": 150077
             },
             {
                 "ID": 3887,
@@ -50491,10 +50530,7 @@
                 "Type": "远古 神秘",
                 "Height": 156,
                 "Weight": 0,
-                "Features": "协助你无限复活，走出循环的指引者，同时也自称“记忆狭间”非正式的女主人。",
-                "Redirect": "module",
-                "Go": "app/FinalActivityPanel",
-                "Target": 112050
+                "Features": "协助你无限复活，走出循环的指引者，同时也自称“记忆狭间”非正式的女主人。"
             },
             {
                 "ID": 4762,
@@ -50502,10 +50538,7 @@
                 "Type": "混沌",
                 "Height": "未知",
                 "Weight": "未知",
-                "Features": "祂回来了，携带着最原始的恶意与最无端的邪恶。这个世界因祂的呼吸而战栗，因祂的降临而崩溃。",
-                "Redirect": "module",
-                "Go": "app/FinalActivityPanel",
-                "Target": 113008
+                "Features": "祂回来了，携带着最原始的恶意与最无端的邪恶。这个世界因祂的呼吸而战栗，因祂的降临而崩溃。"
             },
             {
                 "ID": 4763,
@@ -50524,10 +50557,7 @@
                 "Type": "飞行 神秘",
                 "Height": 162,
                 "Weight": 48,
-                "Features": "执笔为剑，不负韶华。高考助力精灵雁翎携祝福来到赛尔号，愿大家如鸿雁凌云，金榜题名。",
-                "Redirect": "module",
-                "Go": "app/FinalActivityPanel",
-                "Target": 113010
+                "Features": "执笔为剑，不负韶华。高考助力精灵雁翎携祝福来到赛尔号，愿大家如鸿雁凌云，金榜题名。"
             },
             {
                 "ID": 4765,
@@ -50715,6 +50745,28 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 120000
+            },
+            {
+                "ID": 4782,
+                "DefName": "鞘盾龙鱼",
+                "Type": "水 龙",
+                "Height": 670,
+                "Weight": 730,
+                "Features": "鳞甲龙鱼在海洋星的异变之中进化至全新形态，体型变得更修长典雅，获得了驾驭龙族力量的能力。其身边经常有众多小鳍鱼相伴。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/273"
+            },
+            {
+                "ID": 4783,
+                "DefName": "斯弗洛浦亚",
+                "Type": "水 暗影",
+                "Height": 1020,
+                "Weight": 980,
+                "Features": "斯特洛亚的异变形态。异常生长的骨骸之中遗留有无法被其本身吸收的龙族力量，相比于过去躲在暗处操控水流进行狩猎，现在的它更喜欢对猎物发起近距离攻击。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/274"
             }
         ]
     }
