@@ -59744,6 +59744,23 @@
                     "Title": "道具回收系统更新",
                     "Redirect": "map|module",
                     "Go": "1427;app/PropRecoveryS1Panel"
+                },
+                {
+                    "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3597,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250411,
+                    "End": 2025071110,
+                    "Map": 1095,
+                    "Name": "S6赛季开启",
+                    "Title": "S6赛季开启",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
                 }
             ],
             "_text": [
@@ -59787,23 +59804,6 @@
                     "Title": "午后的悠闲时光",
                     "Redirect": "map|module",
                     "Go": "1715;app/YearPet2025SkinPanel"
-                },
-                {
-                    "Details": {
-                        "mc": 2
-                    },
-                    "ID": 3597,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20250411,
-                    "End": 2025071110,
-                    "Map": 1095,
-                    "Name": "S6赛季开启",
-                    "Title": "S6赛季开启",
-                    "Redirect": "map|module",
-                    "Go": "1095;app/PeakJihad2023MainPanel"
                 },
                 {
                     "Details": {
@@ -59925,6 +59925,23 @@
                 },
                 {
                     "Details": {
+                        "mc": 2
+                    },
+                    "ID": 3648,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 2,
+                    "Start": 20250711,
+                    "End": 2025101710,
+                    "Map": 1095,
+                    "Name": "巅峰圣战",
+                    "Title": "S7浩海赛季",
+                    "Redirect": "map|module",
+                    "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
                         "mc": 0
                     },
                     "ID": 3644,
@@ -59974,121 +59991,105 @@
                 },
                 {
                     "Details": {
-                        "mc": 2
+                        "mc": 1
                     },
-                    "ID": 1687,
+                    "ID": 3647,
                     "isNew": 1,
                     "kinds": 1,
                     "IsClassic": 0,
-                    "Type": 2,
-                    "Start": 20210709,
-                    "End": "*",
+                    "Type": 1,
+                    "Start": 20250711,
+                    "End": 2025082910,
                     "Map": 1,
                     "Name": "刻印抽奖机",
-                    "Title": "刻印抽奖机",
+                    "Title": "刻印抽奖机暑期版",
                     "Redirect": "module",
                     "Go": "app/MarkMachine0707Panel"
                 }
             ],
-            "shopcenter": "2274:1,1687:3,3633:43,3612:44,3605:20,3596:16,3589:51,3561:11,3518:14,3419:9,3420:10"
+            "shopcenter": "2274:1,3647:3,3633:43,3612:44,3605:20,3596:16,3589:51,3561:11,3518:14,3419:9,3420:10"
         },
         "Final": {
             "Activity": [
                 {
                     "ID": "A01",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025100910,
                     "Name": "最新活动",
                     "Title": "全新剧情",
                     "Settop": 12
                 },
                 {
                     "ID": "A02",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "鞘盾龙鱼",
+                    "Title": "背包预设",
                     "Settop": 11
                 },
                 {
                     "ID": "A03",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025101010,
                     "Name": "最新活动",
-                    "Title": "斯弗洛浦亚",
+                    "Title": "S7巅峰赛季更新",
                     "Settop": 10
                 },
                 {
                     "ID": "A04",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025072510,
                     "Name": "最新活动",
-                    "Title": "兑钻奖励更新",
-                    "Settop": 7
+                    "Title": "S7 浩海赛季限时激励",
+                    "Settop": 9
                 },
                 {
                     "ID": "A05",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "夏日奇遇",
-                    "Settop": 13
+                    "Title": "星际通行证更新",
+                    "Settop": 8
                 },
                 {
                     "ID": "A06",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "沙滩寻宝",
-                    "Settop": 5
+                    "Title": "诺尔玛罗",
+                    "Settop": 7
                 },
                 {
                     "ID": "A07",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "Start": 20250711,
+                    "End": 2025071810,
                     "Name": "最新活动",
-                    "Title": "翡翠岛的悠闲假日",
-                    "Settop": 4
-                },
-                {
-                    "ID": "A08",
-                    "Start": 20250606,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "罗开的折扣商店",
-                    "Settop": 3
-                },
-                {
-                    "ID": "A09",
-                    "Start": 20250606,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "火星港商城更新",
-                    "Settop": 2
-                },
-                {
-                    "ID": "A10",
-                    "Start": 20250606,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "深海巨兽大对决",
-                    "Settop": 1
-                },
-                {
-                    "ID": "A11",
-                    "Start": 20250606,
-                    "End": 2025122610,
-                    "Name": "最新活动",
-                    "Title": "冰魄·柯尔德",
+                    "Title": "勘探黑晶矿群",
                     "Settop": 6
                 },
                 {
-                    "ID": "A12",
-                    "Start": 20250606,
-                    "End": 2025122610,
+                    "ID": "A08",
+                    "Start": 20250711,
+                    "End": 2025071810,
                     "Name": "最新活动",
-                    "Title": "道具回收系统",
-                    "Settop": 8
+                    "Title": "深海巨兽大对决",
+                    "Settop": 5
+                },
+                {
+                    "ID": "A09",
+                    "Start": 20250711,
+                    "End": 2025100910,
+                    "Name": "最新活动",
+                    "Title": "量子回廊",
+                    "Settop": 4
+                },
+                {
+                    "ID": "A10",
+                    "Start": 20250711,
+                    "End": 2025071810,
+                    "Name": "最新活动",
+                    "Title": "盛夏谧语",
+                    "Settop": 3
                 }
             ]
         }

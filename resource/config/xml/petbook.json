@@ -1203,52 +1203,51 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4782,
-                        "ImageID": 4782,
+                        "ID": 4784,
+                        "ImageID": 4784,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4783,
-                        "ImageID": 4783,
+                        "ID": 4785,
+                        "ImageID": 4785,
+                        "Label": 0,
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023MainPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4786,
+                        "ImageID": 4786,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 736,
-                        "momID": 4671,
-                        "ImageID": 1400736,
+                        "ID": 740,
+                        "momID": 3512,
+                        "ImageID": 1400740,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 737,
-                        "momID": 4697,
-                        "ImageID": 1400737,
+                        "ID": 741,
+                        "momID": 4785,
+                        "ImageID": 1400741,
                         "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
+                        "Redirect": "map|module",
+                        "Go": "1095;app/PeakJihad2023MainPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 738,
-                        "momID": 4635,
-                        "ImageID": 1400738,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 739,
-                        "momID": 4749,
-                        "ImageID": 1400739,
+                        "ID": 742,
+                        "momID": 4462,
+                        "ImageID": 1400742,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
@@ -50767,6 +50766,39 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": "153201/274"
+            },
+            {
+                "ID": 4784,
+                "DefName": "诺尔玛罗",
+                "Type": "战斗 龙",
+                "Height": 390,
+                "Weight": 1150,
+                "Features": "诺玛的异变形态，被撑破的甲壳之下露出了满覆龙鳞状花纹的坚硬肢体。凶暴的它凭借本能施展战斗技巧，从不放过任何猎物。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/277"
+            },
+            {
+                "ID": 4785,
+                "DefName": "铭唤",
+                "Type": "混沌 远古",
+                "Height": 167,
+                "Weight": 42,
+                "Features": "被封印于精灵之国边境的远古花妖，会以花粉为引施展幻术，将腐败的沼泽伪装成繁茂的花田，引诱过路之人的踏入自己的领地",
+                "Redirect": "map|module",
+                "Go": "1095;app/PeakJihad2023MainPanel",
+                "Target": 200000
+            },
+            {
+                "ID": 4786,
+                "DefName": "诺玛",
+                "Type": "战斗",
+                "Height": 28.4,
+                "Weight": 0.8,
+                "Features": "诺玛是依赖深海禁地和深海底火山带中的特殊水体环境生活的精灵，它胸前的水泡中储存着所需的特殊能量以备不时之需，可爱的外表之下藏着强悍的攻击力。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 400011
             }
         ]
     }
