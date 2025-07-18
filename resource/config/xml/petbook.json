@@ -1203,54 +1203,60 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4784,
-                        "ImageID": 4784,
+                        "ID": 4787,
+                        "ImageID": 4787,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4785,
-                        "ImageID": 4785,
+                        "ID": 4788,
+                        "ImageID": 4788,
                         "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023MainPanel"
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4786,
-                        "ImageID": 4786,
+                        "ID": 4789,
+                        "ImageID": 4789,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4790,
+                        "ImageID": 4790,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4791,
+                        "ImageID": 4791,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4792,
+                        "ImageID": 4792,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 740,
-                        "momID": 3512,
-                        "ImageID": 1400740,
+                        "ID": 744,
+                        "momID": 4597,
+                        "ImageID": 1400744,
                         "Label": 0,
                         "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 741,
-                        "momID": 4785,
-                        "ImageID": 1400741,
-                        "Label": 0,
-                        "Redirect": "map|module",
-                        "Go": "1095;app/PeakJihad2023MainPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 742,
-                        "momID": 4462,
-                        "ImageID": 1400742,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
+                        "Go": "app/ExchangeDiamondRewardSystemPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -25091,7 +25097,7 @@
                 "Type": "草",
                 "Height": 142,
                 "Weight": 46,
-                "Features": "逆天狂战妄图以一己之力阻止龙尊的降临，改变命运，狂战的脾气十分暴躁而且十分自信，而它缺也常常因为自己性格上的缺陷而遇到麻烦。",
+                "Features": "逆天狂战妄图以一己之力阻止龙尊的降临，改变命运，它的脾气十分暴躁而且十分自信，却也常常因性格上的缺陷而遇到麻烦。",
                 "mapID": 0
             },
             {
@@ -38291,7 +38297,8 @@
                 "Height": 179,
                 "Weight": 72,
                 "Features": "当生命之盾无法阻挡亡魂！当大地之心不再纯洁不染！黑暗中，一位巨人倒下了！混沌地王莱茵哈特登场！",
-                "mapID": 1265
+                "mapID": 1265,
+                "Target": 150079
             },
             {
                 "ID": 3517,
@@ -50079,8 +50086,7 @@
                 "Type": "虚空",
                 "Height": "未知",
                 "Weight": "未知",
-                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！",
-                "Target": 113016
+                "Features": "当世界的意志投射在拜伦号前，执行与湮灭成为了它唯一的任务，当宇宙法则遭到僭越，原始黑洞将为文明带来无光的终末！"
             },
             {
                 "ID": 4718,
@@ -50799,6 +50805,72 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 400011
+            },
+            {
+                "ID": 4787,
+                "DefName": "机械钢牙鲨",
+                "Type": "水 机械",
+                "Height": 63.6,
+                "Weight": 48.9,
+                "Features": "宇宙海盗使用黑晶矿制造的机械体，强悍且没有情感。在制造时融合了部分从精灵钢牙鲨身上提取出的身体组织。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113025
+            },
+            {
+                "ID": 4788,
+                "DefName": "缇娅薇",
+                "Type": "自然 超能",
+                "Height": 165,
+                "Weight": 40,
+                "Features": "掌握自然魔法的神秘精灵，在森林的深处会看到温和的她使用魔法采集果实的身影。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113026
+            },
+            {
+                "ID": 4789,
+                "DefName": "海天使",
+                "Type": "光",
+                "Height": 5.7,
+                "Weight": 0.1,
+                "Features": "海天使挥动着一双轻薄美丽的翅膀，沿着8字形轨迹轻盈地跃动。它们在漆黑的深海遗迹之间莹莹闪烁，犹如深海中的萤火虫。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
+            },
+            {
+                "ID": 4790,
+                "DefName": "渊水母·悦",
+                "Type": "神秘 光",
+                "Height": 13.5,
+                "Weight": 0.2,
+                "Features": "愉悦形态的渊水母。它们在深海遗迹之间轻快地游动，释放着暖暖的星芒。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
+            },
+            {
+                "ID": 4791,
+                "DefName": "渊水母·郁",
+                "Type": "神秘 冰",
+                "Height": 18.7,
+                "Weight": 0.2,
+                "Features": "忧郁形态的渊水母。它们拖着长长的触须在深海遗迹之间无声漂荡，在所经之处留下阵阵寒意。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
+            },
+            {
+                "ID": 4792,
+                "DefName": "渊水母·怒",
+                "Type": "神秘 火",
+                "Height": 14.5,
+                "Weight": 0.2,
+                "Features": "愤怒形态的渊水母。它们是深海遗迹之间的团团烈火，带着难以平息的炽烈愤怒横冲直撞。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
             }
         ]
     }

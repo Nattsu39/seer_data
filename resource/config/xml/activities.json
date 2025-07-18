@@ -59761,6 +59761,23 @@
                     "Title": "S6赛季开启",
                     "Redirect": "map|module",
                     "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3596,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250411,
+                    "End": 2025071110,
+                    "Map": 1729,
+                    "Name": "星际通行证",
+                    "Title": "星际通行证开启",
+                    "Redirect": "module",
+                    "Go": "app/SeerInterstellarPassportMainPanel"
                 }
             ],
             "_text": [
@@ -59855,23 +59872,6 @@
                     "Title": "影翼裁决",
                     "Redirect": "map|module",
                     "Go": "103;app/SupermarketPanel$套装推荐"
-                },
-                {
-                    "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3596,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250411,
-                    "End": 2025071110,
-                    "Map": 1729,
-                    "Name": "星际通行证",
-                    "Title": "星际通行证开启",
-                    "Redirect": "module",
-                    "Go": "app/SeerInterstellarPassportMainPanel"
                 },
                 {
                     "Details": {
@@ -60007,13 +60007,13 @@
                     "Go": "app/MarkMachine0707Panel"
                 }
             ],
-            "shopcenter": "2274:1,3647:3,3633:43,3612:44,3605:20,3596:16,3589:51,3561:11,3518:14,3419:9,3420:10"
+            "shopcenter": "2274:1,3647:3,3633:43,3612:44,3605:20,3589:51,3561:11,3518:14,3419:9,3420:10"
         },
         "Final": {
             "Activity": [
                 {
                     "ID": "A01",
-                    "Start": 20250711,
+                    "Start": 20250718,
                     "End": 2025100910,
                     "Name": "最新活动",
                     "Title": "全新剧情",
@@ -60021,77 +60021,70 @@
                 },
                 {
                     "ID": "A02",
-                    "Start": 20250711,
+                    "Start": 20250718,
                     "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "背包预设",
+                    "Title": "深海魔影",
                     "Settop": 11
                 },
                 {
                     "ID": "A03",
-                    "Start": 20250711,
-                    "End": 2025101010,
+                    "Start": 20250718,
+                    "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "S7巅峰赛季更新",
+                    "Title": "深海巡航",
                     "Settop": 10
                 },
                 {
                     "ID": "A04",
-                    "Start": 20250711,
-                    "End": 2025072510,
+                    "Start": 20250718,
+                    "End": 2025082210,
                     "Name": "最新活动",
-                    "Title": "S7 浩海赛季限时激励",
+                    "Title": "邪影封尘",
                     "Settop": 9
                 },
                 {
                     "ID": "A05",
-                    "Start": 20250711,
-                    "End": 2025100910,
+                    "Start": 20250718,
+                    "End": 2025082210,
                     "Name": "最新活动",
-                    "Title": "星际通行证更新",
+                    "Title": "暑假签到领好礼",
                     "Settop": 8
                 },
                 {
                     "ID": "A06",
-                    "Start": 20250711,
-                    "End": 2025100910,
+                    "Start": 20250718,
+                    "End": 2025080110,
                     "Name": "最新活动",
-                    "Title": "诺尔玛罗",
+                    "Title": "兑钻奖励更新",
                     "Settop": 7
                 },
                 {
                     "ID": "A07",
-                    "Start": 20250711,
-                    "End": 2025071810,
+                    "Start": 20250718,
+                    "End": 2025072510,
                     "Name": "最新活动",
-                    "Title": "勘探黑晶矿群",
+                    "Title": "精灵抗性的新研究",
                     "Settop": 6
                 },
                 {
                     "ID": "A08",
-                    "Start": 20250711,
-                    "End": 2025071810,
+                    "Start": 20250718,
+                    "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "深海巨兽大对决",
+                    "Title": "商城礼包更新",
                     "Settop": 5
                 },
                 {
                     "ID": "A09",
-                    "Start": 20250711,
+                    "Start": 20250718,
                     "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "量子回廊",
+                    "Title": "混沌地王莱茵哈特",
                     "Settop": 4
-                },
-                {
-                    "ID": "A10",
-                    "Start": 20250711,
-                    "End": 2025071810,
-                    "Name": "最新活动",
-                    "Title": "盛夏谧语",
-                    "Settop": 3
                 }
-            ]
+            ],
+            "_text": "\r\n\t\r\n\t\r\n\t\r\n -->\r\n\r\n\t"
         }
     }
 }
