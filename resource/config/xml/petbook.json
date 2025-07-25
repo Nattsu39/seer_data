@@ -1203,60 +1203,44 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4787,
-                        "ImageID": 4787,
+                        "ID": 4793,
+                        "ImageID": 4793,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4788,
-                        "ImageID": 4788,
+                        "ID": 4794,
+                        "ImageID": 4794,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4789,
-                        "ImageID": 4789,
+                        "ID": 4795,
+                        "ImageID": 4795,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4790,
-                        "ImageID": 4790,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4791,
-                        "ImageID": 4791,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4792,
-                        "ImageID": 4792,
+                        "ID": 4796,
+                        "ImageID": 4796,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 744,
-                        "momID": 4597,
-                        "ImageID": 1400744,
+                        "ID": 745,
+                        "momID": 3516,
+                        "ImageID": 1400745,
                         "Label": 0,
                         "Redirect": "module",
-                        "Go": "app/ExchangeDiamondRewardSystemPanel"
+                        "Go": "app/FinalActivityPanel"
                     }
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
@@ -50868,6 +50852,50 @@
                 "Height": 14.5,
                 "Weight": 0.2,
                 "Features": "愤怒形态的渊水母。它们是深海遗迹之间的团团烈火，带着难以平息的炽烈愤怒横冲直撞。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
+            },
+            {
+                "ID": 4793,
+                "DefName": "厄孽提亚",
+                "Type": "草",
+                "Height": 198.3,
+                "Weight": 23.6,
+                "Features": "来自海洋星寒冷水域的精灵种族，拥有善于游泳的身体结构和极为有力的双腕，身下生长的众多藤须足以绞杀体型两倍于它们的猎物。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/286"
+            },
+            {
+                "ID": 4794,
+                "DefName": "努迪",
+                "Type": "普通",
+                "Height": 67,
+                "Weight": 35,
+                "Features": "海底火山群附近发现的新物种。听派特博士说，他们小小的身体之中，隐藏着晦涩的历史。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
+            },
+            {
+                "ID": 4795,
+                "DefName": "波鲁",
+                "Type": "草",
+                "Height": 66,
+                "Weight": 38,
+                "Features": "努迪的亚种，和原物种相比，有着更强的生命力。任何伤口都能在极短的时间内快速愈合。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113024
+            },
+            {
+                "ID": 4796,
+                "DefName": "基亚",
+                "Type": "邪灵",
+                "Height": 66,
+                "Weight": 0.5,
+                "Features": "虽说基亚被归类为努迪的亚种，但是他们是不是真的能算一类物种仍然有待商榷。比起亚种，它更像是努迪们的怨灵。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 113024
