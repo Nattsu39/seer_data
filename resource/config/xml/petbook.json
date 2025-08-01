@@ -1203,41 +1203,33 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4793,
-                        "ImageID": 4793,
+                        "ID": 4797,
+                        "ImageID": 4797,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4794,
-                        "ImageID": 4794,
+                        "ID": 4798,
+                        "ImageID": 4798,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4795,
-                        "ImageID": 4795,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4796,
-                        "ImageID": 4796,
+                        "ID": 4799,
+                        "ImageID": 4799,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 745,
-                        "momID": 3516,
-                        "ImageID": 1400745,
+                        "ID": 746,
+                        "momID": 4753,
+                        "ImageID": 1400746,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
@@ -39196,7 +39188,8 @@
                 "Height": 180,
                 "Weight": 60,
                 "Features": "万物之芳，群茵之赐！茉蕊儿极致蜕变，全新的草系精灵王者已然诞生！",
-                "mapID": 1290
+                "mapID": 1290,
+                "Target": 150081
             },
             {
                 "ID": 3614,
@@ -50899,6 +50892,39 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 113024
+            },
+            {
+                "ID": 4797,
+                "DefName": "极渊DS-001",
+                "Type": "邪灵 机械",
+                "Height": 72000,
+                "Weight": 130000000,
+                "Features": "沉眠于海洋星深海底的远古巨龙经由宇宙海盗改造成为了巨型兵器，其身体不断逸散着可怕的邪灵气息。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 150080
+            },
+            {
+                "ID": 4798,
+                "DefName": "霸颚鲛",
+                "Type": "水",
+                "Height": 1650,
+                "Weight": 12000,
+                "Features": "现任钢牙鲨族长的超进化形态。它受到深海古龙的咒术侵蚀，躯体开始向巨龙的形态转变，但最终凭借强大意志力与深海底火山带能量压制，顺利找回了自我。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/291"
+            },
+            {
+                "ID": 4799,
+                "DefName": "提玛拉",
+                "Type": "水 超能",
+                "Height": 156,
+                "Weight": 48,
+                "Features": "2025包月精灵，赫星童话之《潮汐之灵》，故事中一位名叫“提玛拉”的潮汐之灵，为了追寻自己的心愿，消失在了深海之中。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 350000
             }
         ]
     }

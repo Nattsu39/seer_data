@@ -7236,6 +7236,12 @@
                         "Threshold": 30,
                         "AchievementPoint": 10,
                         "SpeNameBonus": 538
+                    },
+                    {
+                        "ID": 31,
+                        "Threshold": 31,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 551
                     }
                 ],
                 "ID": 160,
@@ -7339,6 +7345,12 @@
                         "Threshold": 16,
                         "AchievementPoint": 10,
                         "SpeNameBonus": 548
+                    },
+                    {
+                        "ID": 17,
+                        "Threshold": 17,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 550
                     }
                 ],
                 "ID": 161,
@@ -7791,16 +7803,25 @@
                 "Desc": "精灵觉醒"
             },
             {
-                "Rule": {
-                    "ID": 1,
-                    "Threshold": 1,
-                    "AchievementPoint": 20,
-                    "SpeNameBonus": 536,
-                    "Desc": "真神挑战者"
-                },
+                "Rule": [
+                    {
+                        "ID": 1,
+                        "Threshold": 1,
+                        "AchievementPoint": 20,
+                        "SpeNameBonus": 536,
+                        "Desc": "真神挑战者"
+                    },
+                    {
+                        "ID": 2,
+                        "Threshold": 2,
+                        "AchievementPoint": 10,
+                        "SpeNameBonus": 552,
+                        "Desc": "比钢牙鲨更可怕"
+                    }
+                ],
                 "ID": 169,
                 "Type": 3,
-                "Desc": "谱尼·真神试炼"
+                "Desc": "高难挑战系列"
             },
             {
                 "Rule": [
