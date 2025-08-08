@@ -19514,6 +19514,23 @@
                     "Title": "量子回廊",
                     "Redirect": "module",
                     "Go": "app/UnityRemindPop"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3633,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250509,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
                 }
             ]
         },
@@ -59908,23 +59925,6 @@
                 },
                 {
                     "Details": {
-                        "mc": 1
-                    },
-                    "ID": 3633,
-                    "isNew": 1,
-                    "kinds": 1,
-                    "IsClassic": 0,
-                    "Type": 1,
-                    "Start": 20250509,
-                    "End": "*",
-                    "Map": 103,
-                    "Name": "契约召唤更新",
-                    "Title": "契约召唤更新",
-                    "Redirect": "map|module",
-                    "Go": "103;app/PartnerEffectResidentMainPanel"
-                },
-                {
-                    "Details": {
                         "mc": 2
                     },
                     "ID": 3648,
@@ -59939,6 +59939,23 @@
                     "Title": "S7浩海赛季",
                     "Redirect": "map|module",
                     "Go": "1095;app/PeakJihad2023MainPanel"
+                },
+                {
+                    "Details": {
+                        "mc": 1
+                    },
+                    "ID": 3649,
+                    "isNew": 1,
+                    "kinds": 1,
+                    "IsClassic": 0,
+                    "Type": 1,
+                    "Start": 20250808,
+                    "End": "*",
+                    "Map": 103,
+                    "Name": "契约召唤更新",
+                    "Title": "契约召唤更新",
+                    "Redirect": "map|module",
+                    "Go": "103;app/PartnerEffectResidentMainPanel"
                 },
                 {
                     "Details": {
@@ -60007,13 +60024,13 @@
                     "Go": "app/MarkMachine0707Panel"
                 }
             ],
-            "shopcenter": "2274:1,3647:3,3633:43,3612:44,3605:20,3589:51,3561:11,3518:14,3419:9,3420:10"
+            "shopcenter": "2274:1,3647:3,3649:43,3612:44,3605:20,3589:51,3561:11,3518:14,3419:9,3420:10"
         },
         "Final": {
             "Activity": [
                 {
                     "ID": "A01",
-                    "Start": 20250725,
+                    "Start": 20250808,
                     "End": 2025100910,
                     "Name": "最新活动",
                     "Title": "全新剧情",
@@ -60021,75 +60038,83 @@
                 },
                 {
                     "ID": "A02",
-                    "Start": 20250725,
+                    "Start": 20250808,
                     "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "PVE自动战斗",
+                    "Title": "表情包功能更新",
                     "Settop": 11
                 },
                 {
-                    "ID": "A04",
-                    "Start": 20250725,
-                    "End": 2025100910,
+                    "ID": "A03",
+                    "Start": 20250808,
+                    "End": 2025090510,
                     "Name": "最新活动",
-                    "Title": "精灵关卡快捷扫荡",
+                    "Title": "浪浪山打工计",
                     "Settop": 9
                 },
                 {
-                    "ID": "A06",
-                    "Start": 20250725,
-                    "End": 2025100910,
+                    "ID": "A04",
+                    "Start": 20250808,
+                    "End": 2025090510,
                     "Name": "最新活动",
-                    "Title": "厄孽提亚",
+                    "Title": "临渊羡画",
+                    "Settop": 8
+                },
+                {
+                    "ID": "A05",
+                    "Start": 20250808,
+                    "End": 2025090510,
+                    "Name": "最新活动",
+                    "Title": "穿越浪浪山",
                     "Settop": 7
                 },
                 {
-                    "ID": "A07",
-                    "Start": 20250725,
-                    "End": 2025100910,
+                    "ID": "A06",
+                    "Start": 20250808,
+                    "End": 2025090510,
                     "Name": "最新活动",
-                    "Title": "海底火山",
+                    "Title": "量子回廊",
                     "Settop": 6
                 },
                 {
-                    "ID": "A08",
-                    "Start": 20250725,
-                    "End": 2025080110,
+                    "ID": "A07",
+                    "Start": 20250808,
+                    "End": 2025081510,
                     "Name": "最新活动",
-                    "Title": "深海古龙的诅咒",
+                    "Title": "豪行江湖",
                     "Settop": 5
                 },
                 {
-                    "ID": "A09",
-                    "Start": 20250725,
-                    "End": 2025080810,
+                    "ID": "A08",
+                    "Start": 20250808,
+                    "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "劫掠风暴",
+                    "Title": "契约召唤更新",
                     "Settop": 4
                 },
                 {
-                    "ID": "A10",
-                    "Start": 20250725,
+                    "ID": "A09",
+                    "Start": 20250808,
                     "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "皮肤商城限时更新",
+                    "Title": "神觉·米斯蒂克",
                     "Settop": 3
                 },
                 {
-                    "ID": "A11",
-                    "Start": 20250725,
+                    "ID": "A10",
+                    "Start": 20250808,
                     "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "星河长明商店更新",
+                    "Title": "红莲之誓·安卡",
                     "Settop": 2
                 },
                 {
-                    "ID": "A12",
-                    "Start": 20250725,
+                    "ID": "A11",
+                    "Start": 20250808,
                     "End": 2025100910,
                     "Name": "最新活动",
-                    "Title": "精灵图鉴点亮计划",
-                    "Settop": 1
+                    "Title": "精灵遣返系统更新",
+                    "Settop": 10
                 }
             ]
         }

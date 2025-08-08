@@ -1,7 +1,12 @@
 {
-    "Signboard.json": {
-        "url": "http://seerh5.61.com/resource/config/json/Signboard_9ec9cfc4.json",
-        "filename": "Signboard.json",
+    "BuyPopup.json": {
+        "url": "http://seerh5.61.com/resource/config/json/BuyPopup_f70757d7.json",
+        "filename": "BuyPopup.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "suit.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/suit_1b936515.json",
+        "filename": "suit.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
@@ -9,19 +14,19 @@
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "diamond_free.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/diamond_free_b5c47a06.json",
-        "filename": "diamond_free.json",
+    "JackPotShop.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/JackPotShop_d409d466.json",
+        "filename": "JackPotShop.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "Wishsuit.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/Wishsuit_c6250900.json",
-        "filename": "Wishsuit.json",
+    "free_monster_list.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/free_monster_list_e3ed9f7f.json",
+        "filename": "free_monster_list.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "redbutton_temp.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/redbutton_temp_460e6399.json",
-        "filename": "redbutton_temp.json",
+    "chapterpoint.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/chapterpoint_66ac8884.json",
+        "filename": "chapterpoint.json",
         "exception": "ReadTimeout('timed out')"
     }
 }

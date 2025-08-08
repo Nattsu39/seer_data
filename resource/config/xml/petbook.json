@@ -1203,33 +1203,34 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4797,
-                        "ImageID": 4797,
+                        "ID": 4801,
+                        "ImageID": 4801,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4798,
-                        "ImageID": 4798,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4799,
-                        "ImageID": 4799,
+                        "ID": 4802,
+                        "ImageID": 4802,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 746,
-                        "momID": 4753,
-                        "ImageID": 1400746,
+                        "ID": 747,
+                        "momID": 4676,
+                        "ImageID": 1400747,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 748,
+                        "momID": 4421,
+                        "ImageID": 1400748,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
@@ -44963,7 +44964,8 @@
                 "Weight": 62,
                 "Features": "灵格星系的火之守护者，在永耀星坛重获新生，红莲之火将再次在这片大地上燃起！",
                 "Redirect": "map|module",
-                "Go": "1489;app/S86AnkaMainPanel"
+                "Go": "1489;app/S86AnkaMainPanel",
+                "Target": 150082
             },
             {
                 "ID": 4220,
@@ -49648,7 +49650,8 @@
                 "Weight": 93,
                 "Features": "过去的魔盒力量得到彻底解放，米斯蒂克以全新的姿态降临战场，精灵王者的力量将扭转整个战局！",
                 "Redirect": "map|module",
-                "Go": "1699;app/MisticSuperevolutionOutputMainPanel"
+                "Go": "1699;app/MisticSuperevolutionOutputMainPanel",
+                "Target": 150083
             },
             {
                 "ID": 4677,
@@ -50925,6 +50928,28 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 350000
+            },
+            {
+                "ID": 4801,
+                "DefName": "小猪妖",
+                "Type": "普通",
+                "Height": 150,
+                "Weight": 60,
+                "Features": "来自浪浪山的小妖怪。有着一颗成就大事业的心，扮演猪八戒，与同伴一齐踏上漫漫取经路。性格正直，决心要活成自己喜欢的样子。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113031
+            },
+            {
+                "ID": 4802,
+                "DefName": "蛤蟆精",
+                "Type": "水",
+                "Height": 130,
+                "Weight": 45,
+                "Features": "来自浪浪山的小妖怪。取经团队中最容易杞人忧天的一员，扮演唐僧，虽然没什么战斗力，但演技还是在线的，也有着勇敢的一面。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113032
             }
         ]
     }
