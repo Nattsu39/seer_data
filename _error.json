@@ -1,12 +1,17 @@
 {
-    "BuyPopup.json": {
-        "url": "http://seerh5.61.com/resource/config/json/BuyPopup_f70757d7.json",
-        "filename": "BuyPopup.json",
+    "exchange_clt.json": {
+        "url": "http://seerh5.61.com/resource/config/json/exchange_clt_72b78527.json",
+        "filename": "exchange_clt.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "suit.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/suit_1b936515.json",
-        "filename": "suit.json",
+    "fightTestStageConfig.json": {
+        "url": "http://seerh5.61.com/resource/config/json/fightTestStageConfig_31299a22.json",
+        "filename": "fightTestStageConfig.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "itemsTip.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/itemsTip_f71f3fa1.json",
+        "filename": "itemsTip.json",
         "exception": "ReadTimeout('timed out')"
     },
     "broadcast.json": {
@@ -14,19 +19,34 @@
         "filename": "broadcast.json",
         "exception": "HTTPStatusError(\"Client error '404 Not Found' for url 'http://seerh5.61.com/resource/config/xml/broadcast_9043c3d.json'\\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404\")"
     },
-    "JackPotShop.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/JackPotShop_d409d466.json",
-        "filename": "JackPotShop.json",
+    "newer_guide_h5.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/newer_guide_h5_a819da46.json",
+        "filename": "newer_guide_h5.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "free_monster_list.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/free_monster_list_e3ed9f7f.json",
-        "filename": "free_monster_list.json",
+    "modulesToRemove_0805.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/modulesToRemove_0805_7840e1d5.json",
+        "filename": "modulesToRemove_0805.json",
         "exception": "ReadTimeout('timed out')"
     },
-    "chapterpoint.json": {
-        "url": "http://seerh5.61.com/resource/config/xml/chapterpoint_66ac8884.json",
-        "filename": "chapterpoint.json",
+    "mapStarIntro.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/mapStarIntro_141ae3a2.json",
+        "filename": "mapStarIntro.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "AdventureStory_temp.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/AdventureStory_temp_b88fc0e2.json",
+        "filename": "AdventureStory_temp.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "Anniversary15shop.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/Anniversary15shop_ed4cc0c5.json",
+        "filename": "Anniversary15shop.json",
+        "exception": "ReadTimeout('timed out')"
+    },
+    "OneDayInHelka.json": {
+        "url": "http://seerh5.61.com/resource/config/xml/OneDayInHelka_93e77754.json",
+        "filename": "OneDayInHelka.json",
         "exception": "ReadTimeout('timed out')"
     }
 }

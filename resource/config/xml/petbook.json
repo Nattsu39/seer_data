@@ -1203,34 +1203,34 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4801,
-                        "ImageID": 4801,
+                        "ID": 4804,
+                        "ImageID": 4804,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4802,
-                        "ImageID": 4802,
+                        "ID": 4805,
+                        "ImageID": 4805,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 747,
-                        "momID": 4676,
-                        "ImageID": 1400747,
+                        "ID": 749,
+                        "momID": 4805,
+                        "ImageID": 1400749,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 748,
-                        "momID": 4421,
-                        "ImageID": 1400748,
+                        "ID": 750,
+                        "momID": 4069,
+                        "ImageID": 1400750,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
@@ -40333,7 +40333,8 @@
                 "Weight": 58,
                 "Features": "柔而有骨，无谓前路纷杂。善利万物，亦可白浪滔天。源泉之力神圣爆发，怒涛·沧岚，王者归来！",
                 "mapID": 1321,
-                "Label": "1,2"
+                "Label": "1,2",
+                "Target": 150084
             },
             {
                 "ID": 3741,
@@ -50933,8 +50934,8 @@
                 "ID": 4801,
                 "DefName": "小猪妖",
                 "Type": "普通",
-                "Height": 150,
-                "Weight": 60,
+                "Height": "不详",
+                "Weight": "不详",
                 "Features": "来自浪浪山的小妖怪。有着一颗成就大事业的心，扮演猪八戒，与同伴一齐踏上漫漫取经路。性格正直，决心要活成自己喜欢的样子。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
@@ -50944,12 +50945,34 @@
                 "ID": 4802,
                 "DefName": "蛤蟆精",
                 "Type": "水",
-                "Height": 130,
-                "Weight": 45,
+                "Height": "不详",
+                "Weight": "不详",
                 "Features": "来自浪浪山的小妖怪。取经团队中最容易杞人忧天的一员，扮演唐僧，虽然没什么战斗力，但演技还是在线的，也有着勇敢的一面。",
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 113032
+            },
+            {
+                "ID": 4804,
+                "DefName": "黄鼠狼精",
+                "Type": "地面",
+                "Height": "不详",
+                "Weight": "不详",
+                "Features": "来自浪浪山的小妖怪。虽然是个止不住嘴的话唠，但扮演沙和尚，如果实在憋不住想说话就会拼命磨铲子，和外表不一样，他还挺靠谱的。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113035
+            },
+            {
+                "ID": 4805,
+                "DefName": "黄眉怪",
+                "Type": "邪灵",
+                "Height": "不详",
+                "Weight": "不详",
+                "Features": "来自浪浪山的大妖怪。受弥勒佛之命于小雷音寺设计考验唐僧师徒，但因长生不老而起了歹念。心狠手辣，妖力超群，不是个简简单单就能对付的对手。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113033
             }
         ]
     }
