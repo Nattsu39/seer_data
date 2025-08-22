@@ -1203,34 +1203,16 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4804,
-                        "ImageID": 4804,
+                        "ID": 4803,
+                        "ImageID": 4803,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4805,
-                        "ImageID": 4805,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 749,
-                        "momID": 4805,
-                        "ImageID": 1400749,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 750,
-                        "momID": 4069,
-                        "ImageID": 1400750,
+                        "ID": 4806,
+                        "ImageID": 4806,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
@@ -38348,7 +38330,8 @@
                 "Height": 280,
                 "Weight": 150,
                 "Features": "蛮荒战歌悄然打响，千秋龙业百战成功！洪荒龙威震彻寰宇，新的王者已然诞生！",
-                "mapID": 1235
+                "mapID": 1235,
+                "Target": 150085
             },
             {
                 "ID": 3525,
@@ -50953,6 +50936,17 @@
                 "Target": 113032
             },
             {
+                "ID": 4803,
+                "DefName": "猩猩怪",
+                "Type": "战斗",
+                "Height": "不详",
+                "Weight": "不详",
+                "Features": "来自浪浪山的小妖怪。身形魁梧但胆子很小，扮演孙悟空，空有一身力气但没胆子使，但一旦认真起来战斗力可不低，总之就是潜力无穷。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113036
+            },
+            {
                 "ID": 4804,
                 "DefName": "黄鼠狼精",
                 "Type": "地面",
@@ -50973,6 +50967,17 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 113033
+            },
+            {
+                "ID": 4806,
+                "DefName": "虚骸龙灵",
+                "Type": "飞行 龙",
+                "Height": 255,
+                "Weight": 93,
+                "Features": "已死的龙，埋葬于龙墓，龙墓中以虚化的灵体重生，破坏的欲望让它对见到的一切发起攻击",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113037
             }
         ]
     }
