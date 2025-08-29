@@ -1203,20 +1203,60 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4803,
-                        "ImageID": 4803,
+                        "ID": 4807,
+                        "ImageID": 4807,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 0,
-                        "ID": 4806,
-                        "ImageID": 4806,
+                        "ID": 4808,
+                        "ImageID": 4808,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 0,
+                        "ID": 4809,
+                        "ImageID": 4809,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 751,
+                        "momID": 4589,
+                        "ImageID": 1400751,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 752,
+                        "momID": 4603,
+                        "ImageID": 1400752,
+                        "Label": 0,
+                        "Redirect": "module",
+                        "Go": "app/FinalActivityPanel"
+                    },
+                    {
+                        "type": 1,
+                        "ID": 753,
+                        "momID": 4798,
+                        "ImageID": 1400753,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     }
+                ],
+                "_text": [
+                    " -->\r\n\t  ",
+                    " -->\r\n\t  ",
+                    " -->\r\n      "
                 ],
                 "intro": "全新精灵上线，快来看看吧！"
             }
@@ -37935,7 +37975,8 @@
                 "Height": 190,
                 "Weight": 76,
                 "Features": "斗天武神瑞尔斯和盖亚一样接受了圣灵的力量，在对抗奥古斯特的过程中，他将成为最重要的战力之一！",
-                "mapID": 1
+                "mapID": 1,
+                "Target": 150086
             },
             {
                 "ID": 3483,
@@ -50542,7 +50583,7 @@
             {
                 "ID": 4766,
                 "DefName": "灭战神决·盖亚",
-                "Type": "战斗",
+                "Tyjumptargetpe": "战斗",
                 "Height": 185,
                 "Weight": 82,
                 "Features": "盖亚的千万自我重合为一，在时光之茧中获得了前所未有的极致突破。灭战神决·盖亚斗气雄浑，力拔山岳，他是永恒的战神，带给正义以希望。",
@@ -50978,6 +51019,39 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 113037
+            },
+            {
+                "ID": 4807,
+                "DefName": "黑石女妖",
+                "Type": "混沌 飞行",
+                "Height": 233,
+                "Weight": 124,
+                "Features": "误食了真心翡翠的鹰身女妖，力量获得了巨大的强化。栖息在黑石堤，为祸一方。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/303"
+            },
+            {
+                "ID": 4808,
+                "DefName": "讳迹·米修莉",
+                "Type": "神秘",
+                "Height": 170,
+                "Weight": 50,
+                "Features": "于暗夜中潜踪蹑迹的杀手，也是幽灵猫群的头目。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 113039
+            },
+            {
+                "ID": 4809,
+                "DefName": "薇丝珀",
+                "Type": "远古 草",
+                "Height": 162,
+                "Weight": 45,
+                "Features": "2025包月精灵，赫星童话之《奉献树》，故事讲述的是一棵树和一个小男孩一生的故事，然而这整个故事似乎都是某种隐喻。最终男孩消失不见，而树又去了哪里呢？",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": 350000
             }
         ]
     }
