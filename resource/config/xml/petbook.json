@@ -1203,57 +1203,24 @@
                 "place": [
                     {
                         "type": 0,
-                        "ID": 4807,
-                        "ImageID": 4807,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4808,
-                        "ImageID": 4808,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 0,
-                        "ID": 4809,
-                        "ImageID": 4809,
+                        "ID": 4810,
+                        "ImageID": 4810,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     },
                     {
                         "type": 1,
-                        "ID": 751,
-                        "momID": 4589,
-                        "ImageID": 1400751,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 752,
-                        "momID": 4603,
-                        "ImageID": 1400752,
-                        "Label": 0,
-                        "Redirect": "module",
-                        "Go": "app/FinalActivityPanel"
-                    },
-                    {
-                        "type": 1,
-                        "ID": 753,
-                        "momID": 4798,
-                        "ImageID": 1400753,
+                        "ID": 754,
+                        "momID": 4219,
+                        "ImageID": 1400754,
                         "Label": 0,
                         "Redirect": "module",
                         "Go": "app/FinalActivityPanel"
                     }
                 ],
                 "_text": [
+                    " -->\r\n      ",
                     " -->\r\n\t  ",
                     " -->\r\n\t  ",
                     " -->\r\n      "
@@ -39945,7 +39912,8 @@
                 "Height": 180,
                 "Weight": 90,
                 "Features": "凡尔斯的极致强化，属于空中的王者，身披正义之光再次归来！",
-                "mapID": 1311
+                "mapID": 1311,
+                "Target": 150087
             },
             {
                 "ID": 3698,
@@ -51052,6 +51020,17 @@
                 "Redirect": "module",
                 "Go": "app/FinalActivityPanel",
                 "Target": 350000
+            },
+            {
+                "ID": 4810,
+                "DefName": "瓦伦汀",
+                "Type": "超能",
+                "Height": 178,
+                "Weight": 50,
+                "Features": "来自洛林卡奥瑞亚斯诺瓦尔家族，以担任“出色的副手”一职为己任，力求成为大人物忠实的支援与后卫。",
+                "Redirect": "module",
+                "Go": "app/FinalActivityPanel",
+                "Target": "153201/308"
             }
         ]
     }

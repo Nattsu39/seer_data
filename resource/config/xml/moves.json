@@ -172710,7 +172710,7 @@
                     "Accuracy": 100,
                     "MustHit": 1,
                     "SideEffect": "816 433 43",
-                    "SideEffectArg": "3 0 1 0 1 1 0 2",
+                    "SideEffectArg": "1 3 0 1 0 1 1 0 2",
                     "Url": "pro_2",
                     "AtkType": 3,
                     "info": "反弹对手的攻击伤害；自身防御、特防、速度提升了；恢复自身体力"
@@ -177825,7 +177825,7 @@
                     "Accuracy": 100,
                     "MustHit": 1,
                     "SideEffect": "478 816 708",
-                    "SideEffectArg": "3 250 2",
+                    "SideEffectArg": "3 1 250 2",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "使对手属性技能无效；免疫并反弹对手下次造成的伤害；恢复自身体力"
@@ -188906,7 +188906,7 @@
                     "Accuracy": 100,
                     "MustHit": 1,
                     "SideEffect": "1187 816 191",
-                    "SideEffectArg": "80 6 4",
+                    "SideEffectArg": "80 6 1 4",
                     "Url": "pro_3",
                     "info": "有几率使对手害怕，未触发则消除对手回合类效果；免疫并反弹对手下次造成的伤害；免疫并反弹异常状态"
                 },
@@ -193330,7 +193330,7 @@
                     "Accuracy": 100,
                     "MustHit": 1,
                     "SideEffect": "191 816 843",
-                    "SideEffectArg": "4 2 2",
+                    "SideEffectArg": "4 1 2 2",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "开始免疫并反弹异常状态了；免疫并反弹对手下次攻击造成的伤害；出手变得更快了"
@@ -200054,7 +200054,7 @@
                     "Accuracy": 100,
                     "MustHit": 1,
                     "SideEffect": "816 1304 1067",
-                    "SideEffectArg": "2 30 4 3 2 3",
+                    "SideEffectArg": "1 2 30 4 3 2 3",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "免疫并反弹对手下次造成的伤害；自身攻击能力提高了；开始恢复一些体力了"
@@ -201387,7 +201387,7 @@
                     "Accuracy": 100,
                     "MustHit": 1,
                     "SideEffect": "191 922 816",
-                    "SideEffectArg": "4 4",
+                    "SideEffectArg": "4 4 1",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "开始免疫并反弹异常状态了；开始附加一些固定伤害了；免疫并反弹对手下次造成的伤害"
@@ -203403,7 +203403,7 @@
                     "Accuracy": 95,
                     "MustHit": 1,
                     "SideEffect": "191 47 816 1304",
-                    "SideEffectArg": "4 4 2 30",
+                    "SideEffectArg": "4 4 1 2 30",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "开始免疫并反弹异常状态和能力下降状态了；免疫并反弹对手下次造成的伤害；攻击开始忽略对手的双防值了"
@@ -208117,7 +208117,7 @@
                     "Accuracy": 95,
                     "MustHit": 1,
                     "SideEffect": "191 816 478 843",
-                    "SideEffectArg": "4 3 2 2",
+                    "SideEffectArg": "4 1 3 2 2",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "开始免疫并反弹异常状态了；免疫并反弹下次受到的伤害；使对手的属性技能无效；出手更快了"
@@ -216075,7 +216075,7 @@
                     "Accuracy": 95,
                     "MustHit": 1,
                     "SideEffect": "816 881 813 191 1239",
-                    "SideEffectArg": "4 1 2",
+                    "SideEffectArg": "1 4 1 2",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "免疫并反弹对手下次造成的伤害；将自身能力下降状态双倍反馈给对手；开始免疫并反弹异常状态了；恢复自身一定体力"
@@ -226640,7 +226640,7 @@
                     "Accuracy": 95,
                     "MustHit": 1,
                     "SideEffect": "191 1187 816",
-                    "SideEffectArg": "4 100 6",
+                    "SideEffectArg": "4 100 6 1",
                     "Url": "pro_3",
                     "AtkType": 3,
                     "info": "开始免疫并反弹异常状态了；以魔君使者之名审判对手，令对手陷入害怕状态且造成的攻击伤害也将被免疫并反弹"
@@ -238183,7 +238183,7 @@
                     "Accuracy": 95,
                     "MustHit": 1,
                     "SideEffect": "191 663 816",
-                    "SideEffectArg": "4 2 100 9",
+                    "SideEffectArg": "4 2 100 9 1",
                     "Url": "Pro_3",
                     "AtkType": 3,
                     "info": "开始免疫并反弹受到的异常状态了；受到了沙尘的保护；开始反弹下次受到的攻击伤害"
@@ -239546,6 +239546,36 @@
                     "Url": "Pro_3",
                     "AtkType": 3,
                     "info": "全属性开始提升了；能力提升状态得到了保护；出手变得更快了"
+                },
+                {
+                    "ID": 29131,
+                    "Name": "灰色记录",
+                    "Category": 4,
+                    "Type": 8,
+                    "Power": 0,
+                    "MaxPP": 5,
+                    "Accuracy": 95,
+                    "MustHit": 1,
+                    "SideEffect": "191 1284 727 960",
+                    "SideEffectArg": "4 2 2 100 6",
+                    "Url": "Pro_3",
+                    "AtkType": 3,
+                    "info": "开始免疫受到的异常状态了；先出手则令对手的属性技能开始无效；后出手时回返了能力等级；开始令对手感到害怕"
+                },
+                {
+                    "ID": 29132,
+                    "Name": "此间教诲",
+                    "Category": 4,
+                    "Type": 8,
+                    "Power": 0,
+                    "MaxPP": 5,
+                    "Accuracy": 95,
+                    "MustHit": 1,
+                    "SideEffect": "1856 597 843",
+                    "SideEffectArg": "1 4 3 2 2",
+                    "Url": "Pro_3",
+                    "AtkType": 3,
+                    "info": "全属性提升了；开始吸取对手的体力了；出手变得更快了"
                 },
                 {
                     "ID": 30001,
@@ -317765,7 +317795,7 @@
                     "Priority": 3,
                     "CritRate": 5,
                     "SideEffect": "1002 770 816",
-                    "SideEffectArg": 1,
+                    "SideEffectArg": "1 1",
                     "Url": "chaos_fight_1",
                     "AtkType": 3,
                     "info": "这里要么流汗，要么流血！"
@@ -339200,7 +339230,7 @@
                     "Power": 150,
                     "MaxPP": 5,
                     "Accuracy": 97,
-                    "SideEffect": "2319 1475 177",
+                    "SideEffect": "932 1475 177",
                     "SideEffectArg": "50 3 60 3 1",
                     "Url": "chaos_flying_2"
                 },
@@ -339305,6 +339335,44 @@
                     "SideEffect": "1681 1863 134",
                     "SideEffectArg": "1 300 10 1 300 1",
                     "Url": "ancient_grass_3"
+                },
+                {
+                    "ID": 38060,
+                    "Name": "宣陈",
+                    "Category": 2,
+                    "Type": 10,
+                    "Power": 85,
+                    "MaxPP": 20,
+                    "Accuracy": 97,
+                    "Priority": 3,
+                    "SideEffect": "916 1861",
+                    "SideEffectArg": "100 30",
+                    "Url": "psychic_1"
+                },
+                {
+                    "ID": 38061,
+                    "Name": "黑之教典",
+                    "Category": 2,
+                    "Type": 10,
+                    "Power": 150,
+                    "MaxPP": 5,
+                    "Accuracy": 97,
+                    "SideEffect": "1123 986 1050",
+                    "SideEffectArg": "1 2 50 1 100 6",
+                    "Url": "psychic_2"
+                },
+                {
+                    "ID": 38062,
+                    "Name": "银之弹丸",
+                    "Category": 2,
+                    "Type": 10,
+                    "Power": 160,
+                    "MaxPP": 5,
+                    "Accuracy": 95,
+                    "MustHit": 1,
+                    "SideEffect": "959 1189 185",
+                    "SideEffectArg": "1 300 6",
+                    "Url": "psychic_3"
                 },
                 {
                     "ID": 40001,

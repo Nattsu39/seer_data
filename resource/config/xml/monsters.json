@@ -451415,6 +451415,113 @@
                 "LearnableMoves": {
                     "Move": [
                         {
+                            "ID": 10499,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20491,
+                            "LearningLv": 5
+                        },
+                        {
+                            "ID": 10530,
+                            "LearningLv": 9
+                        },
+                        {
+                            "ID": 21153,
+                            "LearningLv": 13
+                        },
+                        {
+                            "ID": 11531,
+                            "LearningLv": 17
+                        },
+                        {
+                            "ID": 38060,
+                            "LearningLv": 21,
+                            "Rec": 1,
+                            "Tag": 1
+                        },
+                        {
+                            "ID": 21042,
+                            "LearningLv": 25
+                        },
+                        {
+                            "ID": 11025,
+                            "LearningLv": 29
+                        },
+                        {
+                            "ID": 22052,
+                            "LearningLv": 33
+                        },
+                        {
+                            "ID": 31899,
+                            "LearningLv": 37
+                        },
+                        {
+                            "ID": 26058,
+                            "LearningLv": 41
+                        },
+                        {
+                            "ID": 31900,
+                            "LearningLv": 45
+                        },
+                        {
+                            "ID": 29131,
+                            "LearningLv": 49,
+                            "Rec": 1,
+                            "Tag": 2
+                        },
+                        {
+                            "ID": 31901,
+                            "LearningLv": 53
+                        },
+                        {
+                            "ID": 29132,
+                            "LearningLv": 57,
+                            "Rec": 1,
+                            "Tag": 3
+                        },
+                        {
+                            "ID": 38061,
+                            "LearningLv": 61,
+                            "Rec": 1,
+                            "Tag": 4
+                        }
+                    ]
+                },
+                "ExtraMoves": {
+                    "Move": {
+                        "ID": 38062,
+                        "LearningLv": 76
+                    }
+                },
+                "ID": 4810,
+                "DefName": "瓦伦汀",
+                "Type": 10,
+                "GrowthType": 4,
+                "HP": 165,
+                "Atk": 70,
+                "Def": 112,
+                "SpAtk": 140,
+                "SpDef": 112,
+                "Spd": 136,
+                "YieldingExp": 140,
+                "CatchRate": 0,
+                "YieldingEV": "0 0 0 0 0 0",
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "Gender": 2,
+                "PetClass": 3471,
+                "FormParam": 0,
+                "CharacterAttrParam": 4,
+                "GradeParam": 4,
+                "AddSeParam": 1,
+                "Resist": 1
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
                             "ID": 10993,
                             "LearningLv": 1
                         },
@@ -451553,1014 +451660,6 @@
                 "GradeParam": 5,
                 "AddSeParam": 1,
                 "Resist": 1
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10759,
-                            "LearningLv": 1
-                        }
-                    ]
-                },
-                "ID": 5001,
-                "DefName": "塔克林",
-                "Type": 15,
-                "GrowthType": 5,
-                "HP": 130,
-                "Atk": 120,
-                "Def": 100,
-                "SpAtk": 95,
-                "SpDef": 80,
-                "Spd": 86,
-                "YieldingExp": 112,
-                "CatchRate": 0,
-                "YieldingEV": "1 0 1 0 0 0",
-                "EvolvesFrom": 273,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10006,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 20006,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 10166,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 10171,
-                            "LearningLv": 4
-                        },
-                        {
-                            "ID": 20004,
-                            "LearningLv": 5
-                        },
-                        {
-                            "ID": 10167,
-                            "LearningLv": 6
-                        },
-                        {
-                            "ID": 10172,
-                            "LearningLv": 7
-                        },
-                        {
-                            "ID": 20085,
-                            "LearningLv": 8
-                        },
-                        {
-                            "ID": 10010,
-                            "LearningLv": 9
-                        },
-                        {
-                            "ID": 10168,
-                            "LearningLv": 10
-                        },
-                        {
-                            "ID": 10173,
-                            "LearningLv": 11
-                        },
-                        {
-                            "ID": 10175,
-                            "LearningLv": 12
-                        },
-                        {
-                            "ID": 10169,
-                            "LearningLv": 13
-                        },
-                        {
-                            "ID": 10174,
-                            "LearningLv": 14
-                        },
-                        {
-                            "ID": 10824,
-                            "LearningLv": 15
-                        },
-                        {
-                            "ID": 10823,
-                            "LearningLv": 16
-                        },
-                        {
-                            "ID": 20363,
-                            "LearningLv": 17
-                        },
-                        {
-                            "ID": 10176,
-                            "LearningLv": 18
-                        }
-                    ]
-                },
-                "ID": 5002,
-                "DefName": "雷伊的分身",
-                "Type": 5,
-                "GrowthType": 4,
-                "HP": 71,
-                "Atk": 108,
-                "Def": 70,
-                "SpAtk": 101,
-                "SpDef": 77,
-                "Spd": 105,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 0 0 1",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 20338,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 10762,
-                            "LearningLv": 53
-                        },
-                        {
-                            "ID": 20339,
-                            "LearningLv": 57
-                        }
-                    ]
-                },
-                "ID": 5003,
-                "DefName": "机械塔克林",
-                "Type": 15,
-                "GrowthType": 5,
-                "HP": 130,
-                "Atk": 120,
-                "Def": 100,
-                "SpAtk": 95,
-                "SpDef": 80,
-                "Spd": 86,
-                "YieldingExp": 112,
-                "CatchRate": 0,
-                "YieldingEV": "1 0 1 0 0 0",
-                "EvolvesFrom": 273,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10018,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 20328,
-                            "LearningLv": 5
-                        },
-                        {
-                            "ID": 10054,
-                            "LearningLv": 9
-                        },
-                        {
-                            "ID": 11225,
-                            "LearningLv": 13
-                        },
-                        {
-                            "ID": 10473,
-                            "LearningLv": 17
-                        },
-                        {
-                            "ID": 20489,
-                            "LearningLv": 21
-                        },
-                        {
-                            "ID": 10630,
-                            "LearningLv": 25
-                        },
-                        {
-                            "ID": 11228,
-                            "LearningLv": 29
-                        },
-                        {
-                            "ID": 20550,
-                            "LearningLv": 33
-                        },
-                        {
-                            "ID": 11226,
-                            "LearningLv": 37
-                        },
-                        {
-                            "ID": 10633,
-                            "LearningLv": 41
-                        },
-                        {
-                            "ID": 20490,
-                            "LearningLv": 45
-                        },
-                        {
-                            "ID": 11045,
-                            "LearningLv": 49
-                        },
-                        {
-                            "ID": 11229,
-                            "LearningLv": 53
-                        },
-                        {
-                            "ID": 20355,
-                            "LearningLv": 57
-                        },
-                        {
-                            "ID": 11227,
-                            "LearningLv": 61
-                        },
-                        {
-                            "ID": 11230,
-                            "LearningLv": 65
-                        }
-                    ]
-                },
-                "ID": 5004,
-                "DefName": "阿尔达拉",
-                "Type": 31,
-                "GrowthType": 5,
-                "HP": 109,
-                "Atk": 110,
-                "Def": 82,
-                "SpAtk": 111,
-                "SpDef": 83,
-                "Spd": 95,
-                "YieldingExp": 130,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 1 0 0",
-                "EvolvesFrom": 461,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0,
-                "Vip": 1
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10825,
-                            "LearningLv": 1
-                        }
-                    ]
-                },
-                "ID": 5005,
-                "DefName": "雷伊的幻影",
-                "Type": 5,
-                "GrowthType": 4,
-                "HP": 71,
-                "Atk": 108,
-                "Def": 70,
-                "SpAtk": 101,
-                "SpDef": 77,
-                "Spd": 105,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 0 0 1",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11530,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 20485,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5006,
-                "DefName": "咤克斯的分身",
-                "Type": 13,
-                "GrowthType": 4,
-                "HP": 55,
-                "Atk": 51,
-                "Def": 41,
-                "SpAtk": 70,
-                "SpDef": 43,
-                "Spd": 45,
-                "YieldingExp": 70,
-                "CatchRate": 0,
-                "YieldingEV": "0 0 0 1 0 0",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10969,
-                            "LearningLv": 1
-                        }
-                    ]
-                },
-                "ID": 5007,
-                "DefName": "辛奇帕克",
-                "Type": 1,
-                "GrowthType": 4,
-                "HP": 125,
-                "Atk": 75,
-                "Def": 110,
-                "SpAtk": 90,
-                "SpDef": 117,
-                "Spd": 53,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "1 1 1 0 0 0",
-                "EvolvesFrom": 388,
-                "EvolvesTo": 0,
-                "EvolvingLv": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 1,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11660,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11661,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20819,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11662,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5008,
-                "DefName": "愤怒的化身",
-                "Type": 62,
-                "GrowthType": 4,
-                "HP": 120,
-                "Atk": 120,
-                "Def": 100,
-                "SpAtk": 120,
-                "SpDef": 100,
-                "Spd": 100,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "1 1 1 0 0 0",
-                "EvolvesFrom": 388,
-                "EvolvesTo": 0,
-                "EvolvingLv": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 1,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11660,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11661,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20819,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11662,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5009,
-                "DefName": "贪婪的化身",
-                "Type": 62,
-                "GrowthType": 4,
-                "HP": 120,
-                "Atk": 120,
-                "Def": 100,
-                "SpAtk": 120,
-                "SpDef": 100,
-                "Spd": 100,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "1 1 1 0 0 0",
-                "EvolvesFrom": 388,
-                "EvolvesTo": 0,
-                "EvolvingLv": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 1,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11660,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11661,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20819,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11662,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5010,
-                "DefName": "恐惧的化身",
-                "Type": 62,
-                "GrowthType": 4,
-                "HP": 120,
-                "Atk": 120,
-                "Def": 100,
-                "SpAtk": 120,
-                "SpDef": 100,
-                "Spd": 100,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "1 1 1 0 0 0",
-                "EvolvesFrom": 388,
-                "EvolvesTo": 0,
-                "EvolvingLv": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 1,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11660,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11661,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20819,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11662,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5011,
-                "DefName": "咤克斯",
-                "Type": 62,
-                "GrowthType": 4,
-                "HP": 120,
-                "Atk": 120,
-                "Def": 100,
-                "SpAtk": 120,
-                "SpDef": 100,
-                "Spd": 100,
-                "YieldingExp": 120,
-                "CatchRate": 0,
-                "YieldingEV": "1 1 1 0 0 0",
-                "EvolvesFrom": 388,
-                "EvolvesTo": 0,
-                "EvolvingLv": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 1,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11668,
-                            "LearningLv": 1
-                        }
-                    ]
-                },
-                "ID": 5012,
-                "DefName": "亚伦斯",
-                "Type": 46,
-                "GrowthType": 4,
-                "HP": 130,
-                "Atk": 84,
-                "Def": 80,
-                "SpAtk": 116,
-                "SpDef": 82,
-                "Spd": 98,
-                "YieldingExp": 130,
-                "CatchRate": 0,
-                "YieldingEV": "0 0 0 2 0 0",
-                "EvolvesFrom": 671,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "Gender": 1,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 20475,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11711,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20853,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11713,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5013,
-                "DefName": "泰格尔",
-                "Type": 5,
-                "GrowthType": 5,
-                "HP": 131,
-                "Atk": 120,
-                "Def": 97,
-                "SpAtk": 120,
-                "SpDef": 93,
-                "Spd": 94,
-                "YieldingExp": 150,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 1 0 0",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11710,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 20853,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20854,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11714,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5014,
-                "DefName": "泰格尔",
-                "Type": 11,
-                "GrowthType": 5,
-                "HP": 131,
-                "Atk": 120,
-                "Def": 97,
-                "SpAtk": 120,
-                "SpDef": 93,
-                "Spd": 94,
-                "YieldingExp": 150,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 1 0 0",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 11710,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 20853,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20854,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11714,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5015,
-                "DefName": "泰格尔",
-                "Type": 11,
-                "GrowthType": 5,
-                "HP": 131,
-                "Atk": 120,
-                "Def": 97,
-                "SpAtk": 120,
-                "SpDef": 93,
-                "Spd": 94,
-                "YieldingExp": 150,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 1 0 0",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 20475,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11711,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 20853,
-                            "LearningLv": 3
-                        },
-                        {
-                            "ID": 11713,
-                            "LearningLv": 4
-                        }
-                    ]
-                },
-                "ID": 5016,
-                "DefName": "泰格尔",
-                "Type": 5,
-                "GrowthType": 5,
-                "HP": 131,
-                "Atk": 120,
-                "Def": 97,
-                "SpAtk": 120,
-                "SpDef": 93,
-                "Spd": 94,
-                "YieldingExp": 150,
-                "CatchRate": 0,
-                "YieldingEV": "0 1 0 1 0 0",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10006,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 20006,
-                            "LearningLv": 4
-                        },
-                        {
-                            "ID": 10166,
-                            "LearningLv": 8
-                        },
-                        {
-                            "ID": 10171,
-                            "LearningLv": 12
-                        },
-                        {
-                            "ID": 20004,
-                            "LearningLv": 16
-                        },
-                        {
-                            "ID": 10167,
-                            "LearningLv": 20
-                        },
-                        {
-                            "ID": 10172,
-                            "LearningLv": 24
-                        },
-                        {
-                            "ID": 20085,
-                            "LearningLv": 28
-                        },
-                        {
-                            "ID": 10010,
-                            "LearningLv": 32
-                        },
-                        {
-                            "ID": 10168,
-                            "LearningLv": 36
-                        },
-                        {
-                            "ID": 10173,
-                            "LearningLv": 40
-                        },
-                        {
-                            "ID": 20086,
-                            "LearningLv": 43
-                        },
-                        {
-                            "ID": 10169,
-                            "LearningLv": 47
-                        },
-                        {
-                            "ID": 10174,
-                            "LearningLv": 51
-                        },
-                        {
-                            "ID": 10170,
-                            "LearningLv": 55
-                        },
-                        {
-                            "ID": 20087,
-                            "LearningLv": 60
-                        },
-                        {
-                            "ID": 10175,
-                            "LearningLv": 64
-                        },
-                        {
-                            "ID": 10176,
-                            "LearningLv": 70
-                        }
-                    ],
-                    "SpMove": [
-                        {
-                            "ID": 10823
-                        },
-                        {
-                            "ID": 10824
-                        },
-                        {
-                            "ID": 10825
-                        },
-                        {
-                            "ID": 20363
-                        },
-                        {
-                            "ID": 20364
-                        },
-                        {
-                            "ID": 13582
-                        },
-                        {
-                            "ID": 13583
-                        },
-                        {
-                            "ID": 13584
-                        },
-                        {
-                            "ID": 13585
-                        }
-                    ]
-                },
-                "ID": 5017,
-                "DefName": "雷伊",
-                "Type": 5,
-                "GrowthType": 4,
-                "HP": 71,
-                "Atk": 108,
-                "Def": 70,
-                "SpAtk": 101,
-                "SpDef": 77,
-                "Spd": 105,
-                "YieldingExp": 120,
-                "CatchRate": 45,
-                "YieldingEV": "0 1 0 0 0 1",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 0,
-                "Gender": 1,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 5,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10001,
-                            "LearningLv": 1
-                        }
-                    ]
-                },
-                "ID": 5018,
-                "DefName": "卡茨",
-                "Type": 42,
-                "GrowthType": 4,
-                "HP": 71,
-                "Atk": 108,
-                "Def": 70,
-                "SpAtk": 101,
-                "SpDef": 77,
-                "Spd": 105,
-                "YieldingExp": 120,
-                "CatchRate": 45,
-                "YieldingEV": "0 1 0 0 0 1",
-                "EvolvesFrom": 0,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 1,
-                "FuseSub": 0,
-                "Gender": 1,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10632,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11139,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 11140,
-                            "LearningLv": 3
-                        }
-                    ]
-                },
-                "ID": 5019,
-                "DefName": "厄尔塞拉",
-                "Type": 12,
-                "GrowthType": 5,
-                "HP": 102,
-                "Atk": 79,
-                "Def": 91,
-                "SpAtk": 112,
-                "SpDef": 94,
-                "Spd": 103,
-                "YieldingExp": 130,
-                "CatchRate": 0,
-                "YieldingEV": "0 0 0 3 0 0",
-                "EvolvesFrom": 420,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
-            },
-            {
-                "LearnableMoves": {
-                    "Move": [
-                        {
-                            "ID": 10632,
-                            "LearningLv": 1
-                        },
-                        {
-                            "ID": 11139,
-                            "LearningLv": 2
-                        },
-                        {
-                            "ID": 11140,
-                            "LearningLv": 3
-                        }
-                    ]
-                },
-                "ID": 5020,
-                "DefName": "海盗杂兵",
-                "Type": 12,
-                "GrowthType": 5,
-                "HP": 102,
-                "Atk": 79,
-                "Def": 91,
-                "SpAtk": 112,
-                "SpDef": 94,
-                "Spd": 103,
-                "YieldingExp": 130,
-                "CatchRate": 0,
-                "YieldingEV": "0 0 0 3 0 0",
-                "EvolvesFrom": 420,
-                "EvolvesTo": 0,
-                "FreeForbidden": 1,
-                "FuseMaster": 0,
-                "FuseSub": 0,
-                "Gender": 2,
-                "FormParam": 0,
-                "CharacterAttrParam": 0,
-                "GradeParam": 0,
-                "AddSeParam": 0
             },
             {
                 "LearnableMoves": {
@@ -505707,6 +504806,1025 @@
                 "Resist": 1
             },
             {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10759,
+                            "LearningLv": 1
+                        }
+                    ]
+                },
+                "ID": 5001,
+                "DefName": "塔克林",
+                "Type": 15,
+                "GrowthType": 5,
+                "HP": 130,
+                "Atk": 120,
+                "Def": 100,
+                "SpAtk": 95,
+                "SpDef": 80,
+                "Spd": 86,
+                "YieldingExp": 112,
+                "CatchRate": 0,
+                "YieldingEV": "1 0 1 0 0 0",
+                "EvolvesFrom": 273,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 274
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10006,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20006,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 10166,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 10171,
+                            "LearningLv": 4
+                        },
+                        {
+                            "ID": 20004,
+                            "LearningLv": 5
+                        },
+                        {
+                            "ID": 10167,
+                            "LearningLv": 6
+                        },
+                        {
+                            "ID": 10172,
+                            "LearningLv": 7
+                        },
+                        {
+                            "ID": 20085,
+                            "LearningLv": 8
+                        },
+                        {
+                            "ID": 10010,
+                            "LearningLv": 9
+                        },
+                        {
+                            "ID": 10168,
+                            "LearningLv": 10
+                        },
+                        {
+                            "ID": 10173,
+                            "LearningLv": 11
+                        },
+                        {
+                            "ID": 10175,
+                            "LearningLv": 12
+                        },
+                        {
+                            "ID": 10169,
+                            "LearningLv": 13
+                        },
+                        {
+                            "ID": 10174,
+                            "LearningLv": 14
+                        },
+                        {
+                            "ID": 10824,
+                            "LearningLv": 15
+                        },
+                        {
+                            "ID": 10823,
+                            "LearningLv": 16
+                        },
+                        {
+                            "ID": 20363,
+                            "LearningLv": 17
+                        },
+                        {
+                            "ID": 10176,
+                            "LearningLv": 18
+                        }
+                    ]
+                },
+                "ID": 5002,
+                "DefName": "雷伊的分身",
+                "Type": 5,
+                "GrowthType": 4,
+                "HP": 71,
+                "Atk": 108,
+                "Def": 70,
+                "SpAtk": 101,
+                "SpDef": 77,
+                "Spd": 105,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 0 0 1",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 70
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 20338,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 10762,
+                            "LearningLv": 53
+                        },
+                        {
+                            "ID": 20339,
+                            "LearningLv": 57
+                        }
+                    ]
+                },
+                "ID": 5003,
+                "DefName": "机械塔克林",
+                "Type": 15,
+                "GrowthType": 5,
+                "HP": 130,
+                "Atk": 120,
+                "Def": 100,
+                "SpAtk": 95,
+                "SpDef": 80,
+                "Spd": 86,
+                "YieldingExp": 112,
+                "CatchRate": 0,
+                "YieldingEV": "1 0 1 0 0 0",
+                "EvolvesFrom": 273,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10018,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20328,
+                            "LearningLv": 5
+                        },
+                        {
+                            "ID": 10054,
+                            "LearningLv": 9
+                        },
+                        {
+                            "ID": 11225,
+                            "LearningLv": 13
+                        },
+                        {
+                            "ID": 10473,
+                            "LearningLv": 17
+                        },
+                        {
+                            "ID": 20489,
+                            "LearningLv": 21
+                        },
+                        {
+                            "ID": 10630,
+                            "LearningLv": 25
+                        },
+                        {
+                            "ID": 11228,
+                            "LearningLv": 29
+                        },
+                        {
+                            "ID": 20550,
+                            "LearningLv": 33
+                        },
+                        {
+                            "ID": 11226,
+                            "LearningLv": 37
+                        },
+                        {
+                            "ID": 10633,
+                            "LearningLv": 41
+                        },
+                        {
+                            "ID": 20490,
+                            "LearningLv": 45
+                        },
+                        {
+                            "ID": 11045,
+                            "LearningLv": 49
+                        },
+                        {
+                            "ID": 11229,
+                            "LearningLv": 53
+                        },
+                        {
+                            "ID": 20355,
+                            "LearningLv": 57
+                        },
+                        {
+                            "ID": 11227,
+                            "LearningLv": 61
+                        },
+                        {
+                            "ID": 11230,
+                            "LearningLv": 65
+                        }
+                    ]
+                },
+                "ID": 5004,
+                "DefName": "阿尔达拉",
+                "Type": 31,
+                "GrowthType": 5,
+                "HP": 109,
+                "Atk": 110,
+                "Def": 82,
+                "SpAtk": 111,
+                "SpDef": 83,
+                "Spd": 95,
+                "YieldingExp": 130,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 1 0 0",
+                "EvolvesFrom": 461,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "Vip": 1
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10825,
+                            "LearningLv": 1
+                        }
+                    ]
+                },
+                "ID": 5005,
+                "DefName": "雷伊的幻影",
+                "Type": 5,
+                "GrowthType": 4,
+                "HP": 71,
+                "Atk": 108,
+                "Def": 70,
+                "SpAtk": 101,
+                "SpDef": 77,
+                "Spd": 105,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 0 0 1",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11530,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20485,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5006,
+                "DefName": "咤克斯的分身",
+                "Type": 13,
+                "GrowthType": 4,
+                "HP": 55,
+                "Atk": 51,
+                "Def": 41,
+                "SpAtk": 70,
+                "SpDef": 43,
+                "Spd": 45,
+                "YieldingExp": 70,
+                "CatchRate": 0,
+                "YieldingEV": "0 0 0 1 0 0",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10969,
+                            "LearningLv": 1
+                        }
+                    ]
+                },
+                "ID": 5007,
+                "DefName": "辛奇帕克",
+                "Type": 1,
+                "GrowthType": 4,
+                "HP": 125,
+                "Atk": 75,
+                "Def": 110,
+                "SpAtk": 90,
+                "SpDef": 117,
+                "Spd": 53,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "1 1 1 0 0 0",
+                "EvolvesFrom": 388,
+                "EvolvesTo": 0,
+                "EvolvingLv": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 1,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 389
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11660,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11661,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20819,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11662,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5008,
+                "DefName": "愤怒的化身",
+                "Type": 62,
+                "GrowthType": 4,
+                "HP": 120,
+                "Atk": 120,
+                "Def": 100,
+                "SpAtk": 120,
+                "SpDef": 100,
+                "Spd": 100,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "1 1 1 0 0 0",
+                "EvolvesFrom": 388,
+                "EvolvesTo": 0,
+                "EvolvingLv": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 1,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11660,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11661,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20819,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11662,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5009,
+                "DefName": "贪婪的化身",
+                "Type": 62,
+                "GrowthType": 4,
+                "HP": 120,
+                "Atk": 120,
+                "Def": 100,
+                "SpAtk": 120,
+                "SpDef": 100,
+                "Spd": 100,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "1 1 1 0 0 0",
+                "EvolvesFrom": 388,
+                "EvolvesTo": 0,
+                "EvolvingLv": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 1,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11660,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11661,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20819,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11662,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5010,
+                "DefName": "恐惧的化身",
+                "Type": 62,
+                "GrowthType": 4,
+                "HP": 120,
+                "Atk": 120,
+                "Def": 100,
+                "SpAtk": 120,
+                "SpDef": 100,
+                "Spd": 100,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "1 1 1 0 0 0",
+                "EvolvesFrom": 388,
+                "EvolvesTo": 0,
+                "EvolvingLv": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 1,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11660,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11661,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20819,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11662,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5011,
+                "DefName": "咤克斯",
+                "Type": 62,
+                "GrowthType": 4,
+                "HP": 120,
+                "Atk": 120,
+                "Def": 100,
+                "SpAtk": 120,
+                "SpDef": 100,
+                "Spd": 100,
+                "YieldingExp": 120,
+                "CatchRate": 0,
+                "YieldingEV": "1 1 1 0 0 0",
+                "EvolvesFrom": 388,
+                "EvolvesTo": 0,
+                "EvolvingLv": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 1,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11668,
+                            "LearningLv": 1
+                        }
+                    ]
+                },
+                "ID": 5012,
+                "DefName": "亚伦斯",
+                "Type": 46,
+                "GrowthType": 4,
+                "HP": 130,
+                "Atk": 84,
+                "Def": 80,
+                "SpAtk": 116,
+                "SpDef": 82,
+                "Spd": 98,
+                "YieldingExp": 130,
+                "CatchRate": 0,
+                "YieldingEV": "0 0 0 2 0 0",
+                "EvolvesFrom": 671,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "Gender": 1,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 672
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 20475,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11711,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20853,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11713,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5013,
+                "DefName": "泰格尔",
+                "Type": 5,
+                "GrowthType": 5,
+                "HP": 131,
+                "Atk": 120,
+                "Def": 97,
+                "SpAtk": 120,
+                "SpDef": 93,
+                "Spd": 94,
+                "YieldingExp": 150,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 1 0 0",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 503
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11710,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20853,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20854,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11714,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5014,
+                "DefName": "泰格尔",
+                "Type": 11,
+                "GrowthType": 5,
+                "HP": 131,
+                "Atk": 120,
+                "Def": 97,
+                "SpAtk": 120,
+                "SpDef": 93,
+                "Spd": 94,
+                "YieldingExp": 150,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 1 0 0",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 503
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 11710,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20853,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20854,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11714,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5015,
+                "DefName": "泰格尔",
+                "Type": 11,
+                "GrowthType": 5,
+                "HP": 131,
+                "Atk": 120,
+                "Def": 97,
+                "SpAtk": 120,
+                "SpDef": 93,
+                "Spd": 94,
+                "YieldingExp": 150,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 1 0 0",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 503
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 20475,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11711,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 20853,
+                            "LearningLv": 3
+                        },
+                        {
+                            "ID": 11713,
+                            "LearningLv": 4
+                        }
+                    ]
+                },
+                "ID": 5016,
+                "DefName": "泰格尔",
+                "Type": 5,
+                "GrowthType": 5,
+                "HP": 131,
+                "Atk": 120,
+                "Def": 97,
+                "SpAtk": 120,
+                "SpDef": 93,
+                "Spd": 94,
+                "YieldingExp": 150,
+                "CatchRate": 0,
+                "YieldingEV": "0 1 0 1 0 0",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 503
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10006,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 20006,
+                            "LearningLv": 4
+                        },
+                        {
+                            "ID": 10166,
+                            "LearningLv": 8
+                        },
+                        {
+                            "ID": 10171,
+                            "LearningLv": 12
+                        },
+                        {
+                            "ID": 20004,
+                            "LearningLv": 16
+                        },
+                        {
+                            "ID": 10167,
+                            "LearningLv": 20
+                        },
+                        {
+                            "ID": 10172,
+                            "LearningLv": 24
+                        },
+                        {
+                            "ID": 20085,
+                            "LearningLv": 28
+                        },
+                        {
+                            "ID": 10010,
+                            "LearningLv": 32
+                        },
+                        {
+                            "ID": 10168,
+                            "LearningLv": 36
+                        },
+                        {
+                            "ID": 10173,
+                            "LearningLv": 40
+                        },
+                        {
+                            "ID": 20086,
+                            "LearningLv": 43
+                        },
+                        {
+                            "ID": 10169,
+                            "LearningLv": 47
+                        },
+                        {
+                            "ID": 10174,
+                            "LearningLv": 51
+                        },
+                        {
+                            "ID": 10170,
+                            "LearningLv": 55
+                        },
+                        {
+                            "ID": 20087,
+                            "LearningLv": 60
+                        },
+                        {
+                            "ID": 10175,
+                            "LearningLv": 64
+                        },
+                        {
+                            "ID": 10176,
+                            "LearningLv": 70
+                        }
+                    ],
+                    "SpMove": [
+                        {
+                            "ID": 10823
+                        },
+                        {
+                            "ID": 10824
+                        },
+                        {
+                            "ID": 10825
+                        },
+                        {
+                            "ID": 20363
+                        },
+                        {
+                            "ID": 20364
+                        },
+                        {
+                            "ID": 13582
+                        },
+                        {
+                            "ID": 13583
+                        },
+                        {
+                            "ID": 13584
+                        },
+                        {
+                            "ID": 13585
+                        }
+                    ]
+                },
+                "ID": 5017,
+                "DefName": "雷伊",
+                "Type": 5,
+                "GrowthType": 4,
+                "HP": 71,
+                "Atk": 108,
+                "Def": 70,
+                "SpAtk": 101,
+                "SpDef": 77,
+                "Spd": 105,
+                "YieldingExp": 120,
+                "CatchRate": 45,
+                "YieldingEV": "0 1 0 0 0 1",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 0,
+                "Gender": 1,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 5,
+                "AddSeParam": 0,
+                "RealId": 70
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10001,
+                            "LearningLv": 1
+                        }
+                    ]
+                },
+                "ID": 5018,
+                "DefName": "卡茨",
+                "Type": 42,
+                "GrowthType": 4,
+                "HP": 71,
+                "Atk": 108,
+                "Def": 70,
+                "SpAtk": 101,
+                "SpDef": 77,
+                "Spd": 105,
+                "YieldingExp": 120,
+                "CatchRate": 45,
+                "YieldingEV": "0 1 0 0 0 1",
+                "EvolvesFrom": 0,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 1,
+                "FuseSub": 0,
+                "Gender": 1,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 796
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10632,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11139,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 11140,
+                            "LearningLv": 3
+                        }
+                    ]
+                },
+                "ID": 5019,
+                "DefName": "厄尔塞拉",
+                "Type": 12,
+                "GrowthType": 5,
+                "HP": 102,
+                "Atk": 79,
+                "Def": 91,
+                "SpAtk": 112,
+                "SpDef": 94,
+                "Spd": 103,
+                "YieldingExp": 130,
+                "CatchRate": 0,
+                "YieldingEV": "0 0 0 3 0 0",
+                "EvolvesFrom": 420,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0,
+                "RealId": 421
+            },
+            {
+                "LearnableMoves": {
+                    "Move": [
+                        {
+                            "ID": 10632,
+                            "LearningLv": 1
+                        },
+                        {
+                            "ID": 11139,
+                            "LearningLv": 2
+                        },
+                        {
+                            "ID": 11140,
+                            "LearningLv": 3
+                        }
+                    ]
+                },
+                "ID": 5020,
+                "DefName": "海盗杂兵",
+                "Type": 12,
+                "GrowthType": 5,
+                "HP": 102,
+                "Atk": 79,
+                "Def": 91,
+                "SpAtk": 112,
+                "SpDef": 94,
+                "Spd": 103,
+                "YieldingExp": 130,
+                "CatchRate": 0,
+                "YieldingEV": "0 0 0 3 0 0",
+                "EvolvesFrom": 420,
+                "EvolvesTo": 0,
+                "FreeForbidden": 1,
+                "FuseMaster": 0,
+                "FuseSub": 0,
+                "Gender": 2,
+                "FormParam": 0,
+                "CharacterAttrParam": 0,
+                "GradeParam": 0,
+                "AddSeParam": 0
+            },
+            {
                 "ID": 1300067,
                 "DefName": "红色闪电",
                 "nameY": -50,
@@ -509193,6 +509311,10 @@
                 "ID": 1400753,
                 "DefName": "钢牙鲨",
                 "RealId": 34
+            },
+            {
+                "ID": 1400754,
+                "DefName": "汐梦·安卡"
             }
         ]
     }
